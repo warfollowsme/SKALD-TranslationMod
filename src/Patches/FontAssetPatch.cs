@@ -79,11 +79,11 @@ namespace TranslationMod.Patches
         }
 
         /// <summary>
-        /// Добавляет кастомную текстуру в игровой буфер через рефлексию
+        /// Adds custom texture to game buffer via reflection
         /// </summary>
-        /// <param name="path">Путь к оригинальному файлу</param>
-        /// <param name="textureData">Данные кастомной текстуры</param>
-        /// <returns>true если успешно добавлено в буфер</returns>
+        /// <param name="path">Path to original file</param>
+        /// <param name="textureData">Custom texture data</param>
+        /// <returns>true if successfully added to buffer</returns>
         private static bool AddTextureToGameBuffer(string path, TextureTools.TextureData textureData)
         {
             try
@@ -125,7 +125,7 @@ namespace TranslationMod.Patches
         }
 
         /// <summary>
-        /// Принудительная загрузка всех целевых шрифтов в буфер при инициализации.
+        /// Force loading of all target fonts into buffer during initialization.
         /// </summary>
         private static void PreloadFonts()
         {

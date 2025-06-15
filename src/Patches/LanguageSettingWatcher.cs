@@ -13,7 +13,7 @@ namespace TranslationMod.Patches
         private static bool _processing = false;
 
         /// <summary>
-        /// Устанавливаем целевые методы для патчей
+        /// Set target methods for patches
         /// </summary>
         [HarmonyTargetMethods]
         public static IEnumerable<MethodBase> TargetMethods()

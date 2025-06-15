@@ -10,8 +10,8 @@ using TranslationMod.Configuration;
 namespace TranslationMod.Patches
 {
     /// <summary>
-    /// Harmony-патч, перехватывающий UITextBlock.setContent(string)
-    /// и вставляющий переведённый текст.
+    /// Harmony patch intercepting UITextBlock.setContent(string)
+    /// and inserting translated text.
     /// </summary>
     [HarmonyPatch(typeof(UITextBlock), nameof(UITextBlock.setContent), new[] { typeof(string) })]
     public static class UITextBlockSetContentPatch
@@ -49,7 +49,7 @@ namespace TranslationMod.Patches
                 
                 _missingKeysFilePath = GetMissingKeysFilePath();
                 
-                // Инициализируем буферный словарь переводов
+                // Initialize translation buffer dictionary
                 TranslationMod.Logger?.LogInfo("Translation cache initialized and ready");
             }
 
@@ -60,7 +60,7 @@ namespace TranslationMod.Patches
             {
                 if (string.IsNullOrEmpty(input)) return input;
 
-                // Проверяем буферный словарь переведенных строк
+                // Check translation buffer dictionary
                 lock (_lockObject)
                 {
                     if (_translationCache.TryGetValue(input, out string cachedResult))
@@ -77,10 +77,10 @@ namespace TranslationMod.Patches
 
                 try
                 {
-                    // Используем GameTextParser для разбивки текста на части
+                    // Use GameTextParser to split text into parts
                     var sentences = GameTextParser.Parse(input);
                     
-                    // Создаем шаблон из оригинального input
+                    // Create template from original input
                     var template = CreateTemplate(input, sentences);
                     
                     var translatedSentences = new List<string>();
@@ -103,7 +103,7 @@ namespace TranslationMod.Patches
                         TranslationMod.Logger?.LogInfo($"Template: '{template}'");
                     }
 
-                    // Применяем переведенные предложения к шаблону
+                    // Apply translated sentences to template
                     var result = ApplyTemplate(template, translatedSentences);
 
                     // Сохраняем результат в буферный словарь
@@ -157,7 +157,7 @@ namespace TranslationMod.Patches
 
 
 
-            /// <summary>Сохраняет не найденный ключ в файл need_translate.csv</summary>
+            /// <summary>Saves missing key to need_translate.csv file</summary>
             private void SaveMissingKey(string key)
             {
                 if (string.IsNullOrEmpty(key) || string.IsNullOrEmpty(_missingKeysFilePath)) 
@@ -198,7 +198,7 @@ namespace TranslationMod.Patches
                 }
             }
 
-            /// <summary>Получает путь к файлу need_translate.csv</summary>
+            /// <summary>Gets path to need_translate.csv file</summary>
             private static string GetMissingKeysFilePath()
             {
                 var currentLanguagePack = LanguageManager.GetCurrentLanguagePack();
@@ -211,7 +211,7 @@ namespace TranslationMod.Patches
                 return Path.Combine(languagePackDirectory, "need_translate.csv");
             }
 
-            /// <summary>Экранирует значение для CSV формата</summary>
+            /// <summary>Escapes value for CSV format</summary>
             private static string EscapeCsvValue(string value)
             {
                 if (string.IsNullOrEmpty(value)) return value;
@@ -227,11 +227,11 @@ namespace TranslationMod.Patches
             }
 
             /// <summary>
-            /// Создает шаблон из оригинального input, заменяя найденные предложения на плейсхолдеры {0}, {1}, {2} и т.д.
-            /// </summary>
-            /// <param name="input">Оригинальная строка</param>
-            /// <param name="sentences">Список предложений, найденных в строке</param>
-            /// <returns>Шаблон с плейсхолдерами</returns>
+                /// Creates template from original input, replacing found sentences with placeholders {0}, {1}, {2}, etc.
+    /// </summary>
+    /// <param name="input">Original string</param>
+    /// <param name="sentences">List of sentences found in string</param>
+    /// <returns>Template with placeholders</returns>
             private static string CreateTemplate(string input, List<string> sentences)
             {
                 if (string.IsNullOrEmpty(input) || sentences == null || sentences.Count == 0)

@@ -6,14 +6,14 @@ namespace TranslationMod.Configuration
     {
         private readonly ConfigFile _configFile;
         
-        // Путь к папке с языковыми пакетами
+        // Path to language packs folder
         public ConfigEntry<string> LanguagePacksPath { get; private set; }
 
         public PluginConfig(ConfigFile configFile)
         {
             _configFile = configFile;
 
-            // Путь к языковым пакетам
+            // Path to language packs
             LanguagePacksPath = _configFile.Bind(
                 ConfigKeys.GeneralSection, 
                 "LanguagePacksPath", 

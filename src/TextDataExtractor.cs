@@ -8,19 +8,19 @@ using UnityEngine;
 
 public static class TextDataExtractor
 {
-    // HashSet для отслеживания уже обработанных строк (предотвращение дубликатов)
+    // HashSet for tracking already processed strings (duplicate prevention)
     private static readonly HashSet<string> _processedStrings = new HashSet<string>();
     
     /// <summary>
-    /// Извлекает все текстовые данные в папку text в директории плагина в формате CSV
+    /// Extracts all text data to text folder in plugin directory in CSV format
     /// </summary>
     public static void ExtractAllTextToPluginDirectory()
     {
-        // Получаем путь к директории плагина
+        // Get path to plugin directory
         string pluginDirectory = GetPluginDirectory();
         string textDirectory = Path.Combine(pluginDirectory, "text");
         
-        // Создаем папку text если её нет
+        // Create text folder if it doesn't exist
         if (!Directory.Exists(textDirectory))
         {
             Directory.CreateDirectory(textDirectory);
@@ -31,10 +31,10 @@ public static class TextDataExtractor
 
         try
         {
-            // Очищаем HashSet перед началом извлечения
-            _processedStrings.Clear();
-            
-            // Извлекаем разные типы текстов в отдельные CSV файлы
+                    // Clear HashSet before starting extraction
+        _processedStrings.Clear();
+        
+        // Extract different types of texts into separate CSV files
             ExtractSceneDataToFile(textDirectory);
             ExtractStringListsToFile(textDirectory);
             ExtractItemsToFile(textDirectory);
@@ -282,7 +282,7 @@ public static class TextDataExtractor
     }
 
     /// <summary>
-    /// Создает CSV строку в формате Original;Translate;Comment
+    /// Creates CSV string in Original,Translate,Comment format
     /// </summary>
     private static string CreateCSVLine(string original, string comment)
     {
@@ -294,7 +294,7 @@ public static class TextDataExtractor
     }
 
     /// <summary>
-    /// Экранирует специальные символы для CSV
+    /// Escapes special characters for CSV
     /// </summary>
     private static string EscapeCSV(string text)
     {
@@ -315,7 +315,7 @@ public static class TextDataExtractor
     }
 
     /// <summary>
-    /// Добавляет текст в CSV, разбивая на предложения и предотвращая дубликаты
+    /// Adds text to CSV, breaking into sentences and preventing duplicates
     /// </summary>
     private static void AddTextToCSV(StringBuilder csv, string text, string comment)
     {
@@ -334,7 +334,7 @@ public static class TextDataExtractor
     }
 
     /// <summary>
-    /// Извлекает сцены и диалоги
+    /// Extracts scenes and dialogues
     /// </summary>
     private static void ExtractSceneDataToFile(string directory)
     {

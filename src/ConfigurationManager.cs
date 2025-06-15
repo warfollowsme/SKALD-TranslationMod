@@ -34,8 +34,8 @@ namespace TranslationMod.Configuration
             catch (Exception e)
             {
                 TranslationMod.Logger?.LogError($"[ConfigurationManager] Failed to initialize: {e.Message}");
-                // НЕ устанавливаем _isInitialized = true при ошибке, чтобы можно было повторить инициализацию
-                throw; // re-throw исключение для правильной обработки в вызывающем коде
+                // DO NOT set _isInitialized = true on error, so initialization can be retried
+                throw; // re-throw exception for proper handling in calling code
             }
         }
         

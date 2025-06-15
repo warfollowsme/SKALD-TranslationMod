@@ -11,7 +11,7 @@ using TranslationMod.Patches;
 namespace TranslationMod
 {
     /// <summary>
-    /// Менеджер для управления языками и языковыми пакетами
+    /// Manager for handling languages and language packs
     /// </summary>
     public static class LanguageManager
     {
@@ -69,9 +69,9 @@ namespace TranslationMod
         }
 
         /// <summary>
-        /// Переключает язык плагина. Загружает новый языковой пакет и уведомляет подписчиков.
+        /// Switches plugin language. Loads new language pack and notifies subscribers.
         /// </summary>
-        /// <param name="newLanguageName">Новое имя языка (e.g., "Russian")</param>
+        /// <param name="newLanguageName">New language name (e.g., "Russian")</param>
         public static void SwitchLanguage(string newLanguageName)
         {
             TranslationMod.Logger?.LogInfo($"[LanguageManager] Attempting to switch language to: {newLanguageName}");
@@ -90,8 +90,8 @@ namespace TranslationMod
         }
 
         /// <summary>
-        /// Получает текущий код языка (например, "ru").
-        /// Язык определяется игрой, а не конфигом плагина.
+        /// Gets current language code (e.g., "ru").
+        /// Language is determined by the game, not plugin config.
         /// </summary>
         public static string GetCurrentLanguageCode()
         {
@@ -99,8 +99,8 @@ namespace TranslationMod
         }
 
         /// <summary>
-        /// Получает текущее имя языка (например, "Russian").
-        /// Язык определяется игрой, а не конфигом плагина.
+        /// Gets current language name (e.g., "Russian").
+        /// Language is determined by the game, not plugin config.
         /// </summary>
         public static string GetCurrentLanguage()
         {
@@ -108,7 +108,7 @@ namespace TranslationMod
         }
 
         /// <summary>
-        /// Получает текущий загруженный языковой пакет.
+        /// Gets currently loaded language pack.
         /// </summary>
         public static LanguagePack GetCurrentLanguagePack()
         {
@@ -121,7 +121,7 @@ namespace TranslationMod
         }
 
         /// <summary>
-        /// Триггер события изменения языка
+        /// Trigger language change event
         /// </summary>
         public static void TriggerLanguageChange()
         {
@@ -130,10 +130,10 @@ namespace TranslationMod
         }
 
         /// <summary>
-        /// Обновляет текущий язык без загрузки языкового пакета (для синхронизации с игрой)
+        /// Updates current language without loading language pack (for game synchronization)
         /// </summary>
-        /// <param name="languageName">Имя языка</param>
-        /// <param name="languageCode">Код языка (опционально)</param>
+        /// <param name="languageName">Language name</param>
+        /// <param name="languageCode">Language code (optional)</param>
         internal static void UpdateCurrentLanguage(string languageName, string languageCode = null)
         {
             if (string.IsNullOrEmpty(languageName))
@@ -156,7 +156,7 @@ namespace TranslationMod
         }
 
         /// <summary>
-        /// Синхронизирует состояние LanguageManager с текущими настройками игры
+        /// Synchronizes LanguageManager state with current game settings
         /// </summary>
         public static void SynchronizeWithGame()
         {
@@ -201,7 +201,7 @@ namespace TranslationMod
         }
 
         /// <summary>
-        /// Извлекает имя языка из объекта настройки
+        /// Extracts language name from settings object
         /// </summary>
         private static string ExtractLanguageFromSetting(object languageSetting)
         {
@@ -244,9 +244,9 @@ namespace TranslationMod
         }
         
         /// <summary>
-        /// Загружает языковой пакет по коду языка
+        /// Loads language pack by language code
         /// </summary>
-        /// <param name="languageCode">Код языка (например, "ru")</param>
+        /// <param name="languageCode">Language code (e.g., "ru")</param>
         public static void LoadLanguagePackByCode(string languageCode)
         {
             if (string.IsNullOrEmpty(languageCode) || languageCode.Equals(ConfigKeys.EnglishLanguageCode, StringComparison.OrdinalIgnoreCase))
@@ -303,10 +303,10 @@ namespace TranslationMod
         }
 
         /// <summary>
-        /// Получает языковой пакет по коду языка
+        /// Gets language pack by language code
         /// </summary>
-        /// <param name="languageCode">Код языка (например, "ru")</param>
-        /// <returns>Языковой пакет или null для английского/несуществующего языка</returns>
+        /// <param name="languageCode">Language code (e.g., "ru")</param>
+        /// <returns>Language pack or null for English/non-existing language</returns>
         public static LanguagePack GetLanguagePack(string languageCode)
         {
             if (string.IsNullOrEmpty(languageCode) || languageCode.Equals(ConfigKeys.EnglishLanguageCode, StringComparison.OrdinalIgnoreCase))
@@ -317,7 +317,7 @@ namespace TranslationMod
         }
 
         /// <summary>
-        /// Получить все доступные языковые пакеты (сканирует папку LanguagePacks)
+        /// Get all available language packs (scans LanguagePacks folder)
         /// </summary>
         public static List<string> GetAvailableLanguageNames()
         {
@@ -364,7 +364,7 @@ namespace TranslationMod
         }
 
         /// <summary>
-        /// Получить код языка по его отображаемому имени (сканирует папки)
+        /// Get language code by its display name (scans folders)
         /// </summary>
         public static string GetLanguageCodeByName(string name)
         {
@@ -416,7 +416,7 @@ namespace TranslationMod
         }
 
         /// <summary>
-        /// Получить директорию плагина (для внутреннего использования)
+        /// Get plugin directory (for internal use)
         /// </summary>
         public static string GetPluginDirectory()
         {
@@ -424,7 +424,7 @@ namespace TranslationMod
         }
 
         /// <summary>
-        /// Проверить, поддерживается ли указанный код языка (есть ли папка с языковым пакетом)
+        /// Check if specified language code is supported (language pack folder exists)
         /// </summary>
         public static bool IsLanguageSupported(string languageCode)
         {

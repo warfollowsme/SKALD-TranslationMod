@@ -2,7 +2,7 @@ using HarmonyLib;
 using UnityEngine;
 
 /// <summary>
-/// Патч для автоматического извлечения всех текстов игры при инициализации
+/// Patch for automatic extraction of all game texts on initialization
 /// </summary>
 [HarmonyPatch]
 public static class TextExtractionPatch
@@ -10,7 +10,7 @@ public static class TextExtractionPatch
     private static bool textExtracted = false;
 
     /// <summary>
-    /// Автоматически извлекаем все тексты после загрузки данных GameData
+            /// Automatically extract all texts after GameData loading
     /// </summary>
     [HarmonyPatch(typeof(GameData), "loadData", new System.Type[] { typeof(string) })]
     [HarmonyPostfix]
@@ -34,7 +34,7 @@ public static class TextExtractionPatch
     }
 
     /// <summary>
-    /// Дублируем попытку извлечения при инициализации DataControl как запасной вариант
+            /// Duplicate extraction attempt during DataControl initialization as backup
     /// </summary>
     [HarmonyPatch(typeof(DataControl), "initialize")]
     [HarmonyPostfix]

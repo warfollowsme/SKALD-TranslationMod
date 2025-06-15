@@ -37,7 +37,7 @@ namespace TranslationMod
 				HarmonyManager.ApplyPatches(new Harmony(MyPluginInfo.PLUGIN_GUID));
 				Logger.LogInfo("Harmony patches applied successfully.");
 
-				// Синхронизируем LanguageManager с текущими настройками игры
+				// Synchronize LanguageManager with current game settings
 				LanguageManager.SynchronizeWithGame();
 				Logger.LogInfo("Language manager synchronized with game settings.");
 

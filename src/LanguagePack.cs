@@ -6,7 +6,7 @@ using Newtonsoft.Json;
 namespace TranslationMod.Configuration
 {
     /// <summary>
-    /// Языковой пакет с использованием JSON конфигурации
+    /// Language pack using JSON configuration
     /// </summary>
     public class LanguagePack
     {
@@ -35,7 +35,7 @@ namespace TranslationMod.Configuration
         }
 
         /// <summary>
-        /// Загружает данные из JSON файла
+        /// Loads data from JSON file
         /// </summary>
         private void LoadFromFile()
         {
@@ -61,7 +61,7 @@ namespace TranslationMod.Configuration
         }
 
         /// <summary>
-        /// Структура данных для JSON конфигурации языкового пакета
+        /// Data structure for language pack JSON configuration
         /// </summary>
         [JsonObject]
         public class LanguagePackData
@@ -89,7 +89,7 @@ namespace TranslationMod.Configuration
         }
 
         /// <summary>
-        /// Получить символьную карту как Dictionary из JSON данных
+        /// Get character map as Dictionary from JSON data
         /// </summary>
         public Dictionary<char, int> GetCharacterChart()
         {
@@ -129,7 +129,7 @@ namespace TranslationMod.Configuration
         }
 
         /// <summary>
-        /// Получить полный путь к папке шрифтов
+        /// Get full path to fonts folder
         /// </summary>
         public string GetFontsPath()
         {
@@ -137,7 +137,7 @@ namespace TranslationMod.Configuration
         }
 
         /// <summary>
-        /// Получить полный путь к папке переводов
+        /// Get full path to translations folder
         /// </summary>
         public string GetTranslationsPath()
         {
@@ -145,7 +145,7 @@ namespace TranslationMod.Configuration
         }
 
         /// <summary>
-        /// Проверить корректность языкового пакета
+        /// Validate language pack correctness
         /// </summary>
         public bool IsValid()
         {
@@ -183,7 +183,7 @@ namespace TranslationMod.Configuration
         }
 
         /// <summary>
-        /// Сохранить конфигурацию языкового пакета в JSON файл
+        /// Save language pack configuration to JSON file
         /// </summary>
         public void Save()
         {

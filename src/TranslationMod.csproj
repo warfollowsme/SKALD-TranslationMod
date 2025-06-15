@@ -24,17 +24,7 @@
     <PackageReference Include="UnityEngine.Modules" Version="2020.3.36" IncludeAssets="compile" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" PrivateAssets="none" />
   </ItemGroup>
-  
-  <ItemGroup>
-    <Compile Remove="game_source\**" />
-    <EmbeddedResource Remove="game_source\**" />
-    <None Remove="game_source\**" />
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Remove="GameTextParserTests\**" />
-    <EmbeddedResource Remove="GameTextParserTests\**" />
-    <None Remove="GameTextParserTests\**" />
-  </ItemGroup>
+
 
   <ItemGroup>
     <Reference Include="0Harmony">

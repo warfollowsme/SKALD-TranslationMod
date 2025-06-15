@@ -3,7 +3,7 @@ using System.Collections.Generic;
 namespace TranslationMod
 {
     /// <summary>
-    /// Константы, связанные с внутренними механиками и объектами игры.
+    /// Constants related to internal game mechanics and objects
     /// </summary>
     public static class GameConstants
     {
@@ -39,7 +39,7 @@ namespace TranslationMod
     }
 
     /// <summary>
-    /// Константы, связанные со шрифтами
+    /// Font-related constants
     /// </summary>
     public static class FontConstants
     {
@@ -70,7 +70,7 @@ namespace TranslationMod
     }
 
     /// <summary>
-    /// Константы для ключей и секций конфигурационных файлов.
+    /// Constants for configuration file keys and sections
     /// </summary>
     public static class ConfigKeys
     {
