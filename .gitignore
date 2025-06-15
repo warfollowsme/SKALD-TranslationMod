@@ -1,0 +1,26 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# NuGet
+packages/
+*.nupkg
+
+# Test results
+TestResults/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Project-specific directories
+GameTextParserTests/
+examples/
+game_source/ 
