@@ -869,7 +869,8 @@ public static class GameTextParser
             @"|(?<=[\.!?…])\s+(?=\(\s*[“""']?[A-Z])" +
             @"|(?<=\)[”""']?)\s+(?=[A-Z])" +
             @"|(?<=\)[”""']?)\s+\(\s*(?=[A-Z])" +
-            @"|(?<=[”""'])\)\s+\(\s*(?=[A-Z])"
+            @"|(?<=[”""'])\)\s+\(\s*(?=[A-Z])" +
+            @"|(?<=\.)\s+(?=[\+\-]\d)"
         );
 
         foreach (string raw in parts)
@@ -1106,10 +1107,10 @@ public static class GameTextParser
                             RegexOptions.IgnoreCase);
 
         // 0-b) "-)#ELSE" или "-)#END"  →  "#ELSE/#END"
-        src = Regex.Replace(src, @"-\s*\)\s*#(ELSE|END)", ")#$1",  RegexOptions.IgnoreCase);
+        src = Regex.Replace(src, @"-\s*\)\s*#(ELSE|END)", ")#$1", RegexOptions.IgnoreCase);
 
         // 0-c) ")#ELSE" или ")#END"  →  "#ELSE/#END"
-        src = Regex.Replace(src, @"-\s*\)\s*#(ELSE|END)", ")#$1", RegexOptions.IgnoreCase);
+        src = Regex.Replace(src, @"\)\s*#(ELSE|END)", ")#$1", RegexOptions.IgnoreCase);
 
         // 1) удалить строки, содержащие только "*"
         src = Regex.Replace(src, @"^\s*\*\s*$", "", RegexOptions.Multiline);
@@ -1174,7 +1175,9 @@ public static class GameTextParser
         txt = StripOuterSentenceQuotes(txt);
 
         /* лидирующий +1 / 1) / 1. */
-        txt = Regex.Replace(txt, @"^[\+\-]?\d+\s*[)\.]\s*", "");
+        txt = Regex.Replace(txt,
+                    @"^[\+\-]?\d+(?:\.\d+)?%?\s*(?:[)\.]\s*|\s+)",
+                    "");
 
         txt = PostUnmaskAbbr(txt);                  // вернуть точки аббревиатур
         
