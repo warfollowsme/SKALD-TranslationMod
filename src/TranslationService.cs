@@ -19,9 +19,17 @@ namespace TranslationMod
         private readonly HashSet<string> _loggedInputs = new();
         private readonly HashSet<string> _loggedTranslations = new();
         private readonly HashSet<string> _loggedTitleCaseHits = new();
+        private readonly HashSet<string> _loggedPlayerNameHits = new();
+        private readonly HashSet<string> _loggedItemPatternHits = new();
+        private readonly HashSet<string> _loggedItemListHits = new();
 
         private readonly object _lockObject = new();
         private readonly string _missingKeysFilePath;
+        
+        /// <summary>
+        /// Список regex паттернов для обработки {ITEM} плейсхолдеров
+        /// </summary>
+        private readonly List<(Regex regex, string template)> _itemPatterns;
 
         /// <summary>
         /// Регулярное выражение для проверки, что строка состоит только из заглавных букв, цифр, пробелов и знаков препинания
@@ -36,8 +44,12 @@ namespace TranslationMod
             
             _missingKeysFilePath = GetMissingKeysFilePath();
             
+            // Создаем паттерны для {ITEM} плейсхолдеров
+            _itemPatterns = CreateItemPatterns(_dict);
+            
             // Initialize translation buffer dictionary
             TranslationMod.Logger?.LogInfo($"[TranslationService] Initialized with {_dict.Count} translations loaded from CSV files");
+            TranslationMod.Logger?.LogInfo($"[TranslationService] Created {_itemPatterns.Count} item patterns for {{ITEM}} placeholders");
             TranslationMod.Logger?.LogInfo($"[TranslationService] Missing keys will be saved to: {_missingKeysFilePath}");
         }
 
@@ -156,18 +168,39 @@ namespace TranslationMod
                         
                         // Логируем успешное нахождение через Title Case (дедупликация)
                         LogTitleCaseHit(sentence, titleCaseVersion, translated);
+                        return translated;
+                    }
+                }
+                TranslationMod.Logger?.LogInfo($"[TranslationService] Key is not CAPS");
+                
+                // Дополнительная обработка: проверяем, содержит ли строка имя игрока
+                string playerNameReplacement = TryReplacePlayerName(sentence);
+                if (playerNameReplacement != null)
+                {
+                    // Найден перевод с заменой имени игрока
+                    return playerNameReplacement;
+                }
+                // Дополнительная обработка: проверяем паттерны {ITEM}
+                string itemPatternReplacement = TryMatchItemPattern(sentence);
+                if (itemPatternReplacement != null)
+                {
+                    // Найден перевод через {ITEM} паттерн
+                    translated = itemPatternReplacement;
+                }
+                else
+                {
+                    // Дополнительная обработка: проверяем список предметов через запятую
+                    string itemListReplacement = TryTranslateItemList(sentence);
+                    if (itemListReplacement != null)
+                    {
+                        // Найден перевод списка предметов
+                        translated = itemListReplacement;
                     }
                     else
                     {
                         translated = sentence;
                         SaveMissingKey(sentence);
                     }
-                }
-                else
-                {
-                    TranslationMod.Logger?.LogInfo($"[TranslationService] Key is not CAPS");
-                    translated = sentence;
-                    SaveMissingKey(sentence);
                 }
             }
             else
@@ -248,6 +281,426 @@ namespace TranslationMod
             }
         }
 
+        /// <summary>Логирует успешное нахождение перевода через замену имени игрока (с дедупликацией)</summary>
+        private void LogPlayerNameHit(string original, string withPlaceholder, string finalTranslation)
+        {
+            lock (_lockObject)
+            {
+                if (!_loggedPlayerNameHits.Contains(original))
+                {
+                    _loggedPlayerNameHits.Add(original);
+                    TranslationMod.Logger?.LogInfo($"[TranslationService] Player name hit: '{original}' -> '{withPlaceholder}' -> '{finalTranslation}'");
+                }
+            }
+        }
+
+        /// <summary>Логирует успешное нахождение перевода через {ITEM} паттерн (с дедупликацией)</summary>
+        private void LogItemPatternHit(string original, string pattern, string item, string finalTranslation)
+        {
+            lock (_lockObject)
+            {
+                if (!_loggedItemPatternHits.Contains(original))
+                {
+                    _loggedItemPatternHits.Add(original);
+                    TranslationMod.Logger?.LogInfo($"[TranslationService] Item pattern hit: '{original}' -> pattern '{pattern}' -> item '{item}' -> '{finalTranslation}'");
+                }
+            }
+        }
+
+        /// <summary>Логирует успешное нахождение перевода списка предметов (с дедупликацией)</summary>
+        private void LogItemListHit(string original, int itemCount, int translatedCount, string finalTranslation)
+        {
+            lock (_lockObject)
+            {
+                if (!_loggedItemListHits.Contains(original))
+                {
+                    _loggedItemListHits.Add(original);
+                    TranslationMod.Logger?.LogInfo($"[TranslationService] Item list hit: '{original}' -> {itemCount} items ({translatedCount} translated) -> '{finalTranslation}'");
+                }
+            }
+        }
+
+        /// <summary>
+        /// Пытается заменить имя игрока на плейсхолдер {PLAYER} и найти перевод
+        /// </summary>
+        /// <param name="sentence">Исходное предложение</param>
+        /// <returns>Переведенное предложение с восстановленным именем игрока или null если не найдено</returns>
+        private string TryReplacePlayerName(string sentence)
+        {
+            try
+            {
+                string playerName = GetCurrentPlayerName();
+                if (string.IsNullOrEmpty(playerName))
+                {
+                    TranslationMod.Logger?.LogDebug($"[TranslationService] Player name is empty or null");
+                    return null;
+                }
+
+                // Проверяем, содержит ли строка имя игрока
+                if (!sentence.Contains(playerName))
+                {
+                    TranslationMod.Logger?.LogDebug($"[TranslationService] Sentence does not contain player name '{playerName}'");
+                    return null;
+                }
+
+                // Заменяем имя игрока на плейсхолдер
+                string sentenceWithPlaceholder = sentence.Replace(playerName, "{PLAYER}");
+                TranslationMod.Logger?.LogInfo($"[TranslationService] Checking player name replacement: '{sentence}' -> '{sentenceWithPlaceholder}'");
+
+                // Ищем перевод для строки с плейсхолдером
+                if (_dict.TryGetValue(sentenceWithPlaceholder, out string translatedWithPlaceholder))
+                {
+                    // Заменяем плейсхолдер обратно на имя игрока в переводе
+                    string finalTranslation = translatedWithPlaceholder.Replace("{PLAYER}", playerName);
+                    
+                    // Логируем с дедупликацией
+                    LogPlayerNameHit(sentence, sentenceWithPlaceholder, finalTranslation);
+                    
+                    return finalTranslation;
+                }
+
+                TranslationMod.Logger?.LogDebug($"[TranslationService] No translation found for player placeholder: '{sentenceWithPlaceholder}'");
+                return null;
+            }
+            catch (Exception ex)
+            {
+                TranslationMod.Logger?.LogError($"[TranslationService] Error in TryReplacePlayerName: {ex.Message}");
+                return null;
+            }
+        }
+
+        /// <summary>
+        /// Получает имя текущего игрока из игры
+        /// </summary>
+        /// <returns>Имя игрока или null в случае ошибки</returns>
+        private static string GetCurrentPlayerName()
+        {
+            try
+            {
+                var dataControl = MainControl.getDataControl();
+                if (dataControl == null)
+                {
+                    TranslationMod.Logger?.LogDebug($"[TranslationService] DataControl is null");
+                    return null;
+                }
+
+                var currentPC = dataControl.getCurrentPC();
+                if (currentPC == null)
+                {
+                    TranslationMod.Logger?.LogDebug($"[TranslationService] Current PC is null");
+                    return null;
+                }
+
+                string playerName = currentPC.getName();
+                TranslationMod.Logger?.LogDebug($"[TranslationService] Retrieved player name: '{playerName}'");
+                return playerName;
+            }
+            catch (Exception ex)
+            {
+                TranslationMod.Logger?.LogError($"[TranslationService] Error getting player name: {ex.Message}");
+                return null;
+            }
+        }
+
+        /// <summary>
+        /// Создает список regex паттернов для обработки {ITEM} плейсхолдеров
+        /// </summary>
+        /// <param name="dict">Словарь переводов</param>
+        /// <returns>Список паттернов и соответствующих шаблонов</returns>
+        private static List<(Regex regex, string template)> CreateItemPatterns(Dictionary<string, string> dict)
+        {
+            var patterns = new List<(Regex regex, string template)>();
+            
+            foreach (var kvp in dict)
+            {
+                if (kvp.Key.Contains("{ITEM}"))
+                {
+                    try
+                    {
+                        // Подсчитываем количество {ITEM} в ключе
+                        int itemCount = 0;
+                        string tempKey = kvp.Key;
+                        
+                        // Заменяем каждый {ITEM} на уникальный временный маркер
+                        while (tempKey.Contains("{ITEM}"))
+                        {
+                            // Заменяем только первое вхождение {ITEM}
+                            int index = tempKey.IndexOf("{ITEM}");
+                            if (index >= 0)
+                            {
+                                tempKey = tempKey.Substring(0, index) + 
+                                         $"___ITEM_PLACEHOLDER_{itemCount}___" + 
+                                         tempKey.Substring(index + 6); // 6 = "{ITEM}".Length
+                            }
+                            itemCount++;
+                        }
+                        
+                        // Применяем Regex.Escape для безопасности
+                        string escapedKey = Regex.Escape(tempKey);
+                        
+                        // Заменяем каждый временный маркер на отдельную regex группу
+                        for (int i = 0; i < itemCount; i++)
+                        {
+                            escapedKey = escapedKey.Replace($"___ITEM_PLACEHOLDER_{i}___", "(.+?)");
+                        }
+                        
+                        string pattern = "^" + escapedKey + "$";
+                        
+                        var regex = new Regex(pattern, RegexOptions.CultureInvariant);
+                        patterns.Add((regex, kvp.Value));
+                        
+                        TranslationMod.Logger?.LogInfo($"[TranslationService] Created ITEM pattern: key='{kvp.Key}' (items: {itemCount}) -> pattern='{pattern}' -> template='{kvp.Value}'");
+                    }
+                    catch (Exception ex)
+                    {
+                        TranslationMod.Logger?.LogError($"[TranslationService] Error creating pattern for key '{kvp.Key}': {ex.Message}");
+                    }
+                }
+            }
+            
+            return patterns;
+        }
+
+        /// <summary>
+        /// Пытается найти совпадение по {ITEM} паттернам и выполнить перевод
+        /// </summary>
+        /// <param name="sentence">Исходное предложение</param>
+        /// <returns>Переведенное предложение или null если не найдено</returns>
+        private string TryMatchItemPattern(string sentence)
+        {
+            try
+            {
+                TranslationMod.Logger?.LogInfo($"[TranslationService] Checking {_itemPatterns.Count} item patterns for: '{sentence}'");
+                
+                // Сначала пробуем прямое совпадение
+                string directMatch = TryMatchItemPatternDirect(sentence, sentence, false);
+                if (directMatch != null)
+                {
+                    return directMatch;
+                }
+                
+                // Если не найдено и строка в CAPS - пробуем Title Case версию
+                if (IsAllUpperCase(sentence))
+                {
+                    string titleCaseVersion = ConvertToTitleCase(sentence);
+                    TranslationMod.Logger?.LogInfo($"[TranslationService] Sentence is CAPS, trying Title Case version: '{titleCaseVersion}'");
+                    
+                    string titleCaseMatch = TryMatchItemPatternDirect(titleCaseVersion, sentence, true);
+                    if (titleCaseMatch != null)
+                    {
+                        return titleCaseMatch;
+                    }
+                }
+                
+                TranslationMod.Logger?.LogInfo($"[TranslationService] No item pattern matched for: '{sentence}'");
+                return null;
+            }
+            catch (Exception ex)
+            {
+                TranslationMod.Logger?.LogError($"[TranslationService] Error in TryMatchItemPattern: {ex.Message}");
+                return null;
+            }
+        }
+
+        /// <summary>
+        /// Выполняет прямое сопоставление с {ITEM} паттернами
+        /// </summary>
+        /// <param name="testSentence">Предложение для тестирования против паттернов</param>
+        /// <param name="originalSentence">Оригинальное предложение для логирования</param>
+        /// <param name="convertToUpper">Нужно ли конвертировать результат в CAPS</param>
+        /// <returns>Переведенное предложение или null если не найдено</returns>
+        private string TryMatchItemPatternDirect(string testSentence, string originalSentence, bool convertToUpper)
+        {
+            try
+            {
+                foreach (var (regex, template) in _itemPatterns)
+                {
+                    TranslationMod.Logger?.LogInfo($"[TranslationService] Testing pattern: '{regex}' against '{testSentence}'");
+                    
+                    var match = regex.Match(testSentence);
+                    if (match.Success && match.Groups.Count > 1)
+                    {
+                        // Получаем все найденные предметы (кроме группы 0, которая содержит полное совпадение)
+                        var items = new List<string>();
+                        for (int i = 1; i < match.Groups.Count; i++)
+                        {
+                            items.Add(match.Groups[i].Value);
+                        }
+                        
+                        TranslationMod.Logger?.LogInfo($"[TranslationService] Item pattern matched: '{testSentence}' -> items: [{string.Join(", ", items)}] using template: '{template}'");
+                        
+                        // Переводим каждый найденный предмет отдельно
+                        var translatedItems = new List<string>();
+                        foreach (string item in items)
+                        {
+                            string translatedItem = TranslateItemDirectly(item);
+                            translatedItems.Add(translatedItem);
+                        }
+                        
+                        // Заменяем каждый {ITEM} в шаблоне на соответствующий переведенный предмет
+                        string finalTranslation = template;
+                        for (int i = 0; i < translatedItems.Count; i++)
+                        {
+                            // Находим первое вхождение {ITEM} и заменяем его
+                            int index = finalTranslation.IndexOf("{ITEM}");
+                            if (index >= 0)
+                            {
+                                finalTranslation = finalTranslation.Substring(0, index) + 
+                                                 translatedItems[i] + 
+                                                 finalTranslation.Substring(index + 6); // 6 = "{ITEM}".Length
+                            }
+                        }
+                        
+                        // Если нужно конвертировать в CAPS
+                        if (convertToUpper)
+                        {
+                            finalTranslation = finalTranslation.ToUpper();
+                            TranslationMod.Logger?.LogInfo($"[TranslationService] Converted result to CAPS: '{finalTranslation}'");
+                        }
+                        
+                        // Логируем успешное совпадение
+                        string logInfo = convertToUpper ? $" (CAPS: {testSentence})" : "";
+                        LogItemPatternHit(originalSentence, regex.ToString(), string.Join(", ", items) + logInfo, finalTranslation);
+                        
+                        return finalTranslation;
+                    }
+                }
+                
+                return null;
+            }
+            catch (Exception ex)
+            {
+                TranslationMod.Logger?.LogError($"[TranslationService] Error in TryMatchItemPatternDirect: {ex.Message}");
+                return null;
+            }
+        }
+
+        /// <summary>
+        /// Переводит предмет напрямую из словаря без дополнительных проверок
+        /// (избегает рекурсии при переводе {ITEM} паттернов)
+        /// </summary>
+        /// <param name="item">Название предмета</param>
+        /// <returns>Переведенное название предмета</returns>
+        private string TranslateItemDirectly(string item)
+        {
+            try
+            {
+                // Прямой поиск в словаре
+                if (_dict.TryGetValue(item, out string directTranslation))
+                {
+                    TranslationMod.Logger?.LogDebug($"[TranslationService] Direct item translation: '{item}' -> '{directTranslation}'");
+                    return directTranslation;
+                }
+                
+                // Если не найден - проверяем Title Case (для ЗАГЛАВНЫХ БУКВ)
+                if (IsAllUpperCase(item))
+                {
+                    string titleCaseVersion = ConvertToTitleCase(item);
+                    if (_dict.TryGetValue(titleCaseVersion, out string titleCaseTranslated))
+                    {
+                        string upperTranslation = titleCaseTranslated.ToUpper();
+                        TranslationMod.Logger?.LogDebug($"[TranslationService] Title case item translation: '{item}' -> '{titleCaseVersion}' -> '{upperTranslation}'");
+                        return upperTranslation;
+                    }
+                }
+                
+                // Если перевод не найден - возвращаем оригинал
+                TranslationMod.Logger?.LogDebug($"[TranslationService] No translation found for item: '{item}', using original");
+                return item;
+            }
+            catch (Exception ex)
+            {
+                TranslationMod.Logger?.LogError($"[TranslationService] Error in TranslateItemDirectly: {ex.Message}");
+                return item;
+            }
+        }
+
+        /// <summary>
+        /// Пытается перевести строку как список предметов, разделенных запятыми
+        /// </summary>
+        /// <param name="sentence">Исходное предложение</param>
+        /// <returns>Переведенный список предметов или null если не является списком</returns>
+        private string TryTranslateItemList(string sentence)
+        {
+            try
+            {
+                // Разбиваем строку по запятым, сохраняя разделители
+                string[] parts = Regex.Split(sentence, @"(\s*,\s*)");
+                
+                // Если меньше 3 частей (минимум: предмет1, запятая, предмет2), то это не список
+                if (parts.Length < 3)
+                {
+                    TranslationMod.Logger?.LogDebug($"[TranslationService] Not enough parts for item list: {parts.Length}");
+                    return null;
+                }
+                
+                // Проверяем, что у нас есть хотя бы 2 предмета (нечетные индексы - это предметы)
+                var itemParts = new List<string>();
+                for (int i = 0; i < parts.Length; i += 2) // берем только нечетные индексы (предметы)
+                {
+                    if (!string.IsNullOrWhiteSpace(parts[i]))
+                    {
+                        itemParts.Add(parts[i].Trim());
+                    }
+                }
+                
+                // Минимум 2 предмета для списка
+                if (itemParts.Count < 2)
+                {
+                    TranslationMod.Logger?.LogDebug($"[TranslationService] Not enough items for list: {itemParts.Count}");
+                    return null;
+                }
+                
+                TranslationMod.Logger?.LogInfo($"[TranslationService] Detected potential item list with {itemParts.Count} items: [{string.Join(", ", itemParts)}]");
+                
+                // Пытаемся перевести каждый предмет
+                var translatedParts = new List<string>();
+                int translatedCount = 0;
+                
+                for (int i = 0; i < parts.Length; i++)
+                {
+                    if (i % 2 == 0) // Это предмет (нечетный индекс в оригинальном массиве)
+                    {
+                        string item = parts[i].Trim();
+                        if (!string.IsNullOrWhiteSpace(item))
+                        {
+                            string translatedItem = TranslateItemDirectly(item);
+                            translatedParts.Add(translatedItem);
+                            
+                            if (!translatedItem.Equals(item, StringComparison.Ordinal))
+                            {
+                                translatedCount++;
+                            }
+                        }
+                        else
+                        {
+                            translatedParts.Add(parts[i]);
+                        }
+                    }
+                    else // Это разделитель (запятая с пробелами)
+                    {
+                        translatedParts.Add(parts[i]);
+                    }
+                }
+                
+                // Если хотя бы один предмет был переведен, считаем это успехом
+                if (translatedCount > 0)
+                {
+                    string finalTranslation = string.Join("", translatedParts);
+                    LogItemListHit(sentence, itemParts.Count, translatedCount, finalTranslation);
+                    return finalTranslation;
+                }
+                
+                TranslationMod.Logger?.LogDebug($"[TranslationService] No items were translated in the list");
+                return null;
+            }
+            catch (Exception ex)
+            {
+                TranslationMod.Logger?.LogError($"[TranslationService] Error in TryTranslateItemList: {ex.Message}");
+                return null;
+            }
+        }
+
         /// <summary>Получает путь к файлу need_translate.csv</summary>
         private static string GetMissingKeysFilePath()
         {
@@ -309,7 +762,7 @@ namespace TranslationMod
                 if (Regex.IsMatch(parts[i], @"^\s+$")) continue;
 
                 // слово «of» — оставляем строчным, кроме первого слова всей фразы
-                if (i != 0 && parts[i] == "of") continue;
+                if (i != 0 && (parts[i] == "of" || parts[i] == "as" || parts[i] == "for")) continue;
 
                 // капитализируем первую буквенную позицию слова
                 parts[i] = Regex.Replace(parts[i], @"^\p{L}",

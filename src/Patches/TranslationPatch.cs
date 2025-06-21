@@ -170,7 +170,7 @@ namespace TranslationMod.Patches
                 string translatedText = _translator.Value.Process(__0);
                 
                 // Затем полная реимплементация setContent с переведенным текстом
-                SetContentComplete(__instance, translatedText);
+                SetContentComplete(__instance, __0, translatedText);
                 
                 // Возвращаем false, чтобы пропустить оригинальный метод
                 return false;
@@ -184,7 +184,7 @@ namespace TranslationMod.Patches
         }
         
         /// <summary>Полная реимплементация UITextBlock.setContent</summary>
-        private static void SetContentComplete(UITextBlock instance, string input)
+        private static void SetContentComplete(UITextBlock instance, string input, string translated)
         {
             try
             {                
@@ -225,7 +225,7 @@ namespace TranslationMod.Patches
                 
                 if (instance.illuminatedFont != null)
                 {
-                    int subimageForChar = StringPrinter.getSubimageForChar(input[0]);
+                    int subimageForChar = StringPrinter.getSubimageForChar(translated[0]);
                     
                     // Расширенная проверка для кириллицы (ваш комментарий: переделать на проверку взятых кодов из кодировки)
                     if (subimageForChar <= 25 || (subimageForChar >= 90 && subimageForChar <= 122))
@@ -237,7 +237,7 @@ namespace TranslationMod.Patches
                         }
                         
                         var illuminatedImage = new UICanvasVertical();
-                        input = input.Substring(1);
+                        translated = translated.Substring(1);
                         illuminatedImage.backgroundTexture = TextureTools.getLetterSubImageTextureData(
                             subimageForChar, instance.illuminatedFont.getModelPath());
                         illuminatedImage.padding.right = font.wordSpacing;
@@ -246,10 +246,10 @@ namespace TranslationMod.Patches
                     }
                     else
                     {
-                        TranslationMod.Logger?.LogInfo($"Character '{input[0]}' with subimage {subimageForChar} doesn't match illuminated criteria");
+                        TranslationMod.Logger?.LogInfo($"Character '{translated[0]}' with subimage {subimageForChar} doesn't match illuminated criteria");
                     }
                 }
-                input = (string)PreProcessStringMethod.Invoke(instance, new object[] { input });
+                translated = (string)PreProcessStringMethod.Invoke(instance, new object[] { translated });
                 
                 if (IdentifyTooltipKeywordsMethod == null)
                 {
@@ -257,14 +257,14 @@ namespace TranslationMod.Patches
                     return;
                 }
                 
-                input = (string)IdentifyTooltipKeywordsMethod.Invoke(instance, new object[] { input });
+                translated = (string)IdentifyTooltipKeywordsMethod.Invoke(instance, new object[] { translated });
                 
                 if (SplitIntoParagraphMethod == null)
                 {
                     TranslationMod.Logger?.LogError("SplitIntoParagraphMethod is null");
                     return;
                 }
-                var paragraphs = (List<string>)SplitIntoParagraphMethod.Invoke(instance, new object[] { input });
+                var paragraphs = (List<string>)SplitIntoParagraphMethod.Invoke(instance, new object[] { translated });
                 if (paragraphs != null)
                 {
                     if (ParseParagraphMethod == null)
