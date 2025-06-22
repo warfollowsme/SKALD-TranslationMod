@@ -1,0 +1,9 @@
+## Configuration File Example for TranslationMod Plugin
+## This file will be automatically created at: BepInEx/config/TranslationMod.cfg
+
+[General]
+
+## Path to language packs directory (relative to plugin folder)
+# Setting type: String
+# Default value: LanguagePacks
+LanguagePacksPath = LanguagePacks

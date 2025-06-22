@@ -76,9 +76,10 @@ BepInEx doesn't natively support ARM architecture on macOS. To make it work:
 
 ### Plugin Installation Steps
 1. Complete BepInEx installation for your platform (see above)
-2. Download the latest TranslationMod release
-3. Copy `TranslationMod.dll` to `BepInEx/plugins/` folder
-4. Create or download a language pack (see Language Pack Creation below)
+2. Download the latest TranslationMod [release](https://github.com/warfollowsme/SKALD-TranslationMod/releases)
+3. Copy `TranslationMod.dll, Newtonsoft.Json.dll, TranslationMod.cfg` to `BepInEx/plugins/` folder
+4. Copy a language packs folder 
+   - If you want create new language pack  language pack please see Language Pack Creation below
 5. Launch the game - the plugin will automatically initialize
 
 ## How It Works
@@ -97,11 +98,10 @@ The plugin operates transparently in the background:
 LanguagePacks/
 └── YourLanguage/
     ├── language_pack.json         # Language pack configuration
-    ├── character_chart.json       # Font character mapping
+    └── fonts/                     # Font and Logo textures folder
+        ├── *.png                  # PNG files with textures
     └── translations/              # Translation files folder
-        ├── interface.csv          # UI translations
-        ├── dialogues.csv          # Dialog translations
-        └── items.csv              # Item translations
+        ├── *.csv                  # UI translations
 ```
 
 ## Creating a Language Pack
@@ -109,7 +109,9 @@ LanguagePacks/
 Creating a new language pack consists of three main steps:
 
 ### 1. Create Character Map for Your Alphabet
-Create `language_pack.json` configuration file with character mapping. **Important**: Start character indices from 90 (first free index in the game that begins a new line in font textures).
+Create `language_pack.json` configuration file with character mapping. 
+
+**Important**: Start character indices from 90 (first free index in the game that begins a new line in font textures).
 
 Example for Russian language:
 
@@ -196,11 +198,11 @@ Example for Russian language:
 Add images of alphabet letters to the font textures according to the indices specified in the character map from step 1. Each character must be placed at the correct position in the font texture atlas.
 
 ### 3. Create Translation Files
-Create translations of the original text in CSV files. For convenience, all original text is already categorized. The complete text is also available in a Google Doc (link will be added) that you can duplicate and translate, then save in CSV format and transfer to the `translations` folder.
+Create translations of the original text in CSV files. For convenience, all original text is already categorized. The complete text is also available in a [Google Sheet](https://docs.google.com/spreadsheets/d/1mvYDpQ5kVqvYJLnWmBOcHNLtGoeHgM63pSmY4TR36UI/edit?usp=sharing)  that you can duplicate and translate, then save in CSV format and transfer to the `translations` folder. Example of filled sheet is here: [Russian Translation Sheet](https://docs.google.com/spreadsheets/d/13x6KKvbp3-_QEeCq82Yoza740GKYd0EniUcMqPghGPY/edit?usp=sharing)
 
 **CSV File Format** (use comma `,` as separator):
 ```csv
-Original,Translate
+original,translate
 New Game,Nuevo Juego
 Load Game,Cargar Partida
 Settings,Configuración
@@ -208,15 +210,10 @@ Health,Salud
 Strength,Fuerza
 ```
 
-**Organize translations by categories:**
-- `interface.csv` - Menus, buttons, UI elements
-- `dialogues.csv` - Character conversations
-- `items.csv` - Items, spells, abilities
-- `gameplay.csv` - Game mechanics, stats, descriptions
-
 ### Translation Tips
 - **Exact matches**: Include complete phrases for better accuracy
 - **Context matters**: Use descriptive filenames to organize translations
+- **Special words**: Do not translate special words in curly braces (e.g., `{PLAYER}`, `{ITEM}`). These are placeholders that the game replaces with values.
 
 ## Contributing
 
