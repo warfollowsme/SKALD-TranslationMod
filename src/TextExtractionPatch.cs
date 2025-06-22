@@ -12,8 +12,8 @@ public static class TextExtractionPatch
     /// <summary>
             /// Automatically extract all texts after GameData loading
     /// </summary>
-    [HarmonyPatch(typeof(GameData), "loadData", new System.Type[] { typeof(string) })]
-    [HarmonyPostfix]
+    //[HarmonyPatch(typeof(GameData), "loadData", new System.Type[] { typeof(string) })]
+    //[HarmonyPostfix]
     public static void ExtractAllTextOnGameDataLoad()
     {
         if (!textExtracted)
@@ -36,8 +36,8 @@ public static class TextExtractionPatch
     /// <summary>
             /// Duplicate extraction attempt during DataControl initialization as backup
     /// </summary>
-    [HarmonyPatch(typeof(DataControl), "initialize")]
-    [HarmonyPostfix]
+    //[HarmonyPatch(typeof(DataControl), "initialize")]
+    //[HarmonyPostfix]
     public static void ExtractAllTextOnDataControlInit()
     {
         if (!textExtracted)

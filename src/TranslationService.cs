@@ -263,7 +263,7 @@ namespace TranslationMod
                 if (!_loggedTranslations.Contains(original))
                 {
                     _loggedTranslations.Add(original);
-                    TranslationMod.Logger?.LogInfo($"[TranslationService] Direct translation: '{original}' -> '{translated}'");
+                    //TranslationMod.Logger?.LogInfo($"[TranslationService] Direct translation: '{original}' -> '{translated}'");
                 }
             }
         }
@@ -515,7 +515,7 @@ namespace TranslationMod
             {
                 foreach (var (regex, template) in _itemPatterns)
                 {
-                    TranslationMod.Logger?.LogInfo($"[TranslationService] Testing pattern: '{regex}' against '{testSentence}'");
+                    //TranslationMod.Logger?.LogInfo($"[TranslationService] Testing pattern: '{regex}' against '{testSentence}'");
                     
                     var match = regex.Match(testSentence);
                     if (match.Success && match.Groups.Count > 1)
