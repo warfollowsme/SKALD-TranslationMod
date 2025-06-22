@@ -1,0 +1,370 @@
+original,translation
+Select,Выбрать
+Abort,Отменить
+Pick a Difficulty,Выберите сложность
+Character Creation,Создание персонажа
+Class,Класс
+Background,Прошлое
+Attributes,Атрибуты
+Appearance,Внешность
+Welcome to character creation!,Добро пожаловать в создание персонажа!
+Start by picking a DIFFICULTY for your playthrough,Начните с выбора СЛОЖНОСТИ для прохождения
+Are you sure you want to abort?,"Уверены, что хотите отменить?"
+Difficulty can be changed during play,Сложность можно менять в ходе игры
+Bard,Бард
+Battlemagos,Боевой маг
+Champion,Чемпион
+Hierophant,Иерофант
+Hospitaller,Госпитальер
+Officer,Офицер
+Ranger,Рейнджер
+Thief,Вор
+Select a Class,Выберите класс
+ARMSMASTER,МАСТЕР ОРУЖИЯ
+Archetype,Архетип
+Warrior,Воин
+The Main Attribute for this Class is Strength,Основной атрибут класса — Сила
+Start,Старт
+DP,ОР
+HP/Lvl,ОЗ/Ур
+Magic/Lvl,Магия/Ур
+May use any armor,Может использовать любую броню
+"May use all weapons of type Blade, Axe, Club and Bow","Может использовать всё оружие типов: клинки, топоры, дубины и луки"
+"Next, select a CLASS for your character!",Теперь выберите КЛАСС персонажа!
+Classes define a character's role in the party by adding certain exclusive abilities,"Классы определяют роли в отряде, открывая эксклюзивные способности"
+DEVELOPMENT POINTS,ОЧКИ РАЗВИТИЯ
+Development Points are gained when leveling up and used to buy ranks in Feats,Очки развития получаются при повышении уровня и используются для покупки рангов в Умениях
+This unlocks new Abilities for the Character making them more powerful,Открывает новые Способности и усиливает персонажа
+MAIN ATTRIBUTE,ОСНОВНОЙ АТРИБУТ
+The Main Attribute is the Attribute that is the most important for this Class,Главный атрибут — это наиболее важный атрибут данного класса.
+STRENGTH,СИЛА
+Attribute - Primary,Атрибут – Основной
+A measure of a character's brawn and physical power,Показатель физической силы и мощи персонажа
+ATTUNEMENT PER LEVEL,МАНА ЗА УРОВЕНЬ
+"Indicates how much of the game’s Magic resource, Attunement, is gained every time the character levels up","Указывает, сколько магического ресурса игры, Маны, персонаж получает при каждом повышении уровня"
+VITALITY PER LEVEL,ЖИЗНЬ ЗА УРОВЕНЬ
+"Indicates how much of the game’s Hitpoint resource, Vitality, is gained every time the character levels up","Указывает, сколько ресурса здоровья, Живучести, персонаж получает при каждом повышении уровня"
+BARD,БАРД
+Rogue,Плут
+The Bard mixes the Rogue’s decent combat skills and high maneuverability with the use of arcane magic,Бард сочетает достойные боевые навыки и высокую манёвренность Плута с использованием тайной магии
+The Main Attribute for this Class is Presence,Главный атрибут этого класса — Харизма
+May wear Light armor,Может носить лёгкую броню
+"May use Light and Medium weapons of type Blade, Axe, Club and Bow","Может использовать лёгкие и средние клинки, топоры, дубины и луки"
+ROGUE,ПЛУТ
+The Rogue combines important non-combat skills with a large damage output against single targets,Плут объединяет важные небоевые умения с высоким уроном по одиночным целям
+BATTLEMAGOS,БОЕВОЙ МАГ
+"Unlike other Magi, they also get access to a few basic combat-related Feats and may wear light armor","В отличие от других магов, он получает доступ к нескольким базовым боевым умениям и может носить лёгкую броню"
+The Main Attribute for this Class is Intellect,Главный атрибут этого класса — Интеллект
+"May use Light weapons of type Blade, Club and Bow","Может использовать лёгкие клинки, дубины и луки"
+CHAMPION,ЧЕМПИОН
+Cleric,Клирик
+The Champion is a Cleric who excels in the use of blades and armor whilst still having limited divine spell-casting abilities,"Чемпион — это клирик, превосходно владеющий клинком и бронёй, но всё ещё обладающий ограниченными божественными заклинаниями"
+May use all weapons of type Blade and Club,Может использовать все Клинки и Дубины
+GUILD-MAGOS,ГИЛЬДИЙСКИЙ МАГ
+This comes at the cost of having absolutely no combat related Feats,За это приходится расплачиваться полным отсутствием боевых Умений
+May not wear armor,Не может носить броню
+HIEROPHANT,ИЕРОФАНТ
+A Hierophant is a Cleric who can develop all the different Divine Spell Schools fully,"Иерофант — это клирик, способный полностью развить все школы божественной магии"
+May use Light and Medium weapons of type Club,Может использовать лёгкие и средние дубины
+HOSPITALLER,ГОСПИТАЛЬЕР
+The Hospitaller is a Cleric who serves as a front line healer,"Госпитальер — это клирик, служащий лекарем на передовой"
+"Well armed and armored, they can stand their ground against overwhelming foes whilst also getting access to the highest tiers of the Body Magic School","Хорошо вооружённый и бронированный, он способен удерживать позицию против превосходящих сил, получая доступ к высшим рангам Школы Магии Тела"
+OFFICER,ОФИЦЕР
+The Officer is a skilled warrior who serves as a force multiplier through their tactical skills,"Офицер — опытный воин, усиливающий отряд своими тактическими навыками"
+"Issuing orders across the battlefield, they vastly improve the performance of their fellow party-members","Отдавая приказы по всему полю боя, он значительно повышает эффективность соратников"
+RANGER,РЕЙНДЖЕР
+The Ranger is a Warrior specializing in ranged combat and with access to limited nature magic,"Рейнджер — воин, специализирующийся на дальнем бою и имеющий доступ к ограниченной природной магии"
+THIEF,ВОР
+The Thief is a Rogue who uses Stealth to set up devestating Backstab attacks,"Вор — это плут, использующий Скрытность для подготовки сокрушительных ударов в спину"
+The Main Attribute for this Class is Agility,Главный атрибут этого класса — Ловкость
+STEALTH,СКРЫТНОСТЬ
+Attribute - Skill,Атрибут – Навык
+Stealth is used during adventuring,Скрытность применяется в ходе приключений
+In particular it determines if NPCs notice the party as it moves around,"В частности она определяет, заметят ли NPC отряд во время перемещения"
+AGILITY,ЛОВКОСТЬ
+"A measure of hand-eye coordination, nimbleness and dexterity","Показатель координации, проворства и ловкости"
+BACKSTAB,УДАР В СПИНУ
+A character that has activated the Ability to Backstab will automatically perform Backstabbing Attacks against opponents that are either Flanked or Vulnerable,"Персонаж, активировавший способность «Удар в спину», автоматически наносит удары в спину противникам, которые находятся во фланге или являются уязвимыми"
+A successful Backstab Attack adds the character’s Backstab Bonus Multiplied by the Weapon’s Crit Modifier to the damage roll,"Успешная атака ударом в спину добавляет к броску урона бонус удара в спину персонажа, умноженный на крит-модификатор оружия"
+FLANKING,ФЛАНГ
+A character can be Flanked if opponents occupy the tile above and below it or to the left and right of it,"Персонаж может оказаться во фланге, если противники занимают клетки над ним и под ним либо слева и справа от него"
+Attacking a Flanked target allows the Attacker to add their Flanking Bonus to the Attack Roll,"Атакуя фланговую цель, атакующий добавляет свой бонус фланга к броску атаки"
+Rogues may Backstab Flanked Characters,Плуты могут бить в спину фланговых целей
+BACKSTAB BONUS,БОНУС УДАРА В СПИНУ
+"If a successful Backstab Attack is performed, this Attribute is multiplied by the Weapon’s Crit multiplier and added to the total Damage",При успешном ударе в спину значение этого атрибута умножается на крит-множитель оружия и добавляется к общему урону
+VULNERABLE,УЯЗВИМОСТЬ
+A Vulnerable character cannot defend themselves,Уязвимый персонаж не может защитить себя
+This makes them much easier to hit and it also means they can be Backstabbed,"Это делает их гораздо легче поразимыми и означает, что по ним можно нанести удар в спину"
+WARRIOR,ВОИН
+A Warrior is a front-line fighter who can take and deal large amounts of damage,"Воин — передовой боец, способный выдерживать и наносить большое количество урона"
+PRESENCE,ХАРИЗМА
+A character's ability to read and react to the surrounding environment and people,Способность персонажа считывать и реагировать на окружающую среду и людей
+ATTUNEMENT,МАНА
+Attribute - Magic,Атрибут – Магия
+CLERIC,КЛИРИК
+The Cleric offers close-range support to their party through close ranged buffs and restorative spells,Клирик обеспечивает отряд поддержкой на близкой дистанции с помощью баффов ближнего действия и восстановительных заклинаний
+BODY MAGIC SCHOOL,ШКОЛА МАГИИ ТЕЛА
+The value of this attribute indicates the highest Spell Tier of Body magic spells you may cast,"Значение этого атрибута указывает на максимальный ранг заклинаний школы Тела, которые вы можете накладывать"
+SPELL TIER,РАНГ ЗАКЛИНАНИЙ
+"By studying different Schools of Spellcasting, a character gains Spell Tiers in that School","Изучая разные школы магии, персонаж получает в каждой из них соответствующие ранги заклинаний"
+Spell Tiers qualify a character to learn spells and different spells have different Tier requirements,"Ранги Заклинаний позволяют персонажу изучать заклинания, и разные заклинания имеют разные требования к рангу"
+MAGOS,МАГ
+"The Magos is a ranged strikers that can cast powerful, and often destructive, spells","Маг — дальнобойный ударник, способный творить мощные, порой разрушительные заклинания"
+INTELLECT,ИНТЕЛЛЕКТ
+"Mental acuity, recall and analytical skill","Острота ума, память и аналитические способности"
+FIRE MAGIC SCHOOL,ШКОЛА ОГНЯ
+The value of this attribute indicates the highest Spell Tier of Fire magic spells you may cast,"Значение этого атрибута указывает на максимальный Ранг Заклинаний Школы Огня, которые вы можете накладывать"
+Acolyte,Акколит
+Courtier,Придворный
+Entertainer,Артист
+Ex-Legionary,Ветеран
+Guilder,Гильдиец
+Laborer,Рабочий
+Monastic,Монах
+Noble,Дворянин
+Nomad,Кочевник
+Snake-Cultist,Культист змеи
+Street Rat,Уличная крыса
+Thug,Головорез
+Vagabond,Бродяга
+Wildling,Дикарь
+Select a Background,Выберите Прошлое
+ACOLYTE,АККОЛИТ
+You claim a connection with the divine that goes far deeper than most,"Ты утверждаешь, что твоя связь с божественным куда глубже, чем у большинства"
+"Whether legitimate of not, you’re always ready to dispense holy wisdom; Be it Imperial gospel or the profane ramblings of the heretic","Будь она законной или нет, ты всегда готов изливать священную мудрость; будь то имперское евангелие или кощунственные бредни еретика"
++5 Attunement,+5 Маны
+Select a BACKGROUND for your character,Выберите ПРОШЛОЕ персонажа
+"BACKGROUNDS add points in skills, influence starting conditions and narrative content","ПРОШЛОЕ добавляет очки к навыкам, влияет на начальные условия и повествовательный контент"
+COURTIER,ПРИДВОРНЫЙ
+Your time spent kissing noble arses has made you a master of navigating the cut-throat politics of the Imperial lay-courts,"Время, проведённое за целованием знатных задниц, сделало тебя мастером навигации по беспощадной политике светских дворов Империи"
++1 Awareness,+1 Внимание
++1 Diplomacy,+1 Дипломатия
+NOBLE,ДВОРЯНИН
+"An individual of old blood, you learned long ago that wealth and connections tend to open doors that are otherwise closed to the filthy masses","Будучи человеком древней крови, ты давно усвоил, что богатство и связи обычно открывают двери, которые в противном случае остаются закрытыми для презренной черни"
++1 Lore,+1 Знания
+DIPLOMACY,ДИПЛОМАТИЯ
+"Diplomacy is used to lie, bargain or sway others in negotiations","Дипломатия используется для лжи, торга или склонения других в ходе переговоров"
+It influences prices at merchants,Влияет на цены у торговцев
+LORE,ЗНАНИЯ
+A general knowledge skill,Навык общей эрудиции
+AWARENESS,ВНИМАНИЕ
+The ability to notice small details and hidden things,Способность замечать мелкие детали и скрытые вещи
+You are an esteemed member of the Empire’s teeming underworld with a special knack for getting in and out of places you shouldn’t be,"Вы — уважаемый член бурлящего подполья Империи, обладающий особым даром проникать в места, где вам не следовало бы находиться, и так же ловко оттуда уходить"
++1 Stealth,+1 Скрытность
++1 Thievery,+1 Воровство
+THIEVERY,ВОРОВСТВО
+Used to pick locks and pockets as well as to steal from shops,"Используется для взлома замков и карманных краж, а также для краж в магазинах"
+ENTERTAINER,АРТИСТ
+"In equal parts despised and adored by the wealthy of the Empire, the traveling entertainer can make a pretty penny off their blinding charisma and nimble fingers","В равной мере презираемый и обожаемый богачами Империи, странствующий артист может неплохо заработать на своей ослепительной харизме и ловких пальцах"
+EX-LEGIONARY,ВЕТЕРАН
+A member of the ‘old breed’; forged and tempered by the hardships of soldiering,"Член 'старой гвардии', выкованный и закалённый тяготами солдатской службы"
+You now belong to the ever-growing fraternity of fellow men and women with scarred bodies and broken minds who roam the Empire in search for a quiet piece of land to call home,"Теперь ты принадлежишь к всё растущему братству мужчин и женщин со шрамами на телах и сломанными душами, которые странствуют по Империи в поисках тихого клочка земли, чтобы назвать его домом"
++30lbs Carrying Bonus,+30 фн к грузоподъёмности
+CARRYING BONUS,БОНУС НОШИ
+Attribute - Misc,Атрибут – Разное
+A bonus in pounds added to the character’s Carrying Capacity,Доп. фунты к грузоподъёмности персонажа
+GUILDER,ГИЛЬДИЕЦ
+"Like so many of the Empires young and promising, you were recruited into guild service at a fairly early age","Как и многих молодых и подающих надежды жителей Империи, тебя довольно рано завербовали на службу гильдии"
+"As the saying goes, work for the illustrious guilds tends to leave you with 'gold in your purse and blood on your hands'","Как гласит поговорка, работа на прославленные гильдии обычно оставляет тебе 'золото в кошеле и кровь на руках'"
++1 Crafting,+1 Ремесло
+CRAFTING,РЕМЕСЛО
+Crafting is used when creating items at crafting stations,Ремесло используется при создании предметов на ремесленных станциях
+LABORER,РАБОЧИЙ
+You’ve spent years toiling under the oppressive yoke of hard labor,"Ты провёл годы, надрываясь под гнётом тяжёлого труда"
+"Though it may not have left you with much coin in your pocket, it has given you an unnatural resistance to hardship","Хотя она не оставила в твоём кармане много монет, она дала тебе неприродную стойкость к лишениям"
++1 Toughness,+1 Крепкость
+TOUGHNESS,СТОЙКОСТЬ
+The character’s ability to withstand adverse physical effects such as disease and poison,Сопротивление болезням и ядам
+MONASTIC,МОНАХ
+You have served one of the holy orders of the Empire from the safety of one of its walled monastic communities,Служил святому ордену за стенами монастыря
+Pray the world has not grown too cruel in your absence,"Молись, чтобы за время твоего отсутствия мир не стал слишком жестоким"
++1 Healing,+1 Исцеление
+HEALING,ИСЦЕЛЕНИЕ
+Healing is used in camp to increase the rate of wound recovery for wounded characters,Исцеление используется в лагере для увеличения скорости заживления ран у раненых персонажей.
+It also influences the amount of vitality regained from healing potions and is used in dialogue tests when dealing with medical issues and such,"Также влияет на количество Живучести, восстанавливаемой зельями лечения, и применяется в проверках диалогов, связанных с медицинскими вопросами и тому подобным."
+VITALITY,ЖИВУЧЕСТЬ
+Attribute - Secondary,Атрибут – Вторичный
+Vitality describes the amount of damage a character can take before becoming seriously wounded,"Живучесть описывает количество урона, которое персонаж может получить, прежде чем будет серьёзно ранен."
+Vitality is fairly easily regained through the use of consumable items and spells,Живучесть довольно легко восстанавливается с помощью расходуемых предметов и заклинаний.
+NOMAD,КОЧЕВНИК
+"You’ve spent years across the seas, living with the desert nomads","Ты провёл годы за морем, живя с пустынными кочевниками"
+"Though ever the outsider, the nomads deemed you trust-worthy enough to become an initiate in the mysteries of their pagan fire-worship","Хотя ты чужак, кочевники сочли тебя достойным посвящения в тайны их языческого огнепоклонства"
++25% Fire Damage Resistance,+25 % сопротивление огню
+FIRE DAMAGE RESISTANCE,СОПРОТИВЛЕНИЕ ОГНЮ
+Attribute - Resistance,Атрибут – Сопротивление
+Damage Resistance reduces incoming Damage of the indicated type by a percentage amount equal to the attribute value,"Сопротивление Урону снижает входящий урон указанного типа на процент, равный значению атрибута"
+A value of 100% or higher means immunity to this damage type,100 % и выше — иммунитет к этому типу урона
+A negative value means a vulnerability to the damage type,Отриц. значение — уязвимость к этому типу урона
+"If this is the case, incoming Damage will be increased",В этом случае входящий Урон возрастает
+SAILOR,МОРЯК
+You’ve heard the call of the Mother of Maelstroms and salt water now runs in your veins,"Ты услышал зов Матери Водоворотов, и теперь солёная вода течёт по твоим жилам"
+"Whether on the deck of a Guilder caravel or manning the sails of a meager fishing sloop, you feel most at home when you’re at sea","Хоть на палубе гильдейской каравеллы, хоть под парусами скромной рыбацкой шаланды — дома ты чувствуешь себя лишь в море"
++1 Athletics,+1 Атлетика
+ATHLETICS,АТЛЕТИКА
+SALT,СОЛЬ
+Food,Еда
+Food Val,Пит. ценн
+Value,Цена
+Weight,Вес
+Used in,Используется
+"With the once-mighty legions of the Empire in decline, this is an age of sellswords and mercenaries","Когда некогда могучие легионы Империи пришли в упадок, настала эпоха наёмных мечей и наёмников"
+There is no shortage of those willing to pay professionals to wreak violence on others and you are very good at your job,"Нет недостатка в тех, кто готов заплатить профессионалам за то, чтобы творить насилие над другими, и ты очень хорош в своей работе."
++3 Vitality,+3 Живучесть
+SNAKE-CULTIST,КУЛЬТИСТ ЗМЕИ
+Writhing with serpents in darkened cellars and hidden temples has left you immune to the snake’s kiss,"Извиваясь со змеями в тёмных погребах и скрытых храмах, ты стал невосприимчив к змеиному поцелую."
++100% Poison Resistance,+100 % сопротивление яду
+POISON RESISTANCE,СОПРОТИВЛЕНИЕ ЯДУ
+Resistance to a condition represents the percentage chance to avoid contracting the condition,Сопротивление состоянию отражает процентный шанс избежать получения этого состояния.
+An attribute value of 100% or above means immunity to the condition in question,100 % и выше — иммунитет
+STREET RAT,УЛИЧНАЯ КРЫСА
+Spending your formative years fending for yourself on the hard streets of the Empire’s sprawling cities has left you with a preternatural instinct for surviving,Проведённые годы становления в одиночной борьбе за существование на суровых улицах разросшихся городов Империи наделили тебя сверхъестественным инстинктом выживания
+No crime is too petty - no meat too mysterious,"Ни преступление слишком мелко, ни мясо слишком странно"
++2 Initiative,+2 Инициатива
+INITIATIVE,ИНИЦИАТИВА
+Initiative determines who goes first in combat,Определяет порядок хода в бою
+THUG,ГОЛОВОРЕЗ
+"Punch first, ask questions later",Сначала бьёшь — потом спрашиваешь
+You have perfected the noble art of solving problems with brute force,Ты довёл до совершенства благородное искусство решать всё грубой силой
++1 Club Damage Bonus,+1 доп. Урон дубиной
+CLUB DAMAGE BONUS,БОНУС УРОН ДУБИНОЙ
+Weapon Damage bonuses increase the Damage dealt when using the indicated Weapon type,Бонусы к урону оружием увеличивают наносимый урон при использовании указанного типа оружия
+VAGABOND,БРОДЯГА
+"Having spent most of your teenage years’ on the road, you are a free spirit with no allegiance to any one person or place","Проведя большую часть своих подростковых лет в дороге, ты — свободный дух, не привязанный ни к одному человеку и ни к какому-либо месту"
+"Drifting from place to place, you go where there is work, food and a warm bed to be had","Перекочёвывая из места в место, ты идёшь туда, где найдутся работа, еда и тёплая постель"
++1 Survival,+1 Выживание
+SURVIVAL,ВЫЖИВАНИЕ
+"Survival is used to forage for food, navigate difficult overland terrain and also determines a character's general knowledge of nature","Выживание используется для поиска пищи, ориентации в сложной пересечённой местности и определяет общий уровень знаний персонажа о природе"
+WILDLING,ДИКАРЬ
+"As the light of civilization fades, the vast wildernesses of the Empire encroach on the civilized folk","По мере того как свет цивилизации меркнет, необъятные дикие земли Империи наступают на цивилизованный люд."
+Thankfully you don’t count yourself among those,"К счастью, ты не из их числа"
+The sky is your temple and the howling of wolves your litany,"Небо — твой храм, а вой волков — твоя литания."
+Primary Stats,Основные статы
+Agility,Ловкость
+Intellect,Интеллект
+Presence,Харизма
+Strength,Сила
+Skills,Навыки
+Athletics,Атлетика
+Awareness,Внимание
+Crafting,Ремесло
+Diplomacy,Дипломатия
+Healing,Исцеление
+Lore,Знания
+Stealth,Скрытность
+Survival,Выживание
+Thievery,Воровство
+Secondary Stats,Вторичные статы
+Combat Stats,Боевые статы
+Crit Chance,Шанс крита
+Initiative,Инициатива
+Melee To Hit,Ближняя атака
+Ranged To Hit,Дальняя атака
+Defences,Защиты
+Dodge,Уклон
+Toughness,Крепкость
+Willpower,Сила воли
+Select an entry!,Выберите запись!
+Primary Attributes and Skills,Основные атрибуты и навыки
+Distribute points to your PRIMARY ATTRIBUTES and SKILLS,Распределите очки в ОСНОВНЫЕ АТРИБУТЫ и НАВЫКИ
+These go a long way towards defining your character mechanically,Они во многом определяют вашего персонажа с точки зрения игровой механики
+SECONDARY STATS,ВТОРИЧНЫЕ СТАТЫ
+Secondary attributes that tend to vary during play,Вторичные атрибуты меняются в ходе игры
+SKILLS,НАВЫКИ
+Skills are derived from primary attributes and are used to perform most non-combat tasks in the game,Навыки выводятся из основных атрибутов и используются для выполнения большинства небоевых задач в игре
+TOTAL,ИТОГ
+FORTITUDE,СТОЙКОСТЬ
+Describes how tough and resilient a character is,Определяет выносливость и живучесть
+WOUNDS,ОЧКИ РАН
+Ranks,Ранг
+RANKS,РАНГ
+COMBAT STATS,БОЕВЫЕ СТАТЫ
+Derived attributes that are used during combat,"Параметры, применяемые в бою"
+CRIT CHANCE,ШАНС КРИТА
+Describes the percentage of Hits that are upgraded to Critical Hits,"% ударов, превращающихся в крит"
+CRITICAL HIT,КРИТИЧЕСКИЙ УДАР
+"For each successful Attack, there is a chance the Hit is upgraded to a Critical Hit","При каждой успешной Атаке есть шанс, что он станет критическим"
+This is a percentage chance equal to the attacker’s Crit Chance Attribute,"Это процентная вероятность, равная значению атрибута 'Шанс крита' атакующего"
+"If a Critical Hit is confirmed, the Damage dealt is multiplied by the Weapon’s Crit. value","Если критический удар подтверждён, нанесённый урон умножается на крит-множитель оружия"
+"For instance a Weapon with a Crit. value of, multiplies the Damage dealt in a Critical Hit by","Например, оружие с крит-значением x2 умножает урон критического удара в 2 раза"
+MELEE DMG,УРОН БЛИЖНЕГО БОЯ
+This is added to the current weapon's damage range for a total damage range,"Прибавляется к диапазону урона текущего оружия, формируя общий диапазон урона"
+Counts encumberance from Armor,Учитывает тяжесть Брони
+Defences are used to defend against attacks and negative effects,Параметры защиты от атак и эффектов
+WILLPOWER,СИЛА ВОЛИ
+Willpower describes a character’s ability to withstand mind-affecting conditions such as those caused by spells,Сопротивление ментальным эффектам
+This attribute influences,Атрибут влияет на
+Main Attribute,Главный атрибут
+Counts encumberance from Headwear,Учитывает тяжесть головного убора
+Counts encumberance from Gloves,Учитывает тяжесть перчаток
+Counts encumberance from Armor and Footwear,Учитывает тяжесть брони и обуви
+Abilities,Способ.
+ABILITIES,СПОСОБНОСТИ
+These are the Feats derived from your class,"Это навыки, полученные от вашего класса"
+Distribute your Development Points in them to gain benefits and new Abilities,Вкладывайте очки развития для бонусов
+Ranks to Distribute,Рангов к распределению
+Armsmaster Feats,Умения мастера оружия
+Not Today!,Только не сегодня!
+NOT TODAY!,ТОЛЬКО НЕ СЕГОДНЯ!
+Triggered Ability,Тригер-способность
+Targets,Цели
+Self,Сам
+Smashing Charge,Сокрушающий рывок
+Enemies,Враги
+Allies,Союзники
+Anyone,Любая
+AoE,Зона
+Melee,Ближний
+Your Charges cause 1-3 additional Blunt Damage,Твой Рывок наносит 1–3 дополнительного Дроб. Урона
+Killing an opponent using a Heavy Melee Weapon restores 1 Attack,Убийство противника Тяжёлым Оружием ближнего боя восстанавливает 1 атаку.
+SWORD EXPERT,ЭКСПЕРТ МЕЧА
+Deep Cut,Глубокий рез
+Your Critical Hits using Blades cause Bleeding on your target,Криты клинком вызывают кровотечение
+Critical Hits with a Club causes The Injured Leg condition,Критический удар дубиной травмирует ногу
+AXE EXPERT,ЭКСПЕРТ ТОПОРА
+Rending Blow,Рвущий удар
+RENDING BLOW,РВУЩИЙ УДАР
+Critical Hits with an Axe causes Injury Conditions,Крит топором вызывает травмы
+ARCHERY EXPERT,ЭКСПЕРТ ЛУКА
+ARCHERY MASTER,МАСТЕР ЛУКА
+Rapid Reload,Быстрая перезарядка
+RAPID RELOAD,БЫСТРАЯ ПЕРЕЗАРЯДКА
+"If you score a Critical Hit with a Bow, you immediately regain 1 attack","Если вы наносите критический удар из лука, вы немедленно восстанавливаете 1 атаку"
+AXE MASTER,МАСТЕР ТОПОРА
+Decapitation,Обезглавливание
+DECAPITATION,ОБЕЗГЛАВЛИВАНИЕ
+AllEnemies,ВсеВраги
+The gruesomeness of your Axe-Kill causes the Fear condition in all opponents who can see it,"Жуть от убийства вами топором вселяет Страх во врагов, которые это увидят"
+CLUB MASTER,МАСТЕР ДУБИН
+SHIELD MASTER,МАСТЕР ЩИТА
+Shield Slam,Удар щитом
+SHIELD SLAM,УДАР ЩИТОМ
+"Whilst wielding a shield, dodging a melee attack causes you to deal 1-4 Blunt damage to your attacker",С щитом: уклонение от ближней атаки наносит атакующему 1–4 дроб. урона
+SWORD MASTER,МАСТЕР МЕЧА
+MEDIUM ARMOR MASTERY,МАСТЕР СР.БРОНИ
+BLOODTHIRSTY,КРОВОЖАДНЫЙ
+HEAVY ARMOR MASTERY,МАСТЕР ТЯЖ.БРОНИ
+Cannot place Rank,Нельзя поставить ранг
+The maximum number of ranks have been placed for this Feat!,Максимум число рангов уже размещёно для этого Умения!
+You don't have any ranks to distribute,Нет рангов для распределения
+Level up to gain ranks!,"Повышайте уровень, чтобы получить ранги!"
+Gender,Пол
+Empty,Пусто
+Male,Мужской
+Portrait,Портрет
+Hair Style,Причёска
+Style,Стиль
+Facial Hair,Борода
+Hair Color,Цвет волос
+Skin Tone,Цвет кожи
+Main Color,Основной цвет
+Secondary Color,Втор. цвет
+Tertiary Color,Трет. цвет
+Randomize,Случайно
+Customize Appearance,Настройка внешности
+You can use this screen to customize your characters physical appearance,"Вы можете использовать этот экран, чтобы настроить физическую внешность вашего персонажа."
+Note that changes made here are purely cosmetic,Изменения чисто косметические
+Finalize your character by editing their appearance,"Завершите создание, настроив внешность"
+Female,Женский
+Type a name and press 'Continue'!,Введите имя и нажмите «Далее»!
+Name must be between 3 and 10 characters long and may only contain standard English letters (A-Z,Имя должно быть от 3 до 10 символов и содержать только латинские буквы (A–Z
+You must destribute all your attribute points before you can proceed!,"Вы должны распределить все очки атрибутов, прежде чем сможете продолжить!"

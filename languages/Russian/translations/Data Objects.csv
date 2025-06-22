@@ -1,0 +1,375 @@
+original,translate
+#Apperances,#Apperances
+Carylla,Carylla
+#Difficulties,#Трудности
+Narrative,Сюжет
+Narrative mode is the difficulty for players who would like to experience the game’s story and setting with a minimum of focus on combat and grinding,"Режим Сюжет - это сложность для игроков, которые хотели бы познакомиться с сюжетом и сеттингом игры, уделяя минимум внимания бою и шлифовке"
+Easy,Легко
+Easy mode is a great way for players who are new to this style of roleplaying game to experience Skald,"Легкий режим - отличный способ познакомиться со Skald для тех, кто только начинает играть в этот стиль ролевых игр"
+Combat is forgiving and there should be little need to optimize character builds,Боевые действия просты и не требуют особой оптимизации персонажей
+Dice rolls are weighted in the player’s favor,Броски кубиков взвешиваются в пользу игрока
+Normal,Норм.
+Normal mode is the game’s intended difficulty setting,Нормальный режим — рекомендованная разработчиками сложность игры
+There is only very limited artificial smoothing of certain dice rolls,Существует лишь очень ограниченное искусственное сглаживание некоторых бросков костей
+Hard,Тяж.
+Hard mode is intended to offer the player a challenge without feeling unfair,"Тяжелый режим предназначен для того, чтобы бросить игроку вызов, но при этом не чувствовать себя нечестным"
+Dice rolls are slightly weighted in the opponent's favor making them more deadly,"Броски кубиков немного смещены в пользу противника, что делает их более смертоносными"
+#Encounters,#Encounters
+Brigands,Бриганды
+You’ve been beset by brigands!,На вас напали разбойники!
+Stand and deliver!,Выступайте!
+Abandoned Cargo,Брошенный груз
+There is some abandoned cargo strewn on the road ahead of you,Впереди вас на дороге валяется какой-то брошенный груз
+Horrors from the deep,Ужасы из глубин
+You're being attacked by enormous fell-crabs!,На вас напали огромные крабы!
+Crawlers,Гусеницы
+Foul creatures swarm from holes in the ground!,Из дыр в земле кишат мерзкие твари!
+Devolved,Девелопмент
+"More beast than man, devolved troglodytes charge towards you!","Больше звери, чем люди, - эти троглодиты с развитой психикой устремляются к вам!"
+Flotsam,Flotsam
+You come across some flotsam,Вы натыкаетесь на какие-то обломки
+Giant Insects,Гигантские насекомые
+Giant insects scurry towards you!,Гигантские насекомые устремляются к вам!
+Giant insects swarm you!,Гигантские насекомые кишат на вас!
+White Hounds,Белые гончие
+Foul slavering beasts barrel towards you!,Неистовые брезгливые звери устремляются к вам!
+Crabs,Крабы
+You're being swarmed by monsterously over-grown crabs!,Вас кишат чудовищно разросшиеся крабы!
+Rot Crabs,Гнилые крабы
+Horribly changes crustaceans shamble towards you!,Ужасно изменившиеся ракообразные ковыляют к вам!
+Spider Crabs,Паукообразные крабы
+You're being charged by Spider-Crabs!,Вас обвиняют пауки-крабы!
+Fell Hounds,Гончие из Фелла
+You've been beset by prowling Fell-Hounds!,На вас напали бродячие фелл-хаунды!
+Fell Hogs,Падшие свиньи
+Fell hogs have caught your scent!,Падшие свиньи уловили ваш запах!
+Rats!,Крысы!
+You're being swarmed by monsterously over-grown rats!,Вас кишат чудовищно разросшиеся крысы!
+Reavers,Риверы
+You've been waylaid by Reavers!,На вас напали Риверы!
+Reaver Patrol,Патруль риверов
+Reaver Raiding-Party,Рейдерская партия
+Giant Lizards,Гигантские ящерицы
+The lizards' jaws snap greedily as reptilian eyes fix you,"Ящерицы жадно щелкают челюстями, а глаза рептилий фиксируют вас"
+Wandering Merchant,Бродячий торговец
+A wandering armorer approaches!,Бродячий оружейник приближается!
+A wandering arms merchant approaches!,Приближается странствующий торговец оружием!
+A wandering food merchant approaches!,Приближается странствующий торговец едой!
+A wandering potion merchant approaches!,К нам приближается странствующий торговец зельями!
+A wandering reagent merchant approaches!,Приближается странствующий торговец реактивами!
+A wandering spell merchant approaches!,Приближается странствующий торговец заклинаниями!
+A wandering trinket merchant approaches!,К нам приближается странствующий торговец безделушками!
+Shades,Оттенки
+"Darker than night, these creatures are pure malice","Темнее ночи, эти существа - чистая злость"
+Snakes,Змеи
+There are snakes in the grass!,В траве водятся змеи!
+Serpents,Змеи
+Overgrown serpents slither towards you!,Змеи-переростки скользят к вам!
+Slithering Horrors,Скользящие ужасы
+Snow-Lizards,Снежные ящерицы
+"Large, horned lizards leap from the snow to ambush you!",Большие рогатые ящерицы выпрыгивают из снега и нападают на вас из засады!
+Creatures From Beyond,Существа из потустороннего мира
+The Dragon is awakening!,Дракон пробуждается!
+Giant Spiders,Гигантские пауки
+Venom drips from snapping jaws as monstrous spiders swarm towards you,"Яд капает из щелкающих челюстей, когда чудовищные пауки устремляются к вам"
+Enormous Spiders,Огромные пауки
+Venom drips from snapping jaws as monstrously huge spiders swarm towards you,"Яд капает из щелкающих челюстей, когда чудовищно огромные пауки устремляются к вам"
+The Frozen Dead,Застывшие мертвецы
+The restless corpses of those claimed by the frozen wastes shamble towards you,"Беспокойные трупы тех, кого забрали замороженные пустоши, бредут к вам"
+#Factions,#Factions
+Village of Firgol,Деревня Фиргол
+Nautical Guild,Морская гильдия
+House Berryn,Дом Беррин
+Iago's Crew,Экипаж Яго
+Idran Refugees,Беженцы Идрана
+The Hundred Sons,Сто сыновей
+Zephyr Crew,"Экипаж ""Зефира"
+The Rat Queen's Court,Двор крысиной королевы
+Oleg the Gray,Олег Серый
+Queen Kala,Королева Кала
+The Butcher,Мясник
+Reavers of Idra,Пожиратели Идры
+Zephyr Survivors,Выжившие в Зефире
+#Map Meta-Data,#Метаданные карты
+Firgol,Фиргол
+Before you lies a small village surrounded by fields and orchards,"Перед вами небольшая деревня, окруженная полями и фруктовыми садами"
+The air is laden with the scent of fruit and the laughter of children and the pastoral bliss stands in stark contrast to the rest of the Outer Isles,"В воздухе витает аромат фруктов и детский смех, а пасторальное блаженство резко контрастирует с остальной частью Внешних островов"
+The Manor,Поместье
+The Mines,Шахты
+Adler's Helm,Шлем Адлера
+Before you lies what appears to be closer to a fortified mining-camp than a town,"Перед вами лежит то, что на первый взгляд ближе к укрепленному шахтерскому лагерю, чем к городу"
+The most striking detail are the wrecks of abandoned ships that lie just outside the town’s harbor,"Самой яркой деталью являются обломки заброшенных кораблей, которые лежат недалеко от городской гавани"
+Horryn,Хоррин
+The Underhalls,Подшлемники
+Horryn Castle,Замок Хоррин
+The Crypt,Склеп
+Horryn Sewers,Канализация Хоррин
+The Womb,Утроба
+Walls of Horryn,Стены Хоррина
+"At the end of the rugged peninsula lies the small, walled fishing village of Horryn","В конце изрезанного полуострова находится небольшая рыбацкая деревушка Хоррин, обнесенная стеной"
+"Once home to hundreds, the town now lies seemingly deserted","Когда-то здесь проживали сотни людей, но сейчас этот город кажется заброшенным"
+"Whatever fate has befallen this place, you must be on you guard if you choose to enter it","Какая бы судьба ни постигла это место, вы должны быть начеку, если решите войти в него"
+The Coastal Pass,Прибрежный перевал
+The Deep Forest,Глубокий лес
+"Besides the buzzing of insects and croaking of toads, the forest is disconcertingly quiet","Кроме жужжания насекомых и кваканья жаб, в лесу царит обескураживающая тишина"
+The foliage seems to thin slightly in this area and to the north-east you can make out a faint wisp of smoke rising from a chimney,"В этом месте листва немного поредела, а на северо-востоке можно разглядеть слабый дымок, поднимающийся из трубы"
+"The foliage does however, seem to thin slightly in this area and to the north-east you can make out a faint wisp of smoke rising from a chimney","Однако в этом месте листва немного поредела, а на северо-востоке можно разглядеть слабый дымок, поднимающийся из трубы"
+Forest Caves,Лесные пещеры
+The Hidden Glen,Скрытый глен
+A hidden glen nestled between two mountains,"Укромное местечко, расположенное между двумя горами"
+"Had you not known to look for it, you would have easily missed it","Если бы вы не знали, что нужно искать, вы бы легко пропустили его"
+Shores of Idra,Берега Идры
+Ahead of you lies the windswept shore where you landed on Idra and the abandoned farmsteam,"Впереди вас ждет продуваемый всеми ветрами берег, где вы высадились на Идре, и заброшенная ферма"
+The Foul Caves,Неистовые пещеры
+Lighthouse Exterior,Экстерьер маяка
+An ancient lighthouse rises steeply from the bluffs ahead of you,Старинный маяк круто поднимается над отвесными скалами впереди вас
+"The beacon is still lit, though it flickers weakly","Маяк все еще горит, хотя и слабо мерцает"
+Under the Lighthouse,Под маяком
+Lighthouse,Маяк
+Refugee Camp,Лагерь беженцев
+"Before you, the unmistakable mess, squalor and desperation of a refugee camp sprawls around a small farmstead like a festering wound","Перед вами безошибочно узнаваемый беспорядок, убожество и отчаяние лагеря беженцев, расползающиеся вокруг маленькой фермы, как гноящаяся рана"
+Coastal Road,Прибрежная дорога
+Sea-Caves,Морские пещеры
+"A huge sea-cave, created by eons of the sea’s relentless attack on the rock, gapes in the cliffs ahead","Впереди в скалах зияет огромная морская пещера, созданная веками неустанного воздействия моря на скалу"
+"If you take great care, a narrow trail allows you to enter it","Если быть очень осторожным, то по узкой тропинке можно попасть в него"
+Wreck Site,Место кораблекрушения
+Broken bodies and debris litter the rocky shores of Idra,Разбитые тела и обломки усеивают скалистые берега Идры
+"In the distance, you can make out what appears to be the remains of the Zephyr's hull","Вдали видны остатки корпуса ""Зефира"""
+Wreckage,Обломки
+The Berryn Estate,Поместье Беррин
+The Cellar,Погреб
+The Outer Isles,Внешние острова
+Outer Isles,Внешние острова
+Excavation Site,Место раскопок
+Priory Crypt,Склеп Приората
+The Black Priory,Черный приор
+A grim edifice rises from the wastelands,Из пустошей поднимается мрачное здание
+"Its walls are weatherbeaten and its empty windows glare at you like dead, black eyes","Его стены побиты непогодой, а пустые окна смотрят на вас мертвыми, черными глазами"
+"Abandoned as it may seem, there is nevertheless some siren call that bids you venture inside… and below","Каким бы заброшенным он ни казался, тем не менее, некий зов сирены побуждает вас войти внутрь... и ниже"
+The Eternity Gate,Врата вечности
+Forest,Лес
+A Twisted Forest,Скрученный лес
+A Field,A Field
+Hills,Холмы
+Road,Дорога
+Shore,Берег
+Tundra,Тундра
+Ship's Deck,Палуба корабля
+Zephyr's Hold,Трюм Зефира
+Zephyr's Lower Deck,Нижняя палуба Зефира
+The Wreck,Кораблекрушение
+Shrine of Agility,Святилище ловкости
+Shrine of Fortitude,Святилище стойкости
+Shrine of Intellect,Святилище интеллекта
+Shrine of Presence,Святилище харизмы
+Shrine of Strength,Святилище силы
+Lorem Ipsum,Lorem Ipsum
+The Weathermaiden,Флюгер
+Tower Dungeon,Башенное подземелье
+Lower Dungeon,Нижнее подземелье
+Tower of Ash,Башня из пепла
+A lone tower pierces the skies as it rises above you,"Одинокая башня пронзает небо, возвышаясь над вами"
+"From some unseen aperture in the cliffs upon which it stands, the wind carries a cloud of fine gray ash","Из какого-то невидимого отверстия в скалах, на которых он стоит, ветер выносит облако мелкого серого пепла"
+"Bitter and unwelcome, the residue sticks in your mouth and eyes",Горький и неприятный осадок задерживается во рту и глазах
+#Stores,#Магазины
+Arra's Goods,Товары Арры
+Esteban's Concoction,Коньяк Эстебана
+The Narwhale,Нарвал
+Martha's Flophouse,Флофаус Марты
+Maija's Goods,Товары Майи
+Quartermaster,Квартермейстер
+#String Lists,#String Lists
+Welcome!,Добро пожаловать!
+Have a seat!,Присаживайтесь!
+I'll be with you in a moment!,Я буду с вами через мгновение!
+Hi there!,Привет!
+Hic,Hic
+I'm cold,Мне холодно
+Spare a coin?,Не найдется монетки?
+So hungry,Такой голодный
+My insides hurt,Мои внутренности болят
+Should you be here?,Вы должны быть здесь?
+Don't tell me you've an audience?,"Не говорите мне, что у вас есть зрители?"
+"Charmed, I'm sure","Очарован, я уверена"
+Hm?,Что?
+There are mercenaries on the island that don't belong here,"На острове есть наемники, которым здесь не место"
+Rumors have it they are encamped on the Priory grounds,"Ходят слухи, что они расположились лагерем на территории Приората"
+I have no idea why they're here but they have to have something to do with what's happening,"Я понятия не имею, почему они здесь, но они должны быть как-то связаны с тем, что происходит"
+I don't believe the farmer's goats are dead!,"Я не верю, что фермерские козы мертвы!"
+I heard someone say she saw the famer's son drive the animals into the mountains when Horryn fell,"Я слышала, как кто-то сказал, что видел, как сын фермера гнал животных в горы, когда Хоррин упал"
+How can he hide away food while we starve?,"Как он может прятать еду, пока мы голодаем?"
+"Governor spent more time out at his estate, east of here than at his offices in Horryn!","Губернатор проводил больше времени в своем поместье к востоку отсюда, чем в своих офисах в Хоррине!"
+"He's probably dead now though, and good riddance to him!","Возможно, он уже мертв, и с ним можно распрощаться!"
+They say smugglers use the caves in the mountains to the west,"Говорят, контрабандисты используют пещеры в горах на западе"
+Maybe they have food?,"Может, у них есть еда?"
+Ships came to the island a few weeks ago,Корабли прибыли на остров несколько недель назад
+"They didn't dock in Horryn, but sailed up towards the Priory","Они не стали причаливать в Хоррине, а поплыли в сторону Приората"
+Maybe they managed to land there?,"Может быть, им удалось там приземлиться?"
+Though I don't know how,"Хотя я не знаю, как"
+The northern coast is all steep cliffs and rocks,Северное побережье - это сплошные отвесные скалы и утесы
+The fishermen began seeing 'something' in the oceans a few weeks ago,"Рыбаки начали замечать ""нечто"" в океане несколько недель назад"
+Then the boats started disappearing!,Затем лодки начали исчезать!
+Now we're trapped here!,Теперь мы здесь в ловушке!
+Just waiting to die!,"Только и ждут, чтобы умереть!"
+When is the Empire coming for us?,Когда Империя придет за нами?
+How can they even know something is wrong?,"Как они вообще могут понять, что что-то не так?"
+"And if they did, they say a horror stalks the seas around Horryn!","А если и так, то, говорят, в морях вокруг Хоррина бродит ужас!"
+I'm not sleeping well,Я плохо сплю
+My dreams,Мои мечты
+They are,Они
+"Ugh, why am I telling you this?",Зачем я вам это рассказываю?
+We're defenceless sitting here!,Мы сидим здесь беззащитные!
+And where is the governor and the guards?,А где губернатор и стража?
+Dead I suppose,"Полагаю, мертв"
+People have started to get sick,Люди начали болеть
+Just look at poor Hannah's boy,Только посмотрите на бедного мальчика Ханны
+Thank you for finding food,"Спасибо, что нашли еду"
+I'm so hungry,Я так голоден
+All those people lost,Все эти люди погибли
+What's happening to us?,Что с нами происходит?
+Do you have any food?,У вас есть какая-нибудь еда?
+I feel better,Я чувствую себя лучше
+Ugh,Ух
+Feels like the world's ending!,"Такое ощущение, что наступил конец света!"
+Leave me alone,Оставь меня в покое
+Please help us!,"Пожалуйста, помогите нам!"
+These caves are beginning to wear on me,Эти пещеры начинают меня утомлять
+I wish we could get out of here soon,Хотелось бы поскорее выбраться отсюда
+Hold on... did you hear something?,Подождите... Вы что-то слышали?
+Have you been to see the queen yet?,Вы уже были у королевы?
+Freythens or Imperials,Фрейтены или имперцы
+I don't care 's long as the coin is good!,"Мне все равно, лишь бы монета была хорошей!"
+Sitting on a cargo like this is making me nervous,"Сидя на таком грузе, я начинаю нервничать"
+Hope we get out to sea again soon!,"Надеюсь, мы скоро снова выйдем в море!"
+They say the world's ending out there,"Говорят, там конец света"
+I don't care - I just want to get out of here!,Мне все равно - я просто хочу выбраться отсюда!
+"In our line of work, strangers are bad news",В нашей работе незнакомцы - плохая новость
+Keep away from me or we'll have words,"Держись от меня подальше, или мы поговорим"
+Mommy!,Мамочка!
+I want to go home!,Я хочу домой!
+I don't want to be here!,Я не хочу быть здесь!
+I'm afraid!,Я боюсь!
+I want my mommy!,Я хочу к маме!
+I can't wait for Carnivale!,"Не могу дождаться ""Карнавала""!"
+I'm so excited!,Я так взволнована!
+I'm going to eat so much cake!,Я съем столько торта!
+Tihi!,Тихи!
+Are you going to Carnivale?,Вы идете на Карнавал?
+Wanna play?,Хотите поиграть?
+Is it Carnivale now?,Теперь это Карнавал?
+My head hurts,Голова болит
+I'm afraid of the dark,Я боюсь темноты
+Gahhh!,Гаххх!
+Cough,Кашель
+I have bad dreams,Мне снятся плохие сны
+Wee!,Уи!
+Carnivale!,Карнавал!
+I want more cake!,Я хочу еще торта!
+Honey-cake is the best!,Медовый торт - лучший!
+Greetings m'lord,"Приветствую вас, милорд"
+Greetings m'lady,"Приветствую вас, миледи"
+Hello,Здравствуйте
+I'm excited for the Carnivale,"Я с нетерпением жду ""Карнавал"""
+The Baron is a good man!,Барон - хороший человек!
+Have you tried the local cider?,Вы пробовали местный сидр?
+Firgol is such a peaceful place,Фиргол - такое спокойное место
+You saved us!,Вы спасли нас!
+What happened?,Что случилось?
+"Thank the Golden, the children are safe!","Слава Золотому, дети в безопасности!"
+I don't really sleep anymore,Я больше не сплю
+Nightmares are back,Кошмары возвращаются
+My head hurts!,У меня голова болит!
+I feel sick!,Мне плохо!
+Hi,Привет
+I'm not supposed to talk to strangers,Я не должна разговаривать с незнакомцами
+You look strange,Ты выглядишь странно
+My stomach hurts,У меня болит живот
+Do you have nightmares too?,Вам тоже снятся кошмары?
+Good to be back,Рад вернуться
+Hello there m'lord,"Здравствуйте, милорд"
+Hello there m'lady,"Здравствуйте, миледи"
+M'lord,Милорд
+M'lady,Миледи
+How could this happen?,Как такое могло случиться?
+What's next?,Что дальше?
+The stench,Вонь
+"Ugh, I'm hungry","Ух, я голоден"
+What?,Что?
+My knee,Мое колено
+I used to be an adventurer,Раньше я был авантюристом
+I’ve got my eye on you!,Я положил на тебя глаз!
+No funny business!,Никаких шуток!
+Hmm?,Хм?
+It’s good to have the Captain back!,"Хорошо, что капитан вернулся!"
+I wonder what happened to the Captain?,"Интересно, что случилось с капитаном?"
+I can't wait to set sail!,"Не могу дождаться, когда отправлюсь в плавание!"
+I could do with some rum!,Я бы не отказался от рома!
+How long do we have to stay here?,Как долго мы должны здесь оставаться?
+Burp,Отрыжка
+You look like a landlubber!,Вы похожи на жителя земли!
+Farewell and adieu to ye ladies of Vauul,"Прощайте и прощайте, дамы Воула"
+"They say practice makes perfect, and maybe they’re right; it seems all those hours spent honing your skills are starting to pay off","Говорят, что практика делает совершенным, и, возможно, они правы: похоже, все эти часы, потраченные на оттачивание мастерства, начинают приносить свои плоды"
+"Keep it up, and soon you’ll be well on your way to mastery!","Продолжайте в том же духе, и скоро вы будете на пути к мастерству!"
+Did this stuff used to be difficult?,Раньше это было сложно?
+"You cannot remember, for right now, you are quickly becoming one of the best in your field","Вы не можете вспомнить, ведь прямо сейчас вы быстро становитесь одним из лучших в своей области"
+Your progress seems to have slowed to a frustrating crawl,"Похоже, ваш прогресс замедлился до удручающего предела"
+"Alas, shuffling forward is always better than standing still","Увы, двигаться вперед всегда лучше, чем стоять на месте"
+"How foolish you were, to think yourself at the top of your game","Как же вы были глупы, считая себя на вершине своей игры"
+"If your journey so far has taught you anything, it is that there is always someone better, someone stronger","Если ваше путешествие и научило вас чему-то, так это тому, что всегда найдется кто-то лучше, кто-то сильнее"
+"The question is not if you are strong enough to beat them, but if you are strong enough to try","Вопрос не в том, достаточно ли вы сильны, чтобы победить их, а в том, достаточно ли вы сильны, чтобы попытаться"
+Giving up has never been an option,Сдаваться никогда нельзя было
+But perhaps a long bath and a good meal wouldn’t go amiss,"Но, возможно, долгая ванна и хорошая еда не помешают"
+"Your latest trials have left you exhausted, yet the perseverance it has taken to push on has left you stronger than ever","Последние испытания выбили вас из колеи, но упорство, с которым вы шли вперед, сделало вас сильнее, чем когда-либо"
+"But despite this victory, a single thought plagues you: how much more can you push until there is nothing left?","Но, несмотря на эту победу, вас мучает одна мысль: сколько еще можно толкаться, пока не останется ничего?"
+"No one can make it through this world alone, and lately you find yourself thinking of those who have helped you on your journey","Никто не может пройти этот мир в одиночку, и в последнее время вы все чаще вспоминаете тех, кто помогал вам на вашем пути"
+"Perhaps one day, when this is all over, you can find a way to repay them","Возможно, когда-нибудь, когда все закончится, вы найдете способ отблагодарить их"
+The person you were when you began this journey is now nothing but a distant memory,"Тот человек, которым вы были в начале этого пути, теперь лишь далекое воспоминание"
+"You are irrevocably changed, and no matter what comes next, you will never be who you once were","Вы безвозвратно изменились, и что бы ни случилось дальше, вы никогда не станете тем, кем были раньше"
+You’ve spent countless hours forging yourself into the person you are today,"Вы потратили бесчисленные часы на то, чтобы стать тем человеком, которым вы являетесь сегодня"
+Now all that’s left to do is the hardest thing of all: trust in yourself,Теперь осталось сделать самое сложное - поверить в себя
+"Soon your journey will be at its end, and though victory is nigh, you cannot help but wonder: what will it cost?","Скоро ваше путешествие подойдет к концу, и хотя победа близка, вы не можете не задаваться вопросом: чего она будет стоить?"
+"For the first time in your life, you are overcome with a sense of purpose",Впервые в жизни вас одолевает чувство целеустремленности
+"The path ahead will undoubtedly be difficult, but you are certain it is the one you are supposed to take","Предстоящий путь, несомненно, будет трудным, но вы уверены, что это именно тот путь, который вы должны пройти"
+"You have mastered all that you have set your mind to, yet the sweetness of your victory is tainted by the knowledge that once you have reached the top, there is nowhere else to go but down","Вы овладели всем, что задумали, но сладость вашей победы омрачает осознание того, что, достигнув вершины, вам больше некуда спускаться"
+"Every step forward is worth celebrating, no matter how small","Каждый шаг вперед стоит отметить, каким бы маленьким он ни был"
+"Keep going, and soon the path behind you will be longer than the path ahead","Продолжайте идти вперед, и вскоре путь позади вас будет длиннее, чем впереди"
+You can feel yourself growing stronger with every trial you face,"Вы почувствуете, как становитесь сильнее с каждым испытанием, с которым сталкиваетесь"
+"Each adventure leaves you just a little faster, a little braver","Каждое приключение делает вас чуть быстрее, чуть смелее"
+What more are you capable of?,На что еще вы способны?
+Adrenaline floods your veins,Адреналин наполняет ваши вены
+"The tasks that once seemed so difficult now come naturally to you, leaving you with an insatiable urge to learn something new","Задачи, которые раньше казались вам сложными, теперь решаются сами собой, и вы испытываете неутолимое желание узнать что-то новое"
+The possibilities ahead of you seem as endless as your potential - who knows what adventures lay ahead?,"Возможности, открывающиеся перед вами, кажутся такими же безграничными, как и ваш потенциал, - кто знает, какие приключения ждут вас впереди?"
+Who knew the human body was capable of such feats?,"Кто бы мог подумать, что человеческое тело способно на такие подвиги?"
+"You can feel yourself changing, the layers of your old self shedding away into something new","Вы чувствуете, как меняетесь сами, как отпадают слои вашего старого ""я"", превращаясь в нечто новое"
+Something better,Что-то получше
+"It amazes you how each adventure manages to present you with a new challenge, reminding you that there is always something more to learn","Удивительно, как каждое приключение бросает вам новый вызов, напоминая, что всегда есть чему поучиться"
+Each dawn is a new chance to perfect your skills,Каждый рассвет - это новый шанс отточить свое мастерство
+"You’re not sure you’ve ever worked this hard for anything before, and you’re not about to give up now","Вы не уверены, что когда-либо работали так усердно ради чего-либо, и не собираетесь сдаваться сейчас"
+Greeting brother!,"Приветствую вас, брат!"
+Greeting sister!,"Приветствую вас, сестра!"
+Do you think we'll get off this island?,"Как вы думаете, мы выберемся с этого острова?"
+I really wanted to see the shrines,Мне очень хотелось увидеть святыни
+Haven't we been tested enough?,Разве мы не прошли достаточно испытаний?
+A blessing upon you!,Благословение вам!
+Huh?,А?
+We have the word from the deep!,У нас есть слово из глубины!
+Bow your head before before our chieftain!,Склоните голову перед нашим вождем!
+The fuck you want?,Чего ты хочешь?
+Look at me funny and I'll gut you!,"Посмотри на меня смешно, и я тебя выпотрошу!"
+Hhhh,Hhhh
+Ahhh,Аххх
+Gahhh,Gahhh
+Mhhhh,Мхххх
+Steel Thyself!,Станьте сами!
+Draw Steel!,Нарисуй сталь!
+Make Ready!,Приготовьтесь!
+Death or Glory!,Смерть или слава!
+To the Last!,До последнего!
+Blood Will Flow!,Кровь будет литься!
+It’s good to be sailing again!,Как хорошо снова ходить под парусом!
+Aye?,Да?
+Seasick?,Морская болезнь?
+Found your sea legs?,Нашли свои морские ноги?
+#Variables,#переменные
+None,Нет
+Faction has turned HOSTILE,Фракция стала ВРАЖДЕБНОЙ

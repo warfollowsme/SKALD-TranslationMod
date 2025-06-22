@@ -1,0 +1,324 @@
+original,translate
+#Beds,#Кровати
+Bed,Кровать
+Bedroll,Спальник
+#Containers,#Контейнеры
+Armor Stand,Подставка для доспехов
+Armor Stands,Подставки для доспехов
+Backpack,Рюкзак
+Arrows,Стрелки
+A Barrel,Бочка
+"A barrel of standard Imperial measurements, used to carry cargo on Guild ships","Бочка стандартных имперских размеров, используемая для перевозки грузов на кораблях Гильдии."
+Barrels,Бочки
+Bookshelf,Книжная полка
+Box,Коробка
+A solid box,Прочная коробка
+Brandy Crates,Коньячные ящики
+Cabinet,Шкаф
+A Chest,Сундук
+A sturdy wooden chest,Прочный деревянный сундук
+A shoddy wooden chest,Непрочный деревянный сундук
+Cocoon,Кокон
+The Butcher,Мясник
+Corpse,Труп
+Sailor's Corpse,Труп моряка
+Kala,Кала
+Oleg,Олег
+Mauled Corpses,Растерзанные трупы
+A Crate,Ящик
+A well made wooden crate that carries the brand of the Nautical Guild,"Хорошо сделанный деревянный ящик, на котором изображен бренд Гильдии мореплавателей."
+Crates,Ящики
+Small wooden crates,Небольшие деревянные ящики
+Alcove,Альков
+Shelves,Полки
+Desk,Стол
+Apothecary's Desk,Стол аптекаря
+Flower,Цветок
+Secret Compartment,Секретное отделение
+Your Luggage,Ваш багаж
+A very sturdy wooden chest,Очень прочный деревянный сундук
+A sturdy chest,Прочный сундук
+Table of Notes,Таблица примечаний
+Sacks,Мешки
+Sarcophagus,Саркофаг
+Reagent Shelf,Полка для реагентов
+Smuggler's Corpse,Труп контрабандиста
+Table,Таблица
+Surgical Tools,Хирургические инструменты
+#Decoratives,#Декоративные элементы
+Cave-In,Cave-In
+Aquarium,Аквариум
+Cauldron,Котел
+An empty cauldron,Пустой котел
+Eyes,Глаза
+Fountain,Фонтан
+Glowstaff,Glowstaff
+Reefs,Рифы
+Empty Grave,Пустая могила
+Pile of Straw,Куча соломы
+Infestation,Заражение
+Ancient Pottery,Древняя керамика
+"Ancient clay pottery covered in strange, ornate circular patterns","Древняя глиняная посуда, покрытая странными, витиеватыми круговыми узорами"
+Hole,Отверстие
+Scarecrow,Пугало
+#Doors,#Двери
+Barred Gate,Заградительные ворота
+Door,Дверь
+Gate,Ворота
+A Door,A Door
+A double wooden door,Двойная деревянная дверь
+A simple wooden door,Простая деревянная дверь
+A flimsy wooden door,Хлипкая деревянная дверь
+A Hidden Door,Скрытая дверь
+Stone Slab,Каменная плита
+"A massive, reinforced door","Массивная, укрепленная дверь"
+This door appears to be barricaded from the other side,"Эта дверь, похоже, забаррикадирована с другой стороны."
+It cannot be opened from this side,Его нельзя открыть с этой стороны
+Barred Door,Дверь с решеткой
+Inn Door,Дверь гостиницы
+Portal,Портал
+Web,Веб-сайт
+The web of some giant arachnid,Паутина какого-то гигантского арахнида
+#Inspectables,#Inspectables
+The piece of paper seems to contain a work order,"На листе бумаги, похоже, написано распоряжение о работе."
+"and as can clearly be observed, the tunnel’s support pillar is close to giving in","и, как можно видеть, опорная стойка тоннеля близка к тому, чтобы поддаться"
+"If this last piece of support was to be removed, it is highly likely that the tunnel would collapse completely","Если убрать эту последнюю опору, велика вероятность того, что туннель полностью обрушится."
+continue the previous day’s work of expanding the tunnel eastwards,продолжить работу по расширению туннеля на восток.
+I believe you should be very close to breaking through,"Я считаю, что вы должны быть очень близки к тому, чтобы прорваться"
+Doing so will allow us to create a short-cut to the mine’s entrance and I don’t need to tell you how much this would improve logistics,"Это позволит нам создать короткий путь к входу в шахту, и мне не нужно говорить вам, насколько это улучшит логистику."
+Barricade,Баррикады
+A barricade constructed from debris blocks this path,Этот путь преграждает баррикада из обломков.
+It is too large to dismantle before retaking the city and for now you must find some way around it,"Он слишком велик, чтобы демонтировать его до захвата города, поэтому сейчас вы должны найти способ обойти его."
+Cave In,Пещера
+A portion of the cave has collapsed behind you,Часть пещеры обрушилась позади вас.
+There is no going back this way,Обратного пути нет.
+Spider Corpse,Паучий труп
+The mauled corpse of a giant spider,Истерзанный труп гигантского паука
+Grave,Могила
+A fresh grave with a simple marker made of sticks,Свежая могила с простой табличкой из палок
+No name can be found upon it,На нем нет ни одного имени.
+The corpse belongs to a graying old man,Труп принадлежит седому старику.
+His face is serene and there is nothing to indicate he did not die of natural causes,"Его лицо безмятежно, и ничто не указывает на то, что он умер не от естественных причин."
+"Leaning over the body however, you spot thin strands of some bizarre purplish fungal growth protruding from the man's mouth and nose","Наклонившись над телом, вы заметили тонкие нити какого-то причудливого пурпурного грибка, торчащие изо рта и носа мужчины."
+"Strange vines of some unknown, purplish growth bursts forth from the masonry",Из каменной кладки вырываются странные лианы неизвестного фиолетового цвета.
+"As you lean in, fine strands reach greedily towards you","Когда вы наклоняетесь, тонкие пряди жадно тянутся к вам."
+You recoil in disgust and decide it’s best to not touch the growths,"Вы отшатываетесь с отвращением и решаете, что лучше не трогать наросты."
+Dead Body,Мертвое тело
+A body lies broken upon the ground,На земле лежит изломанное тело.
+"Though it has been gnawed by hounds, it seems clear that this person fell or jumped from the cliffs above","Хотя она была изгрызена гончими, кажется очевидным, что этот человек упал или спрыгнул со скалы, расположенной выше."
+Old Crates,Старые ящики
+Old and ruined shipping crates litter this part of the cave,Старые и разрушенные ящики для перевозки грузов загромождают эту часть пещеры.
+Only smugglers would use a place like this to store their goods,Только контрабандисты могут использовать такое место для хранения своих товаров.
+"Perhaps there are other, similar caches to be found on the Outer Isles?","Возможно, на Внешних островах есть и другие подобные тайники?"
+A Note,Заметка
+A note is scrawled in crude letters,Записка нацарапана грубыми буквами
+Kook!,Кук!
+I cannot stand another meal of Salted Fish!,Я не вынесу еще одного блюда из соленой рыбы!
+"There is a limet to how long a man can live on salt, potatoes and perklin","Существует предел, до которого человек может прожить на соли, картошке и перклине."
+"Take head, or git a dagger in the eye ye cheap basterd","Возьми голову или получи кинжал в глаз, дешевый ублюдок."
+Strange Jar,Странный кувшин
+An oddly shaped container of some unknown design,Контейнер странной формы неизвестной конструкции
+"The surface is smooth and metallic, but not of a material you recognize","Поверхность гладкая и металлическая, но не из того материала, который вы узнаете."
+"Though the artifact is without a scratch, it still somehow conveys impossible age","Хотя артефакт без единой царапины, он все равно каким-то образом передает невозможный возраст."
+Librarian’s Journal,Журнал библиотекаря
+A book lies open on the librarian’s desk,На столе библиотекаря лежит открытая книга.
+"Brother Auran has once again made off with the key to the forbidden section, claiming it is ‘much more convenient for both me and him’ that he keeps it for the duration of his studies","Брат Ауран снова завладел ключом от запретной секции, заявив, что ""так будет удобнее и мне, и ему"", если он оставит его у себя на время обучения."
+He’s assured me it’s well hidden in his study in the eastern tower whilst not in use,"Он заверил меня, что пока она не используется, она хорошо спрятана в его кабинете в восточной башне."
+Bloody fool,Чертов дурак
+I’ll need to send lay-brother Theo to recover it next time Auran is sleeping,"Надо будет послать брата-мирянина Тео восстановить его, когда Ауран будет спать."
+Sea-Caves,Морские пещеры
+The sea-caves lie abandoned and closed off,Морские пещеры лежат заброшенные и закрытые.
+Scribbled in a shaky hand on ancient parchment is the following verse,На древнем пергаменте дрожащей рукой начертано следующее стихотворение
+Walk the path in humble fate Contemplate the hidden gate,"Идите по пути смиренной судьбы, размышляя о скрытых вратах."
+Let the watchers show the way Like time flows ‘round the wheel of day,"Пусть наблюдатели укажут путь, как время течет вокруг колеса дня."
+To heed the silent sleepers call And enter into the Dreaming Hall,Прислушаться к зову спящих и войти в зал сновидений.
+Ink and Paper,Чернила и бумага
+Ink and paper that appears to have been abandoned mid-use,"Чернила и бумага, которые, похоже, были заброшены в середине использования"
+It seems someone was copying the mosaic on the floor,"Кажется, кто-то копировал мозаику на полу."
+Grotesque Relief,Гротескный рельеф
+The sarcophagus has the following description,Саркофаг имеет следующее описание
+Carroleth the Manyfaced - First Grandmaster of the Order of the Crystal Eye,Карролет Многоликий - первый гроссмейстер ордена Хрустального глаза
+Rothrax the Gray - Second Grandmaster of the Order of the Crystal Eye,Ротракс Серый - второй гроссмейстер ордена Хрустального глаза
+Kalamar the Wise - Third Grandmaster of the Order of the Crystal Eye,Каламар Мудрый - третий гроссмейстер ордена Хрустального глаза
+Secret Passage,Секретный проход
+The relief of this altarpiece seems to shift and squirm in the dancing light,Рельеф этого алтарного образа словно смещается и корчится в танцующем свете.
+"What’s more, there appears to be a hidden passage behind it","Более того, похоже, что за ним есть скрытый проход."
+No way of opening it can be seen nearby,Поблизости не видно ни одного способа открыть его.
+Pile of Ash,Груда пепла
+This cave opens up into the sheer cliff wall beneath the tower,Эта пещера открывается в отвесную стену скалы под башней.
+Piled on the ledge is a great heap of ash that the wind occasionally carries away in great wisps,"На уступе лежит большая куча пепла, которую ветер время от времени уносит в огромных клочьях."
+Carefully you prod the pile only to find a small handful of scorched human bones and teeth,"Осторожно разгребая кучу, вы находите небольшую горстку обгоревших человеческих костей и зубов."
+"Looking around, you see a great in the ceiling above from which the ash appears to have been dumped","Оглянувшись, вы видите в потолке над головой большое отверстие, из которого, судя по всему, сбрасывали пепел."
+"A large square slab with small holes carved in it appears to be placed over some sort of shaft, sealing it shut","Большая квадратная плита с вырезанными в ней маленькими отверстиями, похоже, была наложена на какую-то шахту, закрывая ее."
+You attempt to look through one of the holes but are knocked back by an unbearable stench emitting from below,"Вы пытаетесь заглянуть в одно из отверстий, но отшатываетесь назад от невыносимой вони, исходящей снизу."
+But wait?,Но подождите?
+Was there something else?,Было ли что-то еще?
+Movement?,Движение?
+The slab seems too heavy to lift and just as well,"Плита кажется слишком тяжелой, чтобы ее поднимать."
+You have an overwhelming feeling that what is trapped in the shaft below was not meant for mortal eyes to see and is best left in the dark,"У вас есть непреодолимое чувство, что то, что находится в шахте под землей, не предназначалось для смертных глаз и лучше оставить это в темноте."
+A Desk,A Desk
+A desk with a maritime navigation map,Стол с морской навигационной картой
+The map is labled 'The Outer Isles' and a course is drawn towards an island named 'Idra',"Карта обозначена как ""Внешние острова"", а курс проложен к острову под названием ""Идра""."
+A Grisly Scene,Грозная сцена
+You recognize the corpse of one of the crew-mates,Вы узнаете труп одного из членов экипажа.
+A young man of barely 16 years called Sullum,"Молодой человек, которому едва исполнилось шестнадцать лет, по имени Саллум"
+The youth has been mauled to death by what you assume are the grotesquely altered rats you encounterd just minutes ago,"Юношу до смерти загрызли те, кто, как вы полагаете, является гротескно изменившимися крысами, с которыми вы столкнулись всего несколько минут назад."
+The corpse is still warm,Труп еще теплый.
+#Interactables,#Interactables
+A Cat,A Cat
+A cat watches you intently,Кошка пристально наблюдает за вами
+Chain,Цепь
+Beehive,Улей
+Benches,Скамейки
+Drinks,Напитки
+Food,Еда
+A King in Yellow,Король в желтом
+Stage,Сцена
+Stairways,Лестницы
+Mine Entrance,Вход в шахту
+Grindstone,Grindstone
+A grindstone used for sharpening weapons,"Точильный камень, используемый для заточки оружия"
+Entrance to Tunnels,Вход в туннели
+The Fishermen's Gate,Рыбацкие ворота
+A Prisoner,Заключенный
+Dead Horse,Мертвая лошадь
+Scraps of Meat,Мясные обрезки
+Jakub and Ella,Якуб и Элла
+The Ganglion,Ганглион
+A Well,A Well
+Dessicated Corpse,Дессицированный труп
+Ladder,Лестница
+Telescope,Телескоп
+Cato's Study,Исследование Катона
+Prisoner,Заключенный
+A Map,A Map
+Faulty Support,Неисправная поддержка
+Weakened Wall,Ослабленная стена
+Mole Burrow,Кротовая нора
+A Monolith,Монолит
+Portcullis,Порткуллис
+Ancient Monolith,Древний монолит
+Golden Tomb,Золотая гробница
+Gong,Гонг
+A Statue,Статуэтка
+Rope,Веревка
+A Painting,A Painting
+Helm,Руль
+Shrine of Agility,Святилище ловкости
+Shrine of Fortitude,Святилище стойкости
+Shrine of Intellect,Святилище интеллекта
+Shrine of Presence,Святилище харизмы
+Shrine of Strength,Святилище силы
+Driina,Дрина
+Pool,Бассейн
+A Stange Statue,Странная статуя
+Console,Консоль
+Strange Basins,Странные бассейны
+Vomit Cap cluster,Скопление рвотных пробок
+Waterfall,Водопад
+Winch,Лебедка
+Drainage,Дренаж
+Elevator,Лифт
+A Strange Machine,Странная машина
+Protoplasmic Catalyzer,Катализатор протоплазмы
+Book,Книга
+Reflecting Pool,Отражающийся бассейн
+#LightSources,#Источники света
+Bees,Пчелы
+Brazier,Brazier
+Camp Fire,Лагерный огонь
+Candles,Свечи
+Candle,Свеча
+Flies,Мухи
+Fire,Огонь
+Fireflies,Светлячки
+Glow Globe,Светящийся шар
+Model,Модель
+Lightcaster,Лайткастер
+Stake,Колышек
+Torch,Факел
+A torch hangs on the wall,На стене висит факел.
+Light,Свет
+#Pickups,#Пикапы
+Carrots,Морковь
+Cheese Wheel,Колесо сыра
+Fish,Рыба
+Gullyfern,Гуллиферн
+Legionnaire’s Rest,Отдых легионера
+Sorrow-Eater,Пожиратель печали
+Starspawn,Starspawn
+Sunmouth,Санмут
+Apples,Яблоки
+Pears,Груши
+Eggs,Яйца
+Cured Hams,Вяленая ветчина
+Lantern,Фонарь
+Leeks,Лук-порей
+Patch of Cavechild,Заплатка пещерного ребенка
+Patch of Glowmen,Патч светящихся людей
+Fellbell,Fellbell
+Laughtercap,Лазеркап
+Morel,Морель
+Punny Bun,Булочка
+Wyrdloaf,Wyrdloaf
+Bird's Nest,Птичье гнездо
+Onions,Лук
+Pick-Axe,Топор-пика
+Potatos,Картофель
+Ripe Pumpkin,Спелая тыква
+Recipe,Рецепт
+Rotten Log,Гнилой журнал
+A Badge,Значок
+Shovel,Лопата
+Vessels,Сосуды
+Lotus Pool,"Бассейн ""Лотос"
+#TestProps,#TestProps
+Broken Bridge,Сломанный мост
+The bridge ahead is broken,Мост впереди разрушен
+Perhaps you can jump the gap?,"Может быть, вы сможете перепрыгнуть пропасть?"
+Climbing Holds,Удерживающие устройства для скалолазания
+You can climb down this wall,Вы можете спуститься по этой стене.
+You can climb the wall ahead,Вы можете взобраться на стену впереди
+"Using the rope, you can descend the wall",С помощью веревки вы можете спуститься по стене.
+Stack of Boxes,Стопка коробок
+Using the stack of boxes you can reach the rope and try to climb the wall,С помощью штабеля ящиков вы можете добраться до веревки и попытаться взобраться на стену.
+#Triggers,#Триггеры
+{notHasJournalEntry|JOU_CrabCaveEntrance},{notHasJournalEntry|JOU_CrabCaveEntrance}
+A Survivor,Выживший
+#Warps,#Warps
+Entrance,Вход
+Stairs,Лестницы
+A set of stairs leading to the deck above,"Лестница, ведущая на палубу выше"
+Stairs Up,Лестница вверх
+Cave Entrance,Вход в пещеру
+Exit,Выход
+A set of stairs leading to the deck below,"Лестница, ведущая на нижнюю палубу."
+Stairs Down,Лестница вниз
+Trapdoor,Ловушка
+Castle Entrance,Вход в замок
+Castle Exit,Выход из замка
+Catacomb Entrance,Вход в катакомбы
+Exit to Temple,Выход к храму
+Grate,Решетка
+Secret Door,Тайная дверь
+Firgol,Фиргол
+Adler's Helm,Шлем Адлера
+Horryn,Хоррин
+A Hidden Glen,Скрытая глена
+Abandoned Farm,Заброшенная ферма
+A Refugee Camp,Лагерь беженцев
+A Forest Glade,Лесная поляна
+The Wreck of the Zephyr,"Крушение корабля ""Зефир"
+A Lighthouse,Маяк
+The Black Priory,Черный приор
+Sea Caves,Морские пещеры
+A Tower,Башня
+Rope and Bucket,Веревка и ведро
+Ladders,Лестницы
+#WorkBenches,#WorkBenches
+Alchemist's Tools,Инструменты алхимика
+A cauldron for cooking,Котелок для приготовления пищи
+Pot,Горшок
+An pot that can be used for cooking,"Кастрюля, в которой можно готовить"
+Oven,Печь
+An oven that can be used for cooking,"Духовка, которую можно использовать для приготовления пищи"

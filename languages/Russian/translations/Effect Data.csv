@@ -1,0 +1,97 @@
+original,translate
+#Blessing Effects,#Эффекты благословения
+Greater Restore Attunement,Большее восстановление Маны
+Minor Restore Attunement,Незначительное восстановление Маны
+Moderate Restore Attunement,Умеренное восстановление Маны
+Sublime Restore Attunement,Возвышенное восстановление Маны
+Barkskin,Баркскин
+Bear's Strength,Сила медведя
+Bless,Благословите
+Blur,Пятно
+Clarity of Mind,Ясность ума
+Cure Blindness,Вылечить слепоту
+Cure Charm,Лечебные чары
+Cure Deafness,Вылечить глухоту
+Cure Moderate Disease,Излечение умеренных болезней
+Cure Severe Disease,Излечение тяжелых заболеваний
+Cure Weak Disease,Исцеление слабых болезней
+Removes the Diseased Condition from the target,Снимает с цели состояние болезни
+Cure Insanity,Лечить безумие
+Cure Paralysis,Излечить паралич
+Cure Moderate Poison,Вылечить умеренный яд
+Cure Strong Poison,Исцеление сильного яда
+Cure Weak Poison,Вылечить слабый яд
+Cure Silenced,Лечить молчанием
+Defend,Защищайте
+Diamond Form,Бриллиантовая форма
+Fortify Awareness,Усиленное Внимание
+Fortify Initiative,"Инициатива ""Укрепление"
+Fortify Will,Укрепление воли
+Frenzy,Frenzy
+Greater Haste,Большая поспешность
+Lesser Haste,Меньшая поспешность
+Greater Healing,Великое исцеление
+Minor Healing,Малое исцеление
+Minute Healing,Минутное исцеление
+Moderate Healing,Умеренное исцеление
+Sublime Healing,Возвышенное исцеление
+Heroism,Героизм
+Hide,Скрыть
+Illuminate,Просветите
+Acid Immunity,Кислотный иммунитет
+Electric Immunity,Электрический иммунитет
+Fire Immunity,Невосприимчивость к огню
+Panic Immunity,Иммунитет к панике
+Inspire,Вдохновляйтесь
+Invisibility Lesser,Невидимость меньшая
+Recover,Восстановить
+Greater Regeneration,Большая регенерация
+Lesser Regeneration,Меньшая регенерация
+Remove Fear,Устраните страх
+Acid Resistance,Устойчивость к кислотам
+Electric Resistance,Электрическое сопротивление
+Fire Resistance,Огнестойкость
+Serpent's Grace,Милость змеи
+Stoneskin,Stoneskin
+Thornclad,Thornclad
+#Curse Effects,#Эффекты проклятия
+Cause Confusion,Запутаться
+Deafness,Глухота
+Cause Fear,Вызывать страх
+Condemn,Осудить
+Disrupt,Disrupt
+Immobilize,Иммобилизация
+Infect,Заразиться
+Greater Infect,Большая инфекция
+Lesser Infect,Меньшая инфекция
+Infects the target with a disease,Заражает цель болезнью
+Mark Target,Марк Таргет
+Paralyze,Парализовать
+Moderate Poisoning,Умеренное отравление
+Strong Poisoning,Сильное отравление
+Weak Poisoning,Слабое отравление
+Purge Invisibility,Устранить невидимость
+Silence,Тишина
+Slow,Медленный
+Stun,Электрошокер
+Weaken,Ослабить
+#Damage Effects,#Ущербные эффекты
+Cause Bleeding,Причина кровотечения
+Cause Injury,Причина травмы
+Kneecap,Коленная чашечка
+Minor Acid Splash,Незначительные брызги кислоты
+Massive Kinetic Damage,Массивный кинетический урон
+Medium Kinetic Damage,Средний кинетический урон
+Minor Magical Damage,Малый магический урон
+Minor Sublime Damage,Незначительный возвышенный ущерб
+Fire Flash,Огненная вспышка
+Hamstring,Подколенное сухожилие
+Minor Psychic Blast,Малый психический взрыв
+Minor Slam,Малый шлем
+Medium Slash,Средняя косая черта
+Minor Slash,Малая косая сажень
+#General Effects,#Общие эффекты
+Clear Magical Conditions,Очистить магические условия
+Dispel Magic,Рассеять магию
+Get Drunk,Напиться
+Push Target,Толкать цель

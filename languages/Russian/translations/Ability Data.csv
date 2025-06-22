@@ -1,0 +1,326 @@
+original,translate
+#Combat Manuevers,#Комбат Маневры
+Wild Swing,Дикие Замах
+Critical Strike,Критический удар
+Defend Ally,Защитить союзника
+Mark Target,Пометить цель
+The Target gets the Marked Condition which confers a -2 penalty to Dodge for the rest of the encounter,"Цель получает состояние Отмеченный, которое накладывает штраф -2 к уклонению до конца встречи."
+Radiate Fear,Излучать страх
+Blizzard Aura,Аура метели
+Aura of Fire,Аура огня
+Fire Lance,Огненное копье
+Howl of Terror,Вой ужаса
+Lightning Lash,Молниеносный удар
+Spit Acid,Плевок кислоты
+Spit Poison,Плевок ядом
+Spray Acid,Распылить кислоту
+Attack!,Атака!
+Forwards!,Вперёд!
+Regroup!,Перегруппируйтесь!
+Stand Your Ground!,Стоять на своем!
+Precise Strike,Точный удар
+Rapid Shot,Быстрый выстрел
+The character makes a ranged attack,Персонаж совершает атаку дальнего боя
+"If that attack is successful, they may make another, free attack","Если эта атака успешна, они могут совершить еще одну, бесплатную атаку."
+Pierce Armor,Пробить броню
+Vein Strike,Удар по венам
+Savage Strike,Удар дикаря
+Shake the Earth,Сотрясать землю
+Shield Rush,Рывок щитом
+Perform an attack that pushes your opponent back one square if successfull,"Выполните атаку, которая при успехе отбрасывает противника на одну клетку назад."
+Deals normal damage,Наносит обычный урон
+Spellburn,Спеллберн
+Storm of Steel,Стальной шторм
+Stunning Blow,Ошеломляющий удар
+Thrust And Parry,Удар и парирование
+Dash,Тире
+Hide in Combat,Спрятаться в бою
+You gain the ability to hide whilst in Combat,Вы получаете способность прятаться во время боя.
+Attacking whilst hidden triggers the Backstab attack,Атака в скрытом состоянии вызывает атаку Backstab.
+Infect,Заразиться
+Ice Breath,Ледяное дыхание
+Imperial Litany,Императорская литания
+Hamstring,Подколенное сухожилие
+Second Wind,Второй ветер
+#Passive Abilitiy,#Passive Abilitiy
+Backstabber,Backstabber
+Allows the character to perform Backstab Attacks against voulnerable targets,"Позволяет персонажу наносить ответные атаки против целей, которые могут быть выбраны."
+Evasive,Верткость
+Disengaging from Melee does not cause your turn to end,Отключение от ближнего боя не приводит к завершению хода.
+Fancy Footwork,Причудливая работа ног
+Swapping Places with allies not longer causes your Turn to end,Обмен местами с союзниками больше не приводит к завершению вашего хода
+Activate Spellcasting,Активировать заклинание
+Allows the character to begin studying schools of spellcasting,Позволяет персонажу начать изучать школы заклинаний
+"To learn spells, pick and invest in one or more such schools","Чтобы научиться заклинаниям, выберите одну или несколько таких школ и вложите в них деньги."
+Increased Agiliy,Увеличенный Агилий
+Increased Heavy Armor Use,Увеличение использования тяжелой брони
+Increased Light Armor Use,Увеличение использования легких доспехов
+Increased Medium Armor Use,Увеличение использования средней брони
+Increased Athletics,Увеличенная Атлетика
+Increased Attunement,Увеличенная Мана
+Spell Aura Radius Increase,Увеличение радиуса ауры заклинания
+Increased Awareness,Повышение Внимания
+Increased Backstab Damage,Увеличение урона от ударов в спину
+Pack Mule,Вьючный мул
+Increased Crafting,Повышенное Ремесло
+Critical Resistance,Критическое сопротивление
+Increased Diplomacy,Повышенная дипломатия
+Increased Dodge,Повышенная уклончивость
+Fletching,Оперение
+Doubles the chance of recovering a spent arrow after combat,Удваивает шанс восстановить потраченную стрелу после боя
+Increased Fortitude,Повышенная стойкость
+Increased Gold Drops,Увеличенное выпадение золота
+Increased Healing,Усиленное Исцеление
+Increased Initiative,Повышенная Инициатива
+Increased Intellect,Повышенный Интеллект
+Increased Lore,Повышенные Знания
+Increased Max Cascade,Повышенный Максимальный Каскад
+Increased Movement,Повышенное Движение
+Increased Presence,Повышенная Харизма
+Increased Spell Aptitude,Повышенный Магический талант
+Increased Stealth,Повышенная Скрытность
+Increased Strength,Повышенная Сила
+You are powerfully built,Вы обладаете мощной силой
+to Strength Primary Attribute,к силе Основной атрибут
+Survival Increase,Повышенная Выживаемость
+Increased Thievery,Повышенное Воровство
+Increased Toughness,Повышенная Крепкость
+Increased Vitality,Повышенная Живучесть
+Increased Will,Повышенная Воля
+Charger,Зарядное устройство
+Axe Finesse,Финт топором
+Blade Finesse,Финт клинком
+Bow Finesse,Финт луком
+Club Finesse,Финт дубиной
+Light Weapon Finesse,Финт легким оружием
+Vicious,Порочный
+Axe Damage,Повреждение топором
+Blade Damage,Повреждение клинком
+Bow Damage,Повреждение лука
+Club Damage,Повреждение дубинкой
+Brutal,Брутальный
+Heavy Weapon Damage,Урон от тяжелого оружия
+Light Weapon Damage,Урон от легкого оружия
+Piercing Damage,Колющий урон
+Phalanx,Фаланга
+"While wielding a shield, get a dodge bonus for adjacent allies",При использовании щита вы получаете бонус к уклонению для ближайших союзников
+Bonus is +1 per ally up to a maximum of the Phalanx Bonus attribute value (typically,Бонус +1 за союзника до максимального значения атрибута Phalanx Bonus (обычно
+Shield Training,Тренировка щита
+Acid Immunity,Кислотный иммунитет
+Blindness Immunity,Невосприимчивость к слепоте
+Cold Immunity,Иммунитет к холоду
+Critical Immunity,Критический иммунитет
+Deafness Immunity,Иммунитет к глухоте
+Disease Immunity,Иммунитет к болезням
+Lightning Immunity,Устойчивость к молниям
+Fire Immunity,Невосприимчивость к огню
+Non Magical Damage Immunity,Невосприимчивость к не магическому урону
+Panic Immunity,Иммунитет к панике
+Paralysis Immunity,Невосприимчивость к параличу
+Poison Immunity,Невосприимчивость к ядам
+Sleep Immunity,Иммунитет во сне
+Fell Illumination,Иллюминация фелл
+Multi Attack,Мультиатака
+Gain 1 extra Attack per Turn,Получает 1 дополнительную атаку за ход
+Greater Increased Attunement,Большое повышение Маны
+Major Natural Armor,Основные природные доспехи
+Medium Natural Armor,Средняя природная броня
+Minor Natural Armor,Незначительная природная броня
+Greater Natural Weapons,Большее природное оружие
+Natural Weapons,Природное оружие
+Point Blank Shot,Выстрел в упор
+You can use Ranged Weapons even when in Melee,"Вы можете использовать дальнобойное оружие, даже когда находитесь в ближнем бою"
+Resistance,Сопротивление
+Slashing,Рубящее
+Blunt,Дробящее
+Piercing,Колющее
+Magical,Магическое
+Cold,Лет
+Acid,Кислота
+Kinetic,Кинетическое
+Sublime,Возвышенное
+Electric,Электрическое
+Fire,Огонь
+Psychic,Псионическое
+Minor Resistance,Незначительное сопротивление
+Lightning,Молния
+Physical,Физическая
+Increased Aura Radius,Увеличенный радиус ауры
+Increased Line Effects,Усиленные линейные эффекты
+Increased Sphere Effects,Усиленные эффекты сфер
+Air Magic Focus,Фокус магии воздуха
+Bardic Magic Focus,Фокус бардовской магии
+Body Magic Focus,Фокус магии тела
+Earth Magic Focus,Фокус магии земли
+Fire Magic Focus,Фокус магии огня
+Mind Magic Focus,Магия разума Фокус
+Nature Magic Focus,Фокус магии природы
+Spirit Magic Focus,Фокус магии духа
+Axe Accuracy,Точность топора
+Blade Accuracy,Точность лезвия
+Bow Accuracy,Точность лука
+Club Accuracy,Точность дубины
+General Accuracy,Общая точность
+Heavy Weapon Accuracy,Точность тяжелого оружия
+Light Weapon Accuracy,Точность легкого оружия
+Melee Accuracy,Точность в ближнем бою
+Ranged Accuracy,Точность в стрельбе
+Vulnerability,Уязвимость
+Cold,Холод
+Sublime,Возвышенное
+Bonus XP Percentage,Процент бонусного XP
+Blessing of Agility,Благословение ловкости
+Blessing of Fortitude,Благословение стойкости
+Blessing of Intellect,Благословение интеллекта
+Blessing of Presence,Благословение харизмы
+Blessing of Strength,Благословение силы
+#Spells,#Заклинания
+Spells,Магия
+Armor of Thorns,Терновые доспехи
+Heroic Aura,Героическая аура
+Aura of Condemnation,Аура осуждения
+Aura of Fear,Аура страха
+Miasma,Миазма
+Aura of Silence,Аура безмолвия
+Searing Light,Палящий свет
+Smothering Blanket,Удушающее одеяло
+Sight to Behold,"Зрелище, которое можно увидеть"
+Eye-Shine,Блеск для глаз
+Fire Sprite,Огненный спрайт
+Fireworks,Фейерверк
+Heroic Tune,Героическая мелодия
+Now you See Me,Теперь ты видишь меня
+Lambent Dance,Танец Ламбента
+Lifting Tune,Подъемная мелодия
+Light Please,"Свет, пожалуйста"
+Raise the Curtain,Поднять занавес
+Shadow Step,Теневой шаг
+Song of Soothing,Успокаивающая песня
+Sparkledust,Sparkledust
+Whisper of Confusion,Шепот замешательства
+Barkskin,Баркскин
+Bear's Strength,Сила медведя
+Blessing Aura,Благословляющая аура
+Blessing Touch,Прикосновение благословения
+Blink,Мигание
+Mark of Blurring,Знак размытости
+Breath Glass,Дышащее стекло
+Blinding Bolt,Ослепляющий болт
+Circle of Corporeal Restoration,Круг телесного восстановления
+Circle of Healing,Круг исцеления
+Circle of Mental Restoration,Круг психического восстановления
+Clear Senses,Ясные чувства
+Command of Paralyzation,Командование парализацией
+Cure Moderate Disease,Излечение умеренных болезней
+Heal Mind,Исцеление разума
+Fleet of Foot,Флит оф Фут
+Cure Moderate Poison,Вылечить умеренный яд
+Diamond Form,Бриллиантовая форма
+Dispel Magic,Рассеять магию
+Distort Mass,Искажение массы
+Divine Intervention,Божественное вмешательство
+Aura of Flame,Аура пламени
+Fireball,Fireball
+Breath of the Ancients,Дыхание древних
+Flaming Fists,Пламенные кулаки
+Fire Frenzy,Огненное безумие
+Inferno,Инферно
+Searing Lash,Жгучая ресница
+Aura of Fire Resistance,Аура сопротивления огню
+Fire Warrior,Воин огня
+Force of Nature,Сила природы
+Fortify Awareness,Усиление внимания
+Fortify Will,Усиление воли
+Mark of Haste,Знак поспешности
+Mark of Heroism,Знак героизма
+Hammer of Light,Молот света
+Holy Judgement,Святой суд
+Holy Lance,Святое копье
+Hysterical Blindness,Истерическая слепота
+Curse of Ensnarement,Проклятие порабощения
+Instil Courage,Прививать мужество
+Mark of Invisibility,Знак невидимости
+Greater Lay on Hands,Большое возложение рук
+Minor Lay on Hands,Малое возложение рук
+Moderate Lay on Hands,Умеренное возложение рук
+Lesser Regeneration,Меньшая регенерация
+Mark of Illumination,Знак озарения
+Holy Light,Святой свет
+Lightning Strike,Удар молнии
+Magic Missile,Волшебная ракета
+Web of Roots,Паутина корней
+Sublime Projection,Возвышенная проекция
+Pestilence,Мор
+Poisoned Globe,Отравленный глобус
+Purge Invisibility,Устранить невидимость
+Purge Magic,Магия очищения
+Greater Regeneration,Большая регенерация
+Corporeal Restoration,Восстановление телесной оболочки
+Mental Restoration,Восстановление психики
+Serpent's Grace,Милость змеи
+Arcane Shockwave,Ударная волна
+Steal Breath,Украсть дыхание
+Mark of Lethargy,Знак летаргии
+Mass Lethargy,Массовая летаргия
+Stoneskin,Stoneskin
+Stunning Aura,Потрясающая аура
+Stunning Touch,Потрясающее прикосновение
+Summon Giant Insect,Вызвать гигантское насекомое
+Summon Magmite,Призвать магмита
+Summon Ooze,Вызвать ооза
+Summon Vermin,Вызвать паразитов
+Swarm of Gnats,Рой мошек
+Thunderclap,Громоотвод
+Touch of Condemnation,Прикосновение осуждения
+Touch of Confusion,Прикосновение смущения
+Touch of Weakness,Прикосновение слабости
+#Triggered Abilities,#Триггерные способности
+Arcane Rush,Arcane Rush
+"The first time you take Wound Hit point Damage each combat, you automatically regain 30-40 Attunement Points","В первый раз за бой, когда вы получаете урон от Удара с Ранением, вы автоматически восстанавливаете 30-40 очков Маны"
+Crippling Finesse,Калечащее мастерство
+"When scoring a Backstab hit using a Light Weapon, the targets gets a random injury Condition",При нанесении удара в спину с помощью легкого оружия цель получает случайное повреждение.
+Rending Blow,Разящий удар
+Critical Hits with an Axe causes Injury Conditions,Критические удары топором вызывают состояния травмы
+Deep Cut,Глубокий разрез
+Your Critical Hits using Blades cause Bleeding on your target,Ваши критические удары с использованием клинков вызывают кровотечение у цели
+Red Arcs,Красные дуги
+Scoring a Critical Hit with a Light Blade causes you to restore 1 Attack,Критическое попадание световым клинком восстанавливает 1 атаку.
+Rapid Reload,Быстрая перезарядка
+"If you score a Critical Hit with a Bow, you immediately regain 1 attack","Если вы получаете критическое попадание из лука, вы немедленно восстанавливаете 1 атаку."
+Kneecap,Коленная чашечка
+Critical Hits with a Club causes The Injured Leg condition,"Критические удары дубинкой вызывают состояние ""Травмированная нога""."
+Weaving Blade,Лезвие для плетения
+Dodging a Melee Attack whilst armed causes you to deal a small amont of Slashing Damage to your attacker,"Уклоняясь от атаки ближнего боя, когда вы вооружены, вы наносите атакующему небольшое количество колющего урона."
+Felling Strike,Вырубка леса
+Weakly Infections,Слаботочные инфекции
+Your unarmed attack may cause disease in the target,Ваша атака безоружным оружием может вызвать болезнь у цели.
+Decapitation,Обезглавливание
+The gruesomeness of your Axe-Kill causes the Fear condition in all opponents who can see it,"Жестокость вашего убийства топором вызывает состояние страха у всех противников, которые могут его видеть"
+Cleave,Рассечение
+Killing an opponent using a Heavy Melee Weapon restores 1 Attack,Убийство противника с помощью тяжелого оружия ближнего боя восстанавливает 1 атаку
+Inspiring Kill,Вдохновляющее убийство
+"When killing an Opponent in Armed or Unarmed Melee combat, all Allies who witness the kill get the Inspired Condition for 1 Turn","Когда вы убиваете противника в вооруженном или безоружном бою, все союзники, ставшие свидетелями убийства, получают состояние вдохновения на 1 ход."
+Replenishing Takedown,Пополнение запасов
+"Killing a Marked Target, heals the party a small amount","Убивая отмеченную цель, он получает небольшое исцеление."
+Magnificent Takedown,Великолепный захват
+"When killing a Marked target, all Allies who witness the kill get the Inspired Condition for 1 Turn","Когда вы убиваете отмеченную цель, все союзники, ставшие свидетелями убийства, получают состояние вдохновения на 1 ход."
+Bleeding Strike,Кровоточащий удар
+Greater Bleeding Strike,Большой кровоточащий удар
+Lesser Bleeding Strike,Малый кровоточащий удар
+Acid Burst,Кислотный взрыв
+Sommon Abomination,Обычная мерзость
+Lesser Poison Attack,Уменьшение ядовитой атаки
+Moderate Poison Attack,Умеренная атака ядом
+Strong Poison Attack,Сильная атака ядом
+Stunning Strike,Ошеломляющий удар
+Steal Life,Украсть жизнь
+Shield Slam,Удар щитом
+"Whilst wielding a shield, dodging a melee attack causes you to deal 1-4 Blunt damage to your attacker",При использовании щита уклонение от атаки в ближнем бою наносит атакующему 1-4 дробящего урона.
+Smashing Charge,Разящий заряд
+Your Charges cause 1-3 additional Blunt Damage,Ваши заряды наносят дополнительно 1-3 дробящего урона
+Hidden Deployment,Скрытое развертывание
+You start combat Hidden,Вы начинаете бой Скрытый
+Smoke Bomb,Дымовая шашка
+"The first time you're Wounded each combat, you automatically hide",При первом ранении в каждом бою вы автоматически прячетесь.
+Not Today!,Не сегодня!
+"The first time you take Wound Hit point Damage each combat, you automatically regain 12-18 Vitality Hit Points","В первый раз за бой, когда вы получаете урон от Удара с Ранением, вы автоматически восстанавливаете 12-18 очков Живучести"

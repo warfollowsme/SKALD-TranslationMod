@@ -1,0 +1,77 @@
+original,translate
+#Magical Conditions,#Магические условия
+Barkskinned,Баркскинни
+Fortified Strength,Укрепленная сила
+Blessed,Благословенный
+Blurred,Размытый
+Clarity of Mind,Ясность ума
+Condemned,Condemned
+Diamondskinned,Бриллиантовая кожа
+Fell Light,Падающий свет
+The target emits a sinister glow,Мишень излучает зловещее свечение
+Fortified Awareness,Усиленное Внимание
+Fortify Initiative,"Инициатива ""Укрепление"
+Fortified Will,Укрепленная воля
+Heroic Inspiration,Героическое вдохновение
+Illuminated,Освещенный
+"The target glows softly, emitting lighting","Мишень мягко светится, излучая свет"
+Immunity,Иммунитет
+Acid,Кислота
+Electricity,Электричество
+Fire,Огонь
+Panic,Паника
+Lesser Invisibility,Меньшая невидимость
+Invisible,Невидимый
+Regeneration - Greater,Регенерация - Большая
+Regeneration - Lesser,Регенерация - меньшая
+Acid Resistance,Устойчивость к кислотам
+Electric Resistance,Электрическое сопротивление
+Fire Resistance,Огнестойкость
+Fortified Agility,Укрепленная ловкость
+Slowed,Замедление
+Stoneskinned,Stoneskinned
+Thornclad,Thornclad
+Weakened,Ослабленный
+#Natural Conditions,#Природные условия
+Negative Condition,Отрицательное состояние
+The conditions that currently affects this character,"Состояния, которые в настоящее время влияют на этого персонажа"
+Fearful,Страх
+Sleeping,Спать
+Bleeding,Кровотечение
+Bleeding causes the character to lose 10% of their max Vitality at the start of each turn,"Кровотечение приводит к тому, что персонаж теряет 10% от максимальной Живучести в начале каждого хода"
+Lesser Blindness,Меньшая слепота
+Enthralled,Захваченные
+Confused,Смущенный
+Deafened,Оглохший
+Moderately Diseased,Умеренно болезненный
+Severly Diseased,Тяжелое заболевание
+Weakly Diseased,Слабое заболевание
+Disrupted,Нарушенный
+Exhausted,Исчерпано
+Immobilized,Иммобилизованный
+Injured Arm,Травмированная рука
+Injured Head,Травмированная голова
+Injured Leg,Травмированная нога
+Injured Torso,Травмированный торс
+Insane,Безумие
+Intoxicated,В состоянии алкогольного опьянения
+Nauseous,Тошнота
+Panicked,В панике
+Paralyzed,Парализованный
+Moderate Poison,Умеренный яд
+Strong Poison,Сильный яд
+Poison causes the character to lose 10% of their max Vitality at the start of each turn,Яд заставляет персонажа терять 10% от максимальной Живучести в начале каждого хода
+Weak Poison,Слабый яд
+Mute,Отключить звук
+Stunned,Ошеломленный
+#Tactical Conditions,#Тактические условия
+Defending,Защита
+Greater Frenzy,Большее неистовство
+Lesser Frenzy,Меньшее безумие
+Hamstrung,Hamstrung
+Greater Haste,Большая поспешность
+Lesser Haste,Меньшая поспешность
+Inspired,Вдохновение
+Marked,Отмечено
+Motivated,Мотивированный
+Removes Conditions with Tag,Удаляет условия с тегом

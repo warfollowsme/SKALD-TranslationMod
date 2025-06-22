@@ -1,0 +1,15 @@
+{
+  "languageCode": "<SHORT LANGUAGE CODE>",
+  "name": "<DISPLAY LANGUAGE NAME>",
+  "description": "<LANGUAGE DESCRIPTION>",
+  "version": "1.0.0",
+  "fontFilesPath": "fonts",
+  "translationFilesPath": "translations",
+  "characterChart": {
+    "А": 90,
+    "Б": 91,
+    "В": 92,
+    "Г": 93,
+    "Д": 94
+  }
+} 

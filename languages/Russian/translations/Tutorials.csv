@@ -1,0 +1,154 @@
+original,translate
+#Combat Tutorials,#Учебники по бою
+Charging,Зарядка
+Moving at least 2 tiles in a straight line before performing an attack allows characters with a Melee weapon to perform a Charge Attack,Перемещение не менее чем на 2 плитки по прямой перед выполнением атаки позволяет персонажам с оружием ближнего боя выполнить атаку зарядом
+Charge attacks significantly increase your likelihood to hit,Зарядные атаки значительно повышают вероятность попадания
+Charge attacks add a bonus to your hit chance depending on how far you manage to move before attacking,"Атаки с зарядом добавляют бонус к шансу попадания в зависимости от того, как далеко вы успели продвинуться перед атакой"
+The teal pips over the character indicate how much momentum is built up by the charge,"Тигровые точки над символом указывают на то, какой импульс набирает заряд"
+"The more momentum, the bigger the charge bonus","Чем больше импульс, тем больше заряд"
+A successful charge will give the following text printing the bonus that was added to the character’s To-Hit roll,"Успешный заряд дает следующий текст, печатающий бонус, который был добавлен к броску ""Удар"" персонажа"
+Tactical View,Тактический взгляд
+Pressing SHIFT in combat brings up the tactical overlay and makes it easier to see the exact positioning of characters and the underlying grid,Нажатие SHIFT в бою вызывает тактический оверлей и облегчает просмотр точного расположения персонажей и основной сетки
+"In the settings menu, you can toggle the tactical overlay to be always on during the player’s turn","В меню настроек вы можете включить тактический оверлей, чтобы он всегда был включен во время хода игрока"
+Holding LEFT TRIGGER in combat brings up the tactical overlay and makes it easier to see the exact positioning of characters and the underlying grid,Удержание LEFT TRIGGER в бою вызывает тактический оверлей и облегчает просмотр точного расположения персонажей и основной сетки
+Conditions,Условия
+You have contracted a disease from your fight with the rats,"Вы заразились болезнью, сражаясь с крысами"
+You may see what conditions are affecting you by opening the Character Sheet,"Вы можете посмотреть, какие условия влияют на вас, открыв Лист персонажа"
+Click your portraits or press ‘C’ to do so,"Щелкните по своим портретам или нажмите ""C"", чтобы сделать это"
+Not all conditions are negative!,Не все условия являются негативными!
+Press the Y BUTTON to do so,Для этого нажмите кнопку Y
+Negative conditions can often be cured by magic or rest,Негативные состояния часто можно вылечить с помощью магии или отдыха
+This disease can be cured by a potion,Эту болезнь можно вылечить с помощью зелья
+Pick up and equip the lantern to search the area!,Возьмите фонарь и используйте его для поиска!
+Hint,Подсказка
+Some containers are hidden until your character “spots” them,"Некоторые контейнеры скрыты до тех пор, пока ваш персонаж не ""заметит"" их"
+Difficulty,Трудности
+Warda is a dangerous place where you can quickly end up facing very dangerous beings,"Варда - опасное место, где вы можете быстро столкнуться с очень опасными существами"
+Sometimes the best tactic is to leave a fight for later as you level up and gather more equipment and allies,"Иногда лучшая тактика - оставить бой на потом, когда вы поднимете уровень и соберете больше снаряжения и союзников"
+Remember that you can change the difficulty of the game at any time,"Помните, что вы можете изменить сложность игры в любой момент"
+You can even create your own custom difficulty!,Вы даже можете создать свою собственную сложность!
+Play the game the way YOU want it!,"Играйте в игру так, как хотите ВЫ!"
+Flanking,Фланкировка
+A character can be Flanked if opponents occupy the tile above and below it or to the left and right of it,"Персонаж может быть обойдён с фланга, если противники занимают тайлы над и под ним или слева и справа от него"
+It is much easier to hit a Flanked character,"По персонажу, находящемуся на фланге, гораздо легче попасть"
+A Rogue will automatically Backstab Flanked targets to deal massive amounts of damage,"Плут автоматически наносит удар в спину фланговым целям, чтобы нанести им колоссальный урон"
+Here the main character has moved to the right of the mercenary,Здесь главный герой переместился вправо от наемника
+And then Roland moves to the left of the mercenary who is now Flanked,"Затем Роланд перемещается влево от наемника, который теперь находится во фланге"
+Note the red double-arrow icon that indicates when a character is Flanked,"Обратите внимание на красный значок с двойной стрелкой, который указывает, когда персонаж находится на фланге"
+Initiative,Инициатива
+"In combat, characters act in order of initiative",В бою персонажи действуют в порядке инициативы
+You can view the initiative order by using the Initiative Widget on the left side of the screen,Вы можете просмотреть порядок инициатив с помощью виджета инициатив в левой части экрана
+Moving the cursor over the widget makes it pop out,При наведении курсора на виджет он выводится на экран
+Note that moving the cursor over a name will make that character's outline flash on the battlefield,"Обратите внимание, что при наведении курсора на имя персонажа на поле боя появляется его контур"
+Injuries,Травмы
+Your character is critically injured!,Ваш персонаж тяжело ранен!
+This means you have taken enough damage to reduce BOTH your Vitality and Wounds,"Это означает, что вы получили достаточно урона, чтобы уменьшить и вашу Живучесть и Очки Ран"
+The green bar under your Character’s portrait represents your Vitality score,Зеленая полоска под портретом вашего персонажа представляет собой показатель Живучести
+Vitality is a buffer to your wounds and as long as you have Vitality left you won’t take (serious,"Живучесть - это буфер к вашим ранам, и пока у вас есть жизнеспособность, вы не получите (серьезного"
+Wound damage,Урона от Раны
+Vitality is easily lost and easily regained!,Живучесть теряется легко — и так же легко восстанавливается!
+Potions and healing magic restores Vitality - even during combat,Зелья и лечебная магия восстанавливают Живучесть - даже во время боя
+"The second, purple bar represents your Wounds","Вторая, фиолетовая полоса представляет ваши Очки Ран"
+Losing Wounds is much more serious than losing Vitality,"Потеря Очков Ран гораздо серьезнее, чем потеря Живучести"
+Reaching 0 wounds means your character falls unconscious,"Достижение 0 очков ран означает, что ваш персонаж падает без сознания"
+Wounds can also only be recovered by resting (or leveling up,Очки ран также могут быть восстановлены только во время отдыха (или повышения уровня
+Try to avoid taking Wound damage at all costs!,Старайтесь любой ценой избежать ранений!
+"Whenever you take Wound damage, you gain an Injury Condition as indicated by the icon on the portrait","Каждый раз, когда вы получаете урон от раны, вы получаете состояние ""Травма"", обозначенное значком на портрете"
+Injuries confer serious penalties to your character and can only be removed by resting,Травмы накладывают серьезные наказания на вашего персонажа и могут быть сняты только отдыхом
+A party full of injured party members has its combat effectiveness severely reduced!,"Боевая эффективность партии, полной раненых членов, сильно снижается!"
+Making camp and resting is the surest way to restore an injured character!,Разбить лагерь и отдохнуть - самый верный способ восстановить травмированного персонажа!
+Note that resting is not possible in every location so plan accordingly,"Обратите внимание, что отдых возможен не в каждом месте, поэтому планируйте его соответственно"
+You can also rest at inns when you find them,"Вы также можете отдыхать в гостиницах, когда найдете их"
+Interactables,Взаимодействие
+Moving the cursor over an interactable object will make a yellow outline appear,При наведении курсора на взаимодействующий объект появляется желтый контур
+Left mouse-click to interact with the object,Левая кнопка мыши для взаимодействия с объектом
+Right mouse-click to examine it,"Щелкните правой кнопкой мыши, чтобы рассмотреть его"
+Use RIGHT TRIGGER to interact with and object and press LEFT TRIGGER to examine it,"Используйте ПРАВЫЙ ТРИГГЕР для взаимодействия с объектом и нажмите ЛЕВЫЙ ТРИГГЕР, чтобы осмотреть его"
+Holding down SHIFT will highlight all interactable objects in view,"Удерживая SHIFT, можно выделить все взаимодействующие объекты в поле зрения"
+Some objects are hidden and won't be highlighted until they are spotted,"Некоторые объекты скрыты и не будут подсвечиваться, пока их не заметят"
+Holding down LEFT TRIGGER will highlight all interactable objects in view,"Удерживая левый триггер, можно выделить все взаимодействующие объекты в поле зрения"
+Inventory,Инвентаризация
+"If you've not already done so, you must equip a weapon","Если вы еще не сделали этого, вам необходимо экипировать оружие"
+Press 'E' to manage your equipment,"Нажмите ""E"", чтобы управлять оборудованием"
+Clicking an item selects and examines it,При нажатии на элемент он выбирается и рассматривается
+Select items using the cursor to examine and use it,"Выберите элементы с помощью курсора, чтобы изучить и использовать их"
+Press the X BUTTON on the controller to manage your equipment,"Нажмите кнопку X на контроллере, чтобы управлять оборудованием"
+Double click on items to use them,"Дважды щелкните на предметах, чтобы использовать их"
+For weapons and armor this means the item becomes equipped,"Для оружия и брони это означает, что предмет становится экипированным"
+Equipped items are moved to the relevant equipment slot,Экипированные предметы перемещаются в соответствующий слот снаряжения
+"Select an item and press the A BUTTON to ""use"" it","Выберите элемент и нажмите кнопку A, чтобы ""использовать"" его"
+Note that you can also press RIGHT TRIGGER with the cursor over a selected item to use it,"Обратите внимание, что вы также можете нажать RIGHT TRIGGER, когда курсор находится над выбранным элементом, чтобы использовать его"
+Movement Points,Очки движения
+The widget on the lower right side represents the character’s action points,Виджет в правом нижнем углу представляет очки действий персонажа
+The yellow pips represent Movement points,Желтые пипсы представляют собой точки движения
+The violet pips represent Attacks,Фиолетовые пики представляют собой нападения
+You can move a number of tiles each combat equal to your Movement Points AND Attacks,"За бой вы можете переместиться на количество тайлов, равное количеству ваших очков движения и атаки"
+But spending Attacks to move means you won't be able to attack that turn,"Но трата атаки на перемещение означает, что вы не сможете атаковать в этот ход"
+This is a good way of moving extra far,Это хороший способ передвижения на большие расстояния
+Performing an attack will clear out all remaining movement points,Выполнение атаки уничтожит все оставшиеся очки движения
+"In other words, attacking will end the character’s turn in most cases","Другими словами, в большинстве случаев атака завершает ход персонажа"
+New Character,Новый персонаж
+You’ve added a new character to your party!,Вы добавили нового персонажа в свою партию!
+"Press ""Q"" or the character portraits to swap the party leader","Нажмите ""Q"" или портреты персонажей, чтобы поменять лидера партии"
+Press RIGHT BUMPER or the character portraits to swap the party leader,"Нажмите на правую кнопку мыши или на портреты персонажей, чтобы поменять лидера партии"
+The current leader’s Attributes are used for tests outside combat (such as for Awareness or Stealth,"Атрибуты текущего лидера используются при проверках вне боя (например, для проверки Внимания или Скрытности)"
+Familiarize yourself with the Attributes and Abilities of your party members and have the right character take the lead depending on the circumstances,Ознакомьтесь с атрибутами и способностями членов вашей партии и поручите соответствующему персонажу взять на себя роль лидера в зависимости от обстоятельств
+"When a new member joins your party, they Level Up to your current level","Когда к вашей партии присоединяется новый член, его уровень повышается до вашего текущего уровня"
+The “Level Up” icon on your party-member’s portrait shows that a character is ready to level up!,"Значок «Повышение уровня» на портрете члена отряда показывает, что персонаж готов повысить уровень!"
+Double-click the character portrait and select FEATS to begin leveling up,"Дважды щелкните на портрете персонажа и выберите УМЕНИЯ, чтобы начать повышение уровня"
+Press the X BUTTON and go to the FEATS tab to begin leveling up,"Нажмите кнопку X и перейдите на вкладку УМЕНИЯ, чтобы начать повышение уровня"
+Stealth,Скрытность
+Press the Hide button to go into Stealth mode,"Нажмите кнопку 'Скрыть', чтобы перейти в режим невидимости"
+The action buttons also map to the numerical buttons,Кнопки действий также назначены на цифровые клавиши
+You may also press LEFT JOYSTICK to enter stealth mode,"Вы также можете нажать ЛЕВЫЙ ДЖОЙСТИК, чтобы перейти в режим невидимости"
+While in stealth mode the Stealth indicator becomes visible,В режиме невидимости индикатор Скрытность становится видимым
+A yellow indicator means you're in danger of being spotted,"Желтый индикатор означает, что вам угрожает опасность быть замеченным"
+"While your indicator is yellow, it will count down to 0%","Пока ваш индикатор желтый, он будет отсчитывать время до 0%"
+When it reaches 0% you are spotted and will become visible,"Когда оно достигнет 0%, вы будете замечены и станете видимыми"
+Moving in lit areas and being close to other characters will make the counter go down very fast,"Перемещение по освещенным участкам и нахождение рядом с другими персонажами приведет к тому, что счетчик будет очень быстро уменьшаться"
+Stick to shadows and avoid other characters,Придерживайтесь теней и избегайте других персонажей
+Your ability to stay hidden is dictated by your stealth skill,Ваша способность оставаться незамеченным зависит от навыка скрытности
+Increase this skill to stay hidden for longer,"Повысьте этот навык, чтобы дольше оставаться незаметным"
+Wearing armor makes it harder to stay hidden,В доспехах сложнее оставаться незамеченным
+"If the indicator turns green, it means you are no longer in danger of being spotted","Если индикатор загорается зеленым, это означает, что вам больше не угрожает опасность быть замеченным"
+"Spending time in ""green"" areas will refill your stealth meter","Проводя время в ""зеленых"" зонах, вы пополните счетчик скрытности"
+#Misc,#Misc
+Crafting,Ремесло
+This is the Crafting screen,Это экран Ремесла
+"To create new items, double-click ingredients in your inventory to place them in the “Workstation” and then press “Craft","Чтобы создать новые предметы, дважды щелкните ингредиенты в своем инвентаре, чтобы поместить их в ""Рабочую станцию"", а затем нажмите ""Создать"
+"If the recipe is valid, new items will be created","Если рецепт действителен, будут созданы новые предметы"
+"To create new items, place ingredients in the “Workstation” grid and then press “Craft","Чтобы создать новые предметы, поместите ингредиенты в сетку ""Рабочее место"", а затем нажмите ""Craft"
+The recipe list in the left column represents known recipes,В списке рецептов в левой колонке представлены известные рецепты
+You learn new recipes by experimenting or by finding recipe books out in the world,"Вы узнаете новые рецепты, экспериментируя или находя в мире книги с рецептами"
+Recipes that can currently be crafted are shown in green,"Рецепты, которые можно создавать в данный момент, выделены зеленым цветом"
+Selecting a green recipe will automatically add all the necessary ingredients to the “Workstation,"При выборе зеленого рецепта все необходимые ингредиенты будут автоматически добавлены в ""Рабочую станцию"
+Crafting is dependent on the Crafting skill,"Ремесло зависит от умения ""Ремесло"""
+"Crafting a valid recipe will always succeed but depending on your skill and the recipe’s difficulty, there is a chance you may produce more than one item","Создание правильного рецепта всегда будет успешным, но в зависимости от вашего мастерства и сложности рецепта есть шанс получить больше одного предмета"
+Resting,Отдых
+This is the Camp screen,Это экран лагеря
+Use it to feed the party and select camp activities for the party members before resting,"Используйте его, чтобы накормить партию и выбрать лагерные занятия для членов партии перед отдыхом"
+"By default, the game always auto-saves when you make camp","По умолчанию игра всегда автоматически сохраняется, когда вы разбиваете лагерь"
+"To fully recover from injuries, your party members must be well fed","Чтобы полностью восстановиться после ранений, члены вашей партии должны быть хорошо накормлены"
+Normally 10 points of food is required per party member to recover 100%,"Обычно требуется 10 очков еды на каждого члена партии, чтобы восстановить 100%"
+If less than the required amount is added your party will only recover partially,"Если вы добавите меньше требуемой суммы, ваша партия получит лишь частичную компенсацию"
+Add food from your inventory by double clicking it,"Добавьте еду из своего инвентаря, дважды щелкнув по ней"
+Note that prepared meals add a lot more food per item than raw ingredients,"Обратите внимание, что готовые блюда содержат гораздо больше продуктов, чем сырые ингредиенты"
+Seek out crafting stations to craft meals from raw ingredients,"Найдите станции ремесленников, чтобы приготовить еду из сырых ингредиентов"
+Select food from your inventory for your party to eat,"Выберите еду из своего инвентаря, чтобы съесть ее"
+You also need to select Camp Activities for your party members,Вам также нужно выбрать виды деятельности в лагере для членов вашей партии
+These provide bonuses based on your character's skills,"Они предоставляют бонусы, основанные на навыках вашего персонажа"
+Beds and Inns,Кровати и гостиницы
+Keep an eye out for beds or inns to rest in while adventuring,"Следите за кроватями или трактирами, в которых можно отдохнуть во время приключений"
+Doing so is superior to sleeping in the wild,"Это лучше, чем спать на природе"
+"While resting at an inn or in a bed, you have the option to manage your party!","Отдыхая в гостинице или на ночлеге, вы можете управлять своей партией!"
+"This means you can choose what characters get to be part of your main party, and who should wait in camp","Это значит, что вы можете выбирать, какие персонажи войдут в состав вашей основной партии, а кто будет ждать в лагере"
+Camp followers do not earn XP and never participate in combat,Последователи лагеря не зарабатывают XP и никогда не участвуют в боях
+Camp followers will for the most part not engage in the narrative,Последователи лагеря в большинстве своем не будут участвовать в повествовании
+"There are a few exceptions to this however, and there are some cases where even characters outside your main party may chime in during conversations","Однако есть несколько исключений, и в некоторых случаях даже персонажи, не входящие в вашу основную партию, могут вступать в беседу"
+Sailing,Парусный спорт
+"While sailing on the overland map, the “Make Camp” button changes appearance","Во время плавания на сухопутной карте кнопка ""Разбить лагерь"" меняет свой вид"
+Click it to explore the ship you’re currently on,"Нажмите на него, чтобы изучить корабль, на котором вы сейчас находитесь"
+Press it to explore the ship you’re currently on,"Нажмите на нее, чтобы исследовать корабль, на котором вы сейчас находитесь"
+"While on the ship, it’s possible to rest and reorganize, cook, craft items and even do some limited bartering","На корабле можно отдохнуть и перестроиться, приготовить пищу, изготовить предметы и даже совершить несколько ограниченных сделок"
+There may also be characters to talk to,"Здесь также могут быть персонажи, с которыми можно поговорить"
+"When you’re done interacting with the ship and crew, interact with the ship’s helm to go back to the overland map","Когда вы закончите взаимодействовать с кораблем и командой, обратитесь к штурвалу корабля, чтобы вернуться на сухопутную карту."

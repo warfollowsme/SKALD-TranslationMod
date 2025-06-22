@@ -1,0 +1,66 @@
+original,translate
+#General Enchantments,#Общие чары
+Agility,Ловкость
+Adds +1 to Agility,Добавляет +1 к Ловкости
+Fortitude,Стойкость
+Adds +1 to Fortitude,Добавляет +1 к Стойкости
+Intellect,Интеллект
+Adds +1 to Intellect,Добавляет +1 к Интеллекту
+Presence,Харизма
+Adds +1 to Presence,Добавляет +1 к Харизме
+Strength,Сила
+Adds +1 to Strength,Добавляет +1 к Силе
+Initiative,Инициатива
+Adds +2 to Initiative,Добавляет +2 к Инициативе
+Speed,Скорость
+Adds +1 to Movement Speed,Добавляет +1 к Скорости передвижения
+Heroic,Героический
+Adds +1 to all five Primary Attributes,Добавляет +1 ко всем пяти Основным Атрибутам
+Protection,Защита
+"adds +1 to Will, Toughness and Dodge","добавляет +1 к Воле, Крепкости и Уклонению"
+Defence,Оборона
+Adds +1 to Dodge,Добавляет +1 к Уклонению
+Toughness,Крепкость
+Adds +1 to Toughness,Добавляет +1 к Крепкость
+Willpower,Сила воли
+Adds +1 to Willpower,Добавляет +1 к Силе Воли
+Athletics,Атлетика
+Adds +1 to Athletics,Добавляет +1 к Атлетике
+Awareness,Внимание
+Adds +1 to Awareness,Добавляет +1 к Вниманию
+Crafting,Ремесло
+Adds +1 to Crafting,Добавляет +1 к Ремеслу
+Diplomacy,Дипломатия
+Adds +1 to Diplomacy,Добавляет +1 к Дипломатии
+Healing,Исцеление
+Adds +1 to Healing,Добавляет +1 к Исцелению
+Lore,Знание
+Adds +1 to Lore,Добавляет +1 к Знанию
+Stealth,Скрытность
+Adds +1 to Stealth,Добавляет +1 к Скрытности
+Survival,Выживание
+Adds +1 to Survival,Добавляет +1 к Выживанию
+Thievery,Воровство
+Adds +1 to Thievery,Добавляет +1 к Воровству
+#Weapon Enchantments,#Зачарование оружия
+Accuracy,Точность
+This Weapon has +2 To Hit,Это оружие имеет +2 к попаданию
+Accuracy and Damage,Точность и повреждения
+This Weapon does +1 base damage and has +2 To Hit,Это оружие наносит +1 базовый урон и имеет +2 к попаданию
+Greater Accuracy and Damage,Повышенная точность и урон
+This Weapon does +3 base damage and has +3 To Hit,Это оружие наносит +3 базовых урона и имеет +3 к попаданию
+Accuracy - Greater,Точность - больше
+This Weapon has +3 To Hit,Это оружие имеет +3 к попаданию
+Acid Attack,Кислотное нападение
+A small amount of extra acid-damage is caused on a hit,При попадании наносится небольшой дополнительный урон кислотой
+Frost Attack,Морозная атака
+A small amount of extra cold-damage is caused on a hit,Небольшое количество дополнительного урона холодом наносится при попадании.
+Keen,Keen
+This Weapon does +1 base damage,Это оружие наносит +1 базовый урон
+Keen - Greater,Keen - Greater
+This Weapon does +3 base damage,Это оружие наносит +3 базовых урона
+Lightning Attack,Молниеносная атака
+A small amount of extra lightning-damage is caused on a hit,При попадании в цель наносится небольшой дополнительный урон от молнии
+Fire Attack,Огненная атака
+A small amount of extra fire-damage is caused on a hit,Небольшое количество дополнительного урона от огня наносится при попадании.
+Increases the Dodge of the wielder by +1,Увеличивает показатель Укланения владельца на +1

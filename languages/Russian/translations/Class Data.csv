@@ -1,0 +1,61 @@
+original,translate
+#Archetype Classes,#Архетип Классы
+Cleric,Клирик
+The Cleric offers close-range support to their party through close ranged buffs and restorative spells,Клирик оказывает поддержку своей партии на ближней дистанции с помощью баффов и восстанавливающих заклинаний
+Magos,Маг
+"The Magos is a ranged strikers that can cast powerful, and often destructive, spells","Маг — дальнобойный заклинатель, способный творить мощные, порой разрушительные заклинания"
+Rogue,Плут
+The Rogue combines important non-combat skills with a large damage output against single targets,Плут сочетает ключевые небоевые умения с высоким уроном по одиночным целям
+Wanderer,Странник
+Warrior,Воин
+A Warrior is a front-line fighter who can take and deal large amounts of damage,"Воин - это боец первого эшелона, способный принимать и наносить большое количество урона"
+#Classes,#Классы
+Armsmaster,Мастер Оружия
+The Armsmaster is a Warrior that does not have a specialized Feat Tree,"Мастер Оружия - воин, не имеющий специализированного древа Умений"
+Instead the Armsmaster has access to all the combat-centered Feat Trees and they start with extra Development Points to represent their martial expertise,"Вместо этого Мастер Оружия имеет доступ ко всем боевым деревьям навыков и начинает с дополнительными Очками развития, которые отражают его боевой опыт"
+Bard,Бард
+The Bard mixes the Rogue’s decent combat skills and high maneuverability with the use of arcane magic,Бард сочетает достойные боевые навыки и высокую маневренность Плута с использованием арканной магии
+Battlemagos,Боевой маг
+The Battlemagos is a Magos specializing in the destructive spells of the Fire Magic School,"Боевой маг - это маг, специализирующийся на разрушительных заклинаниях школы магии огня"
+"Unlike other Magi, they also get access to a few basic combat-related Feats and may wear light armor","В отличие от других магов, они также получают доступ к нескольким основным боевым подвигам и могут носить легкую броню"
+Berserker,Берсерк
+Champion,Чемпион
+The Champion is a Cleric who excels in the use of blades and armor whilst still having limited divine spell-casting abilities,"Чемпион - клирик, который превосходно владеет клинками и доспехами, но при этом обладает ограниченными способностями к произнесению божественных заклинаний"
+Duelist,Дуэлист
+Guild-Magos,Гильдейский маг
+A Guild-Magos is a spellcaster who can develop all the different Arcane Spell Schools fully,"Гильдийский маг — это заклинатель, который может полностью развить все школы Тайной Магии"
+This comes at the cost of having absolutely no combat related Feats,"За это приходится платить тем, что у него нет абсолютно никаких боевых подвигов"
+Hierophant,Иерофант
+A Hierophant is a Cleric who can develop all the different Divine Spell Schools fully,"Иерофант - это клирик, который может полностью развивать все различные школы божественных заклинаний"
+Hospitaller,Госпитальер
+The Hospitaller is a Cleric who serves as a front line healer,"Госпитальер - клирик, служащий целителем на передовой"
+"Well armed and armored, they can stand their ground against overwhelming foes whilst also getting access to the highest tiers of the Body Magic School","Хорошо вооруженные и бронированные, они могут противостоять ошеломляющим врагам, получая при этом доступ к высшим уровням школы магии тела"
+Inquisitor,Инквизитор
+Officer,Офицер
+The Officer is a skilled warrior who serves as a force multiplier through their tactical skills,"Офицер - это опытный воин, который благодаря своим тактическим навыкам способствует увеличению численности личного состава"
+"Issuing orders across the battlefield, they vastly improve the performance of their fellow party-members","Отдавая приказы по всему полю боя, они значительно улучшают показатели своих товарищей по партии"
+Ranger,Рейнджер
+The Ranger is a Warrior specializing in ranged combat and with access to limited nature magic,"Рейнджер - воин, специализирующийся на дистанционном бою и имеющий доступ к ограниченной магии природы"
+Skald,Скальд
+Sorcerer,Колдун
+Thief,Вор
+The Thief is a Rogue who uses Stealth to set up devestating Backstab attacks,"Вор - плут, использующий скрытность для нанесения разрушительных ударов в спину"
+#NPC Classes,#NPC Классы
+Archer,Арчер
+Beast,Зверь
+Agile Beast,Ловкий зверь
+Savage Beast,Дикий зверь
+Common Beast,Обыкновенный зверь
+Lesser Vermin,Меньшие паразиты
+Tough Beast,Крепкий зверь
+Vermin,Паразиты
+Resolute Beast,Решительный зверь
+Bravo,Браво
+Brute,Брут
+"Magi are ranged strikers that can cast powerful, destructive ranged spells","Маги - бойцы дальнего боя, способные применять мощные, разрушительные заклинания дальнего боя"
+Commoner,Commoner
+Laborer,Рабочий
+Noble,Благородный
+Tough Warrior,Стойкий воин
+Fighter,Истребитель
+Wretch,Wretch

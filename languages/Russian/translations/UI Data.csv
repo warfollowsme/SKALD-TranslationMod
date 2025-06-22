@@ -1,0 +1,132 @@
+original,translate
+#Colors,#Цвета
+Black,Черный
+Blue,Голубой
+Light Blue,Светло-голубой
+Brown,Коричневый
+Light Brown,Светло-коричневый
+Cyan,Циан
+Gray,Серый
+DarkGray,DarkGray
+Light Gray,Светло-серый
+Green,Зеленый
+Light Green,Светло-зеленый
+Red,Красный
+Light Red,Светло-красный
+Violet,Виолетта
+White,Белый
+Yellow,Желтый
+"The major, defining attributes for the character","Основные, определяющие атрибуты персонажа"
+These influence most other attributes in the game,"Они влияют на большинство других атрибутов в игре"
+Cancel,Отмена,
+All progress will be lost,Весь прогресс будет потерян
+Disable,Отключить
+Loot,Собрать
+Inv,Инв
+Container,Контейнер
+Get All,Взять всё
+Transfer Stack,Перенести стопку
+Transfer Item,Перенести предмет
+Unequip,Снять
+Place development points in them (gained as you level up) to gain benefits and new Abilities,"Размещайте в них очки развития (получаемые по мере повышения уровня), чтобы получить преимущества и новые способности"
+Save and Exit,Сохранить и выйти
+Male Human,Мужчина Человек
+Woman Human,Женщина Человек
+Xp To Go,XP до уровня
+Active Conditions,Активные условия
+Move Character,Переместить персонажа
+Overcast Night,Пасмурная ночь
+Can be removed by magic,Может быть удалено магией
+Adds Status Tag,Добавляет статусный тег
+This list will only show entries with non-zero values,Этот список будет показывать только записи с ненулевыми значениями
+The amount of experience to go until the character levels up,Количество опыта до повышения уровня персонажа
+The current level of this character,Текущий уровень этого персонажа
+Cast a spell,Произнести заклинание
+There are no weapons nearby to attack,Нет поблизости врага для атаки
+You can't enter combat without enemies within combat range,Вы не можете вступить в бой без врагов в пределах досягаемости
+You wait a short while,Вы ждёте немного
+Pass a turn,Пропустить ход
+Recipes,Рецепты
+Workstation,Рабочая станция
+Craft,Создать
+Clear,ОЧистить
+You currently don't have any recepies to add to the crafting table,"У вас пока нет рецептов, которые можно добавить на ремесленный стол"
+Try experimenting with ingredients or look for recipes in the world,Экспериментируйте с ингредиентами или ищите рецепты в мире
+An unknown recipe,Неизвестный рецепт
+POTION OF STRENGTH RECIPE,РЕЦЕПТ ЗЕЛИЯ СИЛЫ
+"To craft items, you must add ingredients to the crafting grid","Чтобы создать предметы, добавьте ингредиенты в ремесленную сетку"
+Do this by double-clicking on ingredients from your inventory,Сделайте это двойным щелчком по ингредиентам в инвентаре
+Clicking a recipe to view ingredients required,"Щёлкните рецепт, чтобы увидеть нужные ингредиенты"
+Green recipes are available,Доступные рецепты отмечены зелёным
+No crafting ingredients added!,Ингредиенты для крафта не добавлены!
+This is not a valid recipe!,Это не действительный рецепт!
+DICE ROLL TEST,ПРОВЕРКА БРОСКА КУБИКОВ
+Roll Dice,Бросок
++ 2d6,
+must roll,должен бросить
+or above on 2d6 to succeed on this,или выше 2d6 кубиками для успеха в проверке навыка
+skill check!,
+Pick,Вскрыть
+Force,Сломать
+Pick or force the lock until its HP reaches zero,"Вскройте или сломайте замок, пока его ОЗ не опустятся до нуля"
+Party has,У группы
+You cannot rest anywhere in this area,Ты не можешь отдохнуть в этой области,
+You must look for a suitable camp-site elsewhere,Тебе нужно искать подходящее место для лагеря в другом месте
+Use,Использовать
+Adventuring,Походное
+SUCCESS,УСПЕХ
+beats Difficulty,выигрывает Сложность
+You bring glory upon thine Ancestors!,Вы приносите славу своим Предкам!
+{ITEM} Recipe,{ITEM} Рецепт
+A recipe for crafting {ITEM},Рецепт для создания {ITEM}
+Ingredients,Ингредиенты
+{PLAYER} has a Crafting skill of,{PLAYER} имеет навык Ремесла,
+versus Difficulty,против Сложности
+to produce a larger amount,чтобы произвести большее количество
+Journal,Журнал
+Consumed 1 {ITEM},Использовано 1 {ITEM}
+You add {ITEM} to your party,Вы добавляете {ITEM} в свою группу
+Removes Conditions with Tag: #{ITEM},Удаляет условия с тегом: #{ITEM}
+Consumed,Использовано
+The party does not have a lightsource to equip,У отряда нет источника света для экипировки
+Find a lantern!,Найдите фонарь!
+Restores {ITEM} (+{ITEM},Восстанавливает {ITEM} (+{ITEM}
+Heals {ITEM} (+{ITEM},Исцеляет {ITEM} (+{ITEM}
+View Inventory,Открыть инвентарь
+View the Journal,Посмотреть журнал
+{ITEM} ended,{ITEM} завершено
+Added some items to inventory!,Добавлены некоторые предметы в инвентарь!
+Updated Journal,Обновлен журнал
+Adds Conditions,Добавляет условия
+Adds Condition,Добавляет условие
+Faction is {ITEM},Фракция {ITEM}
+NEUTERAL,НЕЙТРАЛЬНА
+You created,Вы создали
+Main quests that have not yet been completed,"Основные квесты, которые ещё не завершены"
+FAILURE,ПРОВАЛ
+You have been found wanting,Тебя признали недостойным
+does not beat Difficulty,не побил Сложность
+SNEAKING,ПОДКРАДЫВАНИЕ
+Status,Статус
+Safe,Безопасно
+Tile Mod,Режим плитки
+Unsafe,Небезопасно
+Unlocked,Открыто
+Loot the corpses of your enemies!,Осмотрите трупы своих врагов!
+Read,Читать
+Raining Night,Дождливая ночь
+You have died - The Dragon awakens,Вы погибли — Дракон пробуждается
+Reload a previous save or restart the game!,Загрузите предыдущее сохранение или начните игру заново!
+Game too difficult?,Слишком сложно?
+You can set the Difficulty in Settings -> Difficulty,Вы можете изменить уровень сложности в Настройки -> Сложность
+Load Last Save,Загрузить последнее сохранение
+Load Other Save,Загрузить другое сохранение
+Restart Game,Начать игру заново
+Game Over!,Игра окончена!
+{PLAYER} does not have Thieves Tools!,{PLAYER} не имеет воровских инструментов!
+The adventure begins!,Приключение начинается!
+You see,Вы видите,
+You must destribute all your attribute points before you can proceed!,"Вы должны распределить все очки атрибутов, прежде чем продолжить!"
+Can't be far now?,Уже недалеко?
+Name,Имя
+New Recipe,Новый рецепт

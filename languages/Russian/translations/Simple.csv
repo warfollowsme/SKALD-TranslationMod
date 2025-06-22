@@ -1,0 +1,47 @@
+original,translate
+Items Worn,Одетые вещи
+Party Inventory,Инвентарь команды
+To Hit,Точн.
+Damage,Урон
+Encumb,Ноша
+Gold,Золото
+GP,Зол.
+Weight,Вес
+Equip,Одеть
+Drop / Pick Up,Выкинуть / Подобрать
+Character,Персонаж
+Value,Ценность
+lb,фт
+Misc,
+A pile of gold,Стопка золота
+Reagent,Реагент
+Used in,Используется в
+Melee,Ближний
+Vs,Vs
+lbs,фт
+lb,фт
+Game Loaded!,Игра загружена!
+Time,Время
+X Pos,Коорд. x
+Y Pos,Коорд. y
+Ammo,Боеприпасы
+Maneuver Abilities,Манёвры
+Triggered Abilities,Активируемые способности
+Passive Bonus Abilities,Пассивные бонусы
+Maneuver,Манёвр
+Cooldown,КД
+turns,ход.
+Time Use,Использ.
+FullRound,Весь раунд
+Point,Точка
+Passive Ability,Пассивная способность
+Armor Enc,Штраф брони
+Helmet Enc,Штраф шлема
+Drain,Истощение
+~ {ITEM},~ {ITEM}
+x {ITEM},x {ITEM}
+{ITEM}. (,{ITEM}. (
+{ITEM} ({ITEM}) + {ITEM} ({ITEM}) =,{ITEM} ({ITEM}) + {ITEM} ({ITEM}) =
+{ITEM} vs,{ITEM} vs
+vs {ITEM},vs {ITEM}
+{ITEM}: {ITEM},{ITEM}: {ITEM}

@@ -1,0 +1,35 @@
+original,translate
+Victory!,Победа!
+Combat!,Бой!
+There are no enemies. Press ENTER to leave combat!,"Нет врагов. Нажмите ENTER, чтобы выйти из боя!"
+Auto-resolving round!,Автоматическое разрешение раунда!
+Press any key to stop!,"Нажмите любую клавишу, чтобы остановить!"
+The combatants stare at each other from across the battlefield,"Бойцы смотрят друг на друга через поле боя"
+The party has been attacked!,На группу напали!
+Prepare for combat!,Приготовьтесь к бою!
+REMEMBER: You can press RETURN on your turn to auto-resolve combat!,"ПОМИНИТЕ: Вы можете нажать RETURN в свой ход, чтобы автоматически разрешить бой!"
+Round,Раунд
+Deploy Your Party!,Расположите Свою Команду!
+Begin Combat!,Начать Бой!
+Deploy your party and press {ITEM},Расположите свою команду и нажмите {ITEM}
+Deploy Party,Расположить команду
+Out of range,Вне досягаемости
+Pass turn and defend,Пропустить ход и защищаться
+Open the current character's Inventory,Открыть инвентарь текущего персонажа
+Hold action until end of turn,Удержать действие до конца хода
+Slashing Damage,Рубящий урон
+Bloodied!,Изранен!
+Charge {ITEM},Рывок {ITEM}
+Select an Item to use,Выберите предмет для использования
+View combat log,Просмотр журнала боя
+Repeat last action,Повторить последнее действие
+No Maneuvers to perform,Нет манёвров для выполнения
+No spells available,Нет доступных заклинаний
+Perform attack,Совершить атаку
+Select a Maneuver to perform,Выберите манёвр для выполнения
+Fire-Spit,Огненный Плевок  
+Electric Damage,Электрический урон  
+Fire Damage,Огненный урон  
+Mercenary begun,Наёмник вступил в бой  
+An option!,Есть вариант!  
+Critical Hit!,Критический удар!  
