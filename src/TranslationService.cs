@@ -48,9 +48,11 @@ namespace TranslationMod
             _itemPatterns = CreateItemPatterns(_dict);
             
             // Initialize translation buffer dictionary
-            TranslationMod.Logger?.LogInfo($"[TranslationService] Initialized with {_dict.Count} translations loaded from CSV files");
-            TranslationMod.Logger?.LogInfo($"[TranslationService] Created {_itemPatterns.Count} item patterns for {{ITEM}} placeholders");
-            TranslationMod.Logger?.LogInfo($"[TranslationService] Missing keys will be saved to: {_missingKeysFilePath}");
+#if DEBUG
+        TranslationMod.Logger?.LogInfo($"[TranslationService] Initialized with {_dict.Count} translations loaded from CSV files");
+        TranslationMod.Logger?.LogInfo($"[TranslationService] Created {_itemPatterns.Count} item patterns for {{ITEM}} placeholders");
+        TranslationMod.Logger?.LogInfo($"[TranslationService] Missing keys will be saved to: {_missingKeysFilePath}");
+#endif
         }
 
         /// <summary>
@@ -74,7 +76,9 @@ namespace TranslationMod
             if (!_loggedInputs.Contains(input))
             {
                 // Логируем только первый раз для каждого input
-                TranslationMod.Logger?.LogDebug($"[TranslationService] Processing new input: '{input}'");
+#if DEBUG
+            TranslationMod.Logger?.LogDebug($"[TranslationService] Processing new input: '{input}'");
+#endif
             }
             
             try
@@ -152,7 +156,9 @@ namespace TranslationMod
             
             if (!foundDirectTranslation)
             {
+#if DEBUG
                 TranslationMod.Logger?.LogInfo($"[TranslationService] Key not found: '{sentence}'");
+#endif
                 
                 // Дополнительный поиск: если input состоит только из заглавных букв,
                 // преобразуем в Title Case и ищем снова
@@ -160,7 +166,9 @@ namespace TranslationMod
                 {
                     string titleCaseVersion = ConvertToTitleCase(sentence);
 
+#if DEBUG
                     TranslationMod.Logger?.LogInfo($"[TranslationService] Key is CAPS. TitleCase: '{titleCaseVersion}'");
+#endif
                     if (_dict.TryGetValue(titleCaseVersion, out string titleCaseTranslated))
                     {
                         // Найден перевод для Title Case версии - преобразуем его в ЗАГЛАВНЫЕ БУКВЫ
@@ -171,7 +179,9 @@ namespace TranslationMod
                         return translated;
                     }
                 }
-                TranslationMod.Logger?.LogInfo($"[TranslationService] Key is not CAPS");
+    #if DEBUG
+                    TranslationMod.Logger?.LogInfo($"[TranslationService] Key is not CAPS");
+#endif
                 
                 // Дополнительная обработка: проверяем, содержит ли строка имя игрока
                 string playerNameReplacement = TryReplacePlayerName(sentence);
@@ -233,7 +243,9 @@ namespace TranslationMod
                     if (!Directory.Exists(directory))
                     {
                         Directory.CreateDirectory(directory);
-                        TranslationMod.Logger?.LogInfo($"[TranslationService] Created directory for missing keys: '{directory}'");
+#if DEBUG
+                TranslationMod.Logger?.LogInfo($"[TranslationService] Created directory for missing keys: '{directory}'");
+#endif
                     }
 
                     // Добавляем ключ в файл (append mode)
@@ -276,7 +288,9 @@ namespace TranslationMod
                 if (!_loggedTitleCaseHits.Contains(original))
                 {
                     _loggedTitleCaseHits.Add(original);
-                    TranslationMod.Logger?.LogInfo($"[TranslationService] Title Case hit: '{original}' -> '{titleCaseVersion}' -> '{finalTranslation}'");
+#if DEBUG
+                TranslationMod.Logger?.LogInfo($"[TranslationService] Title Case hit: '{original}' -> '{titleCaseVersion}' -> '{finalTranslation}'");
+#endif
                 }
             }
         }
@@ -289,7 +303,9 @@ namespace TranslationMod
                 if (!_loggedPlayerNameHits.Contains(original))
                 {
                     _loggedPlayerNameHits.Add(original);
-                    TranslationMod.Logger?.LogInfo($"[TranslationService] Player name hit: '{original}' -> '{withPlaceholder}' -> '{finalTranslation}'");
+#if DEBUG
+                TranslationMod.Logger?.LogInfo($"[TranslationService] Player name hit: '{original}' -> '{withPlaceholder}' -> '{finalTranslation}'");
+#endif
                 }
             }
         }
@@ -302,7 +318,9 @@ namespace TranslationMod
                 if (!_loggedItemPatternHits.Contains(original))
                 {
                     _loggedItemPatternHits.Add(original);
-                    TranslationMod.Logger?.LogInfo($"[TranslationService] Item pattern hit: '{original}' -> pattern '{pattern}' -> item '{item}' -> '{finalTranslation}'");
+#if DEBUG
+                TranslationMod.Logger?.LogInfo($"[TranslationService] Item pattern hit: '{original}' -> pattern '{pattern}' -> item '{item}' -> '{finalTranslation}'");
+#endif
                 }
             }
         }
@@ -315,7 +333,9 @@ namespace TranslationMod
                 if (!_loggedItemListHits.Contains(original))
                 {
                     _loggedItemListHits.Add(original);
-                    TranslationMod.Logger?.LogInfo($"[TranslationService] Item list hit: '{original}' -> {itemCount} items ({translatedCount} translated) -> '{finalTranslation}'");
+#if DEBUG
+                TranslationMod.Logger?.LogInfo($"[TranslationService] Item list hit: '{original}' -> {itemCount} items ({translatedCount} translated) -> '{finalTranslation}'");
+#endif
                 }
             }
         }
@@ -332,20 +352,26 @@ namespace TranslationMod
                 string playerName = GetCurrentPlayerName();
                 if (string.IsNullOrEmpty(playerName))
                 {
-                    TranslationMod.Logger?.LogDebug($"[TranslationService] Player name is empty or null");
+#if DEBUG
+            TranslationMod.Logger?.LogDebug($"[TranslationService] Player name is empty or null");
+#endif
                     return null;
                 }
 
                 // Проверяем, содержит ли строка имя игрока
                 if (!sentence.Contains(playerName))
                 {
-                    TranslationMod.Logger?.LogDebug($"[TranslationService] Sentence does not contain player name '{playerName}'");
+#if DEBUG
+                TranslationMod.Logger?.LogDebug($"[TranslationService] Sentence does not contain player name '{playerName}'");
+#endif
                     return null;
                 }
 
                 // Заменяем имя игрока на плейсхолдер
                 string sentenceWithPlaceholder = sentence.Replace(playerName, "{PLAYER}");
-                TranslationMod.Logger?.LogInfo($"[TranslationService] Checking player name replacement: '{sentence}' -> '{sentenceWithPlaceholder}'");
+#if DEBUG
+            TranslationMod.Logger?.LogInfo($"[TranslationService] Checking player name replacement: '{sentence}' -> '{sentenceWithPlaceholder}'");
+#endif
 
                 // Ищем перевод для строки с плейсхолдером
                 if (_dict.TryGetValue(sentenceWithPlaceholder, out string translatedWithPlaceholder))
@@ -359,7 +385,9 @@ namespace TranslationMod
                     return finalTranslation;
                 }
 
+#if DEBUG
                 TranslationMod.Logger?.LogDebug($"[TranslationService] No translation found for player placeholder: '{sentenceWithPlaceholder}'");
+#endif
                 return null;
             }
             catch (Exception ex)
@@ -380,19 +408,25 @@ namespace TranslationMod
                 var dataControl = MainControl.getDataControl();
                 if (dataControl == null)
                 {
-                    TranslationMod.Logger?.LogDebug($"[TranslationService] DataControl is null");
+#if DEBUG
+            TranslationMod.Logger?.LogDebug($"[TranslationService] DataControl is null");
+#endif
                     return null;
                 }
 
                 var currentPC = dataControl.getCurrentPC();
                 if (currentPC == null)
                 {
-                    TranslationMod.Logger?.LogDebug($"[TranslationService] Current PC is null");
+#if DEBUG
+            TranslationMod.Logger?.LogDebug($"[TranslationService] Current PC is null");
+#endif
                     return null;
                 }
 
                 string playerName = currentPC.getName();
-                TranslationMod.Logger?.LogDebug($"[TranslationService] Retrieved player name: '{playerName}'");
+#if DEBUG
+            TranslationMod.Logger?.LogDebug($"[TranslationService] Retrieved player name: '{playerName}'");
+#endif
                 return playerName;
             }
             catch (Exception ex)
@@ -449,7 +483,9 @@ namespace TranslationMod
                         var regex = new Regex(pattern, RegexOptions.CultureInvariant);
                         patterns.Add((regex, kvp.Value));
                         
-                        TranslationMod.Logger?.LogInfo($"[TranslationService] Created ITEM pattern: key='{kvp.Key}' (items: {itemCount}) -> pattern='{pattern}' -> template='{kvp.Value}'");
+#if DEBUG
+                TranslationMod.Logger?.LogInfo($"[TranslationService] Created ITEM pattern: key='{kvp.Key}' (items: {itemCount}) -> pattern='{pattern}' -> template='{kvp.Value}'");
+#endif
                     }
                     catch (Exception ex)
                     {
@@ -470,7 +506,9 @@ namespace TranslationMod
         {
             try
             {
-                TranslationMod.Logger?.LogInfo($"[TranslationService] Checking {_itemPatterns.Count} item patterns for: '{sentence}'");
+#if DEBUG
+            TranslationMod.Logger?.LogInfo($"[TranslationService] Checking {_itemPatterns.Count} item patterns for: '{sentence}'");
+#endif
                 
                 // Сначала пробуем прямое совпадение
                 string directMatch = TryMatchItemPatternDirect(sentence, sentence, false);
@@ -483,7 +521,9 @@ namespace TranslationMod
                 if (IsAllUpperCase(sentence))
                 {
                     string titleCaseVersion = ConvertToTitleCase(sentence);
-                    TranslationMod.Logger?.LogInfo($"[TranslationService] Sentence is CAPS, trying Title Case version: '{titleCaseVersion}'");
+#if DEBUG
+                TranslationMod.Logger?.LogInfo($"[TranslationService] Sentence is CAPS, trying Title Case version: '{titleCaseVersion}'");
+#endif
                     
                     string titleCaseMatch = TryMatchItemPatternDirect(titleCaseVersion, sentence, true);
                     if (titleCaseMatch != null)
@@ -492,7 +532,9 @@ namespace TranslationMod
                     }
                 }
                 
-                TranslationMod.Logger?.LogInfo($"[TranslationService] No item pattern matched for: '{sentence}'");
+#if DEBUG
+            TranslationMod.Logger?.LogInfo($"[TranslationService] No item pattern matched for: '{sentence}'");
+#endif
                 return null;
             }
             catch (Exception ex)
@@ -527,7 +569,9 @@ namespace TranslationMod
                             items.Add(match.Groups[i].Value);
                         }
                         
-                        TranslationMod.Logger?.LogInfo($"[TranslationService] Item pattern matched: '{testSentence}' -> items: [{string.Join(", ", items)}] using template: '{template}'");
+#if DEBUG
+                TranslationMod.Logger?.LogInfo($"[TranslationService] Item pattern matched: '{testSentence}' -> items: [{string.Join(", ", items)}] using template: '{template}'");
+#endif
                         
                         // Переводим каждый найденный предмет отдельно
                         var translatedItems = new List<string>();
@@ -555,7 +599,9 @@ namespace TranslationMod
                         if (convertToUpper)
                         {
                             finalTranslation = finalTranslation.ToUpper();
-                            TranslationMod.Logger?.LogInfo($"[TranslationService] Converted result to CAPS: '{finalTranslation}'");
+#if DEBUG
+                    TranslationMod.Logger?.LogInfo($"[TranslationService] Converted result to CAPS: '{finalTranslation}'");
+#endif
                         }
                         
                         // Логируем успешное совпадение
@@ -588,7 +634,9 @@ namespace TranslationMod
                 // Прямой поиск в словаре
                 if (_dict.TryGetValue(item, out string directTranslation))
                 {
-                    TranslationMod.Logger?.LogDebug($"[TranslationService] Direct item translation: '{item}' -> '{directTranslation}'");
+#if DEBUG
+                TranslationMod.Logger?.LogDebug($"[TranslationService] Direct item translation: '{item}' -> '{directTranslation}'");
+#endif
                     return directTranslation;
                 }
                 
@@ -599,13 +647,17 @@ namespace TranslationMod
                     if (_dict.TryGetValue(titleCaseVersion, out string titleCaseTranslated))
                     {
                         string upperTranslation = titleCaseTranslated.ToUpper();
-                        TranslationMod.Logger?.LogDebug($"[TranslationService] Title case item translation: '{item}' -> '{titleCaseVersion}' -> '{upperTranslation}'");
+#if DEBUG
+                    TranslationMod.Logger?.LogDebug($"[TranslationService] Title case item translation: '{item}' -> '{titleCaseVersion}' -> '{upperTranslation}'");
+#endif
                         return upperTranslation;
                     }
                 }
                 
                 // Если перевод не найден - возвращаем оригинал
+#if DEBUG
                 TranslationMod.Logger?.LogDebug($"[TranslationService] No translation found for item: '{item}', using original");
+#endif
                 return item;
             }
             catch (Exception ex)
@@ -630,7 +682,9 @@ namespace TranslationMod
                 // Если меньше 3 частей (минимум: предмет1, запятая, предмет2), то это не список
                 if (parts.Length < 3)
                 {
-                    TranslationMod.Logger?.LogDebug($"[TranslationService] Not enough parts for item list: {parts.Length}");
+#if DEBUG
+            TranslationMod.Logger?.LogDebug($"[TranslationService] Not enough parts for item list: {parts.Length}");
+#endif
                     return null;
                 }
                 
@@ -647,11 +701,15 @@ namespace TranslationMod
                 // Минимум 2 предмета для списка
                 if (itemParts.Count < 2)
                 {
-                    TranslationMod.Logger?.LogDebug($"[TranslationService] Not enough items for list: {itemParts.Count}");
+#if DEBUG
+            TranslationMod.Logger?.LogDebug($"[TranslationService] Not enough items for list: {itemParts.Count}");
+#endif
                     return null;
                 }
                 
-                TranslationMod.Logger?.LogInfo($"[TranslationService] Detected potential item list with {itemParts.Count} items: [{string.Join(", ", itemParts)}]");
+#if DEBUG
+        TranslationMod.Logger?.LogInfo($"[TranslationService] Detected potential item list with {itemParts.Count} items: [{string.Join(", ", itemParts)}]");
+#endif
                 
                 // Пытаемся перевести каждый предмет
                 var translatedParts = new List<string>();
@@ -691,7 +749,9 @@ namespace TranslationMod
                     return finalTranslation;
                 }
                 
-                TranslationMod.Logger?.LogDebug($"[TranslationService] No items were translated in the list");
+#if DEBUG
+            TranslationMod.Logger?.LogDebug($"[TranslationService] No items were translated in the list");
+#endif
                 return null;
             }
             catch (Exception ex)

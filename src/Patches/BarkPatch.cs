@@ -14,28 +14,28 @@ namespace TranslationMod.Patches
     public static class BarkPatch
     {
         /// <summary>
-        /// Набор уже залогированных сообщений для дедупликации
+        /// Set of already logged messages for deduplication
         /// </summary>
         private static readonly HashSet<string> _loggedMessages = new HashSet<string>();
         
         /// <summary>
-        /// Объект для синхронизации доступа к _loggedMessages
+        /// Object for synchronizing access to _loggedMessages
         /// </summary>
         private static readonly object _lockObject = new object();
         
         /// <summary>
-        /// Lazy-инициализация сервиса перевода
+        /// Lazy initialization of translation service
         /// </summary>
         private static readonly Lazy<TranslationService> _translator =
             new(() => new TranslationService());
         /// <summary>
-        /// Определяем целевой метод для патча - конструктор класса Bark
+        /// Define target method for patch - Bark class constructor
         /// </summary>
-        /// <returns>MethodInfo конструктора Bark</returns>
+        /// <returns>MethodInfo of Bark constructor</returns>
         [HarmonyTargetMethod]
         static System.Reflection.MethodBase TargetMethod()
         {
-            // Получаем тип BarkControl
+            // Get BarkControl type
             var barkControlType = AccessTools.TypeByName("BarkControl");
             if (barkControlType == null)
             {
@@ -43,7 +43,7 @@ namespace TranslationMod.Patches
                 return null;
             }
 
-            // Ищем вложенный protected класс Bark
+            // Find nested protected Bark class
             var barkType = barkControlType.GetNestedType("Bark", System.Reflection.BindingFlags.NonPublic);
             if (barkType == null)
             {
@@ -51,7 +51,7 @@ namespace TranslationMod.Patches
                 return null;
             }
 
-            // Получаем конструктор с нужной сигнатурой
+            // Get constructor with required signature
             var constructor = AccessTools.Constructor(barkType, new Type[] {
                 typeof(string),  // message
                 typeof(int),     // x
@@ -67,12 +67,14 @@ namespace TranslationMod.Patches
                 return null;
             }
 
+#if DEBUG
             TranslationMod.Logger?.LogInfo("[BarkPatch] Successfully found Bark constructor for patching");
+#endif
             return constructor;
         }
 
         /// <summary>
-        /// Prefix патч - выводит информационное сообщение в логи плагина
+        /// Prefix patch - outputs informational message to plugin logs
         /// </summary>
         /// <param name="__0">message parameter</param>
         /// <param name="__1">x parameter</param>
@@ -80,55 +82,57 @@ namespace TranslationMod.Patches
         /// <param name="__3">textColor parameter</param>
         /// <param name="__4">shadowColor parameter</param>
         /// <param name="__5">delay parameter</param>
-        /// <returns>true для продолжения выполнения оригинального конструктора</returns>
+        /// <returns>true to continue execution of original constructor</returns>
         [HarmonyPrefix]
         static bool Prefix(ref string __0, int __1, int __2, Color __3, Color __4, int __5)
         {
             try
             {
-                // Сохраняем оригинальное сообщение для логирования
+                // Save original message for logging
                 string originalMessage = __0;
                 
-                // Проверяем текущий язык - если не English, переводим сообщение
+                // Check current language - if not English, translate message
                 var currentLanguagePack = LanguageManager.GetCurrentLanguagePack();
                 if (currentLanguagePack != null && !currentLanguagePack.Name.Equals("English", StringComparison.OrdinalIgnoreCase))
                 {
-                    // Переводим сообщение
+                    // Translate message
                     string translatedMessage = _translator.Value.Process(__0);
-                    __0 = translatedMessage; // Изменяем параметр для передачи переведенного текста в конструктор
+                    __0 = translatedMessage; // Change parameter to pass translated text to constructor
                 }
                 
-                // Проверяем, нужно ли логировать это сообщение (дедупликация)
+                // Check if we need to log this message (deduplication)
                 if (ShouldLogMessage(originalMessage))
                 {
+#if DEBUG
                     if (originalMessage != __0)
                     {
-                        // Логируем с информацией о переводе
+                        // Log with translation information
                         TranslationMod.Logger?.LogInfo($"[BarkPatch] Bark constructor called with message: '{originalMessage}' -> '{__0}' at position ({__1}, {__2}) with delay: {__5}");
                     }
                     else
                     {
-                        // Логируем без перевода
+                        // Log without translation
                         TranslationMod.Logger?.LogInfo($"[BarkPatch] Bark constructor called with message: '{originalMessage}' at position ({__1}, {__2}) with delay: {__5}");
                     }
+#endif
                 }
                 
-                // Возвращаем true, чтобы позволить выполниться оригинальному конструктору
+                // Return true to allow original constructor to execute
                 return true;
             }
             catch (Exception ex)
             {
                 TranslationMod.Logger?.LogError($"[BarkPatch] Error in Bark constructor prefix: {ex.Message}");
-                // В случае ошибки всё равно позволяем выполниться оригинальному конструктору
+                // In case of error, still allow original constructor to execute
                 return true;
             }
         }
 
         /// <summary>
-        /// Проверяет, нужно ли логировать сообщение (дедупликация)
+        /// Checks if message should be logged (deduplication)
         /// </summary>
-        /// <param name="message">Сообщение для проверки</param>
-        /// <returns>true если сообщение нужно залогировать, false если оно уже было залогировано</returns>
+        /// <param name="message">Message to check</param>
+        /// <returns>true if message should be logged, false if it was already logged</returns>
         private static bool ShouldLogMessage(string message)
         {
             if (string.IsNullOrEmpty(message))
@@ -138,13 +142,13 @@ namespace TranslationMod.Patches
 
             lock (_lockObject)
             {
-                // Если сообщение уже было залогировано, не логируем его снова
+                // If message was already logged, don't log it again
                 if (_loggedMessages.Contains(message))
                 {
                     return false;
                 }
 
-                // Добавляем сообщение в набор залогированных
+                // Add message to set of logged messages
                 _loggedMessages.Add(message);
                 return true;
             }

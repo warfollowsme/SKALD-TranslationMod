@@ -54,7 +54,9 @@ namespace TranslationMod.Patches
                 return null;
             }
 
+#if DEBUG
             TranslationMod.Logger?.LogInfo("[TooltipTranslationPatch] Successfully found getToolTip method");
+#endif
             return getToolTipMethod;
         }
 
@@ -77,11 +79,15 @@ namespace TranslationMod.Patches
 
                 if (!hasMapping)
                 {
-                    TranslationMod.Logger?.LogDebug($"[TooltipTranslationPatch] No mapping found for keyword: '{keyword}', using original method");
+#if DEBUG
+            TranslationMod.Logger?.LogDebug($"[TooltipTranslationPatch] No mapping found for keyword: '{keyword}', using original method");
+#endif
                     return true; // Выполняем оригинальный метод
                 }
 
-                TranslationMod.Logger?.LogInfo($"[TooltipTranslationPatch] Translating tooltip keyword: '{keyword}' -> '{originalKeyword}'");
+#if DEBUG
+            TranslationMod.Logger?.LogInfo($"[TooltipTranslationPatch] Translating tooltip keyword: '{keyword}' -> '{originalKeyword}'");
+#endif
 
                 // Вызываем оригинальный метод с оригинальным ключевым словом
                 var originalMethod = TargetMethod();

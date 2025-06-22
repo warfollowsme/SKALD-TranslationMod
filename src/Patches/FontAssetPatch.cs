@@ -20,21 +20,27 @@ namespace TranslationMod.Patches
             
             LanguageManager.OnLanguageChanged += OnLanguageChangedHandler;
             _isSubscribed = true;
-            TranslationMod.Logger?.LogInfo("[FontAssetPatch] Initialized and subscribed to language change events");            
+#if DEBUG
+        TranslationMod.Logger?.LogInfo("[FontAssetPatch] Initialized and subscribed to language change events");
+#endif            
             PreloadFonts();
         }
 
         private static void OnLanguageChangedHandler()
         {
             ClearReplacedFonts();
-            TranslationMod.Logger?.LogInfo("[FontAssetPatch] Language changed, cleared replaced fonts list");
+#if DEBUG
+        TranslationMod.Logger?.LogInfo("[FontAssetPatch] Language changed, cleared replaced fonts list");
+#endif
         }
         
         public static void ClearReplacedFonts()
         {
             _fontsPreloaded = false;
             PreloadFonts();
-            TranslationMod.Logger?.LogInfo("[FontAssetPatch] Cleared fonts cache and reloaded fonts");
+#if DEBUG
+        TranslationMod.Logger?.LogInfo("[FontAssetPatch] Cleared fonts cache and reloaded fonts");
+#endif
         }
         
         private static TextureTools.TextureData LoadPngAsTextureData(string filePath)
@@ -114,7 +120,9 @@ namespace TranslationMod.Patches
                 // Вызываем addTexture с нашими параметрами
                 addTextureMethod.Invoke(bufferInstance, new object[] { path, textureData });
                 
-                TranslationMod.Logger?.LogDebug($"[FontAssetPatch] Successfully added custom texture to game buffer for path: {path}");
+#if DEBUG
+            TranslationMod.Logger?.LogDebug($"[FontAssetPatch] Successfully added custom texture to game buffer for path: {path}");
+#endif
                 return true;
             }
             catch (Exception e)

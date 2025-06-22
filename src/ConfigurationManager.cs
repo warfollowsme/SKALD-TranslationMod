@@ -29,7 +29,9 @@ namespace TranslationMod.Configuration
                 EnsureLanguagePacksDirectoryExists();
                 
                 _isInitialized = true;
-                TranslationMod.Logger?.LogInfo($"[ConfigurationManager] Initialized. Language packs will be loaded on demand.");
+#if DEBUG
+            TranslationMod.Logger?.LogInfo($"[ConfigurationManager] Initialized. Language packs will be loaded on demand.");
+#endif
             }
             catch (Exception e)
             {
@@ -46,7 +48,9 @@ namespace TranslationMod.Configuration
             if (!Directory.Exists(languagePacksPath))
             {
                 Directory.CreateDirectory(languagePacksPath);
+#if DEBUG
                 TranslationMod.Logger?.LogInfo($"[ConfigurationManager] Created language packs directory: {languagePacksPath}");
+#endif
             }
         }
         

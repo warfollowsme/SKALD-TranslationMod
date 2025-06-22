@@ -21,11 +21,11 @@ namespace TranslationMod
         private static FieldInfo stateField;
         private static FieldInfo alternativesField;
         
-        // Текущий язык, определяемый игрой (хранится в памяти, не в конфиге)
+        // Current language determined by game (stored in memory, not in config)
         private static string _currentLanguageCode = ConfigKeys.EnglishLanguageCode;
         private static string _currentLanguageName = ConfigKeys.EnglishLanguageName;
         
-        // Кэш языковых пакетов
+        // Language packs cache
         private static readonly ConcurrentDictionary<string, LanguagePack> _languagePacks = new();
         private static string _pluginDirectory;
 
@@ -35,11 +35,11 @@ namespace TranslationMod
 
             try
             {
-                // Инициализируем путь к директории плагина
+                // Initialize plugin directory path
                 _pluginDirectory = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
                 
-                // С помощью рефлексии получаем "описание" приватных полей,
-                // которые нам нужны для чтения значения из CarouselSetting.
+                // Use reflection to get "description" of private fields
+                // that we need to read values from CarouselSetting.
                 var carouselSettingType = AccessTools.Inner(typeof(GlobalSettings.SettingsCollection), GameConstants.CarouselSettingType);
                 if (carouselSettingType == null)
                 {
@@ -56,11 +56,13 @@ namespace TranslationMod
                     return;
                 }
                 
-                // Инициализируем патч шрифтов  
+                // Initialize font patch  
                 FontAssetPatch.Initialize();
                 
                 _isLanguageReady = true;
+#if DEBUG
                 TranslationMod.Logger?.LogInfo("[LanguageManager] Initialized successfully");
+#endif
             }
             catch (Exception e)
             {
@@ -74,19 +76,23 @@ namespace TranslationMod
         /// <param name="newLanguageName">New language name (e.g., "Russian")</param>
         public static void SwitchLanguage(string newLanguageName)
         {
+#if DEBUG
             TranslationMod.Logger?.LogInfo($"[LanguageManager] Attempting to switch language to: {newLanguageName}");
+#endif
             
             string newLanguageCode = GetLanguageCodeByName(newLanguageName) 
                                      ?? ConfigKeys.EnglishLanguageCode;
 
-            // Сохраняем текущий язык для внутреннего использования (не в конфиг, а в память)
+            // Save current language for internal use (in memory, not in config)
             _currentLanguageCode = newLanguageCode;
             _currentLanguageName = newLanguageName;
             
             LoadLanguagePackByCode(newLanguageCode);
             
             OnLanguageChanged?.Invoke();
+#if DEBUG
             TranslationMod.Logger?.LogInfo($"[LanguageManager] Language switched to '{newLanguageName}' ({newLanguageCode}). Event invoked.");
+#endif
         }
 
         /// <summary>
@@ -126,7 +132,9 @@ namespace TranslationMod
         public static void TriggerLanguageChange()
         {
             OnLanguageChanged?.Invoke();
+#if DEBUG
             TranslationMod.Logger?.LogInfo("[LanguageManager] Language change event triggered manually");
+#endif
         }
 
         /// <summary>
@@ -147,12 +155,14 @@ namespace TranslationMod
             }
             else
             {
-                // Если код не указан, определяем его по имени
+                // If code is not specified, determine it by name
                 _currentLanguageCode = GetLanguageCodeByName(languageName) 
                                      ?? ConfigKeys.EnglishLanguageCode;
             }
             
+#if DEBUG
             TranslationMod.Logger?.LogDebug($"[LanguageManager] Current language updated to: '{_currentLanguageName}' ({_currentLanguageCode})");
+#endif
         }
 
         /// <summary>
@@ -162,7 +172,9 @@ namespace TranslationMod
         {
             try
             {
+#if DEBUG
                 TranslationMod.Logger?.LogInfo("[LanguageManager] Starting initial language synchronization with the game");
+#endif
                 
                 var gameplaySettings = GlobalSettings.getGamePlaySettings();
                 if (gameplaySettings == null)
@@ -174,16 +186,20 @@ namespace TranslationMod
                 var languageSetting = gameplaySettings.getObject(GameConstants.LanguageSettingId);
                 if (languageSetting == null)
                 {
+#if DEBUG
                     TranslationMod.Logger?.LogInfo("[LanguageManager] Language setting not found in game, using default English");
+#endif
                     UpdateCurrentLanguage(ConfigKeys.EnglishLanguageName, ConfigKeys.EnglishLanguageCode);
                     return;
                 }
 
-                // Извлекаем текущий язык из игровой настройки
+                // Extract current language from game setting
                 string currentGameLanguage = ExtractLanguageFromSetting(languageSetting);
                 if (!string.IsNullOrEmpty(currentGameLanguage))
                 {
+#if DEBUG
                     TranslationMod.Logger?.LogInfo($"[LanguageManager] Synchronized with game language: '{currentGameLanguage}'");
+#endif
                     SwitchLanguage(currentGameLanguage);
                 }
                 else
@@ -195,7 +211,7 @@ namespace TranslationMod
             catch (Exception e)
             {
                 TranslationMod.Logger?.LogError($"[LanguageManager] Error during game synchronization: {e.Message}");
-                // Устанавливаем английский как безопасный fallback
+                // Set English as safe fallback
                 UpdateCurrentLanguage(ConfigKeys.EnglishLanguageName, ConfigKeys.EnglishLanguageCode);
             }
         }
@@ -229,7 +245,9 @@ namespace TranslationMod
                     if (currentIndex >= 0 && currentIndex < alternatives.Count)
                     {
                         string selectedLanguage = alternatives[currentIndex]?.ToString();
+#if DEBUG
                         TranslationMod.Logger?.LogDebug($"[ExtractLanguageFromSetting] Extracted language: '{selectedLanguage}' at index {currentIndex}");
+#endif
                         return selectedLanguage;
                     }
                 }
@@ -238,7 +256,9 @@ namespace TranslationMod
             }
             catch (Exception e)
             {
+#if DEBUG
                 TranslationMod.Logger?.LogDebug($"[ExtractLanguageFromSetting] Error: {e.Message}");
+#endif
                 return null;
             }
         }
@@ -252,7 +272,9 @@ namespace TranslationMod
             if (string.IsNullOrEmpty(languageCode) || languageCode.Equals(ConfigKeys.EnglishLanguageCode, StringComparison.OrdinalIgnoreCase))
             {
                 _languagePacks.Clear();
+#if DEBUG
                 TranslationMod.Logger?.LogInfo($"[LanguageManager] Switched to English. No language pack needed.");
+#endif
                 return;
             }
 
@@ -283,7 +305,9 @@ namespace TranslationMod
                                 string.Equals(languagePack.LanguageCode, languageCode, StringComparison.OrdinalIgnoreCase))
                             {
                                 _languagePacks[languageCode] = languagePack;
+#if DEBUG
                                 TranslationMod.Logger?.LogInfo($"[LanguageManager] Successfully loaded language pack: {languagePack.Name} ({languageCode})");
+#endif
                                 return;
                             }
                         }
@@ -432,7 +456,7 @@ namespace TranslationMod
                 return false;
                 
             if (languageCode.Equals(ConfigKeys.EnglishLanguageCode, StringComparison.OrdinalIgnoreCase))
-                return true; // Английский всегда поддерживается
+                return true; // English is always supported
                 
             try
             {

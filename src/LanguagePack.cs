@@ -45,7 +45,9 @@ namespace TranslationMod.Configuration
                 {
                     string jsonContent = File.ReadAllText(_configFilePath);
                     _data = JsonConvert.DeserializeObject<LanguagePackData>(jsonContent) ?? new LanguagePackData();
-                    TranslationMod.Logger?.LogInfo($"[LanguagePack] Loaded language pack from JSON: {Name}");
+#if DEBUG
+            TranslationMod.Logger?.LogInfo($"[LanguagePack] Loaded language pack from JSON: {Name}");
+#endif
                 }
                 else
                 {
@@ -105,7 +107,9 @@ namespace TranslationMod.Configuration
                         if (kvp.Key.Length == 1)
                         {
                             result[kvp.Key[0]] = kvp.Value;
-                            TranslationMod.Logger?.LogDebug($"[LanguagePack] Mapped character '{kvp.Key[0]}' to position {kvp.Value}");
+#if DEBUG
+                    TranslationMod.Logger?.LogDebug($"[LanguagePack] Mapped character '{kvp.Key[0]}' to position {kvp.Value}");
+#endif
                         }
                         else
                         {
@@ -124,7 +128,9 @@ namespace TranslationMod.Configuration
                 TranslationMod.Logger?.LogError($"[LanguagePack] Error parsing character chart for '{Name}': {e.Message}");
             }
 
-            TranslationMod.Logger?.LogInfo($"[LanguagePack] Loaded {result.Count} characters from CharacterChart for language '{Name}'");
+#if DEBUG
+                TranslationMod.Logger?.LogInfo($"[LanguagePack] Loaded {result.Count} characters from CharacterChart for language '{Name}'");
+#endif
             return result;
         }
 
@@ -191,7 +197,9 @@ namespace TranslationMod.Configuration
             {
                 string jsonContent = JsonConvert.SerializeObject(_data, Formatting.Indented);
                 File.WriteAllText(_configFilePath, jsonContent);
-                TranslationMod.Logger?.LogInfo($"[LanguagePack] Saved language pack: {Name}");
+#if DEBUG
+            TranslationMod.Logger?.LogInfo($"[LanguagePack] Saved language pack: {Name}");
+#endif
             }
             catch (Exception e)
             {

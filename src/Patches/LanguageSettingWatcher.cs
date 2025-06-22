@@ -29,43 +29,53 @@ namespace TranslationMod.Patches
                     return methods;
                 }
 
-                // Ищем метод setStateTo с разными сигнатурами
+                // Find setStateTo method with different signatures
                 var setStateToMethod = AccessTools.Method(carouselSettingType, GameConstants.SetStateToMethod, new[] { typeof(int) })
                                     ?? AccessTools.Method(carouselSettingType, "setState", new[] { typeof(int) })
                                     ?? AccessTools.Method(carouselSettingType, "SetState", new[] { typeof(int) });
                 if (setStateToMethod != null)
                 {
                     methods.Add(setStateToMethod);
+#if DEBUG
                     TranslationMod.Logger?.LogInfo($"[LanguageSettingWatcher] Found method for patching: {setStateToMethod.Name}");
+#endif
                 }
 
-                // Ищем метод incrementState
+                // Find incrementState method
                 var incrementStateMethod = AccessTools.Method(carouselSettingType, GameConstants.IncrementStateMethod, new[] { typeof(int) })
                                         ?? AccessTools.Method(carouselSettingType, "increment", new[] { typeof(int) })
                                         ?? AccessTools.Method(carouselSettingType, "Increment", new[] { typeof(int) });
                 if (incrementStateMethod != null)
                 {
                     methods.Add(incrementStateMethod);
+#if DEBUG
                     TranslationMod.Logger?.LogInfo($"[LanguageSettingWatcher] Found method for patching: {incrementStateMethod.Name}");
+#endif
                 }
 
-                // Ищем метод applySettingSaveData
+                // Find applySettingSaveData method
                 var applySettingSaveDataMethod = AccessTools.Method(carouselSettingType, GameConstants.ApplySettingSaveDataMethod)
                                             ?? AccessTools.Method(carouselSettingType, "applySaveData")
                                             ?? AccessTools.Method(carouselSettingType, "ApplySaveData");
                 if (applySettingSaveDataMethod != null)
                 {
                     methods.Add(applySettingSaveDataMethod);
+#if DEBUG
                     TranslationMod.Logger?.LogInfo($"[LanguageSettingWatcher] Found method for patching: {applySettingSaveDataMethod.Name}");
+#endif
                 }
 
                 if (methods.Count == 0)
                 {
+#if DEBUG
                     TranslationMod.Logger?.LogInfo("[LanguageSettingWatcher] No suitable methods found to patch - language detection may not work automatically");
+#endif
                 }
                 else
                 {
+#if DEBUG
                     TranslationMod.Logger?.LogInfo($"[LanguageSettingWatcher] Successfully found {methods.Count} methods to patch");
+#endif
                 }
             }
             catch (System.Exception e)
@@ -89,7 +99,9 @@ namespace TranslationMod.Patches
                 {
                     LanguageManager.SwitchLanguage(name);
                     _lastLanguage = name;
+#if DEBUG
                     TranslationMod.Logger?.LogInfo($"[LanguageSettingWatcher] switched to {name}");
+#endif
                 }
             }
             finally { _processing = false; }

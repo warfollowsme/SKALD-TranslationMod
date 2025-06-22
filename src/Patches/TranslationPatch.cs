@@ -183,7 +183,9 @@ namespace TranslationMod.Patches
             }
             catch (Exception ex)
             {
+#if DEBUG
                 TranslationMod.Logger?.LogError($"Error in custom setContent implementation: {ex.Message}");
+#endif
                 // В случае ошибки позволяем выполниться оригинальному методу
                 return true;
             }
@@ -201,7 +203,9 @@ namespace TranslationMod.Patches
                 
                 if (PreProcessStringMethod == null)
                 {
+#if DEBUG
                     TranslationMod.Logger?.LogError("PreProcessStringMethod is null");
+#endif
                     return;
                 }
                 
@@ -209,7 +213,9 @@ namespace TranslationMod.Patches
                 
                 if (ContentField == null)
                 {
+#if DEBUG
                     TranslationMod.Logger?.LogError("ContentField is null");
+#endif
                     return;
                 }
                 
@@ -217,7 +223,9 @@ namespace TranslationMod.Patches
                 
                 if (FontField == null)
                 {
+#if DEBUG
                     TranslationMod.Logger?.LogError("FontField is null");
+#endif
                     return;
                 }
                 
@@ -252,7 +260,9 @@ namespace TranslationMod.Patches
                     }
                     else
                     {
+#if DEBUG
                         TranslationMod.Logger?.LogInfo($"Character '{translated[0]}' with subimage {subimageForChar} doesn't match illuminated criteria");
+#endif
                     }
                 }
                 translated = (string)PreProcessStringMethod.Invoke(instance, new object[] { translated });
@@ -260,7 +270,9 @@ namespace TranslationMod.Patches
                 string taggedInput = identifyTooltipKeywords(instance, input);
                 if(taggedInput != input)
                 {
+#if DEBUG
                     TranslationMod.Logger?.LogInfo($"Tagged input: {taggedInput}");
+#endif
                     
                     // Извлекаем tooltip ключи и добавляем их в буфер
                     var keys = ExtractAndBufferTooltipKeys(taggedInput);
@@ -268,7 +280,9 @@ namespace TranslationMod.Patches
                     // Оборачиваем переведенные ключи в теги <tag></tag>
                     translated = TagKeys(translated, keys);
 
+#if DEBUG
                     TranslationMod.Logger?.LogInfo($"Translated tagged input: {translated}");
+#endif
                 }
 
                 if (SplitIntoParagraphMethod == null)
@@ -321,15 +335,21 @@ namespace TranslationMod.Patches
                 var matches = TooltipTagRegex.Matches(input);
                 if (matches.Count == 0)
                 {
+#if DEBUG
                     TranslationMod.Logger?.LogDebug($"[TooltipBuffer] No tooltip tags found in: {input}");
+#endif
                     return keys;
                 }
-                TranslationMod.Logger?.LogDebug($"[TooltipBuffer] Match Count: {matches.Count}"); 
+#if DEBUG
+                TranslationMod.Logger?.LogDebug($"[TooltipBuffer] Match Count: {matches.Count}");
+#endif 
                 lock (_tooltipBufferLock)
                 {
                     foreach (Match match in matches)
                     {
-                        TranslationMod.Logger?.LogDebug($"[TooltipBuffer] Match Count: {match.Groups.Count}");      
+#if DEBUG
+                        TranslationMod.Logger?.LogDebug($"[TooltipBuffer] Match Count: {match.Groups.Count}");
+#endif      
                         if (match.Groups.Count > 1)
                         {          
                             string originalKey = match.Groups[1].Value;
@@ -430,7 +450,9 @@ namespace TranslationMod.Patches
                         try
                         {
                             var pattern = BuildPattern(kvp.Key);
+#if DEBUG
                             TranslationMod.Logger?.LogInfo($"[TagKeys] Pattern: {pattern}");
+#endif
                             if (string.IsNullOrEmpty(pattern))
                                 return (PatternInfo?)null;
                             
@@ -500,11 +522,15 @@ namespace TranslationMod.Patches
                     {
                         finalMatches.Add((match, pattern));
                         processedRanges.Add((start, end));
+#if DEBUG
                         TranslationMod.Logger?.LogDebug($"[TagKeys] Added match: '{match.Value}' at {start}-{end}");
+#endif
                     }
                     else
                     {
+#if DEBUG
                         TranslationMod.Logger?.LogDebug($"[TagKeys] Skipped overlapping match: '{match.Value}' at {start}-{end}");
+#endif
                     }
                 }
 
@@ -527,7 +553,9 @@ namespace TranslationMod.Patches
                         // Заменяем в тексте
                         text = text.Substring(0, match.Index) + replacement + text.Substring(match.Index + match.Length);
                         
+#if DEBUG
                         TranslationMod.Logger?.LogDebug($"[TagKeys] Replaced '{matchValue}' with '{replacement}'");
+#endif
                     }
                     catch (Exception ex)
                     {
