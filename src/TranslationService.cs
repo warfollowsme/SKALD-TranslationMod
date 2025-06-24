@@ -219,6 +219,9 @@ namespace TranslationMod
                 LogDirectTranslation(sentence, translated);
             }
 
+            // Обрабатываем плейсхолдер {IFHE} в итоговом переводе
+            translated = ProcessGenderPlaceholder(translated);
+
             return translated;
         }
 
@@ -379,6 +382,9 @@ namespace TranslationMod
                     // Заменяем плейсхолдер обратно на имя игрока в переводе
                     string finalTranslation = translatedWithPlaceholder.Replace("{PLAYER}", playerName);
                     
+                    // Обрабатываем плейсхолдер {IFHE} в итоговом переводе
+                    finalTranslation = ProcessGenderPlaceholder(finalTranslation);
+                    
                     // Логируем с дедупликацией
                     LogPlayerNameHit(sentence, sentenceWithPlaceholder, finalTranslation);
                     
@@ -433,6 +439,111 @@ namespace TranslationMod
             {
                 TranslationMod.Logger?.LogError($"[TranslationService] Error getting player name: {ex.Message}");
                 return null;
+            }
+        }
+
+        /// <summary>
+        /// Получает пол текущего игрока из игры
+        /// </summary>
+        /// <returns>true если игрок мужчина, false если женщина, null в случае ошибки</returns>
+        private static bool? GetCurrentPlayerGender()
+        {
+            try
+            {
+                var dataControl = MainControl.getDataControl();
+                if (dataControl == null)
+                {
+#if DEBUG
+            TranslationMod.Logger?.LogDebug($"[TranslationService] DataControl is null for gender check");
+#endif
+                    return null;
+                }
+
+                var currentPC = dataControl.getCurrentPC();
+                if (currentPC == null)
+                {
+#if DEBUG
+            TranslationMod.Logger?.LogDebug($"[TranslationService] Current PC is null for gender check");
+#endif
+                    return null;
+                }
+
+                bool isMale = currentPC.isCharacterMale();
+#if DEBUG
+            TranslationMod.Logger?.LogDebug($"[TranslationService] Retrieved player gender: {(isMale ? "male" : "female")}");
+#endif
+                return isMale;
+            }
+            catch (Exception ex)
+            {
+                TranslationMod.Logger?.LogError($"[TranslationService] Error getting player gender: {ex.Message}");
+                return null;
+            }
+        }
+
+        /// <summary>
+        /// Обрабатывает плейсхолдер {IFHE string_if_player_man | string_if_player_woman} в переводе
+        /// </summary>
+        /// <param name="translation">Строка перевода с возможными плейсхолдерами {IFHE}</param>
+        /// <returns>Обработанная строка с заменёнными плейсхолдерами</returns>
+        private static string ProcessGenderPlaceholder(string translation)
+        {
+            if (string.IsNullOrEmpty(translation) || !translation.Contains("{IFHE"))
+            {
+                return translation;
+            }
+
+            try
+            {
+                // Регулярное выражение для поиска плейсхолдера {IFHE text1 | text2}
+                var genderRegex = new Regex(@"\{IFHE\s+([^|]+?)\s*\|\s*([^}]+?)\s*\}", RegexOptions.CultureInvariant);
+                
+                string result = translation;
+                var matches = genderRegex.Matches(translation);
+                
+                if (matches.Count > 0)
+                {
+                    bool? playerGender = GetCurrentPlayerGender();
+                    
+                    if (playerGender.HasValue)
+                    {
+                        foreach (Match match in matches)
+                        {
+                            string maleText = match.Groups[1].Value.Trim();
+                            string femaleText = match.Groups[2].Value.Trim();
+                            
+                            // Выбираем текст в зависимости от пола игрока
+                            string selectedText = playerGender.Value ? maleText : femaleText;
+                            
+                            // Заменяем плейсхолдер на выбранный текст
+                            result = result.Replace(match.Value, selectedText);
+                            
+#if DEBUG
+                    TranslationMod.Logger?.LogInfo($"[TranslationService] Gender placeholder processed: '{match.Value}' -> '{selectedText}' (player is {(playerGender.Value ? "male" : "female")})");
+#endif
+                        }
+                    }
+                    else
+                    {
+                        // Если не удалось определить пол игрока, используем мужской вариант по умолчанию
+                        foreach (Match match in matches)
+                        {
+                            string maleText = match.Groups[1].Value.Trim();
+                            result = result.Replace(match.Value, maleText);
+                            
+#if DEBUG
+                    TranslationMod.Logger?.LogWarning($"[TranslationService] Gender placeholder defaulted to male: '{match.Value}' -> '{maleText}' (could not determine player gender)");
+#endif
+                        }
+                    }
+                }
+                
+                return result;
+            }
+            catch (Exception ex)
+            {
+                TranslationMod.Logger?.LogError($"[TranslationService] Error processing gender placeholder in '{translation}': {ex.Message}");
+                return translation;
             }
         }
 
@@ -595,6 +706,9 @@ namespace TranslationMod
                             }
                         }
                         
+                        // Обрабатываем плейсхолдер {IFHE} в итоговом переводе
+                        finalTranslation = ProcessGenderPlaceholder(finalTranslation);
+                        
                         // Если нужно конвертировать в CAPS
                         if (convertToUpper)
                         {
@@ -634,6 +748,9 @@ namespace TranslationMod
                 // Прямой поиск в словаре
                 if (_dict.TryGetValue(item, out string directTranslation))
                 {
+                    // Обрабатываем плейсхолдер {IFHE} в итоговом переводе
+                    directTranslation = ProcessGenderPlaceholder(directTranslation);
+                    
 #if DEBUG
                 TranslationMod.Logger?.LogDebug($"[TranslationService] Direct item translation: '{item}' -> '{directTranslation}'");
 #endif
@@ -646,6 +763,8 @@ namespace TranslationMod
                     string titleCaseVersion = ConvertToTitleCase(item);
                     if (_dict.TryGetValue(titleCaseVersion, out string titleCaseTranslated))
                     {
+                        // Обрабатываем плейсхолдер {IFHE} перед конвертацией в CAPS
+                        titleCaseTranslated = ProcessGenderPlaceholder(titleCaseTranslated);
                         string upperTranslation = titleCaseTranslated.ToUpper();
 #if DEBUG
                     TranslationMod.Logger?.LogDebug($"[TranslationService] Title case item translation: '{item}' -> '{titleCaseVersion}' -> '{upperTranslation}'");
@@ -745,6 +864,10 @@ namespace TranslationMod
                 if (translatedCount > 0)
                 {
                     string finalTranslation = string.Join("", translatedParts);
+                    
+                    // Обрабатываем плейсхолдер {IFHE} в итоговом переводе
+                    finalTranslation = ProcessGenderPlaceholder(finalTranslation);
+                    
                     LogItemListHit(sentence, itemParts.Count, translatedCount, finalTranslation);
                     return finalTranslation;
                 }
