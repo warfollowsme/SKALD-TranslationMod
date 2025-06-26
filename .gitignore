@@ -16,6 +16,10 @@ packages/
 # Test results
 TestResults/
 
+# Release
+release/
+build/
+
 # System files
 .DS_Store
 Thumbs.db
@@ -25,3 +29,4 @@ GameTextParserTests/
 examples/
 game_source/ 
 CSV*/
+translate_remaining.py

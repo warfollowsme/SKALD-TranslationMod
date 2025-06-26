@@ -71,151 +71,157 @@ And I needn't remind you that it's a poor idea to enter the maze without a lante
 Have a good evening m'lord,"Приятного вечера, милорд"
 Have a good evening m'lady,"Хорошего вечера, миледи"
 #IntroCato,#IntroCato
-Cato stands - with poorly concealed effort,Катон стоит - с плохо скрываемыми усилиями
-And {PLAYER},И {PLAYER}
-"You stand, and meet his gaze",Вы стоите и встречаете его взгляд
-Return her to me,Верни ее мне
-There is no other outcome of this affair,Другого исхода у этого дела быть не может
-"Shake his hand, and leave",Пожмите ему руку и уходите
-"Remain silent, and leave",Молчите и уходите
-"You have my word, Cato","Даю слово, Катон"
-LEAVE,ОСТАВИТЬ
-Cato Berryn,Катон Беррин
-"Cato Berryn sits tall in a tasteful, but modest reception room","Катон Беррин сидит во весь рост в изысканной, но скромной приемной"
-He looks less imposing than you remember - and with a few more crow's feet,"Он выглядит не так внушительно, как вы помните, и у него еще несколько вороных ног"
-"Nonetheless, he's lost none of his composure or air of casual authority","Тем не менее, он не утратил ни самообладания, ни непринужденного авторитета"
-Continue,Продолжить
-You take a seat across a formidable desk from him,Вы садитесь за грозный стол напротив него
-"This study, like the rest of the villa, is half-lit, giving a morose cast to its opulence","Этот кабинет, как и остальные помещения виллы, полуосвещен, что придает мрачный оттенок его роскоши"
-"The older man's face creases into a tired, but genuine smile, which momentarily lifts some of the room's oppressive mood","На лице пожилого мужчины появляется усталая, но искренняя улыбка, которая на мгновение снимает гнетущее настроение в комнате"
-It's a mercy to see you again - your own man and in your prime,Как мило видеть вас снова - самостоятельным мужчиной и в расцвете сил
-"Cato says, before a frown consumes his smile","Катон говорит, прежде чем нахмуриться и улыбнуться"
-It's just a shame our reunion is overshadowed by the fates of those we love,"Жаль только, что наше воссоединение омрачено судьбами тех, кого мы любим"
-"But perhaps, together, we can yet improve our collective circumstances?","Но, возможно, вместе мы все же сможем улучшить наше общее положение?"
-It's a mercy to see you again - your own woman and in your prime,Это счастье снова видеть вас - свою собственную женщину и в расцвете сил
-Why have you summoned me?,Зачем вы вызвали меня?
-"So, you know my Father is dead","Итак, вы знаете, что мой отец умер"
-"Cato leans forward, hands clasped beneath his chin","Катон наклонился вперед, сцепив руки под подбородком"
-I shan't deny it,Не буду отрицать
-I was saddened to hear of his passing,"Я был опечален, узнав о его кончине"
-"Despite everything, I remember him fondly","Несмотря ни на что, я вспоминаю его с любовью"
-You drove him to drink and mercenary work,Вы довели его до пьянства и наемничества
-No need to dwell on the past,Не стоит зацикливаться на прошлом
-"Cato leans back again, and his eyes go distant","Катон снова откинулся на спинку кресла, его глаза стали отрешенными"
-He failed in his duties,Он не справился со своими обязанностями
-"For an arms-master, there is no greater shame than a lapse of vigilance","Для оружейного мастера нет большего позора, чем потеря бдительности"
-He drove himself into exile,Он отправил себя в изгнание
-Lyra shifts slightly behind Cato,Лира слегка сдвинулась за Катоном
-"If he failed, then it was never possible to succeed","Если он потерпел неудачу, значит, успех невозможен"
-Say nothing,Ничего не говори
-A pregnant pause,Беременная пауза
-He failed her,Он подвел ее
-Your father's exile was a sorrow to me,Изгнание твоего отца было для меня горем
-Yet he could not remain in the household - for Embla's sake,И все же он не мог оставаться в доме - ради Эмблы
-"The loss of a mother is tragedy enough, without being reminded of it","Потеря матери и так трагедия, а тут еще напоминать об этом"
-Embla?,Эмбла?
-Do not hide behind your daughter,Не прячьтесь за своей дочерью
-The past is done with!,С прошлым покончено!
-Tell me why I'm here!,"Скажи мне, почему я здесь!"
-That may be so,"Возможно, это так"
-But it is done,Но это сделано
-I regret his loyalty could not be rewarded,"Я сожалею, что его преданность не была вознаграждена"
-Sometimes...the tapestry's weave is not so easy to discern,Иногда... переплетение гобелена не так легко различить
-"Cato's face is still mild, yet you sense his tone hardening","Выражение лица Катона по-прежнему мягкое, но вы чувствуете, что его тон становится жестче"
-Fine,Fine
-I'm sure we've both moved on,"Я уверен, что мы оба прошли через это"
-"By exiling him, you condemned me as well","Изгнав его, вы осудили и меня"
-Your anger is understandable,Ваш гнев понятен
-The hardships you must have suffered on the road are written in your face,"Тяготы, которые вам пришлось пережить в пути, написаны на вашем лице"
-"Such is the cost of mercenary work, I suppose","Такова цена наемничества, я полагаю"
-But do not presume to understand the forces that were at play,"Но не стоит полагать, что вы понимаете, какие силы действовали"
-And still are,И до сих пор
-"Just tell me why I'm here, old man!","Просто скажи мне, зачем я здесь, старик!"
-"Cato is caught off-guard for a moment, before letting out a deep breath","Катон на мгновение застигнут врасплох, но затем испустил глубокий вздох"
-Then the years have bestoweed you with wisdom,Годы наделили вас мудростью
-"I am glad, for it has forsaken the House of Berryn","Я рад, ибо она оставила дом Берринов"
-Why have you called me here?,Зачем вы позвали меня сюда?
-Embla is missing,Эмбла пропала
-"Cato's voice quivers momentarily, betraying his stoic features","Голос Катона на мгновение дрогнул, выдав его стоическое выражение лица"
-"Now I beg of you, {PLAYER}","И теперь я прошу вас, {PLAYER}"
-Help me find my daughter,Помогите мне найти мою дочь
-"Help her return home, where she belongs","Помогите ей вернуться домой, где ей самое место"
-Why me?,Почему я?
-What's happened to her?,Что с ней случилось?
-Is it not obvious?,Разве это не очевидно?
-You've clearly grown to inherit your fathers resourcefulness - and besides - Embla has trusted you since before either of you could speak,"Ты явно унаследовал находчивость своего отца - и, кроме того, Эмбла доверяла тебе с тех пор, как вы оба научились говорить"
-And now the fool has got herself into trouble?,И теперь эта дурочка ввязалась в неприятности?
-"She left without notice, a week ago","Она ушла без предупреждения, неделю назад"
-"From the scant clues we had, we believe she boarded a ship bound for one of the Outer Isles, Idra","Судя по скудным уликам, мы считаем, что она села на корабль, направлявшийся на один из Внешних островов, Идру"
-She went of her own free will,Она ушла по собственной воле
-At the time I thought little of it,В то время я мало что об этом думал
-Cato begins to glower,Катон начинает хмуриться
-"Since then, however, there have been 'reports'","Однако с тех пор появились ""сообщения"""
-Grave ones,Могильные
-Reports?,Отчеты?
-Something has been building in her for years,В ней что-то копилось годами
-An 'aptitude' of sorts,"Своего рода ""способности"
-But I suspect you already knew?,"Но я подозреваю, что вы уже знали?"
-"In any case, it's grown much stronger lately and drives her in ways I cannot understand","Во всяком случае, в последнее время она стала намного сильнее и движет ею так, что я не могу понять"
-I suspect she is looking for... answers,"Я подозреваю, что она ищет... ответы"
-But why Idra?,Но почему Идра?
-An aptitude?,Способности?
-What am I to do?,Что же мне делать?
-An aptitude of the worst kind,Способности худшего сорта
-It does not spring from the canonical Imperial praxis,Она не вытекает из канонического имперского праксиса
-Instead it comes from elsewhere,Вместо этого она приходит из других мест
-It is the kind the Empire does not suffer to exist,Империя не позволяет им существовать
-I hope it's only answers that she seeks,"Надеюсь, она ищет только ответы"
-I see,Я вижу
-What can I do?,Что я могу сделать?
-Why indeed?,Почему?
-There is little on the island save the port of Horryn,"На острове нет почти ничего, кроме порта Хоррин"
-"If Idra was her destination, she must have landed there","Если Идра была ее целью, она должна была приземлиться там"
-Horryn?,Хоррин?
-What of her 'aptitude'?,"А как насчет ее ""способностей""?"
-Yes,Да
-"An old Imperial port and home to a few hundred whalers, traders and the occasional smuggler","Старый имперский порт, где проживает несколько сотен китобоев, торговцев и случайных контрабандистов"
-"We can only speculate as to what drew her there, but it's our only lead","Мы можем только предполагать, что привлекло ее туда, но это наша единственная зацепка"
-How can I help her?,Как я могу ей помочь?
-You mentioned her 'aptitude'?,"Вы упомянули о ее ""способностях""?"
-"Hire mercenaries, travel to Idra and begin your search in the port of Horryn","Наймите наемников, отправляйтесь в Идру и начните поиски в порту Хоррин"
-"From there, I trust you to do what needs be done","Дальше я доверяю вам делать то, что нужно"
-"Spare no cost, just bring back my daughter","Не жалейте денег, просто верните мою дочь"
-Mercenaries?,Наемники?
-"The man is a grizzled veteran - he may have slowed with age, but his experience and reliability more than make up for it","Этот человек - измученный ветеран. Возможно, с возрастом он стал медленнее, но его опыт и надежность с лихвой компенсируют это"
-He's also much respected by similar men - and so will be instrumental in hiring a reliable crew,"Кроме того, его очень уважают подобные люди, поэтому он будет играть важную роль в найме надежной команды"
-I'll take it into consideration,Я приму это к сведению
-"I trust your instincts, but I beseech you consider him - he's no great dinner guest, but he's been irreplaceable elsewhere","Я доверяю вашим инстинктам, но умоляю вас рассмотреть его кандидатуру - он не лучший гость на ужине, но в других местах он был незаменим"
-Is that so?,Это так?
-Very well,Очень хорошо
-"Cato shows you his upturned palms, beseeching,","Катон показывает вам свои вздернутые ладони, умоляя,"
-I know this thing I ask of you is fraught with danger,"Я знаю, что моя просьба чревата опасностью"
-"But this is your chance at improving your fortune - materially, and in honour","Но это ваш шанс улучшить свое состояние - как в материальном плане, так и в плане чести"
-What say you?,Что скажете вы?
-I accept - for Embla's sake,Я согласна - ради Эмблы
-Very well - For my family's name,Очень хорошо - Для фамилии моей семьи
-I'll do it,Я сделаю это
-For the gold,За золото
-What makes you think I care?,"С чего ты взял, что меня это волнует?"
-"A chill draught causes a nearby candle to flicker, and you see the cold mirrored in Cato's features","На холодном сквозняке мерцает свеча, и вы видите, как холод отражается в чертах лица Катона"
-You are not to blame for the decline in your family's fortune,Вы не виноваты в уменьшении состояния вашей семьи
-But you could be responsible for restoring it,Но вы можете быть ответственны за его восстановление
-We'll see,Посмотрим
-I will be,Я буду
-"Cato smiles softly, visibly relieved, and for a moment he looks like the man you remember","Катон мягко улыбается, испытывая заметное облегчение, и на мгновение становится похож на того человека, которого вы помните"
-Have you any final questions or matters to discuss?,Есть ли у вас последние вопросы или вопросы для обсуждения?
-"Time is, as I'm sure you appreciate, of the essence","Время, как вы, я уверен, понимаете, имеет огромное значение"
-Let's just get on with it,Давайте просто продолжим
-"If nothing else, the port will be dangerous enough","В любом случае, порт будет достаточно опасным"
-That is why I have summoned a Roland Greyeye to me - a crude but effective sell-sword - that I've made good use of before,"Поэтому я вызвал к себе Роланда Сероглазого - грубый, но эффективный меч, который я уже не раз использовал в своих целях"
-He shall accompany you on this task,Он будет сопровождать вас в этом деле
-Roland Greyeye?,Роланд Грей?
-I work alone!,Я работаю один!
-I met the man just before seeing you,"Я встретил этого человека как раз перед тем, как увидел вас"
-"No one, and no word has left Idra in days",Никто и ничто не покидало Идру уже несколько дней
-Rumor has it even the Imperial augurs are in the dark,"Ходят слухи, что даже имперские авгуры находятся в неведении"
-"I know not how this touches the fate of my daughter, but she must be returned to me, one way or another","Я не знаю, как это отразится на судьбе моей дочери, но она должна быть возвращена мне, так или иначе"
-Any idea why she left?,"Есть идеи, почему она ушла?"
+Cato stands - with poorly concealed effort,"Като встает - плохо скрывая усилия",id:IntroCato.IntroCato.CatoEnding1;source:description
+And {PLAYER},"А {PLAYER}",id:IntroCato.IntroCato.CatoEnding1;source:description
+"You stand, and meet his gaze","Ты встаешь и встречаешься с ним взглядом",id:IntroCato.IntroCato.CatoEnding1;source:description
+Return her to me,"Верни её мне",id:IntroCato.IntroCato.CatoEnding1;source:description
+There is no other outcome of this affair,"Нет другого исхода этого дела",id:IntroCato.IntroCato.CatoEnding1;source:description
+New notes,"Новые заметки",id:IntroCato.IntroCato.CatoEnding1;source:notes
+Cato,"Като",id:IntroCato.IntroCato.CatoEnding1;source:notes
+Downplay the tone of him seeing Embla as his hopeless little girl,"Приглушить тон того, что он видит Эмблу как свою беспомощную маленькую девочку",id:IntroCato.IntroCato.CatoEnding1;source:notes
+She is a pretty strong woman and Cato sees her as such,"Она довольно сильная женщина, и Като видит её такой",id:IntroCato.IntroCato.CatoEnding1;source:notes
+He is also very much aware of Emblas true heritage and why she has seeked out the Priory,"Он также прекрасно знает о истинном происхождении Эмблы и почему она искала Приорат",id:IntroCato.IntroCato.CatoEnding1;source:notes
+"So we need to avoid going too deep in signaling a ""damsel in distress"" situation (even though we could subvert it later","Поэтому нам нужно избегать слишком глубокого сигнализирования ситуации ""девица в беде"" (хотя мы могли бы обыграть это позже",id:IntroCato.IntroCato.CatoEnding1;source:notes
+"Shake his hand, and leave","Пожать ему руку и уйти",id:IntroCato.IntroCato.CatoEnding1.Exit_166;source:option,
+"Remain silent, and leave","Промолчать и уйти",id:IntroCato.IntroCato.CatoEnding1.Exit_167;source:option,
+"You have my word, Cato","Даю тебе слово, Като",id:IntroCato.IntroCato.CatoEnding1.Exit_170;source:option
+LEAVE,"УЙТИ",id:IntroCato.IntroCato.CatoEnding1.Exit_170;source:option
+Cato Berryn,"Като Беррин",id:IntroCato.IntroCato.CatoIntro1;source:title,
+"Cato Berryn sits tall in a tasteful, but modest reception room","Като Беррин сидит прямо в изысканной, но скромной приемной",id:IntroCato.IntroCato.CatoIntro1;source:description
+He looks less imposing than you remember - and with a few more crow's feet,"Он выглядит менее внушительно, чем ты помнишь - и с большим количеством морщинок",id:IntroCato.IntroCato.CatoIntro1;source:description
+"Nonetheless, he's lost none of his composure or air of casual authority","Тем не менее, он не утратил ни самообладания, ни своего непринужденного авторитета",id:IntroCato.IntroCato.CatoIntro1;source:description
+Continue,"Продолжить",id:IntroCato.IntroCato.CatoIntro1.Exit_16;source:option;target:CatoIntro2,
+You take a seat across a formidable desk from him,"Ты садишься напротив него за внушительный стол",id:IntroCato.IntroCato.CatoIntro2;source:description
+"This study, like the rest of the villa, is half-lit, giving a morose cast to its opulence","Этот кабинет, как и остальная часть виллы, освещен вполсилы, придавая мрачный оттенок его роскоши",id:IntroCato.IntroCato.CatoIntro2;source:description
+"The older man's face creases into a tired, but genuine smile, which momentarily lifts some of the room's oppressive mood","Лицо пожилого мужчины морщится в усталой, но искренней улыбке, которая на мгновение рассеивает часть гнетущей атмосферы комнаты",id:IntroCato.IntroCato.CatoIntro2;source:description
+It's a mercy to see you again - your own man and in your prime,"Милость божья снова видеть тебя - самостоятельного мужчину в расцвете сил",id:IntroCato.IntroCato.CatoIntroFinal;source:description
+"Cato says, before a frown consumes his smile","— говорит Като, прежде чем хмурость поглощает его улыбку",id:IntroCato.IntroCato.CatoIntroFinal;source:description
+It's just a shame our reunion is overshadowed by the fates of those we love,"Жаль только, что наша встреча омрачена судьбами тех, кого мы любим",id:IntroCato.IntroCato.CatoIntroFinal;source:description
+"But perhaps, together, we can yet improve our collective circumstances?","Но возможно, вместе мы ещё сможем улучшить наши общие обстоятельства?",id:IntroCato.IntroCato.CatoIntroFinal;source:description
+It's a mercy to see you again - your own woman and in your prime,"Милость божья снова видеть тебя - самостоятельную женщину в расцвете сил",id:IntroCato.IntroCato.CatoIntroFinal;source:description
+Why have you summoned me?,"Зачем ты меня призвал?",id:IntroCato.IntroCato.CatoIntroFinal.Exit_17;source:option;target:CatoMission1,
+"So, you know my Father is dead","Значит, ты знаешь, что мой отец мертв",id:IntroCato.IntroCato.CatoIntroFinal.Exit_18;source:option;target:CatoMission_Father1,
+"Cato leans forward, hands clasped beneath his chin","Като наклоняется вперед, сцепив руки под подбородком",id:IntroCato.IntroCato.CatoMission_Father1;source:description
+I shan't deny it,"Не буду этого отрицать",id:IntroCato.IntroCato.CatoMission_Father1;source:description
+I was saddened to hear of his passing,"Я был опечален, услышав о его кончине",id:IntroCato.IntroCato.CatoMission_Father1;source:description
+"Despite everything, I remember him fondly","Несмотря ни на что, я помню его с теплотой",id:IntroCato.IntroCato.CatoMission_Father1;source:description
+You drove him to drink and mercenary work,"Ты довел его до пьянства и наемничества",id:IntroCato.IntroCato.CatoMission_Father1.Exit_133;source:option;target:CatoMission_Father2,
+No need to dwell on the past,"Не стоит копаться в прошлом",id:IntroCato.IntroCato.CatoMission_Father1.Exit_134;source:option;target:CatoMission_Father5,
+"Cato leans back again, and his eyes go distant","Като снова откидывается назад, и его взгляд становится отстраненным",id:IntroCato.IntroCato.CatoMission_Father2;source:description
+He failed in his duties,"Он не справился со своими обязанностями",id:IntroCato.IntroCato.CatoMission_Father2;source:description
+"For an arms-master, there is no greater shame than a lapse of vigilance","Для оружейного мастера нет большего позора, чем потеря бдительности",id:IntroCato.IntroCato.CatoMission_Father2;source:description
+He drove himself into exile,"Он сам обрек себя на изгнание",id:IntroCato.IntroCato.CatoMission_Father2;source:description
+Lyra shifts slightly behind Cato,"Лира слегка шевелится позади Като",id:IntroCato.IntroCato.CatoMission_Father2;source:description
+"If he failed, then it was never possible to succeed","Если он потерпел неудачу, значит, успех был невозможен",id:IntroCato.IntroCato.CatoMission_Father2.Exit_136;source:option;target:CatoMission_Father3,
+Say nothing,"Промолчать",id:IntroCato.IntroCato.CatoMission_Father2.Exit_137;source:option;target:CatoMission_Father2_1,
+A pregnant pause,"Многозначительная пауза",id:IntroCato.IntroCato.CatoMission_Father2_1;source:description
+He failed her,"Он подвел её",id:IntroCato.IntroCato.CatoMission_Father2_1;source:description
+Your father's exile was a sorrow to me,"Изгнание твоего отца было для меня горем",id:IntroCato.IntroCato.CatoMission_Father2_1;source:description
+Yet he could not remain in the household - for Embla's sake,"Но он не мог остаться в доме - ради Эмблы",id:IntroCato.IntroCato.CatoMission_Father2_1;source:description
+"The loss of a mother is tragedy enough, without being reminded of it","Потеря матери и без того трагедия, не стоит напоминать об этом",id:IntroCato.IntroCato.CatoMission_Father2_1;source:description
+Embla?,"Эмбла?",id:IntroCato.IntroCato.CatoMission_Father2_1.Exit_137;source:option;target:CatoMission_Father4
+Do not hide behind your daughter,"Не прячься за свою дочь",id:IntroCato.IntroCato.CatoMission_Father2_1.Exit_137;source:option;target:CatoMission_Father4
+The past is done with!,"Прошлое закончено!",id:IntroCato.IntroCato.CatoMission_Father2_1.Exit_776_1;source:option;target:CatoMission_Father5,
+Tell me why I'm here!,"Скажи мне, зачем я здесь!",id:IntroCato.IntroCato.CatoMission_Father2_1.Exit_138;source:option;target:CatoMission1,
+That may be so,"Возможно, это так",id:IntroCato.IntroCato.CatoMission_Father3;source:description
+But it is done,"Но это уже сделано",id:IntroCato.IntroCato.CatoMission_Father3;source:description
+I regret his loyalty could not be rewarded,"Сожалею, что его верность не была вознаграждена",id:IntroCato.IntroCato.CatoMission_Father3;source:description
+Sometimes...the tapestry's weave is not so easy to discern,"Иногда... узор гобелена не так легко разглядеть",id:IntroCato.IntroCato.CatoMission_Father3;source:description
+"Cato's face is still mild, yet you sense his tone hardening","Лицо Като по-прежнему мягкое, но ты чувствуешь, как его тон твердеет",id:IntroCato.IntroCato.CatoMission_Father3;source:description
+Fine,"Хорошо",id:IntroCato.IntroCato.CatoMission_Father3.Exit_776;source:option;target:CatoMission_Father5
+I'm sure we've both moved on,"Уверен, мы оба прошли через это",id:IntroCato.IntroCato.CatoMission_Father3.Exit_776;source:option;target:CatoMission_Father5
+"By exiling him, you condemned me as well","Изгнав его, ты осудил и меня тоже",id:IntroCato.IntroCato.CatoMission_Father3.Exit_774;source:option;target:CatoMission_Father4,
+Your anger is understandable,"Твой гнев понятен",id:IntroCato.IntroCato.CatoMission_Father4;source:description
+The hardships you must have suffered on the road are written in your face,"Лишения, которые ты, должно быть, {IFHE перенес | перенесла} в дороге, написаны на твоем лице",id:IntroCato.IntroCato.CatoMission_Father4;source:description
+"Such is the cost of mercenary work, I suppose","Такова цена наемничества, полагаю",id:IntroCato.IntroCato.CatoMission_Father4;source:description
+But do not presume to understand the forces that were at play,"Но не думай, что понимаешь силы, которые были в игре",id:IntroCato.IntroCato.CatoMission_Father4;source:description
+And still are,"И всё ещё есть",id:IntroCato.IntroCato.CatoMission_Father4;source:description
+"Just tell me why I'm here, old man!","Просто скажи мне, зачем я здесь, старик!",id:IntroCato.IntroCato.CatoMission_Father4.Exit_140;source:option;target:CatoMission1,
+"Cato is caught off-guard for a moment, before letting out a deep breath","Като на мгновение теряется, прежде чем он глубоко вздыхает",id:IntroCato.IntroCato.CatoMission_Father5;source:description
+Then the years have bestoweed you with wisdom,"Тогда годы одарили тебя мудростью",id:IntroCato.IntroCato.CatoMission_Father5;source:description
+"I am glad, for it has forsaken the House of Berryn","Я рад, ибо она покинула Дом Берринов",id:IntroCato.IntroCato.CatoMission_Father5;source:description
+Why have you called me here?,"Зачем ты меня сюда позвал?",id:IntroCato.IntroCato.CatoMission_Father5.Exit_183;source:option;target:CatoMission1,
+Embla is missing,"Эмбла пропала",id:IntroCato.IntroCato.CatoMission1;source:description
+"Cato's voice quivers momentarily, betraying his stoic features","Голос Като на мгновение дрожит, выдавая его стоические черты",id:IntroCato.IntroCato.CatoMission1;source:description
+"Now I beg of you, {PLAYER}","Теперь я умоляю тебя, {PLAYER}",id:IntroCato.IntroCato.CatoMission1;source:description
+Help me find my daughter,"Помоги мне найти мою дочь",id:IntroCato.IntroCato.CatoMission1;source:description
+"Help her return home, where she belongs","Помоги ей вернуться домой, где её место",id:IntroCato.IntroCato.CatoMission1;source:description
+Why me?,"Почему я?",id:IntroCato.IntroCato.CatoMission1.Exit_20;source:option;target:CatoMission2,
+What's happened to her?,"Что с ней случилось?",id:IntroCato.IntroCato.CatoMission1.Exit_142;source:option;target:CatoMission3,
+Is it not obvious?,"Разве это не очевидно?",id:IntroCato.IntroCato.CatoMission2;source:description
+You've clearly grown to inherit your fathers resourcefulness - and besides - Embla has trusted you since before either of you could speak,"Ты явно {IFHE унаследовал | унаследовала} находчивость своего отца - и кроме того - Эмбла доверяла тебе ещё до того, как кто-либо из вас мог говорить",id:IntroCato.IntroCato.CatoMission2;source:description
+And now the fool has got herself into trouble?,"И теперь эта дурочка попала в неприятности?",id:IntroCato.IntroCato.CatoMission2.Exit_135;source:option;target:CatoMission3,
+"She left without notice, a week ago","Она ушла без предупреждения, неделю назад",id:IntroCato.IntroCato.CatoMission3;source:description
+"From the scant clues we had, we believe she boarded a ship bound for one of the Outer Isles, Idra","По скудным уликам, которые у нас были, мы полагаем, что она села на корабль, направлявшийся к одному из Внешних островов, Идра",id:IntroCato.IntroCato.CatoMission3;source:description
+She went of her own free will,"Она ушла по своей воле",id:IntroCato.IntroCato.CatoMission3;source:description
+At the time I thought little of it,"В то время я мало об этом думал",id:IntroCato.IntroCato.CatoMission3;source:description
+Cato begins to glower,"Като начинает хмуриться",id:IntroCato.IntroCato.CatoMission3;source:description
+"Since then, however, there have been 'reports'","Однако с тех пор поступали 'сообщения'",id:IntroCato.IntroCato.CatoMission3;source:description
+Grave ones,"Мрачные",id:IntroCato.IntroCato.CatoMission3;source:description
+Reports?,"Сообщения?",id:IntroCato.IntroCato.CatoMission3.Exit_145;source:option;target:Reports1,
+Something has been building in her for years,"Что-то нарастало в ней годами",id:IntroCato.IntroCato.CatoMission4_Idra1;source:description
+An 'aptitude' of sorts,"Своего рода 'способность'",id:IntroCato.IntroCato.CatoMission4_Idra1;source:description
+But I suspect you already knew?,"Но я подозреваю, ты уже {IFHE знал | знала}?",id:IntroCato.IntroCato.CatoMission4_Idra1;source:description
+"In any case, it's grown much stronger lately and drives her in ways I cannot understand","В любом случае, в последнее время эта сила стала намного сильнее и управляет ею способами, которые я не могу понять",id:IntroCato.IntroCato.CatoMission4_Idra1;source:description
+I suspect she is looking for... answers,"Подозреваю, она ищет... ответы",id:IntroCato.IntroCato.CatoMission4_Idra1;source:description
+But why Idra?,"Но почему Идра?",id:IntroCato.IntroCato.CatoMission4_Idra1.Exit_146;source:option;target:CatoMission5_Priory1,
+An aptitude?,"Способность?",id:IntroCato.IntroCato.CatoMission4_Idra1.Exit_147;source:option;target:CatoMission5_Arcane1,
+What am I to do?,"Что мне делать?",id:IntroCato.IntroCato.CatoMission4_Idra1.Exit_168;source:option;target:CatoMission7,
+An aptitude of the worst kind,"Способность наихудшего рода",id:IntroCato.IntroCato.CatoMission5_Arcane1;source:description
+It does not spring from the canonical Imperial praxis,"Она не происходит из канонической имперской практики",id:IntroCato.IntroCato.CatoMission5_Arcane1;source:description
+Instead it comes from elsewhere,"Вместо этого она приходит откуда-то ещё",id:IntroCato.IntroCato.CatoMission5_Arcane1;source:description
+It is the kind the Empire does not suffer to exist,"Это тот вид, существование которого Империя не терпит",id:IntroCato.IntroCato.CatoMission5_Arcane1;source:description
+I hope it's only answers that she seeks,"Надеюсь, она ищет только ответы",id:IntroCato.IntroCato.CatoMission5_Arcane1;source:description
+I see,"Понятно",id:IntroCato.IntroCato.CatoMission5_Arcane1.Exit_153;source:option;target:CatoMission7
+What can I do?,"Что я могу сделать?",id:IntroCato.IntroCato.CatoMission5_Arcane1.Exit_153;source:option;target:CatoMission7
+Why indeed?,"Да, почему?",id:IntroCato.IntroCato.CatoMission5_Priory1;source:description
+There is little on the island save the port of Horryn,"На острове мало что есть, кроме порта Хоррин",id:IntroCato.IntroCato.CatoMission5_Priory1;source:description
+"If Idra was her destination, she must have landed there","Если Идра была её целью, она должна была высадиться там",id:IntroCato.IntroCato.CatoMission5_Priory1;source:description
+Horryn?,"Хоррин?",id:IntroCato.IntroCato.CatoMission5_Priory1.Exit_148;source:option;target:CatoMission6_Embla,
+What of her 'aptitude'?,"А что насчет её 'способности'?",id:IntroCato.IntroCato.CatoMission5_Priory1.Exit_149;source:option;target:CatoMission5_Arcane1,
+Yes,"Да",id:IntroCato.IntroCato.CatoMission6_Embla;source:description
+"An old Imperial port and home to a few hundred whalers, traders and the occasional smuggler","Старый имперский порт и дом для нескольких сотен китобоев, торговцев и случайных контрабандистов",id:IntroCato.IntroCato.CatoMission6_Embla;source:description
+"We can only speculate as to what drew her there, but it's our only lead","Мы можем только догадываться, что привлекло её туда, но это наша единственная зацепка",id:IntroCato.IntroCato.CatoMission6_Embla;source:description
+How can I help her?,"Как я могу ей помочь?",id:IntroCato.IntroCato.CatoMission6_Embla.Exit_150;source:option;target:CatoMission7,
+You mentioned her 'aptitude'?,"Ты упоминал её 'способность'?",id:IntroCato.IntroCato.CatoMission6_Embla.Exit_151;source:option;target:CatoMission5_Arcane1,
+"Hire mercenaries, travel to Idra and begin your search in the port of Horryn","Найми наемников, отправляйся на Идру и начни поиски в порту Хоррин",id:IntroCato.IntroCato.CatoMission7;source:description
+"From there, I trust you to do what needs be done","Оттуда я доверяю тебе делать то, что нужно",id:IntroCato.IntroCato.CatoMission7;source:description
+"Spare no cost, just bring back my daughter","Не жалей средств, просто верни мою дочь",id:IntroCato.IntroCato.CatoMission7;source:description
+Mercenaries?,"Наемники?",id:IntroCato.IntroCato.CatoMission7.Exit_921;source:option;target:Mercenaries,
+"The man is a grizzled veteran - he may have slowed with age, but his experience and reliability more than make up for it","Этот мужчина - седой ветеран - возможно, он не так ловок с возрастом, но его опыт и надежность с лихвой компенсируют это",id:IntroCato.IntroCato.CatoMission7_Roland;source:description
+He's also much respected by similar men - and so will be instrumental in hiring a reliable crew","Его также очень уважают подобные мужчины - и поэтому он будет незаменим в найме надежной команды",id:IntroCato.IntroCato.CatoMission7_Roland;source:description
+I'll take it into consideration,"Я приму это во внимание",id:IntroCato.IntroCato.CatoMission7_Roland.Exit_156;source:option;target:CatoMission8,
+"I trust your instincts, but I beseech you consider him - he's no great dinner guest, but he's been irreplaceable elsewhere","Я доверяю твоим инстинктам, но умоляю тебя рассмотреть его - он не лучший собеседник за ужином, но он был незаменим в других местах",id:IntroCato.IntroCato.CatoMission7_Roland2;source:description,
+Is that so?,"Неужели?",id:IntroCato.IntroCato.CatoMission7_Roland2.Exit_185;source:option;target:CatoMission7_Roland,
+Very well,"Очень хорошо",id:IntroCato.IntroCato.CatoMission7_Roland2.Exit_184;source:option;target:CatoMission8,
+"Cato shows you his upturned palms, beseeching,","Като показывает тебе свои обращенные вверх ладони, умоляя,",id:IntroCato.IntroCato.CatoMission8;source:description
+I know this thing I ask of you is fraught with danger,"Я знаю, что то, о чем я тебя прошу, чревато опасностями",id:IntroCato.IntroCato.CatoMission8;source:description
+"But this is your chance at improving your fortune - materially, and in honour","Но это твой шанс улучшить свою судьбу - материально и в плане чести",id:IntroCato.IntroCato.CatoMission8;source:description
+What say you?,"Что скажешь?",id:IntroCato.IntroCato.CatoMission8;source:description
+I accept - for Embla's sake,"Я принимаю - ради Эмблы",id:IntroCato.IntroCato.CatoMission8.Exit_158;source:option;target:CatoMissionFinal,
+Very well - For my family's name,"Хорошо - Ради имени моей семьи",id:IntroCato.IntroCato.CatoMission8.Exit_159;source:option;target:CatoMissionFinal,
+I'll do it,"Я сделаю это",id:IntroCato.IntroCato.CatoMission8.Exit_160;source:option;target:CatoMissionFinal
+For the gold,"Ради золота",id:IntroCato.IntroCato.CatoMission8.Exit_160;source:option;target:CatoMissionFinal
+What makes you think I care?,"Что заставляет тебя думать, что мне не все равно?",id:IntroCato.IntroCato.CatoMission8.Exit_165;source:option;target:CatoMission8_Honor,
+"A chill draught causes a nearby candle to flicker, and you see the cold mirrored in Cato's features","Холодный сквозняк заставляет ближайшую свечу мерцать, и ты видишь холод, отраженный в чертах Като",id:IntroCato.IntroCato.CatoMission8_Honor;source:description
+You are not to blame for the decline in your family's fortune,"Ты не {IFHE виноват | виновата} в упадке состояния твоей семьи",id:IntroCato.IntroCato.CatoMission8_Honor;source:description
+But you could be responsible for restoring it,"Но ты {IFHE мог бы быть ответственным | могла бы быть ответственной} за его восстановление",id:IntroCato.IntroCato.CatoMission8_Honor;source:description
+We'll see,"Посмотрим",id:IntroCato.IntroCato.CatoMission8_Honor.Exit_161;source:option;target:CatoMissionFinal,
+I will be,"Я буду",id:IntroCato.IntroCato.CatoMission8_Honor.Exit_162;source:option;target:CatoMissionFinal,
+"Cato smiles softly, visibly relieved, and for a moment he looks like the man you remember","Като мягко улыбается, заметно облегченный, и на мгновение он выглядит как тот мужчина, которого ты помнишь",id:IntroCato.IntroCato.CatoMissionFinal;source:description
+Have you any final questions or matters to discuss?,"Есть ли у тебя последние вопросы или дела для обсуждения?",id:IntroCato.IntroCato.CatoMissionFinal;source:description
+"Time is, as I'm sure you appreciate, of the essence","Время, как ты наверняка понимаешь, имеет решающее значение",id:IntroCato.IntroCato.CatoMissionFinal;source:description
+Let's just get on with it,"Давайте просто займемся этим",id:IntroCato.IntroCato.CatoMissionFinal.Exit_22;source:option;target:CatoEnding1,
+"If nothing else, the port will be dangerous enough","Если ничего больше, порт будет достаточно опасным",id:IntroCato.IntroCato.Mercenaries;source:description
+That is why I have summoned a Roland Greyeye to me - a crude but effective sell-sword - that I've made good use of before,"Вот почему я призвал к себе Роланда Сероглазого - грубого, но эффективного наемника - услугами которого я успешно пользовался раньше",id:IntroCato.IntroCato.Mercenaries;source:description
+He shall accompany you on this task,"Он будет сопровождать тебя в этом задании",id:IntroCato.IntroCato.Mercenaries;source:description
+Roland Greyeye?,"Роланд Сероглазый?",id:IntroCato.IntroCato.Mercenaries.Exit_922;source:option;target:CatoMission7_Roland,
+I work alone!,"Я работаю {IFHE один | одна}!",id:IntroCato.IntroCato.Mercenaries.Exit_923;source:option;target:CatoMission7_Roland2,
+I met the man just before seeing you,"Я {IFHE встретил | встретила} этого человека прямо перед тем, как увидеться с вами",id:IntroCato.IntroCato.Mercenaries.Exit_1221;source:option;target:CatoMission7_Roland,
+"No one, and no word has left Idra in days","Уже несколько дней из Идры не вышел ни человек, ни весточка",id:IntroCato.IntroCato.Reports1;source:description
+Rumor has it even the Imperial augurs are in the dark,"Ходят слухи, что даже имперские авгуры в неведении",id:IntroCato.IntroCato.Reports1;source:description
+"I know not how this touches the fate of my daughter, but she must be returned to me, one way or another","Не знаю, как это касается судьбы моей дочери, но она должна быть возвращена мне, так или иначе",id:IntroCato.IntroCato.Reports1;source:description
+Any idea why she left?,"Есть идеи, почему она ушла?",id:IntroCato.IntroCato.Reports1.Exit_920;source:option;target:CatoMission4_Idra1,
 #IntroCellar,#IntroCellar
 Empty bottles litter the floor of this room,На полу этой комнаты валяются пустые бутылки
 You chuckle to yourself as you imagine the kitchen staff in their wine tasting sessions,"Вы усмехаетесь про себя, представляя, как кухонный персонал проводит дегустацию вин"

@@ -1,0 +1,122 @@
+name: Create Release
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'  # Trigger on version tags (e.g., v1.0.0)
+  workflow_dispatch:  # Manual trigger option
+    inputs:
+      version:
+        description: 'Version tag (e.g., v1.0.0)'
+        required: true
+        default: 'v1.0.0'
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '6.0.x'
+        
+    - name: Restore dependencies
+      run: dotnet restore src/TranslationMod.csproj
+      
+    - name: Build project
+      run: dotnet build src/TranslationMod.csproj --configuration Release --no-restore
+      
+    - name: Publish project
+      run: dotnet publish src/TranslationMod.csproj --configuration Release --no-build --output ./publish
+      
+    - name: Create release directory structure
+      run: |
+        mkdir -p release/TranslationMod
+        mkdir -p release/TranslationMod/LanguagePacks
+        
+    - name: Copy compiled files
+      run: |
+        # Copy compiled DLL
+        cp publish/TranslationMod.dll release/TranslationMod/
+        # Copy dependencies if available
+        cp publish/Newtonsoft.Json.dll release/TranslationMod/ 2>/dev/null || true
+        
+    - name: Copy config file
+      run: |
+        # Copy configuration file
+        cp config.cfg.example release/TranslationMod/TranslationMod.cfg
+        
+    - name: Copy language packs (excluding template)
+      run: |
+        # Copy all language packs except template
+        for lang_dir in languages/*/; do
+          lang_name=$(basename "$lang_dir")
+          if [ "$lang_name" != "template" ]; then
+            # Remove trailing slash to copy the folder itself, not its contents
+            lang_dir_clean="${lang_dir%/}"
+            cp -r "$lang_dir_clean" "release/TranslationMod/LanguagePacks/"
+          fi
+        done
+        
+    - name: Create README for release
+      run: |
+        cat > release/TranslationMod/README.md << 'EOF'
+        # TranslationMod Release
+        
+        ## Installation
+        1. Extract all files to your game's BepInEx/plugins/ folder
+        2. The language packs will be available in the LanguagePacks/ subfolder
+        3. The plugin configuration is in TranslationMod.cfg
+        
+        ## Contents
+        - TranslationMod.dll - Main plugin file
+        - Newtonsoft.Json.dll - Required dependency
+        - TranslationMod.cfg - Plugin configuration file
+        - LanguagePacks/ - Language packs directory
+        
+        ## Supported Languages
+        $(ls release/TranslationMod/LanguagePacks/ | sed 's/^/- /')
+        
+        EOF
+        
+    - name: Create archive
+      run: |
+        cd release
+        zip -r TranslationMod-${{ github.ref_name || github.event.inputs.version }}.zip TranslationMod/
+        
+    - name: Get version tag
+      id: get_version
+      run: |
+        if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          echo "version=${{ github.event.inputs.version }}" >> $GITHUB_OUTPUT
+        else
+          echo "version=${{ github.ref_name }}" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Create Release
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: ${{ steps.get_version.outputs.version }}
+        name: TranslationMod ${{ steps.get_version.outputs.version }}
+        body: |
+          ## Changes in ${{ steps.get_version.outputs.version }}
+          
+          ### Included Language Packs:
+          $(ls release/TranslationMod/LanguagePacks/ | sed 's/^/- /')
+          
+          ### Installation:
+          1. Download and extract TranslationMod-${{ steps.get_version.outputs.version }}.zip
+          2. Copy all files to your game's BepInEx/plugins/ folder
+          3. Configure plugin settings in TranslationMod.cfg if needed
+          4. Restart the game
+          
+        files: |
+          release/TranslationMod-${{ steps.get_version.outputs.version }}.zip
+        draft: false
+        prerelease: false
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 

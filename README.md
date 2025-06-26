@@ -195,7 +195,22 @@ Example for Russian language:
 ```
 
 ### 2. Add Letter Images to Font Textures
-Add images of alphabet letters to the font textures according to the indices specified in the character map from step 1. Each character must be placed at the correct position in the font texture atlas.
+
+To add images of alphabet letters to the font textures, follow these steps using Pixelorama:
+
+1. **Open the PNG File**: Use [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) to open the font texture PNG file. This tool allows you to edit pixel art easily.
+
+2. **Set Up the Grid**: 
+   - Go to `Edit` -> `Preferences` -> `Canvas`.
+   - In the `Grid` section, create two grids:
+     - The first grid should be 1x1 pixels, starting from x:0, y:0.
+     - The second grid should also start from x:0, y:0, but its size depends on the font. It should match the size of the pink grid in the image (e.g., for `TinyFont.png`, use an 8x8 grid).
+
+3. **Indexing**: The index starts from the bottom left with 'A' = '0'. Ensure each character is placed at the correct position in the font texture atlas according to the indices specified in your character map.
+
+4. **Resize the Image**: If you open the original PNG, you may need to resize the image. Go to `Project` -> `Resize Canvas` and adjust the height to be equal to `number_of_rows * height_of_one_cell`.
+
+By following these steps, you can accurately place each character in the font texture atlas, ensuring proper alignment and indexing for your custom fonts.
 
 ### 3. Create Translation Files
 Create translations of the original text in CSV files. For convenience, all original text is already categorized. The complete text is also available in a [Google Sheet](https://docs.google.com/spreadsheets/d/1mvYDpQ5kVqvYJLnWmBOcHNLtGoeHgM63pSmY4TR36UI/edit?usp=sharing)  that you can duplicate and translate, then save in CSV format and transfer to the `translations` folder. Example of filled sheet is here: [Russian Translation Sheet](https://docs.google.com/spreadsheets/d/13x6KKvbp3-_QEeCq82Yoza740GKYd0EniUcMqPghGPY/edit?usp=sharing)
