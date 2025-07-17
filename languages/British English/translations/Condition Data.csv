@@ -1,0 +1,77 @@
+original,translate
+#Magical Conditions,#Magical Conditions
+Barkskinned,Barkskinned
+Fortified Strength,Fortified Strength
+Blessed,Blessed
+Blurred,Blurred
+Clarity of Mind,Clarity of Mind
+Condemned,Condemned
+Diamondskinned,Diamondskinned
+Fell Light,Fell Light
+The target emits a sinister glow,The target emits a sinister glow
+Fortified Awareness,Fortified Awareness
+Fortify Initiative,Fortify Initiative
+Fortified Will,Fortified Will
+Heroic Inspiration,Heroic Inspiration
+Illuminated,Illuminated
+"The target glows softly, emitting lighting","The target glows, emitting a soft light"
+Immunity,Immunity
+Acid,Acid
+Electricity,Electricity
+Fire,Fire
+Panic,Panic
+Lesser Invisibility,Lesser Invisibility
+Invisible,Invisible
+Regeneration - Greater,Regeneration - Greater
+Regeneration - Lesser,Regeneration - Lesser
+Acid Resistance,Acid Resistance
+Electric Resistance,Electric Resistance
+Fire Resistance,Fire Resistance
+Fortified Agility,Fortified Agility
+Slowed,Slowed
+Stoneskinned,Stoneskinned
+Thornclad,Thornclad
+Weakened,Weakened
+#Natural Conditions,#Natural Conditions
+Negative Condition,Negative Condition
+The conditions that currently affects this character,The conditions that currently affects this character
+Fearful,Fearful
+Sleeping,Sleeping
+Bleeding,Bleeding
+Bleeding causes the character to lose 10% of their max Vitality at the start of each turn,Bleeding causes the character to lose 10% of their max Vitality at the start of each turn
+Lesser Blindness,Lesser Blindness
+Enthralled,Enthralled
+Confused,Confused
+Deafened,Deafened
+Moderately Diseased,Moderately Diseased
+Severly Diseased,Severely Diseased
+Weakly Diseased,Weakly Diseased
+Disrupted,Disrupted
+Exhausted,Exhausted
+Immobilized,Immobilised
+Injured Arm,Injured Arm
+Injured Head,Injured Head
+Injured Leg,Injured Leg
+Injured Torso,Injured Torso
+Insane,Insane
+Intoxicated,Intoxicated
+Nauseous,Nauseous
+Panicked,Panicked
+Paralyzed,Paralysed
+Moderate Poison,Moderate Poison
+Strong Poison,Strong Poison
+Poison causes the character to lose 10% of their max Vitality at the start of each turn,Poison causes the character to lose 10% of their max Vitality at the start of each turn
+Weak Poison,Weak Poison
+Mute,Mute
+Stunned,Stunned
+#Tactical Conditions,#Tactical Conditions
+Defending,Defending
+Greater Frenzy,Greater Frenzy
+Lesser Frenzy,Lesser Frenzy
+Hamstrung,Hamstrung
+Greater Haste,Greater Haste
+Lesser Haste,Lesser Haste
+Inspired,Inspired
+Marked,Marked
+Motivated,Motivated
+Removes Conditions with Tag,Removes Conditions with Tag

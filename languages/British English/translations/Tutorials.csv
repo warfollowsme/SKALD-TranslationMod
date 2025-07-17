@@ -1,0 +1,154 @@
+original,original
+#Combat Tutorials,#Combat Tutorials
+Charging,Charging
+Moving at least 2 tiles in a straight line before performing an attack allows characters with a Melee weapon to perform a Charge Attack,Moving at least 2 tiles in a straight line before performing an attack allows characters with a Melee weapon to perform a Charge Attack
+Charge attacks significantly increase your likelihood to hit,Charge attacks significantly increase your likelihood to hit
+Charge attacks add a bonus to your hit chance depending on how far you manage to move before attacking,Charge attacks add a bonus to your hit chance depending on how far you manage to move before attacking
+The teal pips over the character indicate how much momentum is built up by the charge,The teal pips over the character indicate how much momentum is built up by the charge
+"The more momentum, the bigger the charge bonus","The more momentum, the bigger the charge bonus"
+A successful charge will give the following text printing the bonus that was added to the character’s To-Hit roll,A successful charge will give the following text printing the bonus that was added to the character’s To-Hit roll
+Tactical View,Tactical View
+Pressing SHIFT in combat brings up the tactical overlay and makes it easier to see the exact positioning of characters and the underlying grid,Pressing SHIFT in combat brings up the tactical overlay and makes it easier to see the exact positioning of characters and the underlying grid
+"In the settings menu, you can toggle the tactical overlay to be always on during the player’s turn","In the settings menu, you can toggle the tactical overlay to be always on during the player’s turn"
+Holding LEFT TRIGGER in combat brings up the tactical overlay and makes it easier to see the exact positioning of characters and the underlying grid,Holding LEFT TRIGGER in combat brings up the tactical overlay and makes it easier to see the exact positioning of characters and the underlying grid
+Conditions,Conditions
+You have contracted a disease from your fight with the rats,Oh dear! You have contracted a disease from your scuffle with the rats
+You may see what conditions are affecting you by opening the Character Sheet,You may see what conditions are affecting you by opening the Character Sheet
+Click your portraits or press ‘C’ to do so,Click your portraits or press ‘C’ to do so
+Not all conditions are negative!,Not all conditions are negative!
+Press the Y BUTTON to do so,Press the Y BUTTON to do so
+Negative conditions can often be cured by magic or rest,Negative conditions can often be cured by magic or rest
+This disease can be cured by a potion,This disease can be cured with a potion
+Pick up and equip the lantern to search the area!,Pick up and equip the lantern to search the area!
+Hint,Hint
+Some containers are hidden until your character “spots” them,Some containers are hidden until your character “spots” them
+Difficulty,Difficulty
+Warda is a dangerous place where you can quickly end up facing very dangerous beings,Warda is a dangerous place where you can quickly end up facing very dangerous beings
+Sometimes the best tactic is to leave a fight for later as you level up and gather more equipment and allies,Sometimes the best tactic is to leave a fight for later as you level up and gather more equipment and allies
+Remember that you can change the difficulty of the game at any time,Remember that you can change the difficulty of the game at any time
+You can even create your own custom difficulty!,You can even create your own custom difficulty!
+Play the game the way YOU want it!,Play the game the way YOU want it!
+Flanking,Flanking
+A character can be Flanked if opponents occupy the tile above and below it or to the left and right of it,A character can be Flanked if opponents occupy the tile above and below it or to the left and right of it
+It is much easier to hit a Flanked character,It is much easier to hit a Flanked character
+A Rogue will automatically Backstab Flanked targets to deal massive amounts of damage,A Rogue will automatically Backstab Flanked targets to deal massive amounts of damage
+Here the main character has moved to the right of the mercenary,"Here, the main character has moved to the right of the mercenary"
+And then Roland moves to the left of the mercenary who is now Flanked,And then Roland moves to the left of the now flanked mercenary
+Note the red double-arrow icon that indicates when a character is Flanked,Note the red double-arrow icon that indicates when a character is Flanked
+Initiative,Initiative
+"In combat, characters act in order of initiative","In combat, the order characters act in is determined by their relative initiatives"
+You can view the initiative order by using the Initiative Widget on the left side of the screen,You can view the initiative order by using the Initiative Widget on the left side of the screen
+Moving the cursor over the widget makes it pop out,Moving the cursor over the widget makes it pop out
+Note that moving the cursor over a name will make that character's outline flash on the battlefield,Note that moving the cursor over a name will make that character's outline flash on the battlefield
+Injuries,Injuries
+Your character is critically injured!,Your character is critically injured!
+This means you have taken enough damage to reduce BOTH your Vitality and Wounds,This means you have taken enough damage to reduce BOTH your Vitality and Wounds
+The green bar under your Character’s portrait represents your Vitality score,The green bar under your Character’s portrait represents your Vitality score
+Vitality is a buffer to your wounds and as long as you have Vitality left you won’t take (serious,Vitality is a buffer to your wounds and as long as you have Vitality left you won’t take (serious
+Wound damage,Wound damage
+Vitality is easily lost and easily regained!,Vitality is easily lost and easily regained
+Potions and healing magic restores Vitality - even during combat,Potions and healing magic can restore Vitality - both in and out of combat!
+"The second, purple bar represents your Wounds","The second, purple bar represents your Wounds"
+Losing Wounds is much more serious than losing Vitality,Losing Wounds is much more serious than losing Vitality
+Reaching 0 wounds means your character falls unconscious,Reaching 0 Wounds means your character is rendered unconscious
+Wounds can also only be recovered by resting (or leveling up,Wounds can also only be recovered by resting (or leveling up
+Try to avoid taking Wound damage at all costs!,Sustaining Wound damage is best avoided!
+"Whenever you take Wound damage, you gain an Injury Condition as indicated by the icon on the portrait","Whenever you take Wound damage, you gain an Injury Condition as indicated by the icon on the portrait"
+Injuries confer serious penalties to your character and can only be removed by resting,Injuries confer serious penalties to your character and can only be removed by resting
+A party full of injured party members has its combat effectiveness severely reduced!,A party full of injured party members has its combat effectiveness severely reduced!
+Making camp and resting is the surest way to restore an injured character!,Making camp and resting is the surest way to restore an injured character!
+Note that resting is not possible in every location so plan accordingly,"Resting may not be possible in every location, so plan ahead accordingly"
+You can also rest at inns when you find them,You can also rest at inns when you find them
+Interactables,Interactables
+Moving the cursor over an interactable object will make a yellow outline appear,Moving the cursor over an interactable object will make a yellow outline appear
+Left mouse-click to interact with the object,Left mouse-click to interact with the object
+Right mouse-click to examine it,Right mouse-click to examine it
+Use RIGHT TRIGGER to interact with and object and press LEFT TRIGGER to examine it,Use RIGHT TRIGGER to interact with and object and press LEFT TRIGGER to examine it
+Holding down SHIFT will highlight all interactable objects in view,Holding down SHIFT will highlight all interactable objects in view
+Some objects are hidden and won't be highlighted until they are spotted,Some objects are hidden and won't be highlighted until they are spotted
+Holding down LEFT TRIGGER will highlight all interactable objects in view,Holding down LEFT TRIGGER will highlight all interactable objects in view
+Inventory,Inventory
+"If you've not already done so, you must equip a weapon",You must equip a weapon if you have not done so already
+Press 'E' to manage your equipment,Press 'E' to manage your equipment
+Clicking an item selects and examines it,Clicking an item selects and examines it
+Select items using the cursor to examine and use it,Select items using the cursor to examine and use it
+Press the X BUTTON on the controller to manage your equipment,Press the X BUTTON on the controller to manage your equipment
+Double click on items to use them,Double click on items to use them
+For weapons and armor this means the item becomes equipped,For weapons and armour this means the item becomes equipped
+Equipped items are moved to the relevant equipment slot,Equipped items are moved to the relevant equipment slot
+"Select an item and press the A BUTTON to ""use"" it","Select an item and press the A BUTTON to ""use"" it"
+Note that you can also press RIGHT TRIGGER with the cursor over a selected item to use it,Note that you can also press RIGHT TRIGGER with the cursor over a selected item to use it
+Movement Points,Movement Points
+The widget on the lower right side represents the character’s action points,The widget on the lower right side represents the character’s action points
+The yellow pips represent Movement points,The yellow pips represent Movement points
+The violet pips represent Attacks,The violet pips represent Attacks
+You can move a number of tiles each combat equal to your Movement Points AND Attacks,The total number of tiles that can be moved each turn in combat is equal to your Movement AND Attack points
+But spending Attacks to move means you won't be able to attack that turn,Spending Attack points to move in this way will deny you the ability to attack that turn
+This is a good way of moving extra far,Yet it may be a useful way to quickly move great distances across the battlefield
+Performing an attack will clear out all remaining movement points,Performing an attack will clear out all remaining movement points
+"In other words, attacking will end the character’s turn in most cases","In other words, attacking will end the character’s turn in most cases"
+New Character,New Character
+You’ve added a new character to your party!,You’ve added a new character to your party!
+"Press ""Q"" or the character portraits to swap the party leader","Press ""Q"" or the character portraits to swap the party leader"
+Press RIGHT BUMPER or the character portraits to swap the party leader,Press RIGHT BUMPER or the character portraits to swap the party leader
+The current leader’s Attributes are used for tests outside combat (such as for Awareness or Stealth,The current leader’s Attributes are used for tests outside combat (such as for Awareness or Stealth
+Familiarize yourself with the Attributes and Abilities of your party members and have the right character take the lead depending on the circumstances,Familiarise yourself with the Attributes and Abilities of your party members and have the right character take the lead to suit the circumstances
+"When a new member joins your party, they Level Up to your current level","When a new member joins your party, they Level Up to your current level"
+The “Level Up” icon on your party-member’s portrait shows that a character is ready to level up!,The “Level Up” icon on your party-member’s portrait shows that a character is ready to level up!
+Double-click the character portrait and select FEATS to begin leveling up,Double-click the character portrait and select FEATS to begin levelling up
+Press the X BUTTON and go to the FEATS tab to begin leveling up,Press the X BUTTON and go to the FEATS tab to begin levelling up
+Stealth,Stealth
+Press the Hide button to go into Stealth mode,Press the Hide button to go into Stealth mode
+The action buttons also map to the numerical buttons,The action buttons also map to the numerical buttons
+You may also press LEFT JOYSTICK to enter stealth mode,You may also press LEFT JOYSTICK to enter stealth mode
+While in stealth mode the Stealth indicator becomes visible,While in stealth mode the Stealth indicator becomes visible
+A yellow indicator means you're in danger of being spotted,A yellow indicator means you're in danger of being spotted
+"While your indicator is yellow, it will count down to 0%","While your indicator is yellow, it will count down to 0%"
+When it reaches 0% you are spotted and will become visible,When it reaches 0% you have been spotted and will become visible
+Moving in lit areas and being close to other characters will make the counter go down very fast,Moving in lit areas and being close to other characters will make the counter go down much faster
+Stick to shadows and avoid other characters,So stick to shadows and avoid others
+Your ability to stay hidden is dictated by your stealth skill,Your ability to stay hidden is dictated by your stealth skill
+Increase this skill to stay hidden for longer,Increase this skill to stay hidden for longer
+Wearing armor makes it harder to stay hidden,Wearing armour makes it harder to stay hidden
+"If the indicator turns green, it means you are no longer in danger of being spotted","If the indicator turns green, it means you are no longer in danger of being spotted"
+"Spending time in ""green"" areas will refill your stealth meter","Spending time by moving or waiting in ""green"" areas will refill your stealth meter"
+#Misc,#Misc
+Crafting,Crafting
+This is the Crafting screen,This is the Crafting screen
+"To create new items, double-click ingredients in your inventory to place them in the “Workstation” and then press “Craft","To create new items, double-click ingredients in your inventory to place them in the “Workstation” and then press “Craft"
+"If the recipe is valid, new items will be created","If the recipe is valid, new items will be created"
+"To create new items, place ingredients in the “Workstation” grid and then press “Craft","To create new items, place ingredients in the “Workstation” grid and then press “Craft"
+The recipe list in the left column represents known recipes,The recipe list in the left column represents known recipes
+You learn new recipes by experimenting or by finding recipe books out in the world,You learn new recipes by experimenting or by finding recipe books out in the world
+Recipes that can currently be crafted are shown in green,Recipes that can currently be crafted are shown in green
+Selecting a green recipe will automatically add all the necessary ingredients to the “Workstation,Selecting a green recipe will automatically add all the necessary ingredients to the “Workstation
+Crafting is dependent on the Crafting skill,Crafting is dependent on the Crafting skill
+"Crafting a valid recipe will always succeed but depending on your skill and the recipe’s difficulty, there is a chance you may produce more than one item","Crafting a valid recipe will always succeed but depending on your skill and the recipe’s difficulty, there is a chance you may produce more than one item"
+Resting,Resting
+This is the Camp screen,This is the Camp screen
+Use it to feed the party and select camp activities for the party members before resting,Use it to feed the party and select camp activities for the party members before resting
+"By default, the game always auto-saves when you make camp","By default, the game always auto-saves when you make camp"
+"To fully recover from injuries, your party members must be well fed","To fully recover from injuries, your party members must be well fed"
+Normally 10 points of food is required per party member to recover 100%,Normally 10 points of food is required per party member to make a full recovery
+If less than the required amount is added your party will only recover partially,If less than the required amount is added your party will only recover partially
+Add food from your inventory by double clicking it,Add food from your inventory by double clicking it
+Note that prepared meals add a lot more food per item than raw ingredients,Note that prepared meals add a lot more food per item than raw ingredients
+Seek out crafting stations to craft meals from raw ingredients,Seek out crafting stations to craft meals from raw ingredients
+Select food from your inventory for your party to eat,Select food from your inventory for your party to eat
+You also need to select Camp Activities for your party members,You also need to select Camp Activities for your party members
+These provide bonuses based on your character's skills,These provide bonuses to your party based on that character's skills
+Beds and Inns,Beds and Inns
+Keep an eye out for beds or inns to rest in while adventuring,Keep an eye out for beds or inns to rest in while adventuring
+Doing so is superior to sleeping in the wild,Doing so is superior to sleeping rough
+"While resting at an inn or in a bed, you have the option to manage your party!","While resting at an inn or in a bed, you may manage your party!"
+"This means you can choose what characters get to be part of your main party, and who should wait in camp","This allows you to elect which of the available characters in your entourage join the main party, and who must wait in camp until further notice"
+Camp followers do not earn XP and never participate in combat,Camp followers do not earn experience and never participate in combat
+Camp followers will for the most part not engage in the narrative,"Camp followers will, for the most part, not engage in the narrative"
+"There are a few exceptions to this however, and there are some cases where even characters outside your main party may chime in during conversations","There are a few exceptions to this however, and there are some cases where even characters outside your main party may chime in during conversations"
+Sailing,Sailing
+"While sailing on the overland map, the “Make Camp” button changes appearance","While sailing on the overland map, the “Make Camp” button changes its appearance"
+Click it to explore the ship you’re currently on,Click it to explore the ship you’re currently on
+Press it to explore the ship you’re currently on,Press it to explore the ship you’re currently on
+"While on the ship, it’s possible to rest and reorganize, cook, craft items and even do some limited bartering","While on the ship, it’s possible to rest and reorganise, cook, craft items, and even do some limited bartering with the onboard merchant"
+There may also be characters to talk to,There may also be characters to talk to
+"When you’re done interacting with the ship and crew, interact with the ship’s helm to go back to the overland map","When you’re done interacting with the ship and crew, interact with the ship’s helm to go back to the overland map"

@@ -1,0 +1,17 @@
+{
+  "languageCode": "es",
+  "name": "Spanish",
+  "description": "Spanish language pack for the game",
+  "version": "1.0.0",
+  "fontFilesPath": "fonts",
+  "translationFilesPath": "translations",
+  "characterChart": {
+    "ñ": 158,
+    "-": 69,
+    "—": 69,
+    "[": 79,
+    "]": 80,
+    "(": 74,
+    ")": 75
+  }
+} 

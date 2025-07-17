@@ -1,0 +1,97 @@
+original,translate
+#Blessing Effects,#Blessing Effects
+Greater Restore Attunement,Greater Restore Attunement
+Minor Restore Attunement,Minor Restore Attunement
+Moderate Restore Attunement,Moderate Restore Attunement
+Sublime Restore Attunement,Sublime Restore Attunement
+Barkskin,Barkskin
+Bear's Strength,Bear's Strength
+Bless,Bless
+Blur,Blur
+Clarity of Mind,Clarity of Mind
+Cure Blindness,Cure Blindness
+Cure Charm,Cure Charm
+Cure Deafness,Cure Deafness
+Cure Moderate Disease,Cure Moderate Disease
+Cure Severe Disease,Cure Severe Disease
+Cure Weak Disease,Cure Weak Disease
+Removes the Diseased Condition from the target,Removes the Diseased Condition from the target
+Cure Insanity,Cure Insanity
+Cure Paralysis,Cure Paralysis
+Cure Moderate Poison,Cure Moderate Poison
+Cure Strong Poison,Cure Strong Poison
+Cure Weak Poison,Cure Weak Poison
+Cure Silenced,Cure Silenced
+Defend,Defend
+Diamond Form,Diamond Form
+Fortify Awareness,Fortify Awareness
+Fortify Initiative,Fortify Initiative
+Fortify Will,Fortify Will
+Frenzy,Frenzy
+Greater Haste,Greater Haste
+Lesser Haste,Lesser Haste
+Greater Healing,Greater Healing
+Minor Healing,Minor Healing
+Minute Healing,Minute Healing
+Moderate Healing,Moderate Healing
+Sublime Healing,Sublime Healing
+Heroism,Heroism
+Hide,Hide
+Illuminate,Illuminate
+Acid Immunity,Acid Immunity
+Electric Immunity,Electric Immunity
+Fire Immunity,Fire Immunity
+Panic Immunity,Panic Immunity
+Inspire,Inspire
+Invisibility Lesser,Lesser Invisibility
+Recover,Recover
+Greater Regeneration,Greater Regeneration
+Lesser Regeneration,Lesser Regeneration
+Remove Fear,Remove Fear
+Acid Resistance,Acid Resistance
+Electric Resistance,Electric Resistance
+Fire Resistance,Fire Resistance
+Serpent's Grace,Serpent's Grace
+Stoneskin,Stoneskin
+Thornclad,Thornclad
+#Curse Effects,#Curse Effects
+Cause Confusion,Cause Confusion
+Deafness,Deafness
+Cause Fear,Cause Fear
+Condemn,Condemn
+Disrupt,Disrupt
+Immobilize,Immobilise
+Infect,Infect
+Greater Infect,Greater Infect
+Lesser Infect,Lesser Infect
+Infects the target with a disease,Infects the target with a disease
+Mark Target,Mark Target
+Paralyze,Paralyse
+Moderate Poisoning,Moderate Poisoning
+Strong Poisoning,Strong Poisoning
+Weak Poisoning,Weak Poisoning
+Purge Invisibility,Purge Invisibility
+Silence,Silence
+Slow,Slow
+Stun,Stun
+Weaken,Weaken
+#Damage Effects,#Damage Effects
+Cause Bleeding,Cause Bleeding
+Cause Injury,Cause Injury
+Kneecap,Kneecap
+Minor Acid Splash,Minor Acid Splash
+Massive Kinetic Damage,Massive Kinetic Damage
+Medium Kinetic Damage,Medium Kinetic Damage
+Minor Magical Damage,Minor Magical Damage
+Minor Sublime Damage,Minor Sublime Damage
+Fire Flash,Fire Flash
+Hamstring,Hamstring
+Minor Psychic Blast,Minor Psychic Blast
+Minor Slam,Minor Slam
+Medium Slash,Medium Slash
+Minor Slash,Minor Slash
+#General Effects,#General Effects
+Clear Magical Conditions,Clear Magical Conditions
+Dispel Magic,Dispel Magic
+Get Drunk,Get Drunk
+Push Target,Push Target

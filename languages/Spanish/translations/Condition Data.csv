@@ -1,0 +1,77 @@
+original,traducido
+#Magical Conditions,#Condiciones Mágicas
+Barkskinned,Piel de Corteza
+Fortified Strength,Fuerza Fortificada
+Blessed,Bendecido
+Blurred,Borroso
+Clarity of Mind,Claridad de Mente
+Condemned,Condenado
+Diamondskinned,Piel de Diamante
+Fell Light,Luz de Caída
+The target emits a sinister glow,El objetivo emite un resplandor siniestro
+Fortified Awareness,Conciencia Fortificada
+Fortify Initiative,Iniciativa Fortificada
+Fortified Will,Voluntad Fortificada
+Heroic Inspiration,Inspiración Heroica
+Illuminated,Iluminado
+"The target glows softly, emitting lighting","El objetivo brilla suavemente, emitiendo iluminación"
+Immunity,Inmunidad
+Acid,Ácido
+Electricity,Electricidad
+Fire,Fuego
+Panic,Pánico
+Lesser Invisibility,Invisibilidad Menor
+Invisible,Invisible
+Regeneration - Greater,Regeneración - Mayor
+Regeneration - Lesser,Regene
+Acid Resistance,Resistencia al acido
+Electric Resistance,Resistencia electrica
+Fire Resistance,Resistencia al fuego
+Fortified Agility,Agilidad reforzada
+Slowed,Ralentizado
+Stoneskinned,Piel de piedra
+Thornclad,Espinoso
+Weakened,Debilitado
+#Natural Conditions,#Condiciones naturales
+Negative Condition,Condicion negativa
+The conditions that currently affects this character,Las condiciones que afectan actualmente a este personaje
+Fearful,Temeroso
+Sleeping,Durmiendo
+Bleeding,Hemorragia
+Bleeding causes the character to lose 10% of their max Vitality at the start of each turn,El sangrado hace que el personaje pierda el 10 % de su vitalidad maxima al comienzo de cada turno
+Lesser Blindness,Ceguera menor
+Enthralled,Cautivado
+Confused,Confuso
+Deafened,Sordo
+Moderately Diseased,Enfermedad moderada
+Severly Diseased,Enfermedad grave
+Weakly Diseased,Enfermedad leve
+Disrupted,Interrumpido
+Exhausted,Agotado
+Immobilized,Inmovilizado
+Injured Arm,Brazo lesionado
+Injured Head,Cabeza lesionada
+Injured Leg,Pierna lesionada
+Injured Torso,Torso lesionado
+Insane,Loco
+Intoxicated,Intoxicado
+Nauseous,Nauseabundo
+Panicked,En panico
+Paralyzed,Paralizado
+Moderate Poison,Veneno moderado
+Strong Poison,Veneno potente
+Poison causes the character to lose 10% of their max Vitality at the start of each turn,El veneno hace que el personaje pierda el 10 % de su vitalidad maxima al comienzo de cada turno
+Weak Poison,Veneno debil
+Mute,Silenciado
+Stunned,Aturdido
+#Tactical Conditions,#Condiciones tacticas
+Defending,Defendiendo
+Greater Frenzy,Frenesi Mayor
+Lesser Frenzy,Frenesi menor
+Hamstrung,Incapacitado
+Greater Haste,Celeridad Mayor
+Lesser Haste,Celeridad Menor
+Inspired,Inspirado
+Marked,Marcado
+Motivated,Motivado
+Removes Conditions with Tag,Elimina condiciones con etiqueta

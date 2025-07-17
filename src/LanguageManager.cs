@@ -357,7 +357,7 @@ namespace TranslationMod
                 }
 
                 var directories = Directory.GetDirectories(languagePacksPath);
-                
+                TranslationMod.Logger?.LogInfo($"[LanguageManager] Found {directories.Length} language packs");
                 foreach (var directory in directories)
                 {
                     string configFile = Path.Combine(directory, ConfigKeys.LanguagePackConfigFileName);
@@ -366,11 +366,14 @@ namespace TranslationMod
                     {
                         try
                         {
+                            TranslationMod.Logger?.LogInfo($"[LanguageManager] Loading language pack from '{directory}'");
                             var languagePack = new LanguagePack(configFile, directory);
                             if (languagePack.IsValid() && !string.IsNullOrEmpty(languagePack.Name))
                             {
+                                TranslationMod.Logger?.LogInfo($"[LanguageManager] Language pack: {languagePack.Name}");
                                 result.Add(languagePack.Name);
                             }
+                            else TranslationMod.Logger?.LogInfo($"[LanguageManager] Language pack is invalid: {languagePack.Name}");
                         }
                         catch (Exception e)
                         {

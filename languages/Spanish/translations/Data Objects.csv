@@ -1,0 +1,375 @@
+original,translation
+#Apperances,#Apariencias
+Carylla,Carylla
+#Difficulties,#Dificultades
+Narrative,Narrativo
+Narrative mode is the difficulty for players who would like to experience the game’s story and setting with a minimum of focus on combat and grinding,El modo Narrativo es la dificultad para los jugadores que quieran experimentar la historia y el escenario del juego centrándose lo menos posible en el combate y el desgaste
+Easy,Fácil
+Easy mode is a great way for players who are new to this style of roleplaying game to experience Skald,El modo Fácil es una buena forma de experimentar Skald para los jugadores que son nuevos en este estilo de juego de rol
+Combat is forgiving and there should be little need to optimize character builds,El combate es indulgente y debería haber poca necesidad de optimizar la construcción de los personajes
+Dice rolls are weighted in the player’s favor,Las tiradas de dados se ponderan a favor del jugador
+Normal,Normal
+Normal mode is the game’s intended difficulty setting,El modo Normal es la dificultad prevista del juego
+There is only very limited artificial smoothing of certain dice rolls,Sólo hay un suavizado artificial muy limitado de ciertas tiradas de dados
+Hard,Difícil
+Hard mode is intended to offer the player a challenge without feeling unfair,El modo Difícil pretende ofrecer al jugador un desafío sin que se sienta injusto.
+Dice rolls are slightly weighted in the opponent's favor making them more deadly,"Las tiradas de dados están ligeramente ponderadas a favor del oponente, lo que las hace más mortíferas"
+#Encounters,#Encounters
+Brigands,Brigadas
+You’ve been beset by brigands!,¡Has sido acosado por bandidos!
+Stand and deliver!,¡Levántate y enfréntate!
+Abandoned Cargo,Carga abandonada
+There is some abandoned cargo strewn on the road ahead of you,Hay una carga abandonada esparcida por el camino delante de ti
+Horrors from the deep,Horrores de las profundidades
+You're being attacked by enormous fell-crabs!,¡Te atacan unos cangrejos enormes!
+Crawlers,Orugas
+Foul creatures swarm from holes in the ground!,¡Horribles criaturas pululan por los agujeros del suelo!
+Devolved,Devolved
+"More beast than man, devolved troglodytes charge towards you!","¡Más bestias que hombres, los trogloditas devolucionados cargan hacia ti!"
+Flotsam,Fragmentos flotantes
+You come across some flotsam,Te encuentras con restos flotantes
+Giant Insects,Insectos gigantes
+Giant insects scurry towards you!,¡Insectos gigantes se abalanzan sobre ti!
+Giant insects swarm you!,Insectos gigantes
+White Hounds,Sabuesos blancos
+Foul slavering beasts barrel towards you!,¡Bestias hediondas y voraces se abalanzan sobre ti!
+Crabs,Cangrejos
+You're being swarmed by monsterously over-grown crabs!,¡Te acosan cangrejos monstruosamente crecidos!
+Rot Crabs,Cangrejos podridos
+Horribly changes crustaceans shamble towards you!,¡Crustáceos horriblemente cambiados se arrastran hacia ti!
+Spider Crabs,Cangrejos araña
+You're being charged by Spider-Crabs!,¡Estás siendo atacado por cangrejos araña!
+Fell Hounds,Sabuesos de las hadas
+You've been beset by prowling Fell-Hounds!,¡Te acosan los sabuesos de las hadas!
+Fell Hogs,Gorrinos
+Fell hogs have caught your scent!,¡Los gorrinos han captado tu olor!
+Rats!,¡Ratas!
+You're being swarmed by monsterously over-grown rats!,¡Te acosan ratas monstruosamente crecidas!
+Reavers,Carroñeros
+You've been waylaid by Reavers!,¡Has sido asaltado por Carroñeros!
+Reaver Patrol,Patrulla de Carroñeros
+Reaver Raiding-Party,Grupo de asalto Carroñeros
+Giant Lizards,Lagartos gigantes
+The lizards' jaws snap greedily as reptilian eyes fix you,Las mandíbulas de los lagartos chasquean con avidez mientras unos ojos reptilianos te observan
+Wandering Merchant,Comerciante errante
+A wandering armorer approaches!,¡Se acerca un armero errante!
+A wandering arms merchant approaches!,¡Se acerca un mercader de armas errante!
+A wandering food merchant approaches!,¡Se acerca un mercader de comida errante!
+A wandering potion merchant approaches!,¡Se acerca un mercader de pociones errante!
+A wandering reagent merchant approaches!,¡Se acerca un mercader de reactivos errante!
+A wandering spell merchant approaches!,¡Se acerca un mercader de hechizos errante!
+A wandering trinket merchant approaches!,Se acerca un mercader de baratijas errante.
+Shades,Sombras
+"Darker than night, these creatures are pure malice","Más oscuras que la noche, estas criaturas son pura malicia"
+Snakes,Serpientes
+There are snakes in the grass!,¡Hay serpientes en la hierba!
+Serpents,Serpientes
+Overgrown serpents slither towards you!,¡Serpientes crecidas se deslizan hacia ti!
+Slithering Horrors,Horrores reptantes
+Snow-Lizards,Lagartos de nieve
+"Large, horned lizards leap from the snow to ambush you!",¡Los grandes lagartos con cuernos saltan de la nieve para tenderte una emboscada!
+Creatures From Beyond,Criaturas del más allá
+The Dragon is awakening!,¡El dragón está despertando!
+Giant Spiders,Arañas gigantes
+Venom drips from snapping jaws as monstrous spiders swarm towards you,El veneno gotea de las mandíbulas chasqueantes mientras monstruosas arañas pululan hacia ti.
+Enormous Spiders,Arañas enormes
+Venom drips from snapping jaws as monstrously huge spiders swarm towards you,El veneno gotea de las mandíbulas chasqueantes mientras arañas monstruosamente enormes pululan hacia ti.
+The Frozen Dead,La muerte congelada
+The restless corpses of those claimed by the frozen wastes shamble towards you,El cuerpo inquieto de los reclamados por los yermos helados se tambalea hacia ti
+#Factions,#Facciones
+Village of Firgol,Pueblo de Firgol
+Nautical Guild,Gremio Náutico
+House Berryn,Casa Berryn
+Iago's Crew,Tripulación de Iago
+Idran Refugees,Refugiados de Idran
+The Hundred Sons,Los Cien Hijos
+Zephyr Crew,Tripulación del Cefir
+The Rat Queen's Court,La Corte de la Reina Rata
+Oleg the Gray,Oleg el Gris
+Queen Kala,Reina Kala
+The Butcher,El Carnicero
+Reavers of Idra,Carroñeros de Idra
+Zephyr Survivors,Sobrevivientes del Cefiro
+#Map Meta-Data,Metadatos del mapa
+Firgol,Firgol
+Before you lies a small village surrounded by fields and orchards,Ante ti se extiende un pequeño pueblo rodeado de campos y huertos
+The air is laden with the scent of fruit and the laughter of children and the pastoral bliss stands in stark contrast to the rest of the Outer Isles,"El aire está cargado del aroma de la fruta y las risas de los niños, y la felicidad pastoral contrasta con el resto de las Islas Exteriores"
+The Manor,La Mansión
+The Mines,Las Minas
+Adler's Helm,El Yelmo de Adler
+Before you lies what appears to be closer to a fortified mining-camp than a town,Ante ti se extiende lo que parece más un campamento minero fortificado que una ciudad. campamento minero fortificado que una ciudad
+The most striking detail are the wrecks of abandoned ships that lie just outside the town’s harbor,El detalle más llamativo son los restos de barcos abandonados que yacen a las afueras del puerto de la ciudad
+Horryn,Horryn
+The Underhalls,Los bajos fondos
+Horryn Castle,Castillo de Horryn
+The Crypt,La cripta
+Horryn Sewers,Cloacas de Horryn
+The Womb,El útero
+Walls of Horryn,Murallas de Horryn
+"At the end of the rugged peninsula lies the small, walled fishing village of Horryn","Al final de la escarpada península se encuentra el pequeño pueblo pesquero amurallado de Horryn, pueblo pesquero amurallado de Horryn"
+"Once home to hundreds, the town now lies seemingly deserted","Antaño hogar de cientos de personas, la ciudad yace ahora aparentemente desierta"
+"Whatever fate has befallen this place, you must be on you guard if you choose to enter it","Sea cual sea el destino de este lugar, debes estar alerta si decides entrar en él"
+The Coastal Pass,El Paso Costero
+The Deep Forest,El Bosque Profundo
+"Besides the buzzing of insects and croaking of toads, the forest is disconcertingly quiet","Aparte del zumbido de los insectos y el croar de los sapos, el bosque está desconcertantemente tranquilo"
+The foliage seems to thin slightly in this area and to the north-east you can make out a faint wisp of smoke rising from a chimney,El follaje parece ralear ligeramente en esta zona y al noreste puedes distinguir un tenue hilo de humo saliendo de una chimenea
+"The foliage does however, seem to thin slightly in this area and to the north-east you can make out a faint wisp of smoke rising from a chimney","Sin embargo, el follaje parece ralear ligeramente en esta zona y, al noreste, puedes distinguir un tenue hilo de humo que sale de una chimenea"
+Forest Caves,Cuevas del bosque
+The Hidden Glen,La cañada oculta
+A hidden glen nestled between two mountains,Una cañada oculta enclavada entre dos montañas
+"Had you not known to look for it, you would have easily missed it","Si no hubieras sabido buscarla, la habrías pasado por alto fácilmente"
+Shores of Idra,Orillas de Idra
+Ahead of you lies the windswept shore where you landed on Idra and the abandoned farmsteam,Delante de ti se extiende la orilla azotada por el viento donde desembarcaste en Idra y la granja abandonada
+The Foul Caves,Las Cuevas Sucias
+Lighthouse Exterior,Exterior del Faro
+An ancient lighthouse rises steeply from the bluffs ahead of you,Un antiguo faro se eleva abruptamente desde los acantilados frente a ti
+"The beacon is still lit, though it flickers weakly","El faro aún está encendido, aunque parpadea débilmente"
+Under the Lighthouse,Bajo el faro
+Lighthouse,Faro
+Refugee Camp,Campo de refugiados
+"Before you, the unmistakable mess, squalor and desperation of a refugee camp sprawls around a small farmstead like a festering wound","Ante ti, el inconfundible desorden, la miseria y la desesperación de un campo de refugiados se extiende alrededor de una pequeña granja como una herida supurante"
+Coastal Road,Camino costero
+Sea-Caves,Cuevas marinas
+"A huge sea-cave, created by eons of the sea’s relentless attack on the rock, gapes in the cliffs ahead","Una enorme cueva marina, creada por eones de implacable ataque del mar a la roca, se abre en los acantilados"
+"If you take great care, a narrow trail allows you to enter it","Si tienes mucho cuidado, un estrecho sendero te permite entrar en ella"
+Wreck Site,Lugar del naufragio
+Broken bodies and debris litter the rocky shores of Idra,Cuerpos rotos y escombros ensucian las costas rocosas de Idra.
+"In the distance, you can make out what appears to be the remains of the Zephyr's hull","A lo lejos, se distinguen lo que parecen ser los restos del casco del Céfiro"
+Wreckage,Restos del naufragio
+The Berryn Estate,La finca de Berryn
+The Cellar,La bodega
+The Outer Isles,Las islas exteriores
+Outer Isles,Las islas exteriores
+Excavation Site,Excavación
+Priory Crypt,Cripta del Priorato
+The Black Priory,El Priorato Negro
+A grim edifice rises from the wastelands,Un lúgubre edificio se alza entre los páramos
+"Its walls are weatherbeaten and its empty windows glare at you like dead, black eyes",Sus muros están curtidos por la intemperie y sus ventanas vacías te miran como ojos negros y muertos
+"Abandoned as it may seem, there is nevertheless some siren call that bids you venture inside… and below","Por abandonado que parezca, hay sin embargo un canto de sirena que te invita a aventurarte en su interior... y abajo"
+The Eternity Gate,La Puerta de la Eternidad
+Forest,Bosque
+A Twisted Forest,Un Bosque Retorcido
+A Field,Un Campo
+Hills,Colinas
+Road,Carretera
+Shore,Orilla
+Tundra,Tundra
+Ship's Deck,Cubierta del Barco
+Zephyr's Hold,Bodega del Céfiro
+Zephyr's Lower Deck,Cubierta Inferior Cefiro
+The Wreck,El Pecio
+Shrine of Agility,Santuario de la Agilidad
+Shrine of Fortitude,Santuario de la Fortaleza
+Shrine of Intellect,Santuario del Intelecto
+Shrine of Presence,Santuario de la Presencia
+Shrine of Strength,Santuario de la Fuerza
+Lorem Ipsum,Lorem Ipsum
+The Weathermaiden,La Meteoróloga
+Tower Dungeon,Mazmorra de la Torre
+Lower Dungeon,Mazmorra Inferior
+Tower of Ash,Torre de Ceniza
+A lone tower pierces the skies as it rises above you,Una torre solitaria surca los cielos mientras se eleva sobre ti
+"From some unseen aperture in the cliffs upon which it stands, the wind carries a cloud of fine gray ash","De alguna abertura invisible en los acantilados sobre los que se alza, el viento arrastra una nube de fina ceniza gris"
+"Bitter and unwelcome, the residue sticks in your mouth and eyes","Amargo e inoportuno, el residuo se te pega en la boca y en los ojos."
+#Stores,#Tiendas
+Arra's Goods,Arra's Goods
+Esteban's Concoction,Esteban's Concoction
+The Narwhale,The Narwhale
+Martha's Flophouse,Martha's Flophouse
+Maija's Goods,Maija's Goods
+Quartermaster,Quartermaster
+#String Lists,#String Lists
+Welcome!,¡Bienvenidos!
+Have a seat!,Toma asiento.
+I'll be with you in a moment!,¡Enseguida estoy con vosotros!
+Hi there!,¡Hola!
+Hic,Hic
+I'm cold,Tengo frío
+Spare a coin?,¿Me das una moneda?
+So hungry,Tan hambriento
+My insides hurt,Me duelen las entrañas
+Should you be here?,¿Deberías estar aquí?
+Don't tell me you've an audience?,¿No me digas que tienes público?
+"Charmed, I'm sure","Encantado, estoy seguro"
+Hm?,¿Hm?
+There are mercenaries on the island that don't belong here,Hay mercenarios en la isla que no pertenecen aquí
+Rumors have it they are encamped on the Priory grounds,Los rumores dicen que están acampados en los terrenos del Priorato
+I have no idea why they're here but they have to have something to do with what's happening,"No tengo ni idea de por qué están aquí, pero tienen que tener algo que ver con lo que está pasando."
+I don't believe the farmer's goats are dead!,¡No creo que las cabras del granjero estén muertas!
+I heard someone say she saw the famer's son drive the animals into the mountains when Horryn fell,Oí a alguien decir que vio al hijo del granjero llevar a los animales a las montañas cuando Horryn cayó
+How can he hide away food while we starve?,¿Cómo puede esconder comida mientras nos morimos de hambre?
+"Governor spent more time out at his estate, east of here than at his offices in Horryn!","¡El Gobernador pasaba más tiempo en su finca, al este de aquí, que en sus oficinas en Horryn!"
+"He's probably dead now though, and good riddance to him!","Probablemente ya esté muerto, ¡y que le vaya bien!"
+They say smugglers use the caves in the mountains to the west,Dicen que los contrabandistas utilizan las cuevas en las montañas al oeste
+Maybe they have food?,¿Tal vez tienen comida?
+Ships came to the island a few weeks ago,Hace unas semanas llegaron barcos a la isla
+"They didn't dock in Horryn, but sailed up towards the Priory","No atracaron en Horryn, sino que navegaron hacia el Priorato"
+Maybe they managed to land there?,¿Quizá consiguieron desembarcar allí?
+Though I don't know how,Aunque no sé cómo
+The northern coast is all steep cliffs and rocks,La costa norte es todo acantilados escarpados y rocas
+The fishermen began seeing 'something' in the oceans a few weeks ago,Los pescadores empezaron a ver «algo» en los océanos hace unas semanas
+Then the boats started disappearing!,¡Entonces los barcos empezaron a desaparecer!
+Now we're trapped here!,¡Ahora estamos atrapados aquí!
+Just waiting to die!,Esperando la muerte.
+When is the Empire coming for us?,¿Cuándo vendrá el Imperio por nosotros?
+How can they even know something is wrong?,¿Cómo pueden saber que algo va mal?
+"And if they did, they say a horror stalks the seas around Horryn!","Y si lo supieran, dicen que un horror acecha los mares alrededor de Horryn."
+I'm not sleeping well,No estoy durmiendo bien
+My dreams,Mis sueños
+They are,Son
+"Ugh, why am I telling you this?","Ugh, ¿por qué te estoy contando esto?"
+We're defenceless sitting here!,¡Estamos indefensos aquí sentados!
+And where is the governor and the guards?,¿Y dónde están el gobernador y los guardias?
+Dead I suppose,Muertos supongo
+People have started to get sick,La gente ha empezado a enfermar
+Just look at poor Hannah's boy,Sólo mira al pobre niño de Hannah
+Thank you for finding food,Gracias por encontrar comida
+I'm so hungry,Tengo tanta hambre
+All those people lost,Toda esa gente perdida
+What's happening to us?,¿Qué nos está pasando?
+Do you have any food?,¿Tienes comida?
+I feel better,Me siento mejor
+Ugh,Ugh
+Feels like the world's ending!,¡Siento como si el mundo se acabara!
+Leave me alone,Déjame en paz
+Please help us!,"¡Por favor, ayúdanos!"
+These caves are beginning to wear on me,Estas cuevas están empezando a cansarme
+I wish we could get out of here soon,Ojalá pudiéramos salir de aquí pronto
+Hold on... did you hear something?,Espera... ¿has oído algo?
+Have you been to see the queen yet?,¿Has ido a ver a la reina ya?
+Freythens or Imperials,Freythens o Imperiales
+I don't care 's long as the coin is good!,¡No me importa mientras la moneda sea buena!
+Sitting on a cargo like this is making me nervous,Sentado en una carga como esta me está poniendo nervioso
+Hope we get out to sea again soon!,¡Espero que salgamos al mar de nuevo pronto!
+They say the world's ending out there,Dicen que el mundo se está acabando ahí fuera.
+I don't care - I just want to get out of here!,"No me importa, sólo quiero salir de aquí."
+"In our line of work, strangers are bad news","En nuestra línea de trabajo, los extraños son malas noticias."
+Keep away from me or we'll have words,Mantente alejado de mí o tendremos unas palabras.
+Mommy!,Mami!
+I want to go home!,¡Quiero irme a casa!
+I don't want to be here!,¡No quiero estar aquí!
+I'm afraid!,¡Tengo miedo!
+I want my mommy!,¡Quiero a mi mami!
+I can't wait for Carnivale!,¡No puedo esperar a Carnivale!
+I'm so excited!,¡Estoy tan emocionada!
+I'm going to eat so much cake!,¡Voy a comer mucho pastel!
+Tihi!,¡Tihi!
+Are you going to Carnivale?,¿Vas a Carnivale?
+Wanna play?,¿Quieres jugar?
+Is it Carnivale now?,¿Es Carnivale ahora?
+My head hurts,Me duele la cabeza
+I'm afraid of the dark,Tengo miedo de la oscuridad
+Gahhh!,¡Gahhh!
+Cough,Tose
+I have bad dreams,Tengo pesadillas
+Wee!,¡Wee!
+Carnivale!,¡Carnaval!
+I want more cake!,¡Quiero más tarta!
+Honey-cake is the best!,¡El pastel de miel es el mejor!
+Greetings m'lord,Saludos m'lord
+Greetings m'lady,Saludos m'lady
+Hello,Hola
+I'm excited for the Carnivale,Estoy emocionado por el Carnaval
+The Baron is a good man!,¡El Barón es un buen hombre!
+Have you tried the local cider?,¿Has probado la sidra local?
+Firgol is such a peaceful place,Firgol es un lugar tan pacífico
+You saved us!,¡Nos salvaste!
+What happened?,¿Qué ha pasado?
+"Thank the Golden, the children are safe!","¡Gracias a Dios, los niños están a salvo!"
+I don't really sleep anymore,Realmente ya no duermo
+Nightmares are back,Las pesadillas han vuelto
+My head hurts!,¡Me duele la cabeza!
+I feel sick!,Me siento mal.
+Hi,Hola
+I'm not supposed to talk to strangers,Se supone que no debo hablar con extraños
+You look strange,Te ves extraño
+My stomach hurts,Me duele el estómago
+Do you have nightmares too?,¿También tienes pesadillas?
+Good to be back,Es bueno estar de vuelta
+Hello there m'lord,Hola señor
+Hello there m'lady,Hola señora
+M'lord,Señor
+M'lady,Señora
+How could this happen?,¿Cómo pudo pasar esto?
+What's next?,¿Qué es lo siguiente?
+The stench,El hedor
+"Ugh, I'm hungry","Ugh, tengo hambre"
+What?,¿Qué?
+My knee,Mi rodilla
+I used to be an adventurer,Solía ser un aventurero
+I’ve got my eye on you!,¡Te tengo echado el ojo!
+No funny business!,¡Nada de cosas raras!
+Hmm?,¿Hmm?
+It’s good to have the Captain back!,¡Es bueno tener al Capitán de vuelta!
+I wonder what happened to the Captain?,Me pregunto qué le habrá pasado al Capitán.
+I can't wait to set sail!,Estoy impaciente por zarpar.
+I could do with some rum!,Me vendría bien un poco de ron.
+How long do we have to stay here?,¿Cuánto tiempo tenemos que quedarnos aquí?
+Burp,Burp
+You look like a landlubber!,¡Pareces un marinero de agua dulce!
+Farewell and adieu to ye ladies of Vauul,Adiós a las damas de Vauul
+"They say practice makes perfect, and maybe they’re right; it seems all those hours spent honing your skills are starting to pay off","Dicen que la práctica hace al maestro, y puede que tengan razón; parece que todas esas horas dedicadas a perfeccionar tus habilidades están empezando a dar sus frutos"
+"Keep it up, and soon you’ll be well on your way to mastery!","¡Sigue así, y pronto estarás bien encaminado hacia la maestría!"
+Did this stuff used to be difficult?,¿Antes estas cosas eran difíciles?
+"You cannot remember, for right now, you are quickly becoming one of the best in your field","No puedes recordarlo, porque ahora mismo te estás convirtiendo rápidamente en uno de los mejores en tu campo"
+Your progress seems to have slowed to a frustrating crawl,Tu progreso parece haberse ralentizado hasta llegar a un punto frustrante
+"Alas, shuffling forward is always better than standing still","Por desgracia, avanzar siempre es mejor que quedarse quieto"
+"How foolish you were, to think yourself at the top of your game","Qué tonto fuiste, al creerte en la cima de tu juego"
+"If your journey so far has taught you anything, it is that there is always someone better, someone stronger","Si tu viaje hasta ahora te ha enseñado algo, es que siempre hay alguien mejor, alguien más fuerte"
+"The question is not if you are strong enough to beat them, but if you are strong enough to try","La cuestión no es si eres lo suficientemente fuerte como para vencerles, sino si eres lo suficientemente fuerte como para intentarlo"
+Giving up has never been an option,Rendirse nunca ha sido una opción
+But perhaps a long bath and a good meal wouldn’t go amiss,Pero tal vez un largo baño y una buena comida no te vendrían mal
+"Your latest trials have left you exhausted, yet the perseverance it has taken to push on has left you stronger than ever","Tus últimas pruebas te han dejado exhausto, pero la perseverancia que has necesitado para seguir adelante te ha dejado más fuerte que nunca"
+"But despite this victory, a single thought plagues you: how much more can you push until there is nothing left?","Pero a pesar de esta victoria, un único pensamiento te atormenta: ¿cuánto más puedes seguir empujando hasta que no quede nada?"
+"No one can make it through this world alone, and lately you find yourself thinking of those who have helped you on your journey","Nadie puede atravesar este mundo solo, y últimamente te encuentras pensando en aquellos que te han ayudado en tu viaje"
+"Perhaps one day, when this is all over, you can find a way to repay them","Tal vez algún día, cuando todo esto termine, puedas encontrar la forma de devolvérselo"
+The person you were when you began this journey is now nothing but a distant memory,La persona que eras cuando comenzaste este viaje no es ahora más que un recuerdo lejano
+"You are irrevocably changed, and no matter what comes next, you will never be who you once were","Has cambiado irrevocablemente, y no importa lo que venga después, nunca volverás a ser quien eras"
+You’ve spent countless hours forging yourself into the person you are today,Has pasado incontables horas forjándote a ti mismo para convertirte en la persona que eres hoy
+Now all that’s left to do is the hardest thing of all: trust in yourself,Ahora sólo te queda hacer lo más difícil de todo: confiar en ti mismo
+"Soon your journey will be at its end, and though victory is nigh, you cannot help but wonder: what will it cost?","Pronto tu viaje llegará a su fin, y aunque la victoria está cerca, no puedes evitar preguntarte: ¿cuánto costará?"
+"For the first time in your life, you are overcome with a sense of purpose","Por primera vez en tu vida, te invade un sentimiento de determinación"
+"The path ahead will undoubtedly be difficult, but you are certain it is the one you are supposed to take","El camino que tienes por delante será sin duda difícil, pero estás seguro de que es el que debes tomar"
+"You have mastered all that you have set your mind to, yet the sweetness of your victory is tainted by the knowledge that once you have reached the top, there is nowhere else to go but down","Has dominado todo lo que te habías propuesto, pero la dulzura de tu victoria se ve empañada por la certeza de que, una vez alcanzada la cima, no hay otro lugar al que ir que hacia abajo"
+"Every step forward is worth celebrating, no matter how small","Merece la pena celebrar cada paso adelante, por pequeño que sea"
+"Keep going, and soon the path behind you will be longer than the path ahead","Sigue adelante, y pronto el camino que hay detrás de ti será más largo que el que tienes por delante"
+You can feel yourself growing stronger with every trial you face,Puedes sentir que te haces más fuerte con cada prueba a la que te enfrentas
+"Each adventure leaves you just a little faster, a little braver","Cada aventura te deja un poco más rápido, un poco más valiente"
+What more are you capable of?,¿De qué más eres capaz?
+Adrenaline floods your veins,La adrenalina inunda tus venas
+"The tasks that once seemed so difficult now come naturally to you, leaving you with an insatiable urge to learn something new","Las tareas que antes te parecían tan difíciles ahora te resultan naturales, dejándote con unas ganas insaciables de aprender algo nuevo"
+The possibilities ahead of you seem as endless as your potential - who knows what adventures lay ahead?,Las posibilidades que tienes por delante parecen tan infinitas como tu potencial: ¿quién sabe qué aventuras te esperan?
+Who knew the human body was capable of such feats?,¿Quién iba a decir que el cuerpo humano era capaz de semejantes proezas?
+"You can feel yourself changing, the layers of your old self shedding away into something new","Puedes sentir cómo cambias, cómo las capas de tu viejo yo se desprenden y se convierten en algo nuevo"
+Something better,Algo mejor
+"It amazes you how each adventure manages to present you with a new challenge, reminding you that there is always something more to learn","Te sorprende cómo cada aventura se las arregla para presentarte un nuevo desafío, recordándote que siempre hay algo más que aprender"
+Each dawn is a new chance to perfect your skills,Cada amanecer es una nueva oportunidad para perfeccionar tus habilidades
+"You’re not sure you’ve ever worked this hard for anything before, and you’re not about to give up now","No estás seguro de haber trabajado tan duro por algo antes, y no estás dispuesto a rendirte ahora"
+Greeting brother!,¡Saludos hermano!
+Greeting sister!,"¡Saludos, hermana!"
+Do you think we'll get off this island?,¿Crees que saldremos de esta isla?
+I really wanted to see the shrines,Realmente quería ver los santuarios
+Haven't we been tested enough?,¿No hemos sido probados lo suficiente?
+A blessing upon you!,¡Una bendición para ti!
+Huh?,¿Eh?
+We have the word from the deep!,¡Tenemos la palabra de las profundidades!
+Bow your head before before our chieftain!,¡Inclina tu cabeza ante nuestro jefe!
+The fuck you want?,¿Qué coño quieres?
+Look at me funny and I'll gut you!,¡Mírame raro y te destripo!
+Hhhh,Hhhh
+Ahhh,Ahhh
+Gahhh,Gahhh
+Mhhhh,Mhhhh
+Steel Thyself!,¡Acércate!
+Draw Steel!,¡Desenfunda el acero!
+Make Ready!,¡Prepárate!
+Death or Glory!,¡Muerte o Gloria!
+To the Last!,¡Hasta el final!
+Blood Will Flow!,¡La sangre fluirá!
+It’s good to be sailing again!,¡Es bueno navegar de nuevo!
+Aye?,¿Sí?
+Seasick?,¿Mareado?
+Found your sea legs?,¿Encontraste tus piernas marinas?
+#Variables,#Variables
+None,Ninguna
+Faction has turned HOSTILE,Facción se ha vuelto HOSTIL

@@ -1,0 +1,314 @@
+﻿original,translate
+Core 1.0.7e,Core 1.0.7e; British English Edition
+Continue Game,Continue Game
+New Game,New Game
+Load,Load
+Save,Save
+Start Module,Start Module
+Settings,Settings
+Credits,Credits
+Quit,Quit
+Exit,Exit
+Reset,Reset
+Gameplay,Gameplay
+Difficulty,Difficulty
+Display,Display
+Audio,Audio
+Controls,Controls
+Fonts,Fonts
+Enter Map Auto Save,Enter Map Auto Save
+Rest Auto Save,Rest Auto Save
+Tactical Icons Always On,Tactical Icons Always On
+Tactical Grid,Tactical Grid
+Show Stealth Info,Show Stealth Info
+Combat Pop-Up Length,Combat Pop-Up Length
+Tutorials,Tutorials
+Controller Sensitivity,Controller Sensitivity
+Language,Language
+Enabled,Enabled
+Disabled,Disabled
+DISABLED,DISABLED
+ENABLED,ENABLED
+Normal,Normal
+Extensive,Extensive
+DELUXE,DELUXE
+Nostalgia Mode,Nostalgia Mode
+Dice Animation,Dice Animation
+White - Pips,White - Pips
+Russian,Russian
+Gameplay Settings,Gameplay Settings
+ENTER MAP AUTO SAVE,ENTER MAP AUTO SAVE
+The game will auto save whenever you enter a new map,The game will auto save whenever you enter a new map
+REST AUTO SAVE,REST AUTO SAVE
+The game will auto save whenever you make camp,The game will auto save whenever you make camp
+TACTICAL ICONS ALWAYS ON,TACTICAL ICONS ALWAYS ON
+The degree to which the game shows tactical symbols and a grid during combat,The degree to which the game shows tactical symbols and a grid during combat
+"If set to true, the game will automatically show tactical icons during the planning state","If set to true, the game will automatically show tactical icons during the planning state"
+"If set to false, the tactical icons will only show when holding down SHIFT","If set to false, the tactical icons will only show when holding down SHIFT"
+TACTICAL GRID,TACTICAL GRID
+Whether or not the game shows a grid along with the tactical icons when activated during combat,Whether or not the game shows a grid along with the tactical icons when activated during combat
+SHOW STEALTH INFO,SHOW STEALTH INFO
+Setting this to Enabled will show a tooltip box containing info on light levels and stealth modifiers for tiles when you right click them,Setting this to Enabled will show a tooltip box containing info on light levels and stealth modifiers for tiles when you right click them
+COMBAT POP-UP LENGTH,COMBAT POP-UP LENGTH
+This adjusts how long the on-screen combat pop-up text lingers,This adjusts how long the on-screen combat pop-up text lingers
+"Note that a turn does not progress until all the character�s pop-up text is gone, so adjusting this number will also adjust how quickly combat turns pass","Note that a turn does not progress until all the character�s pop-up text is gone, so adjusting this number will also adjust how quickly combat turns pass"
+TUTORIALS,TUTORIALS
+The degree to which you want the game to offer gameplay tutorials during play,The degree to which you want the game to offer gameplay tutorials during play
+CONTROLLER SENSITIVITY,CONTROLLER SENSITIVITY
+The sensitivity of the joystick used for moving the cursor when using a controller,The sensitivity of the joystick used for moving the cursor when using a controller
+LANGUAGE,LANGUAGE
+Select the display language for the game,Select the display language for the game
+English,British English
+None,None
+Some,Some
+Slow,Slow
+Very Slow,Very Slow
+Fast,Fast
+Attribute Rerolls,Attribute Rerolls
+Player Rerolls,Player Rerolls
+P. Dmg. Rerolls,Player Dmg. Rerolls
+Enemy Rerolls,Enemy Rerolls
+E. Dmg. Rerolls,Enemy Dmg. Rerolls
+Miss Smoothening,Miss Smoothening
+Combat Heal,Combat Heal
+No Encumb,No Encumb
+Cannot Die,Cannot Die
+XP For KO Char,XP For KO Char
+Easy,Easy
+Difficulty Settings,Difficulty Settings
+DIFFICULTY,DIFFICULTY
+The current difficulty of the game,The current difficulty of the game
+Easy mode is a great way for players who are new to this style of roleplaying game to experience Skald,Easy mode is best suited to beginners and newcomers to this style of roleplaying game who wish for a light introduction to its concepts through Skald
+Combat is forgiving and there should be little need to optimize character builds,"Combat should be relatively forgiving, with little need to optimise character builds and loadouts"
+Dice rolls are weighted in the player’s favor,Dice rolls are also weighted in the player’s favour
+Normal mode is the game’s intended difficulty setting,"Normal mode is the default difficulty, and the intended way to experience Skald"
+There is only very limited artificial smoothing of certain dice rolls,"Dice rolls only see minor alterations, to artificially smooth them and improve the experience"
+Dice rolls are slightly weighted in the opponent's favor making them more deadly,"Dice rolls are slightly weighted in the opponent's favour, making foes more punishing; putting additional emphasis on player preparation and consistency"
+CUSTOM,CUSTOM
+Custom difficulty,Custom difficulty
+Narrative,Narrative
+Narrative mode is the difficulty for players who would like to experience the game’s story and setting with a minimum of focus on combat and grinding,Narrative mode is best suited for players primarily seeking to experience the game's story with combat being a secondary way to add flavour to the narrative
+ATTRIBUTE REROLLS,ATTRIBUTE REROLLS
+"If this number is greater than zero, the system will reroll any of the player's Attribute Check (Skill Checks for instance) dice rolls that many times and pick the most favorable one to the player","If this number is greater than zero, the system will reroll any of the player's Attribute Check (Skill Checks for instance) dice rolls that many times and pick the most favourable one to the player"
+PLAYER REROLLS,PLAYER REROLLS
+"If this number is greater than zero, the system will reroll any of the player's Combat dice rolls (such as Attack Rolls or Defence Rolls) that many times and pick the most favorable one to the player","If this number is greater than zero, the system will reroll any of the player's Combat dice rolls (such as Attack Rolls or Defence Rolls) that many times and pick the most favourable one to the player"
+P. DMG. REROLLS,P. DMG. REROLLS
+"If this number is greater than zero, the system will reroll any of the player's damage dice rolls that many times and pick the most favorable one to the player","If this number is greater than zero, the system will reroll any of the player's damage dice rolls that many times and pick the most favourable one to the player"
+ENEMY REROLLS,ENEMY REROLLS
+"If this number is greater than zero, the system will reroll any of the enemy's Combat dice rolls (such as Attack Rolls or Defence Rolls) that many times and pick the most favorable one to the enemy","If this number is greater than zero, the system will reroll any of the enemy's Combat dice rolls (such as Attack Rolls or Defence Rolls) that many times and pick the most favorable one to the enemy"
+E. DMG. REROLLS,E. DMG. REROLLS
+"If this number is greater than zero, the system will reroll any of the enemy's damage dice rolls that many times and pick the most favorable one to the enemy","If this number is greater than zero, the system will reroll any of the enemy's damage dice rolls that many times and pick the most favourable one to the enemy"
+MISS SMOOTHENING,MISS SMOOTHENING
+The degree to which the engine compensates player miss streaks by increasing To-Hit chances,The degree to which the engine compensates player miss streaks by increasing To-Hit chances
+Ignore Food,Ignore Food
+COMBAT HEAL,COMBAT HEAL
+"If Enabled, the party will heal fully after each combat","If Enabled, the party will fully heal after each combat"
+No Trash Mobs,Ignore Random Encounters
+NO ENCUMB,IGNORE ENCUMB
+"If Enabled, the party has no limit to carrying capacity","If Enabled, the party has no limit to its carrying capacity"
+CANNOT DIE,DEATH PREVENTION
+"If Enabled, the main PC can never die in combat","If Enabled, the main Player Character cannot die in combat"
+XP FOR KO CHAR,GRANT XP FOR FALLEN ALLIES
+"If Enabled, XP will also be given to downed characters after combat","If Enabled, experience will also be given to downed characters after combat"
+IGNORE FOOD,IGNORE FOOD
+"If Enabled, the party does not need to consume food","If Enabled, the party no longer needs to consume food."
+NO TRASH MOBS,IGNORE RANDOM ENCOUNTERS
+"If Enabled, the party will not encounter 'trash mob' encounters on the overland map","If Enabled, the party will no longer run into foes randomly, JRPG style, on the overworld map. Enabling this feature only prevents the player encountering foes, not other overworld events such as merchants or flotsam."
+TO-HIT ROLL,TO-HIT ROLL
+Concept,Concept
+The To-Hit roll is made by comparing the Attacker's Attack Roll to the Defender's Defence Roll,The To-Hit roll is made by comparing the Attacker's Attack Roll to the Defender's Defence Roll
+If the Attacker rolls equal to or higher than the Defence Roll the attack is a hit,If the Attacker rolls equal to or higher than the Defence Roll the attack is a hit
+ATTACK ROLL,ATTACK ROLL
+The Attack Roll is calulated in the following way,The Attack Roll is calculated in the following way
+2d6 + Melee To Hit / Ranged To Hit + Misc,2d6 + Melee To Hit / Ranged To Hit + Misc
+Bonuses + Accuracy Bonuses,Bonuses + Accuracy Bonuses
+2D6,2D7
+Simulates rolling and adding up two six-sided dice,Simulates rolling and adding up two six-sided dice
+In other words a 2d6 roll generates a number between 2 and,"In other words, a 2d6 roll generates a number between 2 and"
+DEFENCE ROLL,DEFENCE ROLL
+The Defence Roll is,The Defence Roll is
+2d6 + Misc Bonuses + Dodge,2d6 + Misc Bonuses + Dodge
+Attribute - Defence,Attribute - Defence
+The ability to avoid incoming attacks and other reflex-based dangers,Represents how adept a character is at avoiding incoming attacks and other reflex-based dangers
+"In other words, this determines how hard a character is to hit","In other words, this determines how hard a character is to hit"
+MELEE TO HIT,MELEE TO HIT
+Attribute - Combat,Attribute - Combat
+The character's skill at attacking with melee weapons,The character's skill at attacking with melee weapons
+Determines hit chance,Determines hit chance
+RANGED TO HIT,RANGED TO HIT
+The characters skill at attacking with ranged weapons,The characters skill at attacking with ranged weapons
+ACCURACY,ACCURACY
+Accuracy is added to an attacker's Attack Roll when trying to hit an opponent,Accuracy is added to an attacker's Attack Roll when trying to hit an opponent
+Accuracy is typically derived from a weapon's quality,Accuracy is typically derived from a weapon's quality
+CRT Filter,CRT Filter
+Screen Mode,Screen Mode
+Windowed Mode Scale,Windowed Mode Scale
+VSync,VSync
+Classic Console,Classic Console
+Fancy Lighting,Fancy Lighting
+Weather Effects,Weather Effects
+Screen Shaking,Screen Shaking
+Full,Full
+Off,Off
+Display Settings,Display Settings
+CRT FILTER,CRT FILTER
+"This feature should only be disabled if you experience performance issues. Editors note: As of patch 1.0.7, hovering over this option results in a temporary slow-down that may persist until you exist this options window. Try pressing the 1 or Esc key to quit quickly! ","Applying one of these filters gives the game a fuzzy, retro aesthetic"
+Soft,Soft
+Classic,Classic
+High-End,High-End
+Arcade,Arcade Cabinet
+Kitchen TV,Kitchen TV
+Mini CRT,Mini CRT TV
+Old TV,Old TV
+Broken B/W,Broken B&W TV
+SCREEN MODE,SCREEN MODE
+Allows the game to be played in full screen or windowed mode,Allows the game to be played in fullscreen or windowed mode
+WINDOWED MODE SCALE,WINDOWED MODE SCALE
+The scale of the window when run in Window mode,The scale of the window when run in Window mode
+VSYNC,VSYNC
+VSync prevents artifacts such as screen tearing,Enabling VSync has the game run at the refresh rate your monitor. It also may also aid in the prevention of screen tearing and other artifacts
+CLASSIC CONSOLE,CLASSIC CONSOLE
+The console uses the classic C64 color theme,The console uses the classic C64 colour theme
+FANCY LIGHTING,FANCY LIGHTING
+If enabled it will use the game�s blended lighting system,"If enabled, it will use the game�s blended lighting system"
+This is the intended experience,This is the intended experience
+This feature should only be disabled if you experience performance issues,"This feature should only be disabled if you experience performance issues. Editor's note: As of patch 1.0.7, hovering over this option results in temporary slow-down that may persist until you leave the display options window. Try pressing 1 or Esc on your keyboard, or for controller/Steam Deck users. the relevant button shown below with the Exit command to quit to the main menu!"
+WEATHER EFFECTS,WEATHER EFFECTS
+If enabled the game will render weather effects like fog and rain,If enabled the game will render weather effects like fog and rain
+Disabling this option may increase performance,Disabling this option may increase performance
+SCREEN SHAKING,SCREEN SHAKING
+Whether or not to allow the screen-shake visual effect,Whether or not to allow the screen-shake visual effect
+Windowed,Windowed
+Music Volume,Music Volume
+Sound FX Volume,Sound FX Volume
+Audio Settings,Audio Settings
+MUSIC VOLUME,MUSIC VOLUME
+The volume of the soundtrack,The volume of the soundtrack
+SOUND FX VOLUME,SOUND FX VOLUME
+The volume of the sound effects,The volume of the sound effects
+Re-Assign,Re-Assign
+Key Bindings,Key Bindings
+Spellbook,Spellbook
+SPELLBOOK,SPELLBOOK
+G,G
+This binding can be changed,This binding can be changed
+Character Sheet,Character Sheet
+C,C
+Console,Console
+Tab,Tab
+Feats,Feats
+F,F
+Feedback,Feedback
+F2,F3
+Hide,Hide
+LeftCont,LeftCont
+Highlight,Highlight
+LeftShif,LeftShif
+Inventory,Inventory
+E,E
+Level Up,Level Up
+L,L
+Light Torch,Light Torch
+T,T
+Move E,Move E
+D,D
+RightArr,RightArr
+Move N,Move N
+W,W
+UpArrow,UpArrow
+Move S,Move S
+S,S
+DownArro,DownArro
+Move W,Move W
+A,A
+LeftArro,LeftArro
+Next Character,Next Character
+Q,Q
+Quests,Quests
+J,J
+Quick Load,Quick Load
+F9,F10
+Quick Save,Quick Save
+F5,F6
+QUICK SAVE,QUICK SAVE
+QUICK LOAD,QUICK LOAD
+QUESTS,QUESTS
+MOVE W,MOVE W
+LEFTARRO,LEFTARRO
+NEXT CHARACTER,NEXT CHARACTER
+MOVE S,MOVE S
+DOWNARRO,DOWNARRO
+MOVE N,MOVE N
+UPARROW,UPARROW
+MOVE E,MOVE E
+RIGHTARR,RIGHTARR
+LIGHT TORCH,LIGHT TORCH
+LEVEL UP,LEVEL UP
+INVENTORY,INVENTORY
+HIGHLIGHT,HIGHLIGHT
+LEFTSHIF,LEFTSHIF
+HIDE,HIDE
+LEFTCONT,LEFTCONT
+FEEDBACK,FEEDBACK
+FEATS,FEATS
+CONSOLE,CONSOLE
+TAB,TAB
+CHARACTER SHEET,CHARACTER SHEET
+Assigning key,Assigning key
+"Press ENTER or ""Re-Assign"" when done!","Press ENTER or ""Re-Assign"" when done!"
+Enter new key,Enter new key
+Components,Components
+Description Font,Description Font
+Description Color,Description Colour
+Quote Color,Quote Colour
+Description Shadow,Description Shadow
+Draw Outline,Draw Outline
+Text Background Color,Text Background Colour
+Font,Font
+Color,Colour
+Font Settings,Font Settings
+DESCRIPTION FONT,DESCRIPTION FONT
+The font used for most descriptions,The font used for most descriptions
+�This is what a quote looks like.�,�This is what a quote looks like.�
+DESCRIPTION COLOR,DESCRIPTION COLOUR
+The color of the main descriptive text,The colour of the main descriptive text
+QUOTE COLOR,QUOTE COLOUR
+The color of the main descriptive text that is displayed in quotation marks,The colour of the main descriptive text that is displayed in quotation marks
+DESCRIPTION SHADOW,DESCRIPTION SHADOW
+The color of the main descriptive text's drop-down shadow,The colour of the main descriptive text's drop-down shadow
+DRAW OUTLINE,DESCRIPTION OUTLINE
+Draws an outline around the letters instead of a drop-down shadow,Draws an outline around the letters instead of a drop-down shadow
+TEXT BACKGROUND COLOR,TEXT BACKGROUND COLOUR
+The color of certain UI-elements behind text,The colour of certain UI-elements upon which descriptive text sits
+Adjust this to increase the contrast between text and background,Adjust this to increase the contrast between the text and background
+Dark,Dark
+Black,Black
+Launch,Launch
+Get More Content,Seek More Projects
+Back,Back
+empty,empty
+Load Module,Load Module
+LOAD,LOAD
+Copy,Copy
+Rename,Rename
+Delete,Delete
+Load Game,Load Game
+AUTO_SAVE,AUTO_SAVE
+Save Date,Save Date
+Save Time,Save Time
+Main Char,Main Char
+Rigurt,Rigurt
+Level,Level
+Map,Map
+Game Date,Game Date
+Day,Day
+Version,Version
+Module,Module
+Against the Black Priory,Against the Black Priory
+Do you really want to quit the game?,Are you certain you wish to quit to the desktop?
+Unsaved progress will be lost,Any unsaved progress will be lost
+Choose a visual style,Choose a visual style
+DEFAULT is recommended,The most LEGIBLE is recommended.
+This can also be customized in the SETTINGS menu,These options can be customised later in the SETTINGS menu
+Default,Default
+To-Hit,To-Hit

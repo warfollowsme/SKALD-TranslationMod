@@ -1,0 +1,47 @@
+original,translate
+Items Worn,Objetos usados
+Party Inventory,Inventario del grupo
+To Hit,A Golpear
+Damage,Daño
+Encumb,Encumb
+Gold,Oro
+GP,MO
+Weight,Peso
+Equip,Equipar
+Drop / Pick Up,Dejar / Recoger
+Character,Personaje
+Value,Valor
+lb,lb
+Misc,Misc
+A pile of gold,Un monton de oro
+Reagent,Reagent
+Used in,Usado en
+Melee,Mele
+Vs,Vs
+lbs,lbs
+lb,lb
+Game Loaded!,Juego cargado
+Time,Hora
+X Pos,X Pos
+Y Pos,Y Pos
+Ammo,Municion
+Maneuver Abilities,Habilidades de maniobra
+Triggered Abilities,Habilidades activadas
+Passive Bonus Abilities,Habilidades pasivas adicionales
+Maneuver,Maniobras
+Cooldown,Enfriamiento
+turns,turns
+Time Use,Tiempo de uso
+FullRound,FullRound
+Point,Point
+Passive Ability,Habilidad pasiva
+Armor Enc,Armadura Enc
+Helmet Enc,Casco Enc
+Drain,Drenar
+~ {ITEM},~ {ITEM}
+x {ITEM},x {ITEM}
+{ITEM}. (,{ITEM}. (
+{ITEM} ({ITEM}) + {ITEM} ({ITEM}) =,{ITEM} ({ITEM}) + {ITEM} ({ITEM}) =
+{ITEM} vs,{ITEM} vs
+vs {ITEM},vs {ITEM}
+{ITEM}: {ITEM},{ITEM}: {ITEM}

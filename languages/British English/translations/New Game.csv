@@ -1,0 +1,370 @@
+﻿original,translate
+Select,Select
+Abort,Abort
+Pick a Difficulty,Pick a Difficulty
+Character Creation,Character Creation
+Class,Class
+Background,Background
+Attributes,Attributes
+Appearance,Appearance
+Welcome to character creation!,Welcome to character creation!
+Start by picking a DIFFICULTY for your playthrough,Start by picking a DIFFICULTY for your playthrough
+Are you sure you want to abort?,Are you sure you wish to abort?
+Difficulty can be changed during play,The Difficulty can be adjusted during play
+Bard,Bard
+Battlemagos,Battlemagos
+Champion,Champion
+Hierophant,Hierophant
+Hospitaller,Hospitaller
+Officer,Officer
+Ranger,Ranger
+Thief,Thief
+Select a Class,Select a Class
+ARMSMASTER,ARMSMASTER
+Archetype,Archetype
+Warrior,Warrior
+The Main Attribute for this Class is Strength,The Main Attribute for this Class is Strength
+Start,Start
+DP,DP
+HP/Lvl,HP/Lvl
+Magic/Lvl,Magic/Lvl
+May use any armor,May use any armour
+"May use all weapons of type Blade, Axe, Club and Bow","May use all weapons of the types Blade, Axe, Club, and Bow"
+"Next, select a CLASS for your character!","Next, select a CLASS for your character!"
+Classes define a character's role in the party by adding certain exclusive abilities,Classes define a character's role in the party by adding certain exclusive abilities
+DEVELOPMENT POINTS,DEVELOPMENT POINTS
+Development Points are gained when leveling up and used to buy ranks in Feats,"Development Points are gained when leveling up, spent to acquire ranks in Feats"
+This unlocks new Abilities for the Character making them more powerful,This unlocks new Abilities for the Character making them more powerful
+MAIN ATTRIBUTE,MAIN ATTRIBUTE
+The Main Attribute is the Attribute that is the most important for this Class,The Main Attribute is the Attribute that is the most important for this Class
+STRENGTH,STRENGTH
+Attribute - Primary,Attribute - Primary
+A measure of a character's brawn and physical power,A measure of a character's brawn and physical power
+ATTUNEMENT PER LEVEL,ATTUNEMENT PER LEVEL
+"Indicates how much of the game’s Magic resource, Attunement, is gained every time the character levels up","Indicates how much of the game’s Magic resource, Attunement, is gained every time the character levels up"
+VITALITY PER LEVEL,VITALITY PER LEVEL
+"Indicates how much of the game’s Hitpoint resource, Vitality, is gained every time the character levels up","Indicates how much of the game’s Hitpoint resource, Vitality, is gained every time the character levels up"
+BARD,BARD
+Rogue,Rogue
+The Bard mixes the Rogue’s decent combat skills and high maneuverability with the use of arcane magic,The Bard mixes the Rogue’s combat skills and high manoeuvrability with the use of arcane magics
+The Main Attribute for this Class is Presence,The Main Attribute for this Class is Presence
+May wear Light armor,May wear Light armour
+"May use Light and Medium weapons of type Blade, Axe, Club and Bow","May use Light and Medium weapons of type Blade, Axe, Club, and Bow"
+ROGUE,ROGUE
+The Rogue combines important non-combat skills with a large damage output against single targets,The Rogue combines important non-combat skills with a large damage output against single targets
+BATTLEMAGOS,BATTLEMAGOS
+"Unlike other Magi, they also get access to a few basic combat-related Feats and may wear light armor","Unlike other Magi, they also get access to a few basic combat-related Feats and may wear light armour"
+The Main Attribute for this Class is Intellect,The Main Attribute for this Class is Intellect
+"May use Light weapons of type Blade, Club and Bow","May use Light weapons of the types Blade, Club and Bow"
+CHAMPION,CHAMPION
+Cleric,Cleric
+The Champion is a Cleric who excels in the use of blades and armor whilst still having limited divine spell-casting abilities,The Champion is a Cleric who excels in the use of blades and armour whilst still having limited divine spell-casting abilities
+May use all weapons of type Blade and Club,May use all weapons of the types Blade and Club
+GUILD-MAGOS,GUILD-MAGOS
+This comes at the cost of having absolutely no combat related Feats,This comes at the cost of having absolutely no combat related Feats whatsoever
+May not wear armor,May not wear armour
+HIEROPHANT,HIEROPHANT
+A Hierophant is a Cleric who can develop all the different Divine Spell Schools fully,A Hierophant is a Cleric who can develop all the different Divine Spell Schools fully
+May use Light and Medium weapons of type Club,May use Light and Medium weapons of the type Club
+HOSPITALLER,HOSPITALLER
+The Hospitaller is a Cleric who serves as a front line healer,The Hospitaller is a Cleric who serves as a front line healer
+"Well armed and armored, they can stand their ground against overwhelming foes whilst also getting access to the highest tiers of the Body Magic School","Well armed and armored, they can stand their ground against overwhelming foes whilst also getting access to the highest tiers of the Body Magic School"
+OFFICER,OFFICER
+The Officer is a skilled warrior who serves as a force multiplier through their tactical skills,The Officer is a skilled warrior who serves as a force multiplier through their tactical skills
+"Issuing orders across the battlefield, they vastly improve the performance of their fellow party-members","Issuing orders across the battlefield, they vastly improve the performance of their fellow party-members"
+RANGER,RANGER
+The Ranger is a Warrior specializing in ranged combat and with access to limited nature magic,The Ranger is a Warrior specializing in ranged combat and with access to limited nature magic
+THIEF,THIEF
+The Thief is a Rogue who uses Stealth to set up devestating Backstab attacks,The Thief is a Rogue who uses Stealth to set up devastating Backstab attacks
+The Main Attribute for this Class is Agility,The Main Attribute for this Class is Agility
+STEALTH,STEALTH
+Attribute - Skill,Attribute - Skill
+Stealth is used during adventuring,Stealth is used during adventuring
+In particular it determines if NPCs notice the party as it moves around,In particular it determines if NPCs notice the party as it moves around
+AGILITY,AGILITY
+"A measure of hand-eye coordination, nimbleness and dexterity","A measure of hand-eye coordination, nimbleness and dexterity"
+BACKSTAB,BACKSTAB
+A character that has activated the Ability to Backstab will automatically perform Backstabbing Attacks against opponents that are either Flanked or Vulnerable,A character that has activated the Ability to Backstab will automatically perform Backstabbing Attacks against opponents that are either Flanked or Vulnerable
+A successful Backstab Attack adds the character’s Backstab Bonus Multiplied by the Weapon’s Crit Modifier to the damage roll,A successful Backstab Attack adds the character’s Backstab Bonus Multiplied by the Weapon’s Crit Modifier to the damage roll
+FLANKING,FLANKING
+A character can be Flanked if opponents occupy the tile above and below it or to the left and right of it,A character can be Flanked if opponents occupy the tiles either above and below it or to the left and right of it
+Attacking a Flanked target allows the Attacker to add their Flanking Bonus to the Attack Roll,Attacking a Flanked target allows the Attacker to add their Flanking Bonus to the Attack Roll
+Rogues may Backstab Flanked Characters,Rogues may Backstab Flanked Characters
+BACKSTAB BONUS,BACKSTAB BONUS
+"If a successful Backstab Attack is performed, this Attribute is multiplied by the Weapon’s Crit multiplier and added to the total Damage","If a successful Backstab Attack is performed, this Attribute is multiplied by the Weapon’s Crit multiplier and added to the total Damage"
+VULNERABLE,VULNERABLE
+A Vulnerable character cannot defend themselves,A Vulnerable character cannot defend themselves
+This makes them much easier to hit and it also means they can be Backstabbed,This makes them much easier to hit and it also means they can be Backstabbed
+WARRIOR,WARRIOR
+A Warrior is a front-line fighter who can take and deal large amounts of damage,A Warrior is a front-line fighter who can take and deal large amounts of damage
+PRESENCE,PRESENCE
+A character's ability to read and react to the surrounding environment and people,A character's ability to read and react to the surrounding environment and people
+ATTUNEMENT,ATTUNEMENT
+Attribute - Magic,Attribute - Magic
+CLERIC,CLERIC
+The Cleric offers close-range support to their party through close ranged buffs and restorative spells,The Cleric offers close-range support to their party through buffs and restorative spells
+BODY MAGIC SCHOOL,BODY MAGIC SCHOOL
+The value of this attribute indicates the highest Spell Tier of Body magic spells you may cast,The value of this attribute indicates the highest Spell Tier of Body magic spells you may cast
+SPELL TIER,SPELL TIER
+"By studying different Schools of Spellcasting, a character gains Spell Tiers in that School","By studying different Schools of Spellcasting, a character gains Spell Tiers in that School"
+Spell Tiers qualify a character to learn spells and different spells have different Tier requirements,Spell Tiers qualify a character to learn spells and different spells have different Tier requirements
+MAGOS,MAGOS
+"The Magos is a ranged strikers that can cast powerful, and often destructive, spells",The Magos is a user of magic that casts powerful and often destructive spells from a distance
+INTELLECT,INTELLECT
+"Mental acuity, recall and analytical skill","Mental acuity, recall, and analytical skill"
+FIRE MAGIC SCHOOL,FIRE MAGIC SCHOOL
+The value of this attribute indicates the highest Spell Tier of Fire magic spells you may cast,The value of this attribute indicates the highest Spell Tier of Fire magic spells you may cast
+Acolyte,Acolyte
+Courtier,Courtier
+Entertainer,Entertainer
+Ex-Legionary,Former Legionnaire
+Guilder,Guilder
+Laborer,Labourer
+Monastic,Monastic
+Noble,Noble
+Nomad,Nomad
+Snake-Cultist,Snake-Cultist
+Street Rat,Street Rat
+Thug,Thug
+Vagabond,Vagabond
+Wildling,Wildling
+Select a Background,Select a Background
+ACOLYTE,ACOLYTE
+You claim a connection with the divine that goes far deeper than most,You claim a connection with the divine that goes far deeper than most
+"Whether legitimate of not, you’re always ready to dispense holy wisdom; Be it Imperial gospel or the profane ramblings of the heretic","Whether legitimate of not, you’re always ready to dispense holy wisdom; Be it Imperial gospel or the profane ramblings of the heretic"
++5 Attunement,+5 Attunement
+Select a BACKGROUND for your character,Select a BACKGROUND for your character
+"BACKGROUNDS add points in skills, influence starting conditions and narrative content","BACKGROUNDS add points in skills, influence starting conditions and narrative content"
+COURTIER,COURTIER
+Your time spent kissing noble arses has made you a master of navigating the cut-throat politics of the Imperial lay-courts,Your sycophant brown-nosing of nobles has granted you both experience in the diplomatic world of the Imperial lay-courts and an acute ability to read the subtle body language of others 
++1 Awareness,+1 Awareness
++1 Diplomacy,+1 Diplomacy
+NOBLE,NOBLE
+"An individual of old blood, you learned long ago that wealth and connections tend to open doors that are otherwise closed to the filthy masses","An descendant of a pure-blooded heritage, it's second nature to you that having sufficient wealth and knowing how to properly display it avoid many obstacles; the same guard who bows and opens the castle gates to you slams it shut to the filthy beggar"
++1 Lore,+1 Lore
+DIPLOMACY,DIPLOMACY
+"Diplomacy is used to lie, bargain or sway others in negotiations","Diplomacy is used in negotiations, bargaining, duplicity, and to generally convince others"
+It influences prices at merchants,It influences prices at merchants
+LORE,LORE
+A general knowledge skill,The skill of general knowledge
+AWARENESS,AWARENESS
+The ability to notice small details and hidden things,The ability to notice small details and otherwise hidden things
+You are an esteemed member of the Empire’s teeming underworld with a special knack for getting in and out of places you shouldn’t be,You are an esteemed member of the Empire’s teeming underworld with a special knack for getting in and out of places you shouldn’t be
++1 Stealth,+1 Stealth
++1 Thievery,+1 Thievery
+THIEVERY,THIEVERY
+Used to pick locks and pockets as well as to steal from shops,"Used to pick locks, lift pockets, and steal from shops"
+ENTERTAINER,ENTERTAINER
+"In equal parts despised and adored by the wealthy of the Empire, the traveling entertainer can make a pretty penny off their blinding charisma and nimble fingers","In equal parts despised and adored by the wealthy of the Empire, the travelling entertainer can make a pretty penny off their blinding charisma and -- versatile prestidigitation"
+FORMER LEGIONNAIRE,FORMER LEGIONNAIRE
+A member of the ‘old breed’; forged and tempered by the hardships of soldiering,A member of the ‘old breed’; forged and tempered by the hardships of soldiering
+You now belong to the ever-growing fraternity of fellow men and women with scarred bodies and broken minds who roam the Empire in search for a quiet piece of land to call home,You now belong to the ever-growing fraternity of fellow men and women with scarred bodies and broken minds who roam the Empire in search for a quiet piece of land to call home
++30lbs Carrying Bonus,+30lbs Carrying Bonus
+CARRYING BONUS,CARRYING BONUS
+Attribute - Misc,Attribute - Misc
+A bonus in pounds added to the character’s Carrying Capacity,A bonus in pounds added to the character’s Carrying Capacity
+GUILDER,GUILDER
+"Like so many of the Empires young and promising, you were recruited into guild service at a fairly early age","Like so many of the Empires young and promising, you were pressed into recruitment of guild services at a fairly early age"
+"As the saying goes, work for the illustrious guilds tends to leave you with 'gold in your purse and blood on your hands'","As the saying goes, work for the illustrious guilds tends to leave you with 'gold in your purse and blood on your hands'"
++1 Crafting,+1 Crafting
+CRAFTING,CRAFTING
+Crafting is used when creating items at crafting stations,Crafting is used when creating items at crafting stations
+LABORER,LABOURER
+You’ve spent years toiling under the oppressive yoke of hard labor,You’ve spent years toiling under the oppressive yoke of hard labor
+"Though it may not have left you with much coin in your pocket, it has given you an unnatural resistance to hardship","Though it may not have left you with much coin in your pocket, it has given you an unnatural resistance to hardship"
++1 Toughness,+1 Toughness
+TOUGHNESS,TOUGHNESS
+The character’s ability to withstand adverse physical effects such as disease and poison,The character’s ability to withstand adverse physical effects such as disease and poison
+MONASTIC,MONASTIC
+You have served one of the holy orders of the Empire from the safety of one of its walled monastic communities,You have served one of the holy orders of the Empire from the safety of one of its walled monastic communities
+Pray the world has not grown too cruel in your absence,Pray the world has not grown too cruel in your absence
++1 Healing,+1 Healing
+HEALING,HEALING
+Healing is used in camp to increase the rate of wound recovery for wounded characters,Healing is used in camp to increase the rate of Wound recovery
+It also influences the amount of vitality regained from healing potions and is used in dialogue tests when dealing with medical issues and such,It also influences the amount of vitality regained from healing potions and represents a characters medical knowledge and proficiency in dialogue tests
+VITALITY,VITALITY
+Attribute - Secondary,Attribute - Secondary
+Vitality describes the amount of damage a character can take before becoming seriously wounded,"Vitality describes the amount of damage a character can take before they begin taking Wounds damage, where they begin becoming seriously wounded"
+Vitality is fairly easily regained through the use of consumable items and spells,Vitality may be regained through the use of consumable items and spells
+NOMAD,NOMAD
+"You’ve spent years across the seas, living with the desert nomads","Seas of water, seas of sand; you've wandered each for many winters"
+"Though ever the outsider, the nomads deemed you trust-worthy enough to become an initiate in the mysteries of their pagan fire-worship","Though ever the outsider, the nomads deemed you trust-worthy enough to become an initiate in the mysteries of their pagan fire-worship"
++25% Fire Damage Resistance,+25% Fire Damage Resistance
+FIRE DAMAGE RESISTANCE,FIRE DAMAGE RESISTANCE
+Attribute - Resistance,Attribute - Resistance
+Damage Resistance reduces incoming Damage of the indicated type by a percentage amount equal to the attribute value,Damage Resistance reduces incoming Damage of the indicated type by a percentage amount equal to the attribute value
+A value of 100% or higher means immunity to this damage type,A value of 100% or higher means immunity to this damage type
+A negative value means a vulnerability to the damage type,A negative value results in a vulnerability to the indicated damage type
+"If this is the case, incoming Damage will be increased","If this is the case, incoming Damage will be increased"
+SAILOR,SAILOR
+You’ve heard the call of the Mother of Maelstroms and salt water now runs in your veins,You’ve heard the call of the Mother of Maelstroms and salt water now runs in your veins
+"Whether on the deck of a Guilder caravel or manning the sails of a meager fishing sloop, you feel most at home when you’re at sea","Whether on the deck of a Guilder caravel or manning the sails of a meager fishing sloop, you feel most at home when you’re at sea"
++1 Athletics,+1 Athletics
+ATHLETICS,ATHLETICS
+SALT,SALT
+Food,Food
+Food Val,Food Val
+Value,Value
+Weight,Weight
+Used in,Used in
+"With the once-mighty legions of the Empire in decline, this is an age of sellswords and mercenaries","With the once-mighty legions of the Empire in decline, this is an age of sellswords and mercenaries"
+There is no shortage of those willing to pay professionals to wreak violence on others and you are very good at your job,There is no shortage of those willing to pay professionals to wreak violence on others; professionals such as yourself
++3 Vitality,+3 Vitality
+SNAKE-CULTIST,SNAKE-CULTIST
+Writhing with serpents in darkened cellars and hidden temples has left you immune to the snake’s kiss,Writhing with serpents in darkened cellars and hidden temples has left you immune to the snake’s kiss
++100% Poison Resistance,+100% Poison Resistance
+POISON RESISTANCE,POISON RESISTANCE
+Resistance to a condition represents the percentage chance to avoid contracting the condition,Resistance to a condition represents the percentage chance to avoid contracting said condition
+An attribute value of 100% or above means immunity to the condition in question,An attribute value of 100% or above equates to an immunity to said condition
+STREET RAT,STREET RAT
+Spending your formative years fending for yourself on the hard streets of the Empire’s sprawling cities has left you with a preternatural instinct for surviving,Spending your formative years fending for yourself on the hard streets of the Empire’s sprawling cities has left you with a preternatural instinct for surviving
+No crime is too petty - no meat too mysterious,No crime is too petty - no meat too mysterious
++2 Initiative,+2 Initiative
+INITIATIVE,INITIATIVE
+Initiative determines who goes first in combat,Initiative determines the order in which units take their turn in combat
+THUG,THUG
+"Punch first, ask questions later","Learned in the ways of Alexander, you have perfected the noble art of problem solving through decisive action; by cutting the knot instead of untangling it"
+You have perfected the noble art of solving problems with brute force,In club form.
++1 Club Damage Bonus,+1 Club Damage Bonus
+CLUB DAMAGE BONUS,CLUB DAMAGE BONUS
+Weapon Damage bonuses increase the Damage dealt when using the indicated Weapon type,Weapon Damage bonuses increase the Damage dealt when using the indicated Weapon type
+VAGABOND,VAGABOND
+"Having spent most of your teenage years’ on the road, you are a free spirit with no allegiance to any one person or place","Having spent most of your teenage years’ on the road, you are a free spirit with no allegiance to any one person or place"
+"Drifting from place to place, you go where there is work, food and a warm bed to be had","Drifting from place to place, you go where there is work, food and a warm bed to be had"
++1 Survival,+1 Survival
+SURVIVAL,SURVIVAL
+"Survival is used to forage for food, navigate difficult overland terrain and also determines a character's general knowledge of nature",Survival is used when foraging. navigating difficult overland terrain; and represents the insight a character has in the ways of nature
+WILDLING,WILDLING
+"As the light of civilization fades, the vast wildernesses of the Empire encroach on the civilized folk",The candlelit libraries of civilisation bleed into the vast wilderness that surround it
+Thankfully you don’t count yourself among those,"But as each is snuffed out one by one, you are thankful to not count yourself among them"
+The sky is your temple and the howling of wolves your litany,You instead find knowledge lit by the light of the moon and direction from the chorus of howling wolves
+Primary Stats,Primary Stats
+Agility,Agility
+Intellect,Intellect
+Presence,Presence
+Strength,Strength
+Skills,Skills
+Athletics,Athletics
+Awareness,Awareness
+Crafting,Crafting
+Diplomacy,Diplomacy
+Healing,Healing
+Lore,Lore
+Stealth,Stealth
+Survival,Survival
+Thievery,Thievery
+Secondary Stats,Secondary Stats
+Combat Stats,Combat Stats
+Crit Chance,Crit Chance
+Initiative,Initiative
+Melee To Hit,Melee To Hit
+Ranged To Hit,Ranged To Hit
+Defences,Defences
+Dodge,Dodge
+Toughness,Toughness
+Willpower,Willpower
+Select an entry!,Select an entry!
+Primary Attributes and Skills,Primary Attributes and Skills
+Distribute points to your PRIMARY ATTRIBUTES and SKILLS,Distribute points to your PRIMARY ATTRIBUTES and SKILLS
+These go a long way towards defining your character mechanically,These go a long way towards defining your character mechanically
+SECONDARY STATS,SECONDARY STATS
+Secondary attributes that tend to vary during play,Secondary attributes that tend to vary during play
+SKILLS,SKILLS
+Skills are derived from primary attributes and are used to perform most non-combat tasks in the game,Skills are derived from primary attributes and are used to perform most non-combat tasks in the game
+TOTAL,TOTAL
+FORTITUDE,FORTITUDE
+Describes how tough and resilient a character is,Describes how tough and resilient a character is
+WOUNDS,WOUNDS
+Ranks,Ranks
+RANKS,RANKS
+COMBAT STATS,COMBAT STATS
+Derived attributes that are used during combat,Derived attributes that are used during combat
+CRIT CHANCE,CRIT CHANCE
+Describes the percentage of Hits that are upgraded to Critical Hits,Describes the percentage of Hits that are upgraded to Critical Hits
+CRITICAL HIT,CRITICAL HIT
+"For each successful Attack, there is a chance the Hit is upgraded to a Critical Hit","For each successful Attack, there is a chance the Hit is upgraded to a Critical Hit"
+This is a percentage chance equal to the attacker’s Crit Chance Attribute,This is a percentage chance equal to the attacker’s Crit Chance Attribute
+"If a Critical Hit is confirmed, the Damage dealt is multiplied by the Weapon’s Crit. value","If a Critical Hit is confirmed, the Damage dealt is multiplied by the Weapon’s Crit. value"
+"For instance a Weapon with a Crit. value of, multiplies the Damage dealt in a Critical Hit by","For instance a Weapon with a Crit. value of, multiplies the Damage dealt in a Critical Hit by"
+MELEE DMG,MELEE DMG
+This is added to the current weapon's damage range for a total damage range,This is added to the current weapon's damage range for a total damage range
+Counts encumberance from Armor,Counts Encumbrance from Armour
+Defences are used to defend against attacks and negative effects,Defences provide protection against attacks and from negative effects
+WILLPOWER,WILLPOWER
+Willpower describes a character’s ability to withstand mind-affecting conditions such as those caused by spells,"Represents the amount of fortitude a character possesses; their ability to withstand mind-affecting conditions, such as those caused by spells"
+This attribute influences,This attribute influences
+Main Attribute,Main Attribute
+Counts encumberance from Headwear,Counts encumbrance from Headwear
+Counts encumberance from Gloves,Counts encumbrance from Gloves
+Counts encumberance from Armor and Footwear,Counts encumbrance from Armour and Footwear
+Abilities,Abilities
+ABILITIES,ABILITIES
+These are the Feats derived from your class,These are the Feats derived from your class
+Distribute your Development Points in them to gain benefits and new Abilities,Distribute your Development Points in them to gain benefits and new Abilities
+Ranks to Distribute,Ranks to Distribute
+Armsmaster Feats,Armsmaster Feats
+Not Today!,Not Today!
+NOT TODAY!,NOT TODAY!
+Triggered Ability,Triggered Ability
+Targets,Targets
+Self,Self
+Smashing Charge,Smashing Charge
+Enemies,Enemies
+Allies,Allies
+Anyone,Anyone
+AoE,AoE
+Melee,Melee
+Your Charges cause 1-3 additional Blunt Damage,Your Charges cause 1-3 additional Blunt Damage
+Killing an opponent using a Heavy Melee Weapon restores 1 Attack,Killing an opponent using a Heavy Melee Weapon restores 1 Attack
+SWORD EXPERT,SWORD EXPERT
+Deep Cut,Deep Cut
+Your Critical Hits using Blades cause Bleeding on your target,Your Critical Hits using Blades cause Bleeding on your target
+Critical Hits with a Club causes The Injured Leg condition,Critical Hits with a Club causes The Injured Leg condition
+AXE EXPERT,AXE EXPERT
+Rending Blow,Rending Blow
+RENDING BLOW,RENDING BLOW
+Critical Hits with an Axe causes Injury Conditions,Critical Hits with an Axe causes Injury Conditions
+ARCHERY EXPERT,ARCHERY EXPERT
+ARCHERY MASTER,ARCHERY MASTER
+Rapid Reload,Rapid Reload
+RAPID RELOAD,RAPID RELOAD
+"If you score a Critical Hit with a Bow, you immediately regain 1 attack",Your Critical Hits with a Bow immediately bestow you 1 Attack
+AXE MASTER,AXE MASTER
+Decapitation,Decapitation
+DECAPITATION,DECAPITATION
+AllEnemies,AllEnemies
+The gruesomeness of your Axe-Kill causes the Fear condition in all opponents who can see it,The gruesome ferocity of your Axe-Kills makes all foes who witness it Fearful
+CLUB MASTER,CLUB MASTER
+SHIELD MASTER,SHIELD MASTER
+Shield Slam,Shield Slam
+SHIELD SLAM,SHIELD SLAM
+"Whilst wielding a shield, dodging a melee attack causes you to deal 1-4 Blunt damage to your attacker","Whilst wielding a shield, dodging a melee attack causes you to deal 1-4 Blunt damage to your attacker"
+SWORD MASTER,SWORD MASTER
+MEDIUM ARMOR MASTERY,MEDIUM ARMOUR MASTERY
+BLOODTHIRSTY,BLOODTHIRSTY
+HEAVY ARMOR MASTERY,HEAVY ARMOUR MASTERY
+Cannot place Rank,Cannot place Rank
+The maximum number of ranks have been placed for this Feat!,The maximum number of ranks have been placed for this Feat!
+You don't have any ranks to distribute,You don't have any ranks to distribute
+Level up to gain ranks!,Level up to gain ranks!
+Gender,Gender
+Empty,Empty
+Male,Male
+Portrait,Portrait
+Hair Style,Hair Style
+Style,Style
+Facial Hair,Facial Hair
+Hair Color,Hair Colour
+Skin Tone,Skin Tone
+Main Color,Primary Colour
+Secondary Color,Secondary Colour
+Tertiary Color,Tertiary Colour
+Randomize,Randomise
+Customize Appearance,Customise Appearance
+You can use this screen to customize your characters physical appearance,You can use this screen to customize your characters physical appearance
+Note that changes made here are purely cosmetic,Note that changes made here are purely cosmetic
+Finalize your character by editing their appearance,Finalise your character by editing their appearance
+Female,Female
+Type a name and press 'Continue'!,Type a name and press 'Continue'!
+Name must be between 3 and 10 characters long and may only contain standard English letters (A-Z,Name must be between 3 and 10 characters long and may only contain characters from the standard Latin alphabet used in English (A-Z
+You must destribute all your attribute points before you can proceed!,You must distribute all your attribute points before proceeding!

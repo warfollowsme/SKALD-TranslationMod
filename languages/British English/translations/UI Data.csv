@@ -1,0 +1,132 @@
+original,translate
+#Colors,#Colours
+Black,Black
+Blue,Blue
+Light Blue,Light Blue
+Brown,Brown
+Light Brown,Light Brown
+Cyan,Cyan
+Gray,Gray
+DarkGray,Dark Grey
+Light Gray,Light Grey
+Green,Green
+Light Green,Light Green
+Red,Red
+Light Red,Pink
+Violet,Violet
+White,White
+Yellow,Yellow
+"The major, defining attributes for the character","The major, defining attributes for the character"
+These influence most other attributes in the game,These influence most other attributes in the game
+Cancel,Cancel
+All progress will be lost,All progress will be lost
+Disable,Disable
+Loot,Loot
+Inv,Inv
+Container,Container
+Get All,Get All
+Transfer Stack,Transfer Stack
+Transfer Item,Transfer Item
+Unequip,Unequip
+Place development points in them (gained as you level up) to gain benefits and new Abilities,"The development points gained by levelling up can be placed into them, granting new Abilities and conferring additional benefits"
+Save and Exit,Save and Exit
+Male Human,Male Human
+Woman Human,Female Human
+Xp To Go,Xp To Go
+Active Conditions,Active Conditions
+Move Character,Move Character
+Overcast Night,Overcast Night
+Can be removed by magic,Can be removed by magic
+Adds Status Tag,Adds Status Tag
+This list will only show entries with non-zero values,This list will only show entries with non-zero values
+The amount of experience to go until the character levels up,The amount of experience remaining until the character levels up
+The current level of this character,The current level of this character
+Cast a spell,Cast a spell
+There are no weapons nearby to attack,There are no weapons nearby to attack
+You can't enter combat without enemies within combat range,You can't enter combat without enemies within combat range
+You wait a short while,You wait a short while
+Pass a turn,Pass a turn
+Recipes,Recipes
+Workstation,Workstation
+Craft,Craft
+Clear,Clear
+You currently don't have any recepies to add to the crafting table,You currently don't have any recipes to add to the crafting table
+Try experimenting with ingredients or look for recipes in the world,Try experimenting with ingredients or look for recipes in the world
+An unknown recipe,An unknown recipe
+POTION OF STRENGTH RECIPE,POTION OF STRENGTH RECIPE
+"To craft items, you must add ingredients to the crafting grid","To craft items, you must add ingredients to the crafting grid"
+Do this by double-clicking on ingredients from your inventory,Do this by double-clicking on ingredients from your inventory
+Clicking a recipe to view ingredients required,Clicking a recipe to view ingredients required
+Green recipes are available,Green recipes are available
+No crafting ingredients added!,No crafting ingredients added!
+This is not a valid recipe!,This is not a valid recipe!
+DICE ROLL TEST,DICE ROLL TEST
+Roll Dice,Roll Dice
++ 2d6,+ 2d7
+must roll,must roll
+or above on 2d6 to succeed on this,or above on 2d6 to succeed on this
+skill check!,skill check!
+Pick,Pick
+Force,Force
+Pick or force the lock until its HP reaches zero,Pick or force the lock until its HP reaches zero
+Party has,Party has
+You cannot rest anywhere in this area,You cannot rest anywhere in this area
+You must look for a suitable camp-site elsewhere,You must look for a suitable camp-site elsewhere
+Use,Use
+Adventuring,Adventuring
+SUCCESS,SUCCESS
+beats Difficulty,beats Difficulty
+You bring glory upon thine Ancestors!,You bring glory upon thine Ancestors!
+{ITEM} Recipe,{ITEM} Recipe
+A recipe for crafting {ITEM},A recipe for crafting {ITEM}
+Ingredients,Ingredients
+{PLAYER} has a Crafting skill of,{PLAYER} has a Crafting skill of
+versus Difficulty,versus Difficulty
+to produce a larger amount,to produce a larger amount
+Journal,Journal
+Consumed 1 {ITEM},Consumed 1 {ITEM}
+You add {ITEM} to your party,You add {ITEM} to your party
+Removes Conditions with Tag: #{ITEM},Removes Conditions with Tag: #{ITEM}
+Consumed,Consumed
+The party does not have a lightsource to equip,The party does not have a lightsource to equip
+Find a lantern!,Find a lantern!
+Restores {ITEM} (+{ITEM},Restores {ITEM} (+{ITEM}
+Heals {ITEM} (+{ITEM},Heals {ITEM} (+{ITEM}
+View Inventory,View Inventory
+View the Journal,View the Journal
+{ITEM} ended,{ITEM} ended
+Added some items to inventory!,Added some items to inventory!
+Updated Journal,Updated Journal
+Adds Conditions,Adds Conditions
+Adds Condition,Adds Condition
+Faction is {ITEM},Faction is {ITEM}
+NEUTERAL,NEUTRAL
+You created,You created
+Main quests that have not yet been completed,Main quests that have not yet been completed
+FAILURE,FAILURE
+You have been found wanting,You have been found wanting
+does not beat Difficulty,does not beat Difficulty
+SNEAKING,SNEAKING
+Status,Status
+Safe,Safe
+Tile Mod,Tile Mod
+Unsafe,Unsafe
+Unlocked,Unlocked
+Loot the corpses of your enemies!,Loot the corpses of your enemies!
+Read,Read
+Raining Night,Raining Night
+You have died - The Dragon awakens,You have died - The Dragon awakens...
+Reload a previous save or restart the game!,Reload a previous save or restart the game!
+Game too difficult?,Finding the game too difficult?
+You can set the Difficulty in Settings -> Difficulty,"You can adjust Difficulty parameters in the Settings menu, under Difficulty"
+Load Last Save,Load Last Save
+Load Other Save,Load Other Save
+Restart Game,Restart Game
+Game Over!,Game Over!
+{PLAYER} does not have Thieves Tools!,{PLAYER} does not have Thieves Tools!
+The adventure begins!,The adventure begins!
+You see,You see
+You must destribute all your attribute points before you can proceed!,You must distribute all your attribute points before proceeding!
+Can't be far now?,Can't be far now?
+Name,Name
+New Recipe,New Recipe

@@ -17,11 +17,10 @@ namespace TranslationMod
         private readonly Dictionary<string, string> _translationCache = new();
         private readonly HashSet<string> _missingKeys = new();
         private readonly HashSet<string> _loggedInputs = new();
-        private readonly HashSet<string> _loggedTranslations = new();
         private readonly HashSet<string> _loggedTitleCaseHits = new();
-        private readonly HashSet<string> _loggedPlayerNameHits = new();
         private readonly HashSet<string> _loggedItemPatternHits = new();
         private readonly HashSet<string> _loggedItemListHits = new();
+        private readonly HashSet<string> _loggedApostropheHits = new();
 
         private readonly object _lockObject = new();
         private readonly string _missingKeysFilePath;
@@ -73,13 +72,13 @@ namespace TranslationMod
                 }
             }
             
+#if DEBUG
             if (!_loggedInputs.Contains(input))
             {
-                // Логируем только первый раз для каждого input
-#if DEBUG
-            TranslationMod.Logger?.LogDebug($"[TranslationService] Processing new input: '{input}'");
-#endif
+                _loggedInputs.Add(input);
+                TranslationMod.Logger?.LogDebug($"[TranslationService] Processing new input: '{input}'");
             }
+#endif
             
             try
             {
@@ -90,23 +89,10 @@ namespace TranslationMod
                 var template = CreateTemplate(input, sentences);
                 
                 var translatedSentences = new List<string>();
-                if (!_loggedInputs.Contains(input))
-                {
-                    //TranslationMod.Logger?.LogInfo($"Parser result:");
-                }
                 foreach (var sentence in sentences)
-                {                    
-                    if (!_loggedInputs.Contains(input))
-                    {
-                        //TranslationMod.Logger?.LogInfo($"   - '{sentence}'");
-                    }
+                {      
                     string translatedSentence = TranslateSentence(sentence);
                     translatedSentences.Add(translatedSentence);
-                }
-                if (!_loggedInputs.Contains(input))
-                {
-                    _loggedInputs.Add(input);
-                    //TranslationMod.Logger?.LogInfo($"Template: '{template}'");
                 }
 
                 // Apply translated sentences to template
@@ -160,6 +146,26 @@ namespace TranslationMod
                 TranslationMod.Logger?.LogInfo($"[TranslationService] Key not found: '{sentence}'");
 #endif
                 
+                if (sentence.Contains("’"))
+                {
+                    string sentenceWithCurlyApostrophe = sentence.Replace("’", "\'");
+#if DEBUG
+                    TranslationMod.Logger?.LogInfo($"[TranslationService] Sentence contains straight apostrophe. Trying with curly apostrophe: '{sentenceWithCurlyApostrophe}'");
+#endif
+                    if (_dict.TryGetValue(sentenceWithCurlyApostrophe, out string apostropheTranslated))
+                    {
+                        // Найден перевод с заменённой кавычкой
+                        translated = apostropheTranslated;
+                        
+                        // Логируем успешное нахождение через замену кавычки
+                        LogApostropheHit(sentence, sentenceWithCurlyApostrophe, translated);
+                        
+                        // Обрабатываем плейсхолдер {IFHE} в итоговом переводе
+                        translated = ProcessGenderPlaceholder(translated);
+                        return translated;
+                    }
+                }
+                
                 // Дополнительный поиск: если input состоит только из заглавных букв,
                 // преобразуем в Title Case и ищем снова
                 if (IsAllUpperCase(sentence))
@@ -179,9 +185,6 @@ namespace TranslationMod
                         return translated;
                     }
                 }
-    #if DEBUG
-                    TranslationMod.Logger?.LogInfo($"[TranslationService] Key is not CAPS");
-#endif
                 
                 // Дополнительная обработка: проверяем, содержит ли строка имя игрока
                 string playerNameReplacement = TryReplacePlayerName(sentence);
@@ -213,11 +216,6 @@ namespace TranslationMod
                     }
                 }
             }
-            else
-            {
-                // Логируем успешные прямые переводы (дедупликация)
-                LogDirectTranslation(sentence, translated);
-            }
 
             // Обрабатываем плейсхолдер {IFHE} в итоговом переводе
             translated = ProcessGenderPlaceholder(translated);
@@ -247,7 +245,7 @@ namespace TranslationMod
                     {
                         Directory.CreateDirectory(directory);
 #if DEBUG
-                TranslationMod.Logger?.LogInfo($"[TranslationService] Created directory for missing keys: '{directory}'");
+                        TranslationMod.Logger?.LogInfo($"[TranslationService] Created directory for missing keys: '{directory}'");
 #endif
                     }
 
@@ -270,77 +268,65 @@ namespace TranslationMod
             }
         }
 
-        /// <summary>Логирует успешный прямой перевод (с дедупликацией)</summary>
-        private void LogDirectTranslation(string original, string translated)
-        {
-            lock (_lockObject)
-            {
-                if (!_loggedTranslations.Contains(original))
-                {
-                    _loggedTranslations.Add(original);
-                    //TranslationMod.Logger?.LogInfo($"[TranslationService] Direct translation: '{original}' -> '{translated}'");
-                }
-            }
-        }
-
         /// <summary>Логирует успешное нахождение перевода через Title Case (с дедупликацией)</summary>
         private void LogTitleCaseHit(string original, string titleCaseVersion, string finalTranslation)
         {
+#if DEBUG
             lock (_lockObject)
             {
                 if (!_loggedTitleCaseHits.Contains(original))
                 {
                     _loggedTitleCaseHits.Add(original);
-#if DEBUG
                 TranslationMod.Logger?.LogInfo($"[TranslationService] Title Case hit: '{original}' -> '{titleCaseVersion}' -> '{finalTranslation}'");
-#endif
-                }
-            }
-        }
 
-        /// <summary>Логирует успешное нахождение перевода через замену имени игрока (с дедупликацией)</summary>
-        private void LogPlayerNameHit(string original, string withPlaceholder, string finalTranslation)
-        {
-            lock (_lockObject)
-            {
-                if (!_loggedPlayerNameHits.Contains(original))
-                {
-                    _loggedPlayerNameHits.Add(original);
-#if DEBUG
-                TranslationMod.Logger?.LogInfo($"[TranslationService] Player name hit: '{original}' -> '{withPlaceholder}' -> '{finalTranslation}'");
-#endif
                 }
             }
+#endif
         }
 
         /// <summary>Логирует успешное нахождение перевода через {ITEM} паттерн (с дедупликацией)</summary>
         private void LogItemPatternHit(string original, string pattern, string item, string finalTranslation)
         {
+#if DEBUG
             lock (_lockObject)
             {
                 if (!_loggedItemPatternHits.Contains(original))
                 {
                     _loggedItemPatternHits.Add(original);
-#if DEBUG
                 TranslationMod.Logger?.LogInfo($"[TranslationService] Item pattern hit: '{original}' -> pattern '{pattern}' -> item '{item}' -> '{finalTranslation}'");
-#endif
                 }
             }
+#endif
         }
 
         /// <summary>Логирует успешное нахождение перевода списка предметов (с дедупликацией)</summary>
         private void LogItemListHit(string original, int itemCount, int translatedCount, string finalTranslation)
         {
+#if DEBUG
             lock (_lockObject)
             {
                 if (!_loggedItemListHits.Contains(original))
                 {
                     _loggedItemListHits.Add(original);
-#if DEBUG
-                TranslationMod.Logger?.LogInfo($"[TranslationService] Item list hit: '{original}' -> {itemCount} items ({translatedCount} translated) -> '{finalTranslation}'");
-#endif
+                    TranslationMod.Logger?.LogInfo($"[TranslationService] Item list hit: '{original}' -> {itemCount} items ({translatedCount} translated) -> '{finalTranslation}'");
                 }
             }
+#endif
+        }
+
+        /// <summary>Логирует успешное нахождение перевода через замену апострофа (с дедупликацией)</summary>
+        private void LogApostropheHit(string original, string apostropheVersion, string finalTranslation)
+        {
+#if DEBUG
+            lock (_lockObject)
+            {
+                if (!_loggedApostropheHits.Contains(original))
+                {
+                    _loggedApostropheHits.Add(original);
+                    TranslationMod.Logger?.LogInfo($"[TranslationService] Apostrophe hit: '{original}' -> '{apostropheVersion}' -> '{finalTranslation}'");
+                }
+            }
+#endif
         }
 
         /// <summary>
@@ -384,10 +370,7 @@ namespace TranslationMod
                     
                     // Обрабатываем плейсхолдер {IFHE} в итоговом переводе
                     finalTranslation = ProcessGenderPlaceholder(finalTranslation);
-                    
-                    // Логируем с дедупликацией
-                    LogPlayerNameHit(sentence, sentenceWithPlaceholder, finalTranslation);
-                    
+                                        
                     return finalTranslation;
                 }
 

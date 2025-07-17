@@ -485,7 +485,7 @@ As your eyes adjust to the darkness you become aware of a hulking figure standin
 {PLAYER}!,"{PLAYER}!",id:IntroRoland.Roland1;source:description
 Here at last,"Наконец-то здесь",id:IntroRoland.Roland1;source:description
 growls a rough voice,"рычит грубый голос",id:IntroRoland.Roland1;source:description
-Who's there?,"Кто здесь?",id:IntroRoland.Roland1.Exit_29;source:option;target:Roland2
+Who’s there?,"Кто здесь?",id:IntroRoland.Roland1.Exit_29;source:option;target:Roland2
 Show yourself!,"Покажись!",id:IntroRoland.Roland1.Exit_29;source:option;target:Roland2
 Freeze and listen carefully,"Замиреть и слушайте внимательно",id:IntroRoland.Roland1.Exit_30;source:option;target:Roland12,
 Lunge at the figure,"Броситься на фигуру",id:IntroRoland.Roland1.Exit_31;source:option;target:Roland16
@@ -507,7 +507,7 @@ Agreed,"{IFHE Согласен | Согласна}",id:IntroRoland.Roland13.Exit
 "They deserve disciplining, not death","Они заслуживают наказания, а не смерти",id:IntroRoland.Roland13.Exit_53;source:option;target:Roland14
 Listen,"Послушайте",id:IntroRoland.Roland14;source:description
 I've been doing this since you were at the teat,"Я занимаюсь этим с тех пор, как вы еще пешком под стол ходили",id:IntroRoland.Roland14;source:description
-Let's go,"Пошли",id:IntroRoland.Roland14.Exit_54;source:option;target:Roland7
+Let’s go,"Пошли",id:IntroRoland.Roland14.Exit_54;source:option;target:Roland7
 For all the good it will do,"Хотя какой в этом толк",id:IntroRoland.Roland14.Exit_54;source:option;target:Roland7
 "Wait here, Roland","Подожди здесь, Роланд",id:IntroRoland.Roland14.Exit_55;source:option;target:Roland10,
 "There are two doors ahead - take the left, and we should be able to sneak past them without any trouble","Впереди две двери — идите в левую, и мы сможем проскользнуть мимо них без проблем",id:IntroRoland.Roland15;source:description,
@@ -517,7 +517,7 @@ Famous last words,"Знаменитые последние слова",id:IntroR
 Your assailant could surely snap your neck in an instance,"Ваш нападающий, несомненно, мог бы свернуть вам шею в одно мгновение",id:IntroRoland.Roland16;source:description
 "Just as your vision begins to narrow and your legs go limp, he relases you and you stumble forewards before spinning around","Как только ваше зрение начинает сужаться, а ноги подкашиваются, он отпускает вас, и вы, спотыкаясь, падаете вперед, прежде чем развернуться",id:IntroRoland.Roland16;source:description
 Who's there?,"Кто здесь?",id:IntroRoland.Roland16.Exit_48;source:option;target:Roland2,
-It's Roland,"Это Роланд",id:IntroRoland.Roland2;source:description
+It’s Roland,"Это Роланд",id:IntroRoland.Roland2;source:description
 Where the tides have you been?,"Где вас носило?",id:IntroRoland.Roland2;source:description
 Why are you skulking around?,"Почему ты крадешься?",id:IntroRoland.Roland2.Exit_32;source:option;target:Roland3,
 "Below decks, planning our landing","Под палубой, планирую нашу высадку",id:IntroRoland.Roland2.Exit_33;source:option;target:Roland4
@@ -527,10 +527,10 @@ What's going on?,"Что происходит?",id:IntroRoland.Roland2.Exit_121;
 The brute chuckles,"Громила усмехается",id:IntroRoland.Roland3;source:description
 Shadows suit a face like this just fine,"Такому лицу, как это, тени к лицу",id:IntroRoland.Roland3;source:description
 No matter,"Неважно",id:IntroRoland.Roland3;source:description
-There is trouble and you're needed on deck,"Случилась беда, и вы нужны на палубе",id:IntroRoland.Roland3;source:description
+There is trouble and you’re needed on deck,"Случилась беда, и вы нужны на палубе",id:IntroRoland.Roland3;source:description
 Now,"Немедленно",id:IntroRoland.Roland3;source:description
 What for?,"Зачем?",id:IntroRoland.Roland3.Exit_34;source:option;target:Roland4
-What's all that noise?,"Что за шум?",id:IntroRoland.Roland3.Exit_34;source:option;target:Roland4
+What’s all that noise?,"Что за шум?",id:IntroRoland.Roland3.Exit_34;source:option;target:Roland4
 Have we arrived?,"Мы прибыли?",id:IntroRoland.Roland3.Exit_35;source:option;target:Roland4
 Let's get this over with,"Давай покончим с этим",id:IntroRoland.Roland3.Exit_35;source:option;target:Roland4
 "The island is in sight, but the damn guilders refuse to land","Остров в пределах видимости, но проклятые гильдийцы отказываются высаживаться",id:IntroRoland.Roland4;source:description
@@ -568,7 +568,7 @@ The moan of creaking timbers,"Стон скрипящих балок",id:IntroSh
 The tang of preserved fish,"Запах вяленой рыбы",id:IntroShipAwaken.Awaken1;source:description
 Your eyes slowly adjust to the darkness of the ship's dimly lit hold,"Ваши глаза медленно привыкают к темноте тускло освещенного трюма корабля",id:IntroShipAwaken.Awaken1;source:description
 "Suddenly, something strikes the hull and the ship rocks violently","Внезапно что-то ударяет в корпус, и корабль яростно качается",id:IntroShipAwaken.Awaken2;source:description
-Your heart begins to pound and a feeling of unease grows in your stomach,"Твое сердце начинает колотиться, и чувство беспокойства растет в животе",id:IntroShipAwaken.Awaken2;source:description
+Your heart begins to pound and a feeling of unease grows in your stomach,"Ваше сердце начинает колотиться, и чувство беспокойства растет в животе",id:IntroShipAwaken.Awaken2;source:description
 "Suddenly, the ship rocks violently, as through something has struck the hull","Внезапно корабль содрогается, будто его борт задело нечто массивное",id:IntroShipAwaken.Awaken2;source:notes
 Unease gnaws at your stomach,"Тревога гложет ваш желудок",id:IntroShipAwaken.Awaken2;source:notes
 "Rise, well rested and ready to go","{IFHE Встать, полон сил и готов двигаться дальше | Встать, полон сил и готова двигаться дальше}",id:IntroShipAwaken.Awaken2.Exit_9;source:option;target:Awaken3,
@@ -834,13 +834,13 @@ Attempt to grab it,"Попытайтесь схватить её",id:IntroVillaS
 You fail because you are waiting for the right moment to strike,"Вы терпите неудачу, потому что ждёте подходящего момента для удара",id:IntroVillaStealth.RewardTeach;source:description
 "Instead, you must strike in the void between moments","Вместо этого вы должны нанести удар в пустоте между мгновениями",id:IntroVillaStealth.RewardTeach;source:description
 Ponder this,"Обдумайте это",id:IntroVillaStealth.RewardTeach;source:description
-"Now, let's go","А теперь пойдёмте",id:IntroVillaStealth.RewardTeach;source:description
+"Now, let’s go","А теперь пойдёмте",id:IntroVillaStealth.RewardTeach;source:description
 Lyra laughs and pats Roland on the shoulder,"Лира смеётся и похлопывает Роланда по плечу",id:IntroVillaStealth.Roland;source:description
 "{PLAYER}, I present Roland Grayeye","{PLAYER}, представляю вам Роланда Сероглазого",id:IntroVillaStealth.Roland;source:description
 A man you should pray to always fight alongside and never against,"Человек, о котором вы должны молиться всегда сражаться бок о бок и никогда против",id:IntroVillaStealth.Roland;source:description
 "Roland offers up a large, battle-worn hand and his grasp is surprisingly soft as you clasp it","Роланд протягивает большую, изрубцованную в боях руку, и его рукопожатие удивительно мягкое, когда вы пожимаете её",id:IntroVillaStealth.Roland;source:description
-You realize he's making an effort not to harm you with the gesture,"Вы понимаете, что он прилагает усилия, чтобы не причинить вам вреда этим жестом",id:IntroVillaStealth.Roland;source:description
-Good to see I'm not alone in waiting on the rich and noble,"Приятно видеть, что я не один прислуживаю богатым и знатным",id:IntroVillaStealth.Roland;source:description
+You realize he’s making an effort not to harm you with the gesture,"Вы понимаете, что он прилагает усилия, чтобы не причинить вам вреда этим жестом",id:IntroVillaStealth.Roland;source:description
+Good to see I’m not alone in waiting on the rich and noble,"Приятно видеть, что я не один прислуживаю богатым и знатным",id:IntroVillaStealth.Roland;source:description
 His mouth contorts into something resembling a smile,"Его рот искажается во что-то, напоминающее улыбку",id:IntroVillaStealth.Roland;source:description
 Have you been summoned as well?,"Вас тоже вызвали?",id:IntroVillaStealth.Roland.Exit_1210;source:option;target:Summoned,
 "You whirl around to the left, grasping instinctively at the weapon that isn't hanging by your side","Вы резко поворачиваетесь налево, инстинктивно хватаясь за оружие, которого нет у вас на боку",id:IntroVillaStealth.SenseFailure;source:description
@@ -848,14 +848,14 @@ Blood rushes to your head and your mouth goes dry,"Кровь приливает
 You see nothing,"Вы ничего не видите",id:IntroVillaStealth.SenseFailure;source:description
 In the corner of your eye you register Lyra rolling her eyes,"Краем глаза вы замечаете, как Лира закатывает глаза",id:IntroVillaStealth.SenseFailure;source:description
 A slow rumbling laugh sounds from the opposite corner as a hulking shadow emerges,"Медленный раскатистый смех звучит из противоположного угла, когда оттуда появляется громадная тень",id:IntroVillaStealth.SenseFailure;source:description
-Don't feel bad,"Не расстраивайтесь",id:IntroVillaStealth.SenseFailure;source:description
+Don’t feel bad,"Не расстраивайтесь",id:IntroVillaStealth.SenseFailure;source:description
 "All it would have bought you, was time to see the killing blade","Всё, что это дало бы вам, - это время увидеть смертоносный клинок",id:IntroVillaStealth.SenseFailure;source:description
 "You whirl around to the right, grasping instinctively at the weapon that isn't hanging by your side","Вы резко поворачиваетесь направо, инстинктивно хватаясь за оружие, которого нет у вас на боку",id:IntroVillaStealth.SenseSuccess;source:description
 The figure standing in the shadows behind you is laden with the promise of violence,"Фигура, стоящая в тени позади вас, полна обещания насилия",id:IntroVillaStealth.SenseSuccess;source:description
 In the corner of your eye you register Lyra biting her lip in gleeful anticipation,"Краем глаза вы замечаете, как Лира кусает губу в радостном предвкушении",id:IntroVillaStealth.SenseSuccess;source:description
 The figure's slow laugh has the texture of an avalanche as he slowly emerges from the shadows,"Медленный смех фигуры имеет текстуру лавины, когда он медленно выходит из теней",id:IntroVillaStealth.SenseSuccess;source:description
-You'd be dead either way,"В любом случае вы были бы мертвы",id:IntroVillaStealth.SenseSuccess;source:description
-But at least you'd get a chance to see the blade,"Но, по крайней мере, у вас был бы шанс увидеть клинок",id:IntroVillaStealth.SenseSuccess;source:description
+You’d be dead either way,"В любом случае вы были бы мертвы",id:IntroVillaStealth.SenseSuccess;source:description
+But at least you’d get a chance to see the blade,"Но, по крайней мере, у вас был бы шанс увидеть клинок",id:IntroVillaStealth.SenseSuccess;source:description
 The servant offers a startled shriek as she spots you,"Служанка издаёт испуганный крик, заметив вас",id:IntroVillaStealth.Spotted;source:description
 The plate she drops echoes through the vaulted dining hall,"Тарелка, которую она роняет, эхом отзывается в сводчатой столовой",id:IntroVillaStealth.Spotted;source:description
 "Lyra emerges from the shadows behind you, apparently amused by your clumsiness","Лира выходит из теней позади вас, явно забавляясь вашей неуклюжестью",id:IntroVillaStealth.Spotted;source:description
@@ -865,7 +865,7 @@ She leads you from the dining hall back to the foyer,"Она ведёт вас �
 The room around you lies silent and seemingly empty save the crackling of burning logs,"Комната вокруг вас тиха и кажется пустой, если не считать потрескивания горящих поленьев",id:IntroVillaStealth.Success;source:description
 The fire casts a dim light and dancing shadows,"Огонь отбрасывает тусклый свет и танцующие тени",id:IntroVillaStealth.Success;source:description
 A single goblet stands half empty on a small table,"Одинокий кубок стоит наполовину пустой на маленьком столике",id:IntroVillaStealth.Success;source:description
-Lyra's warm breath on your ear startles you as she whispers near imperceptibly,"Тёплое дыхание Лиры на вашем ухе пугает вас, когда она шепчет почти неслышно",id:IntroVillaStealth.Success;source:description
+Lyra’s warm breath on your ear startles you as she whispers near imperceptibly,"Тёплое дыхание Лиры на вашем ухе пугает вас, когда она шепчет почти неслышно",id:IntroVillaStealth.Success;source:description
 We have walked into a trap,"Мы попали в ловушку",id:IntroVillaStealth.Success;source:description
 The beast has laid an ambush for us,"Зверь устроил нам засаду",id:IntroVillaStealth.Success;source:description
 Can you sense him preparing to strike?,"Чувствуете ли вы, как он готовится нанести удар?",id:IntroVillaStealth.Success;source:description
@@ -915,10 +915,10 @@ The kind that comes with the work,"Из тех, что приходят с ра�
 Your father and I,"Твой отец и я",id:IntroVillaVeteran.Dreams;source:description
 Kydeon halts momentarily and looks at you,"Кидеон на мгновение останавливается и смотрит на вас",id:IntroVillaVeteran.Dreams;source:description
 Your father and I would always part with those words,"Твой отец и я всегда прощались этими словами",id:IntroVillaVeteran.Dreams;source:description
-"Now, I've held you long enough","Теперь я задержал тебя достаточно долго",id:IntroVillaVeteran.Dreams;source:description
-"If it's the hedge maze you mean, just head west and then north","Если ты имеешь в виду живую изгородь лабиринта, просто иди на запад, а затем на север",id:IntroVillaVeteran.GardenDirections;source:description
+"Now, I’ve held you long enough","Теперь я задержал тебя достаточно долго",id:IntroVillaVeteran.Dreams;source:description
+"If it’s the hedge maze you mean, just head west and then north","Если ты имеешь в виду живую изгородь лабиринта, просто иди на запад, а затем на север",id:IntroVillaVeteran.GardenDirections;source:description
 Then again you must have known that?,"Впрочем, ты должен был это знать?",id:IntroVillaVeteran.GardenDirections;source:description
-Had to drag you out o' there enough times,"Приходилось вытаскивать тебя оттуда достаточно раз",id:IntroVillaVeteran.GardenDirections;source:description
+Had to drag you out o’ there enough times,"Приходилось вытаскивать тебя оттуда достаточно раз",id:IntroVillaVeteran.GardenDirections;source:description
 I won't betray my Master's confidence by saying more,"Я не предам доверие моего Хозяина, сказав больше",id:IntroVillaVeteran.HidingFailure;source:description
 Best you see him yourself,"Лучше увидишь его сам",id:IntroVillaVeteran.HidingFailure;source:description
 The man offers a smile but it fails to iron out the concerned creases around his eyes,"Мужчина предлагает улыбку, но она не может разгладить обеспокоенные морщины вокруг его глаз",id:IntroVillaVeteran.HidingFailure;source:description
@@ -1040,10 +1040,10 @@ Try to shake some sense into him,"Попытаться вразумить его
 #,#
 #Chapter1Governor_2
 The man - surely the Governor from his ostentatious ring of office and the guards flanking him - bars your way,"Мужчина — несомненно Губернатор, судя по его показному перстню власти и охранникам по бокам — преграждает вам путь",id:Chapter1Governor_2.Governor_1_Intro;source:description
-You're not guests of mine,"Вы не мои гости",id:Chapter1Governor_2.Governor_1_Intro;source:description
+You’re not guests of mine,"Вы не мои гости",id:Chapter1Governor_2.Governor_1_Intro;source:description
 Or in my employ,"И не на моей службе",id:Chapter1Governor_2.Governor_1_Intro;source:description
-What's going on here {ITEM}?,"Что здесь происходит, {ITEM}?",id:Chapter1Governor_2.Governor_1_Intro;source:description
-What's going on here ?,"Что здесь происходит?",id:Chapter1Governor_2.Governor_1_Intro;source:description
+What’s going on here {ITEM}?,"Что здесь происходит, {ITEM}?",id:Chapter1Governor_2.Governor_1_Intro;source:description
+What’s going on here ?,"Что здесь происходит?",id:Chapter1Governor_2.Governor_1_Intro;source:description
 We were just leaving,"Мы как раз уходили",id:Chapter1Governor_2.Governor_1_Intro.Exit_538;source:option;target:Governor_2,
 I'm just leaving,"Я как раз ухожу",id:Chapter1Governor_2.Governor_1_Intro.Exit_548;source:option;target:Governor_11,
 I might ask you the same question,"Я мог бы задать вам тот же вопрос",id:Chapter1Governor_2.Governor_1_Intro.Exit_550;source:option;target:Governor_2.5,

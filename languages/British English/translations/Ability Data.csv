@@ -1,0 +1,326 @@
+original,translate
+#Combat Manuevers,#Combat Manuevers
+Wild Swing,Wild Swing
+Critical Strike,Critical Strike
+Defend Ally,Defend Ally
+Mark Target,Mark Target
+The Target gets the Marked Condition which confers a -2 penalty to Dodge for the rest of the encounter,"The Marked Condition is applied to the Target, which confers a -2 penalty to Dodge for the rest of the encounter"
+Radiate Fear,Radiate Fear
+Blizzard Aura,Blizzard Aura
+Aura of Fire,Aura of Fire
+Fire Lance,Fire Lance
+Howl of Terror,Howl of Terror
+Lightning Lash,Lightning Lash
+Spit Acid,Spit Acid
+Spit Poison,Spit Poison
+Spray Acid,Spray Acid
+Attack!,Attack!
+Forwards!,Forwards!
+Regroup!,Regroup!
+Stand Your Ground!,Stand Your Ground!
+Precise Strike,Precise Strike
+Rapid Shot,Rapid Shot
+The character makes a ranged attack,The character makes a ranged attack
+"If that attack is successful, they may make another, free attack","If that attack is successful, they may make another, free attack"
+Pierce Armor,Pierce Armour
+Vein Strike,Vein Strike
+Savage Strike,Savage Strike
+Shake the Earth,Shake the Earth
+Shield Rush,Shield Rush
+Perform an attack that pushes your opponent back one square if successfull,"If successful, performs an attack that pushes the target back by one square"
+Deals normal damage,Deals normal damage
+Spellburn,Spellburn
+Storm of Steel,Storm of Steel
+Stunning Blow,Stunning Blow
+Thrust And Parry,Thrust and Parry
+Dash,Dash
+Hide in Combat,Hide in Combat
+You gain the ability to hide whilst in Combat,You gain the ability to enter stealth during Combat
+Attacking whilst hidden triggers the Backstab attack,Attacking whilst hidden triggers the Backstab attack
+Infect,Infect
+Ice Breath,Ice Breath
+Imperial Litany,Imperial Litany
+Hamstring,Hamstring
+Second Wind,Second Wind
+#Passive Abilitiy,#Passive Ability
+Backstabber,Backstabber
+Allows the character to perform Backstab Attacks against voulnerable targets,Allows the character to perform Backstab Attacks against vulnerable targets
+Evasive,Evasive
+Disengaging from Melee does not cause your turn to end,Disengaging from Melee does not cause your turn to end
+Fancy Footwork,Fancy Footwork
+Swapping Places with allies not longer causes your Turn to end,Swapping Places with allies not longer causes your turn to end
+Activate Spellcasting,Activate Spellcasting
+Allows the character to begin studying schools of spellcasting,Allows the character to begin studying schools of spellcasting
+"To learn spells, pick and invest in one or more such schools","To learn spells, pick and invest in one or more such schools"
+Increased Agiliy,Increased Agility
+Increased Heavy Armor Use,Increased Heavy Armour Use
+Increased Light Armor Use,Increased Light Armour Use
+Increased Medium Armor Use,Increased Medium Armour Use
+Increased Athletics,Increased Athletics
+Increased Attunement,Increased Attunement
+Spell Aura Radius Increase,Spell Aura Radius Increase
+Increased Awareness,Increased Awareness
+Increased Backstab Damage,Increased Backstab Damage
+Pack Mule,Beast of Burden
+Increased Crafting,Increased Crafting
+Critical Resistance,Critical Resistance
+Increased Diplomacy,Increased Diplomacy
+Increased Dodge,Increased Dodge
+Fletching,Fletching
+Doubles the chance of recovering a spent arrow after combat,Doubles the chance of recovering an already loosed arrow after combat
+Increased Fortitude,Increased Fortitude
+Increased Gold Drops,Increased Gold Drops
+Increased Healing,Increased Healing
+Increased Initiative,Increased Initiative
+Increased Intellect,Increased Intellect
+Increased Lore,Increased Lore
+Increased Max Cascade,Increased Max Cascade
+Increased Movement,Increased Movement
+Increased Presence,Increased Presence
+Increased Spell Aptitude,Increased Spell Aptitude
+Increased Stealth,Increased Stealth
+Increased Strength,Increased Strength
+You are powerfully built,You are powerfully built
+to Strength Primary Attribute,to Strength Primary Attribute
+Survival Increase,Survival Increase
+Increased Thievery,Increased Thievery
+Increased Toughness,Increased Toughness
+Increased Vitality,Increased Vitality
+Increased Will,Increased Will
+Charger,Charger
+Axe Finesse,Axe Finesse
+Blade Finesse,Blade Finesse
+Bow Finesse,Bow Finesse
+Club Finesse,Club Finesse
+Light Weapon Finesse,Light Weapon Finesse
+Vicious,Vicious
+Axe Damage,Axe Damage
+Blade Damage,Blade Damage
+Bow Damage,Bow Damage
+Club Damage,Club Damage
+Brutal,Brutal
+Heavy Weapon Damage,Heavy Weapon Damage
+Light Weapon Damage,Light Weapon Damage
+Piercing Damage,Piercing Damage
+Phalanx,Shield Wall
+"While wielding a shield, get a dodge bonus for adjacent allies","While wielding a shield, get a dodge bonus for adjacent allies"
+Bonus is +1 per ally up to a maximum of the Phalanx Bonus attribute value (typically,"Bonus is +1 per ally, with a maximum equal to the Shield Wall Bonus attribute value (typically"
+Shield Training,Shield Training
+Acid Immunity,Acid Immunity
+Blindness Immunity,Blindness Immunity
+Cold Immunity,Cold Immunity
+Critical Immunity,Critical Immunity
+Deafness Immunity,Deafness Immunity
+Disease Immunity,Disease Immunity
+Lightning Immunity,Lightning Immunity
+Fire Immunity,Fire Immunity
+Non Magical Damage Immunity,Non-magical Damage Immunity
+Panic Immunity,Panic Immunity
+Paralysis Immunity,Paralysis Immunity
+Poison Immunity,Poison Immunity
+Sleep Immunity,Sleep Immunity
+Fell Illumination,Fell Illumination
+Multi Attack,Multi-attack
+Gain 1 extra Attack per Turn,Gain 1 additional Attack per Turn
+Greater Increased Attunement,Greater Increased Attunement
+Major Natural Armor,Major Natural Armour
+Medium Natural Armor,Medium Natural Armour
+Minor Natural Armor,Minor Natural Armour
+Greater Natural Weapons,Greater Natural Weapons
+Natural Weapons,Natural Weapons
+Point Blank Shot,Point Blank Shot
+You can use Ranged Weapons even when in Melee,Allows the use of Ranged Weapons when engaged in Melee combat
+Resistance,Resistance
+Slashing,Slashing
+Blunt,Blunt
+Piercing,Piercing
+Magical,Magical
+Cold,Cold
+Acid,Acid
+Kinetic,Kinetic
+Sublime,Sublime
+Electric,Electric
+Fire,Fire
+Psychic,Psychic
+Minor Resistance,Minor Resistance
+Lightning,Lightning
+Physical,Physical
+Increased Aura Radius,Increased Aura Radius
+Increased Line Effects,Increased Line Effects
+Increased Sphere Effects,Increased Sphere Effects
+Air Magic Focus,Air Magic Focus
+Bardic Magic Focus,Bardic Magic Focus
+Body Magic Focus,Body Magic Focus
+Earth Magic Focus,Earth Magic Focus
+Fire Magic Focus,Fire Magic Focus
+Mind Magic Focus,Mind Magic Focus
+Nature Magic Focus,Nature Magic Focus
+Spirit Magic Focus,Spirit Magic Focus
+Axe Accuracy,Axe Accuracy
+Blade Accuracy,Blade Accuracy
+Bow Accuracy,Bow Accuracy
+Club Accuracy,Club Accuracy
+General Accuracy,General Accuracy
+Heavy Weapon Accuracy,Heavy Weapon Accuracy
+Light Weapon Accuracy,Light Weapon Accuracy
+Melee Accuracy,Melee Accuracy
+Ranged Accuracy,Ranged Accuracy
+Vulnerability,Vulnerability
+Cold,Cold
+Sublime,Sublime
+Bonus XP Percentage,Bonus XP Percentage
+Blessing of Agility,Blessing of Agility
+Blessing of Fortitude,Blessing of Fortitude
+Blessing of Intellect,Blessing of Intellect
+Blessing of Presence,Blessing of Presence
+Blessing of Strength,Blessing of Strength
+#Spells,#Spells
+Spells,Spells
+Armor of Thorns,Bramble Breastplate
+Heroic Aura,Heroic Aura
+Aura of Condemnation,Aura of Condemnation
+Aura of Fear,Aura of Fear
+Miasma,Miasma
+Aura of Silence,Aura of Silence
+Searing Light,Searing Light
+Smothering Blanket,Smothering Blanket
+Sight to Behold,Sight to Behold
+Eye-Shine,Eye-Shine
+Fire Sprite,Fire Sprite
+Fireworks,Fireworks
+Heroic Tune,Heroic Tune
+Now you See Me,Now you See Me...
+Lambent Dance,Lambent Dance
+Lifting Tune,Lifting Tune
+Light Please,Light Please
+Raise the Curtain,Raise the Curtain
+Shadow Step,Shadow Step
+Song of Soothing,Song of Soothing
+Sparkledust,Sparkledust
+Whisper of Confusion,Whisper of Confusion
+Barkskin,Barkskin
+Bear's Strength,Bear's Strength
+Blessing Aura,Blessing Aura
+Blessing Touch,Blessing Touch
+Blink,Blink
+Mark of Blurring,Mark of Blurring
+Breath Glass,Breath Glass
+Blinding Bolt,Blinding Bolt
+Circle of Corporeal Restoration,Circle of Corporeal Restoration
+Circle of Healing,Circle of Healing
+Circle of Mental Restoration,Circle of Mental Restoration
+Clear Senses,Clear Senses
+Command of Paralyzation,Command of Paralysation
+Cure Moderate Disease,Cure Moderate Disease
+Heal Mind,Heal Mind
+Fleet of Foot,Fleet of Foot
+Cure Moderate Poison,Cure Moderate Poison
+Diamond Form,Diamond Form
+Dispel Magic,Dispel Magic
+Distort Mass,Distort Mass
+Divine Intervention,Divine Intervention
+Aura of Flame,Aura of Flame
+Fireball,Fireball
+Breath of the Ancients,Breath of the Ancients
+Flaming Fists,Flaming Fists
+Fire Frenzy,Fire Frenzy
+Inferno,Inferno
+Searing Lash,Searing Lash
+Aura of Fire Resistance,Aura of Fire Resistance
+Fire Warrior,Fire Warrior
+Force of Nature,Force of Nature
+Fortify Awareness,Fortify Awareness
+Fortify Will,Fortify Will
+Mark of Haste,Mark of Haste
+Mark of Heroism,Mark of Heroism
+Hammer of Light,Hammer of Light
+Holy Judgement,Holy Judgement
+Holy Lance,Holy Lance
+Hysterical Blindness,Hysterical Blindness
+Curse of Ensnarement,Curse of Ensnarement
+Instil Courage,Instil Courage
+Mark of Invisibility,Mark of Invisibility
+Greater Lay on Hands,Greater Lay on Hands
+Minor Lay on Hands,Minor Lay on Hands
+Moderate Lay on Hands,Moderate Lay on Hands
+Lesser Regeneration,Lesser Regeneration
+Mark of Illumination,Mark of Illumination
+Holy Light,Holy Light
+Lightning Strike,Lightning Strike
+Magic Missile,Magic Missile
+Web of Roots,Web of Roots
+Sublime Projection,Sublime Projection
+Pestilence,Pestilence
+Poisoned Globe,Poisoned Globe
+Purge Invisibility,Purge Invisibility
+Purge Magic,Purge Magic
+Greater Regeneration,Greater Regeneration
+Corporeal Restoration,Corporeal Restoration
+Mental Restoration,Mental Restoration
+Serpent's Grace,Serpent's Grace
+Arcane Shockwave,Arcane Shockwave
+Steal Breath,Steal Breath
+Mark of Lethargy,Mark of Lethargy
+Mass Lethargy,Mass Lethargy
+Stoneskin,Stoneskin
+Stunning Aura,Stunning Aura
+Stunning Touch,Stunning Touch
+Summon Giant Insect,Summon Giant Insect
+Summon Magmite,Summon Magmite
+Summon Ooze,Summon Ooze
+Summon Vermin,Summon Vermin
+Swarm of Gnats,Swarm of Gnats
+Thunderclap,Thunderclap
+Touch of Condemnation,Touch of Condemnation
+Touch of Confusion,Touch of Confusion
+Touch of Weakness,Touch of Weakness
+#Triggered Abilities,#Triggered Abilities
+Arcane Rush,Arcane Rush
+"The first time you take Wound Hit point Damage each combat, you automatically regain 30-40 Attunement Points","In each combat, the first time Wound Hit point damage is suffered, you regenerate 30-40 Attunement Points"
+Crippling Finesse,Crippling Finesse
+"When scoring a Backstab hit using a Light Weapon, the targets gets a random injury Condition","When scoring a Backstab hit using a Light Weapon, the target gets a random injury Condition"
+Rending Blow,Rending Blow
+Critical Hits with an Axe causes Injury Conditions,Your Critical Hits with an Axe cause Injury Conditions
+Deep Cut,Deep Cut
+Your Critical Hits using Blades cause Bleeding on your target,Your Critical Hits using Blades cause your target to Bleed
+Red Arcs,Red Arcs
+Scoring a Critical Hit with a Light Blade causes you to restore 1 Attack,Your Critical Hits with a Light Blade immediately bestow you 1 additional Attack
+Rapid Reload,Rapid Reload
+"If you score a Critical Hit with a Bow, you immediately regain 1 attack",Your Critical Hits with a Bow immediately bestow you 1 Attack
+Kneecap,Kneecap
+Critical Hits with a Club causes The Injured Leg condition,Your Critical Hits with a Club cause the target to gain the Injured Leg condition
+Weaving Blade,Weaving Blade
+Dodging a Melee Attack whilst armed causes you to deal a small amont of Slashing Damage to your attacker,"Dodging a Melee Attack, weapon in hand, causes a small amount of Slashing Damage to be dealt to your attacker"
+Felling Strike,Felling Strike
+Weakly Infections,Weakly Infections
+Your unarmed attack may cause disease in the target,Your unarmed attack may cause disease in the target
+Decapitation,Decapitation
+The gruesomeness of your Axe-Kill causes the Fear condition in all opponents who can see it,The gruesome ferocity of your Axe-Kills makes all foes who witness it Fearful
+Cleave,Cleave
+Killing an opponent using a Heavy Melee Weapon restores 1 Attack,Killing an opponent using a Heavy Melee Weapon restores 1 Attack
+Inspiring Kill,Inspiring Kill
+"When killing an Opponent in Armed or Unarmed Melee combat, all Allies who witness the kill get the Inspired Condition for 1 Turn","When killing an Opponent in Melee combat, all Allies who witness it gain the Inspired Condition for 1 Turn"
+Replenishing Takedown,Replenishing Takedown
+"Killing a Marked Target, heals the party a small amount","When killing a Marked Target, the party is healed by a small amount"
+Magnificent Takedown,Magnificent Takedown
+"When killing a Marked target, all Allies who witness the kill get the Inspired Condition for 1 Turn","When killing a Marked Target, all Allies who witness the kill get the Inspired Condition for 1 Turn"
+Bleeding Strike,Bleeding Strike
+Greater Bleeding Strike,Greater Bleeding Strike
+Lesser Bleeding Strike,Lesser Bleeding Strike
+Acid Burst,Acid Burst
+Sommon Abomination,Summon Abomination
+Lesser Poison Attack,Lesser Poison Attack
+Moderate Poison Attack,Moderate Poison Attack
+Strong Poison Attack,Strong Poison Attack
+Stunning Strike,Stunning Strike
+Steal Life,Steal Life
+Shield Slam,Shield Slam
+"Whilst wielding a shield, dodging a melee attack causes you to deal 1-4 Blunt damage to your attacker","Whilst wielding a shield, dodging a melee attack causes you to deal 1-4 Blunt damage to your attacker"
+Smashing Charge,Smashing Charge
+Your Charges cause 1-3 additional Blunt Damage,Your Charges cause 1-3 additional Blunt Damage
+Hidden Deployment,Hidden Deployment
+You start combat Hidden,You start combat Hidden
+Smoke Bomb,Smoke Bomb
+"The first time you're Wounded each combat, you automatically hide","Each combat, the first time you're Wounded, you automatically become hidden"
+Not Today!,Not This Day!
+"The first time you take Wound Hit point Damage each combat, you automatically regain 12-18 Vitality Hit Points","Each combat, the first time Wound Hit point Damage is suffered, you regenerate 12-18 Vitality Hit Points"

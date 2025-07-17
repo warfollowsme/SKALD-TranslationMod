@@ -1,0 +1,66 @@
+original,traducido
+#General Enchantments,#Encantamientos generales
+Agility,Agilidad
+Adds +1 to Agility,Añade +1 a la agilidad
+Fortitude,Fortaleza
+Adds +1 to Fortitude,Añade +1 a Fortaleza
+Intellect,Intelecto
+Adds +1 to Intellect,Añade +1 a Intelecto
+Presence,Presencia
+Adds +1 to Presence,Añade +1 a Presencia
+Strength,Fortaleza
+Adds +1 to Strength,Añade +1 a Fortaleza
+Initiative,Iniciativa
+Adds +2 to Initiative,Añade +2 a Iniciativa
+Speed,Velocidad
+Adds +1 to Movement Speed,Añade +1 a la velocidad de movimiento
+Heroic,Heroico
+Adds +1 to all five Primary Attributes,Añade +1 a los cinco atributos principales
+Protection,Proteccion
+"adds +1 to Will, Toughness and Dodge","Añade +1 a Voluntad, Resistencia y Esquiva."
+Defence,Defensa
+Adds +1 to Dodge,Añade +1 a Esquivar
+Toughness,Resistencia
+Adds +1 to Toughness,Añade +1 a la Resistencia
+Willpower,Fuerza de voluntad
+Adds +1 to Willpower,Añade +1 a Fuerza de voluntad
+Athletics,Atletismo
+Adds +1 to Athletics,Añade +1 a Atletismo
+Awareness,Conciencia
+Adds +1 to Awareness,Añade +1 a Conciencia
+Crafting,Elaboracion
+Adds +1 to Crafting,Añade +1 a Elaboracion
+Diplomacy,Diplomacia
+Adds +1 to Diplomacy,Añade +1 a Diplomacia
+Healing,Curacion
+Adds +1 to Healing,Añade +1 a Cicatrizacion
+Lore,Ciencia
+Adds +1 to Lore,Añade +1 al conocimiento
+Stealth,Sigilo
+Adds +1 to Stealth,Añade +1 a Sigilo
+Survival,Supervivencia
+Adds +1 to Survival,Añade +1 a Supervivencia
+Thievery,Robo
+Adds +1 to Thievery,Añade +1 a Robo
+#Weapon Enchantments,#Encantamientos de armas
+Accuracy,Precision
+This Weapon has +2 To Hit,Este El arma tiene +2 para golpear
+Accuracy and Damage,Precision y daño
+This Weapon does +1 base damage and has +2 To Hit,Este Arma Hace +1 de daño base y tiene +2 para golpear
+Greater Accuracy and Damage,Mayor que Precision y daño
+This Weapon does +3 base damage and has +3 To Hit,Este Arma Hace +3 de daño base y tiene +3 para golpear
+Accuracy - Greater,Precision - Mayor
+This Weapon has +3 To Hit,Este El arma tiene +3 para golpear
+Acid Attack,Acido Ataque
+A small amount of extra acid-damage is caused on a hit,Una pequeña cantidad de daño acido adicional es causado en un golpe
+Frost Attack,Ataque de escarcha
+A small amount of extra cold-damage is caused on a hit,Una pequeña cantidad de daño adicional por frio es causado en un golpe
+Keen,Afecto
+This Weapon does +1 base damage,Esta arma inflige +1 de daño base
+Keen - Greater,Afecto - Mayor
+This Weapon does +3 base damage,Esta arma inflige +3 de daño base
+Lightning Attack,Ataque relampago
+A small amount of extra lightning-damage is caused on a hit,Se causa una pequeña cantidad adicional de daño por rayos al impactar
+Fire Attack,Ataque de fuego
+A small amount of extra fire-damage is caused on a hit,Se inflige una pequeña cantidad adicional de daño por fuego al impactar
+Increases the Dodge of the wielder by +1,Aumenta la esquiva del portador en +1

@@ -1,0 +1,375 @@
+original,translate
+#Apperances,#Apperances
+Carylla,Carylla
+#Difficulties,#Difficulties
+Narrative,Narrative
+Narrative mode is the difficulty for players who would like to experience the game’s story and setting with a minimum of focus on combat and grinding,Narrative mode is best suited for players primarily seeking to experience the game's story with combat being a secondary way to add flavour to the narrative
+Easy,Easy
+Easy mode is a great way for players who are new to this style of roleplaying game to experience Skald,Easy mode is best suited to beginners and newcomers to this style of roleplaying game who wish for a light introduction to its concepts through Skald
+Combat is forgiving and there should be little need to optimize character builds,"Combat should be relatively forgiving, with little need to optimise character builds and loadouts"
+Dice rolls are weighted in the player’s favor,Dice rolls are also weighted in the player’s favour
+Normal,Normal
+Normal mode is the game’s intended difficulty setting,"Normal mode is the default difficulty, and the intended way to experience Skald"
+There is only very limited artificial smoothing of certain dice rolls,"Dice rolls only see minor alterations, to artificially smooth them and improve the experience"
+Hard,Hard
+Hard mode is intended to offer the player a challenge without feeling unfair,"Hard mode is best suited for experienced players seeking a reasonable, but not unfair, challenge"
+Dice rolls are slightly weighted in the opponent's favor making them more deadly,"Dice rolls are slightly weighted in the opponent's favour, making foes more punishing; putting additional emphasis on player preparation and consistency"
+#Encounters,#Encounters
+Brigands,Brigands
+You’ve been beset by brigands!,You’ve been beset by brigands!
+Stand and deliver!,Stand and deliver!
+Abandoned Cargo,Abandoned Cargo
+There is some abandoned cargo strewn on the road ahead of you,There is some abandoned cargo strewn on the road ahead of you
+Horrors from the deep,Horrors from the deep
+You're being attacked by enormous fell-crabs!,You're being attacked by enormous fell-crabs!
+Crawlers,Crawlers
+Foul creatures swarm from holes in the ground!,Foul creatures swarm from holes in the ground!
+Devolved,Devolved
+"More beast than man, devolved troglodytes charge towards you!","More beast than man, devolved troglodytes charge towards you!"
+Flotsam,Flotsam
+You come across some flotsam,You come across some flotsam
+Giant Insects,Giant Insects
+Giant insects scurry towards you!,Giant insects scurry towards you!
+Giant insects swarm you!,Giant insects swarm you!
+White Hounds,White Hounds
+Foul slavering beasts barrel towards you!,Foul slavering beasts barrel towards you!
+Crabs,Crabs
+You're being swarmed by monsterously over-grown crabs!,You're being swarmed by monsterously over-grown crabs!
+Rot Crabs,Rot Crabs
+Horribly changes crustaceans shamble towards you!,Horribly changed crustaceans shamble towards you!
+Spider Crabs,Spider-Crabs
+You're being charged by Spider-Crabs!,You're being charged by Spider-Crabs!
+Fell Hounds,Fell Hounds
+You've been beset by prowling Fell-Hounds!,You've been beset by prowling Fell Hounds!
+Fell Hogs,Fell Hogs
+Fell hogs have caught your scent!,Fell hogs have caught your scent!
+Rats!,Rats!
+You're being swarmed by monsterously over-grown rats!,You're being swarmed by monstrously over-grown rats!
+Reavers,Reavers
+You've been waylaid by Reavers!,You've been waylaid by Reavers!
+Reaver Patrol,Reaver Patrol
+Reaver Raiding-Party,Reaver Raiding-Party
+Giant Lizards,Giant Lizards
+The lizards' jaws snap greedily as reptilian eyes fix you,The lizards' jaws snap greedily as reptilian eyes fix on you
+Wandering Merchant,Wandering Merchant
+A wandering armorer approaches!,A wandering armourer approaches!
+A wandering arms merchant approaches!,A wandering arms merchant approaches!
+A wandering food merchant approaches!,A wandering food merchant approaches!
+A wandering potion merchant approaches!,A wandering potion merchant approaches!
+A wandering reagent merchant approaches!,A wandering reagent merchant approaches!
+A wandering spell merchant approaches!,A wandering spell merchant approaches!
+A wandering trinket merchant approaches!,A wandering trinket merchant approaches!
+Shades,Shades
+"Darker than night, these creatures are pure malice","Darker than night, these creatures are pure malice"
+Snakes,Snakes
+There are snakes in the grass!,There are snakes in the grass!
+Serpents,Serpents
+Overgrown serpents slither towards you!,Overgrown serpents slither towards you!
+Slithering Horrors,Slithering Horrors
+Snow-Lizards,Snow-Lizards
+"Large, horned lizards leap from the snow to ambush you!","Large, horned lizards leap from the snow to ambush you!"
+Creatures From Beyond,Creatures From Beyond
+The Dragon is awakening!,The Dragon is stirring from its slumber!
+Giant Spiders,Giant Spiders
+Venom drips from snapping jaws as monstrous spiders swarm towards you,Venom drips from snapping jaws as monstrous spiders swarm towards you
+Enormous Spiders,Enormous Spiders
+Venom drips from snapping jaws as monstrously huge spiders swarm towards you,Venom drips from snapping jaws as monstrously huge spiders swarm towards you
+The Frozen Dead,The Frozen Dead
+The restless corpses of those claimed by the frozen wastes shamble towards you,The restless corpses of those claimed by the frozen wastes shamble towards you
+#Factions,#Factions
+Village of Firgol,Village of Firgol
+Nautical Guild,Nautical Guild
+House Berryn,House Berryn
+Iago's Crew,Iago's Crew
+Idran Refugees,Idran Refugees
+The Hundred Sons,The Hundred Sons
+Zephyr Crew,Zephyr Crew
+The Rat Queen's Court,The Rat Queen's Court
+Oleg the Gray,Oleg the Grey
+Queen Kala,Queen Kala
+The Butcher,The Butcher
+Reavers of Idra,Reavers of Idra
+Zephyr Survivors,Zephyr Survivors
+#Map Meta-Data,#Map Meta-Data
+Firgol,Firgol
+Before you lies a small village surrounded by fields and orchards,"Before you lies a small village surrounded by lush, flaxen fields and bountiful orchards"
+The air is laden with the scent of fruit and the laughter of children and the pastoral bliss stands in stark contrast to the rest of the Outer Isles,"The sounds of children laughing and the aroma of freshly-picked fruit fills the air. This peaceful, pastoral paradise stands in direct juxtaposition with the rest of the Outer Isles"
+The Manor,The Manor
+The Mines,The Mines
+Adler's Helm,Adler's Helm
+Before you lies what appears to be closer to a fortified mining-camp than a town,Before you lies what appears to be closer to a fortified mining-camp than a town
+The most striking detail are the wrecks of abandoned ships that lie just outside the town’s harbor,The most striking detail are the wrecks of abandoned ships that lie just outside the town’s harbor
+Horryn,Horryn
+The Underhalls,The Underhalls
+Horryn Castle,Horryn Castle
+The Crypt,The Crypt
+Horryn Sewers,Horryn Sewers
+The Womb,The Womb
+Walls of Horryn,Walls of Horryn
+"At the end of the rugged peninsula lies the small, walled fishing village of Horryn","At the end of the rugged peninsula lies the small, walled fishing village of Horryn"
+"Once home to hundreds, the town now lies seemingly deserted","Once home to hundreds, the quiet emptiness of the once bustling town, now seemingly deserted, is unsettling"
+"Whatever fate has befallen this place, you must be on you guard if you choose to enter it",Whatever foul misfortune has befallen this place... it seems best to remain vigilant
+The Coastal Pass,The Coastal Pass
+The Deep Forest,The Deep Forest
+"Besides the buzzing of insects and croaking of toads, the forest is disconcertingly quiet","Besides the buzzing of insects and croaking of toads, the forest is disconcertingly quiet"
+The foliage seems to thin slightly in this area and to the north-east you can make out a faint wisp of smoke rising from a chimney,The foliage seems to thin slightly in this area and to the northeast you can make out a faint wisp of smoke rising from a lone chimney
+"The foliage does however, seem to thin slightly in this area and to the north-east you can make out a faint wisp of smoke rising from a chimney","The foliage does, however, seem to thin slightly in this area; to the northeast you can make out a faint wisp of smoke rising from a lone chimney"
+Forest Caves,Forest Caves
+The Hidden Glen,The Hidden Glen
+A hidden glen nestled between two mountains,A hidden glen nestled between two mountains
+"Had you not known to look for it, you would have easily missed it","Had you not known where to look, it would have been easily overlooked"
+Shores of Idra,Shores of Idra
+Ahead of you lies the windswept shore where you landed on Idra and the abandoned farmsteam,"Ahead of you lies the windswept shore where you landed on Idra, with its abandoned farmstead"
+The Foul Caves,The Foul Caves
+Lighthouse Exterior,Lighthouse Exterior
+An ancient lighthouse rises steeply from the bluffs ahead of you,An ancient lighthouse rises steeply from the bluffs ahead of you
+"The beacon is still lit, though it flickers weakly","The beacon is still lit, though it flickers weakly"
+Under the Lighthouse,Under the Lighthouse
+Lighthouse,Lighthouse
+Refugee Camp,Refugee Camp
+"Before you, the unmistakable mess, squalor and desperation of a refugee camp sprawls around a small farmstead like a festering wound","Before you, the unmistakable mess, squalor and desperation of a refugee camp sprawls around a small farmstead like a festering wound"
+Coastal Road,Coastal Road
+Sea-Caves,Sea-Caves
+"A huge sea-cave, created by eons of the sea’s relentless attack on the rock, gapes in the cliffs ahead","A huge sea-cave, created by eons of the sea’s relentless attack on the rock, gapes in the cliffs ahead"
+"If you take great care, a narrow trail allows you to enter it","If you take great care, a narrow trail allows you to enter it"
+Wreck Site,Wreck Site
+Broken bodies and debris litter the rocky shores of Idra,Broken bodies and debris litter the rocky shores of Idra
+"In the distance, you can make out what appears to be the remains of the Zephyr's hull","In the distance, you can make out what appears to be the remains of the Zephyr's hull"
+Wreckage,Wreckage
+The Berryn Estate,The Berryn Estate
+The Cellar,The Cellar
+The Outer Isles,The Outer Isles
+Outer Isles,Outer Isles
+Excavation Site,Excavation Site
+Priory Crypt,Priory Crypt
+The Black Priory,The Black Priory
+A grim edifice rises from the wastelands,A grim edifice rises from the wastelands
+"Its walls are weatherbeaten and its empty windows glare at you like dead, black eyes","Its walls are weatherbeaten and its empty windows glare at you like dead, black eyes"
+"Abandoned as it may seem, there is nevertheless some siren call that bids you venture inside… and below","Abandoned as it may seem, there is nevertheless some siren call that bids you venture inside… and below"
+The Eternity Gate,The Eternity Gate
+Forest,Forest
+A Twisted Forest,A Twisted Forest
+A Field,A Field
+Hills,Hills
+Road,Road
+Shore,Shore
+Tundra,Tundra
+Ship's Deck,Ship's Deck
+Zephyr's Hold,Zephyr's Hold
+Zephyr's Lower Deck,Zephyr's Lower Deck
+The Wreck,The Wreck
+Shrine of Agility,Shrine of Agility
+Shrine of Fortitude,Shrine of Fortitude
+Shrine of Intellect,Shrine of Intellect
+Shrine of Presence,Shrine of Presence
+Shrine of Strength,Shrine of Strength
+Lorem Ipsum,Lorem Ipsum
+The Weathermaiden,The Weathermaiden
+Tower Dungeon,Tower Dungeon
+Lower Dungeon,Lower Dungeon
+Tower of Ash,Tower of Ash
+A lone tower pierces the skies as it rises above you,A lone tower pierces the skies as it rises above you
+"From some unseen aperture in the cliffs upon which it stands, the wind carries a cloud of fine gray ash","From some unseen aperture in the cliffs upon which it stands, the wind carries a cloud of fine grey ash"
+"Bitter and unwelcome, the residue sticks in your mouth and eyes","Bitter and unwelcome, the residue sticks in your mouth and eyes"
+#Stores,#Stores
+Arra's Goods,Arra's Goods
+Esteban's Concoction,Esteban's Concoction
+The Narwhale,The Narwhal
+Martha's Flophouse,Martha's Flophouse
+Maija's Goods,Maija's Goods
+Quartermaster,Quartermaster
+#String Lists,#String Lists
+Welcome!,"Welcome, welcome!"
+Have a seat!,"Please, have a seat!"
+I'll be with you in a moment!,I'll be with you in a moment!
+Hi there!,Ello there!
+Hic,Hic
+I'm cold,so... cold
+Spare a coin?,A coin for the infirm?
+So hungry,So hungry
+My insides hurt,My insides hurt
+Should you be here?,Should you be here?
+Don't tell me you've an audience?,Don't tell me you've an audience?
+"Charmed, I'm sure","Charmed, I'm sure"
+Hm?,Hm?
+There are mercenaries on the island that don't belong here,There are mercenaries on the island that don't belong here
+Rumors have it they are encamped on the Priory grounds,Rumours have it they are encamped on the Priory grounds
+I have no idea why they're here but they have to have something to do with what's happening,I have no idea why they're here but they have to have something to do with what's happening
+I don't believe the farmer's goats are dead!,I don't believe for a second the farmer's goats are dead!
+I heard someone say she saw the famer's son drive the animals into the mountains when Horryn fell,I heard someone say she saw the farmer's son drive the animals into the mountains when Horryn fell
+How can he hide away food while we starve?,How can he hide away food while we starve?
+"Governor spent more time out at his estate, east of here than at his offices in Horryn!","Governor spent more time out at his estate, east of here than at his offices in Horryn!"
+"He's probably dead now though, and good riddance to him!","He's probably dead now though, and good riddance to him!"
+They say smugglers use the caves in the mountains to the west,They say smugglers use the caves in the mountains to the west
+Maybe they have food?,Maybe they have food?
+Ships came to the island a few weeks ago,Ships came to the island a few weeks ago
+"They didn't dock in Horryn, but sailed up towards the Priory","They didn't dock in Horryn, but sailed up towards the Priory"
+Maybe they managed to land there?,Did they manage to make port there?
+Though I don't know how,Though I don't know how
+The northern coast is all steep cliffs and rocks,The northern coast is all steep cliffs and rocks
+The fishermen began seeing 'something' in the oceans a few weeks ago,The fishermen began seeing 'something' in the oceans a few weeks ago
+Then the boats started disappearing!,Then the boats started disappearing!
+Now we're trapped here!,Now we're trapped here!
+Just waiting to die!,Just waiting to die!
+When is the Empire coming for us?,When is the Empire coming for us?
+How can they even know something is wrong?,How can they even know something is wrong?
+"And if they did, they say a horror stalks the seas around Horryn!","And if they did, they say a horror stalks the seas around Horryn!"
+I'm not sleeping well,I'm not sleeping well
+My dreams,My dreams
+They are,They are
+"Ugh, why am I telling you this?","Ugh, why am I telling you this?"
+We're defenceless sitting here!,We're defenceless sitting here!
+And where is the governor and the guards?,And where is the governor and the guards?
+Dead I suppose,Dead I suppose
+People have started to get sick,People have started to get sick
+Just look at poor Hannah's boy,Just look at poor Hannah's boy
+Thank you for finding food,Thank you so much for finding food
+I'm so hungry,I'm so hungry
+All those people lost,All those people lost
+What's happening to us?,What's happening to us?
+Do you have any food?,Can you spare anything to eat?
+I feel better,I feel better
+Ugh,Ugh
+Feels like the world's ending!,Feels like the sky is falling!
+Leave me alone,Let me alone
+Please help us!,"Please, help us!"
+These caves are beginning to wear on me,These caves are beginning to wear on me
+I wish we could get out of here soon,I wish we could get out of here soon
+Hold on... did you hear something?,Hold on... did you hear something?
+Have you been to see the queen yet?,Have you been to see the queen yet?
+Freythens or Imperials,Freythens or Imperials
+I don't care 's long as the coin is good!,I don't care 's long as the coin is good!
+Sitting on a cargo like this is making me nervous,Sitting on a cargo like this is making me nervous
+Hope we get out to sea again soon!,Hope we get out to sea again soon!
+They say the world's ending out there,They say the world's ending out there
+I don't care - I just want to get out of here!,I don't care - I just want to get out of here!
+"In our line of work, strangers are bad news","In our line of work, strangers are bad news"
+Keep away from me or we'll have words,Keep away from me or we'll be 'avin words
+Mommy!,Mammy!
+I want to go home!,I wanna go home!
+I don't want to be here!,I don't want to be here!
+I'm afraid!,I'm afraid!
+I want my mommy!,I want my mummy!
+I can't wait for Carnivale!,I can't wait for Carnivale!
+I'm so excited!,I'm so excited!
+I'm going to eat so much cake!,I'm going to eat cake 'till I pop!
+Tihi!,Tihi!
+Are you going to Carnivale?,Are you going to the Carnivale?
+Wanna play?,Hi! Wanna play?
+Is it Carnivale now?,Is it the Carnivale yet?
+My head hurts,My head hurts
+I'm afraid of the dark,I'm afraid of the dark
+Gahhh!,Gahhh!
+Cough,Cough
+I have bad dreams,I have bad dreams
+Wee!,Wee!
+Carnivale!,Carnivale!
+I want more cake!,I want more cake!
+Honey-cake is the best!,Honey-cake is the best!
+Greetings m'lord,Greetings m'lord
+Greetings m'lady,Greetings m'lady
+Hello,Ullo
+I'm excited for the Carnivale,I'm excited for the Carnivale
+The Baron is a good man!,The Baron is a good man!
+Have you tried the local cider?,Have you tried the local cider?
+Firgol is such a peaceful place,Firgol is such a peaceful place
+You saved us!,You saved us!
+What happened?,What happened?
+"Thank the Golden, the children are safe!","Thank the Golden, the children are safe!"
+I don't really sleep anymore,I don't really sleep anymore
+Nightmares are back,Nightmares are back
+My head hurts!,My head hurts!
+I feel sick!,I feel sick!
+Hi,Hi
+I'm not supposed to talk to strangers,Daddy told me not to talk to strangers
+You look strange,Your clothes are so strange!
+My stomach hurts,My stomach's hurting
+Do you have nightmares too?,"Do you have nightmares, too?"
+Good to be back,Good to be back
+Hello there m'lord,"Hello there, m'lord"
+Hello there m'lady,"Hello there, m'lady"
+M'lord,M'lord
+M'lady,M'lady
+How could this happen?,How could this happen?
+What's next?,What's next?
+The stench,The stench
+"Ugh, I'm hungry","Ugh, I'm hungry"
+What?,What?
+My knee,My knee
+I used to be an adventurer,I used to be an adventurer
+I’ve got my eye on you!,I’ve got my eye on you!
+No funny business!,No funny business!
+Hmm?,Hmm?
+It’s good to have the Captain back!,It’s good to have the Captain back!
+I wonder what happened to the Captain?,I wonder what happened to the Captain?
+I can't wait to set sail!,My sea legs are getting restless!
+I could do with some rum!,I could do with some rum!
+How long do we have to stay here?,How long must we remain here?
+Burp,Burp
+You look like a landlubber!,"Hoi, how goes it, landlubber?"
+Farewell and adieu to ye ladies of Vauul,Farewell and adieu to ye ladies of Vauul
+"They say practice makes perfect, and maybe they’re right; it seems all those hours spent honing your skills are starting to pay off","They say practice makes perfect, and maybe they’re right; it seems all those hours spent honing your skills are starting to pay off"
+"Keep it up, and soon you’ll be well on your way to mastery!","Keep it up, and soon you’ll be well on your way to mastery!"
+Did this stuff used to be difficult?,Did this stuff used to be difficult?
+"You cannot remember, for right now, you are quickly becoming one of the best in your field","You cannot remember, for right now, you are quickly becoming one of the best in your field"
+Your progress seems to have slowed to a frustrating crawl,Your progress seems to have slowed to a frustrating crawl
+"Alas, shuffling forward is always better than standing still","Alas, even shuffling forward is better than standing still"
+"How foolish you were, to think yourself at the top of your game","How foolish you were, to think yourself at the top of your game"
+"If your journey so far has taught you anything, it is that there is always someone better, someone stronger","If your journey so far has taught you anything, it is that there is always someone better, someone stronger"
+"The question is not if you are strong enough to beat them, but if you are strong enough to try","The question is not if you are strong enough to beat them, but if you are strong enough to try"
+Giving up has never been an option,Giving up has never been an option
+But perhaps a long bath and a good meal wouldn’t go amiss,But perhaps a long bath and a good meal wouldn’t go amiss
+"Your latest trials have left you exhausted, yet the perseverance it has taken to push on has left you stronger than ever","Your latest trials have left you exhausted, yet the perseverance it has taken to push on has left you stronger than ever"
+"But despite this victory, a single thought plagues you: how much more can you push until there is nothing left?","But despite this victory, a single thought plagues you: how much more can you push until there is nothing left?"
+"No one can make it through this world alone, and lately you find yourself thinking of those who have helped you on your journey","No one can make it through this world alone, and lately you find yourself thinking of those who have helped you on your journey"
+"Perhaps one day, when this is all over, you can find a way to repay them","Perhaps one day, when this is all over, you can find a way to repay them"
+The person you were when you began this journey is now nothing but a distant memory,The person you were when you began this journey is now nothing but a distant memory
+"You are irrevocably changed, and no matter what comes next, you will never be who you once were","You are irrevocably changed, and no matter what comes next, you can never go back to how you once were"
+You’ve spent countless hours forging yourself into the person you are today,You’ve spent countless hours forging yourself into the person you are today
+Now all that’s left to do is the hardest thing of all: trust in yourself,Now all that’s left to do is the hardest thing of all: trust in yourself
+"Soon your journey will be at its end, and though victory is nigh, you cannot help but wonder: what will it cost?","Soon your journey will be at its end, and though victory is within sight, you cannot help but wonder: what will it cost?"
+"For the first time in your life, you are overcome with a sense of purpose","For the first time in your life, you are overcome with a sense of purpose"
+"The path ahead will undoubtedly be difficult, but you are certain it is the one you are supposed to take","The path ahead will undoubtedly be difficult, but you are certain it is the one you are supposed to take"
+"You have mastered all that you have set your mind to, yet the sweetness of your victory is tainted by the knowledge that once you have reached the top, there is nowhere else to go but down","You have mastered all that you have set your mind to, yet the sweetness of your victory is tainted by the knowledge that once you have reached the top, there is nowhere else to go but down"
+"Every step forward is worth celebrating, no matter how small","Every small advancement made is worthy of celebration, so much does it cost"
+"Keep going, and soon the path behind you will be longer than the path ahead","Keep going, and soon the path behind you will be longer than the path ahead"
+You can feel yourself growing stronger with every trial you face,You can feel yourself growing stronger with every trial you face
+"Each adventure leaves you just a little faster, a little braver","Each adventure leaves you just a little faster, a little braver"
+What more are you capable of?,What more are you capable of?
+Adrenaline floods your veins,Adrenaline floods your veins
+"The tasks that once seemed so difficult now come naturally to you, leaving you with an insatiable urge to learn something new","Obstacles that once seemed insurmountable are now trampled underfoot, barely a hinderance, so far have you come. Yet each mountain climbed leaves only the sight of new, irresistible peaks, and an insatiable lust to conquer them"
+The possibilities ahead of you seem as endless as your potential - who knows what adventures lay ahead?,The possibilities ahead of you seem as endless as your potential - who knows what adventures lay ahead?
+Who knew the human body was capable of such feats?,Who knew the human body was capable of such feats?
+"You can feel yourself changing, the layers of your old self shedding away into something new","You can feel yourself changing, the layers of your old self shedding away into something new"
+Something better,Something better
+"It amazes you how each adventure manages to present you with a new challenge, reminding you that there is always something more to learn","It amazes you how each adventure manages to present you with a new challenge, reminding you that there is always something more to learn"
+Each dawn is a new chance to perfect your skills,Each dawn is a new chance to perfect your skills
+"You’re not sure you’ve ever worked this hard for anything before, and you’re not about to give up now","You’re not sure you’ve ever worked this hard for anything before, and you’re not about to give up now"
+Greeting brother!,"Greetings, brother!"
+Greeting sister!,"Greetings, sister!"
+Do you think we'll get off this island?,Do you think we'll ever get off this island?
+I really wanted to see the shrines,I really wanted to see the shrines
+Haven't we been tested enough?,Haven't we been tested enough?
+A blessing upon you!,A blessing upon you!
+Huh?,Huh?
+We have the word from the deep!,We have the word from the deep!
+Bow your head before before our chieftain!,Bow your head before before our chieftain!
+The fuck you want?,The fuck you want?
+Look at me funny and I'll gut you!,Look at me funny and I'll gut you!
+Hhhh,Hhhh
+Ahhh,Ahhh
+Gahhh,Gahhh
+Mhhhh,Mhhhh
+Steel Thyself!,Steel Thyself!
+Draw Steel!,Draw Steel!
+Make Ready!,Make Ready!
+Death or Glory!,Death or Glory!
+To the Last!,To the Last!
+Blood Will Flow!,Blood Will Flow!
+It’s good to be sailing again!,It’s good to be on open waters again!
+Aye?,Aye?
+Seasick?,Seasick?
+Found your sea legs?,Found your sea legs?
+#Variables,#Variables
+None,None
+Faction has turned HOSTILE,Faction has turned HOSTILE

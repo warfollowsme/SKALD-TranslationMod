@@ -23,6 +23,7 @@ namespace TranslationMod.Patches
             try
             {
                 var availableLanguages = LanguageManager.GetAvailableLanguageNames();
+                TranslationMod.Logger?.LogInfo($"[GameplaySettingsPatch] Available languages: {string.Join(", ", availableLanguages)}");
                 var allLanguages = new List<string> { GameConstants.EnglishLanguageName };
                 allLanguages.AddRange(availableLanguages);
 

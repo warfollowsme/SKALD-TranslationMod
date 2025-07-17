@@ -38,7 +38,7 @@ namespace TranslationMod.Patches
         /// Regex для извлечения tooltip ключей из тегов <tag>tooltipKey</tag>
         /// </summary>
         private static readonly Regex TooltipTagRegex = new(@"<tag>([^<]+)</tag>", RegexOptions.Compiled);
-        
+        private static readonly Regex HashPatternRegex = new Regex(@"#[A-Za-z]{2,}", RegexOptions.Compiled);
         /// <summary>
         /// Объект для синхронизации доступа к буферу
         /// </summary>
@@ -171,10 +171,8 @@ namespace TranslationMod.Patches
                 {
                     return true; // Выполняем оригинальный метод
                 }
-
-                // Сначала переводим текст
-                string translatedText = _translator.Value.Process(__0);
-                
+                string processedText = StripHashTags(__0);
+                string translatedText = _translator.Value.Process(processedText);
                 // Затем полная реимплементация setContent с переведенным текстом
                 SetContentComplete(__instance, __0, translatedText);
                 
@@ -218,8 +216,8 @@ namespace TranslationMod.Patches
 #endif
                     return;
                 }
-                
-                ContentField.SetValue(instance, string.Copy(input));
+
+                ContentField.SetValue(instance, input);
                 
                 if (FontField == null)
                 {
@@ -279,7 +277,7 @@ namespace TranslationMod.Patches
                     
                     // Оборачиваем переведенные ключи в теги <tag></tag>
                     translated = TagKeys(translated, keys);
-
+                    
 #if DEBUG
                     TranslationMod.Logger?.LogInfo($"Translated tagged input: {translated}");
 #endif
@@ -357,7 +355,15 @@ namespace TranslationMod.Patches
                                 continue;
 
                             // Переводим ключ
-                            string translatedKey = _translator.Value.Process(originalKey);
+                            string translatedKey;
+                            if(originalKey.Contains("#"))
+                            {
+                                translatedKey = _translator.Value.Process(originalKey.Replace("#", ""));                                translatedKey = translatedKey.Replace("#", "");
+                            }
+                            else 
+                            {
+                                translatedKey = _translator.Value.Process(originalKey);
+                            }
                             if(!keys.ContainsKey(translatedKey))
                             {
                                 keys.Add(translatedKey, originalKey);
@@ -384,6 +390,24 @@ namespace TranslationMod.Patches
             return (string)IdentifyTooltipKeywordsMethod.Invoke(instance, new object[] { input });
         }
 
+        public static string StripHashTags(string input)
+        {
+            // (?<![=:])   — перед # нет = или :  → значит это "живой" тег, а не цвет
+            // ([\p{L}\d_-]+) — буквы любых алфавитов, цифры, _ и -
+            var regex = new Regex(@"(?<![=:])#([\p{L}\d_-]+)",
+                                RegexOptions.Compiled | RegexOptions.Multiline);
+
+            var found = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+
+            // MatchEvaluator сразу и собирает тег, и отдаёт замену без #
+            string result = regex.Replace(input, m =>
+            {
+                string tag = m.Groups[1].Value;   // уже без «#»
+                found.Add(tag);
+                return tag;                       // замена в тексте
+            });
+            return result;
+        }
 
         public static string HighlightKeysInText(string input, List<string> keys)
         {
