@@ -1,4 +1,4 @@
-﻿original,translate
+original,translate
 #Accessory,#Accessory
 Armored Boots,Armoured Boots
 Masterwork Armored Boots,Masterwork Armoured Boots
@@ -6,8 +6,8 @@ Noble's Boots,Noble's Boots
 Masterwork Noble's Boots,Masterwork Noble's Boots
 Leather Boots,Leather Boots
 Masterwork Leather Boots,Masterwork Leather Boots
-Travelers Boots,Travellers Boots
-Masterwork Travelers Boots,Masterwork Travellers Boots
+Travelers Boots,Traveller's Boots
+Masterwork Travelers Boots,Masterwork Travelers Boots
 The Farstriders,The Farstriders
 These legendary boots increase the Carrying Capacity of the wearer by 30 lb as well as conferring a +1 bonus to their Fortitude,These legendary boots increase the Carrying Capacity of the wearer by 30lb as well as conferring a +1 bonus to their Fortitude
 The Tyrant,The Tyrant
@@ -20,8 +20,8 @@ Leather Gloves,Leather Gloves
 Masterwork Leather Gloves,Masterwork Leather Gloves
 Mailed Gauntlets,Mailed Gauntlets
 Masterwork Mailed Gauntlets,Masterwork Mailed Gauntlets
-Travelers Gloves,Travellers Gloves
-Masterwork Travelers Gloves,Masterwork Travellers Gloves
+Travelers Gloves,Traveller's Gloves
+Masterwork Travelers Gloves,Masterwork Traveller's Gloves
 Headwear,Headwear
 Hat,Hat
 Bonnet,Bonnet
@@ -120,12 +120,12 @@ Poor Studded Leather,Poor Studded Leather
 Astronomer's Journal,Astronomer's Journal
 "A small, well-used journal","A small, well-used journal"
 The journal contains a large amount of tabulated data that appears to be astrological in nature interspersed with notes,"The journal contains a large amount of tabulated data, interspersed with notes, that appears to be astrological in nature"
-The final entries appear to have been made only days before your arrival,"The final entries appear to have been shortly before your arrival, only days prior"
+The final entries appear to have been made only days before your arrival,"The final entries appear to have been made shortly before your arrival, only days prior"
 Observed strange dancing lights in the sky,Observed strange dancing lights in the sky
 Not unlike those sailors to the far south describe near polar regions yet somehow different,"Not unlike those which sailors state witnessing to the far south, near the polar regions, yet somehow, these are different"
-Colors indescribable - Mesmerizing,Colours indescribable - Mesmerising
+Colors indescribable - Mesmerizing,Colours indescribable - mesmerising
 For a fleeting moment I even thought I heard a sound,"For a fleeting moment, I even thought I heard a sound"
-Somewhere between a deep wail and singing,Somewhere between a deep wail and singing
+Somewhere between a deep wail and singing,"somewhere between a deep, plaintive wail and singing"
 Could not perform observations tonight,Could not perform observations tonight
 Charts or instruments are off and I cannot make sense of the sky,"Charts or instruments are off, and I cannot make sense of the sky"
 There are bodies there,There are bodies there
@@ -133,7 +133,7 @@ Bodies that are alien to me,Bodies that are alien to me
 It must be some form of comet storm or some other extraordinary astronomical event that has not been predicted in the Imperial Charts,"It must be a comet storm of sorts, or some other extraordinary astronomical event that has not been predicted in the Imperial Charts"
 They are wrong!,They are wrong!
 I have done the calculations over and over and I come to the same conclusion,I have double-checked the calculations repeatedly and  still come to the same conclusion
-The stars are wrong - in so many ways!,The stars are wrong - in so many ways!
+The stars are wrong - in so many ways!,the stars are wrong - in so many ways!
 "As I observed an alien cluster in the southeastern quadrant, it dawned on me with absolute certainty","As I observed an alien cluster in the southeastern quadrant, it dawned on me with absolute certainty"
 I am not watching them - they are watching me,I am not watching them - they are watching me
 I dread to look again yet I feel compelled to do so,"I dread to look again, yet I feel compelled to do so"
@@ -147,7 +147,7 @@ Origins of the Legionnaire’s Rest,Origins of the Legionnaire’s Rest
 "A small, generic book of lore","A small, generic book of folklore"
 Fawlon’s Treatise on the Origins of Imperial Fauna Excerpt,Fawlon’s Treatise on the Origins of Imperial Fauna Excerpt
 Legionnaire’s Rest,Legionnaire’s Rest
-Colours indescribable - Mesmerising,"Records state the battle of Diagolo pass raged for 3 days, and when it was over, more lives had been lost than saved"
+Colours indescribable - Mesmerising,"Records state the battle of Diagolo pass raged for three days and when it was over, more lives had been lost than saved"
 "It was a time of great sorrow, but from this calamity, new life blossomed","It was a time of great sorrow, but from this calamity, new life blossomed"
 For from the soil beneath which the lost legions lay an abundance of crimson red flowers sprouted forth,For from the soil beneath which the lost legions lay an abundance of crimson red flowers sprouted forth
 "Flowers that, it is said, will only grow upon the graves of those fallen in battle","Flowers that, it is said, will only grow upon the graves of those fallen in battle"
@@ -164,11 +164,11 @@ Mend the bone,Mend the bone;
 "Then lay the body,","Lay the body,"
 Beneath the stone,Under stone.
 AN ODE TO THE POTATO,AN ODE TO THE POTATO
-"Oh, how blessed we’ll be,","Oh, how blessed we’ll be,"
-"To taste your earthy bliss,","To taste your earthy bliss,"
-When we have sown our fields,When we have sown our fields
-And planted your seeds,And planted your seeds
-And awaited rain’s gentle kiss,And awaited rain’s gentle kiss
+"Oh, how blessed we’ll be,","Oh, how blessed we will be,"
+"To taste your earthy bliss,",To taste your earthy bliss.
+When we have sown our fields,We labour and till the land; call to the Maidens with raised hand:
+And planted your seeds,And having heard our plea
+And awaited rain’s gentle kiss,We feel the rain's soft kiss
 Postscript,Postscript
 "For context and comaprison, I have taken the opportunity of adding the transcript of a fruit farmer's tirade to the local magistrate on the issue of the potatoe-related agricultural reforms","For context and comparison, I have taken the opportunity of adding the transcript of a fruit farmer's tirade to the local magistrate on the issue of the potato related agricultural reforms"
 If I receive one more decree commanding me to re-sow my fruit orchards into bloody potato fields!,If I receive one more decree commanding me to re-sow my fruit orchards into bloody potato fields!
@@ -183,7 +183,7 @@ Sorrow-Eater,Sorrow-Eater
 "After hearing her plea, the crone handed the countess’ majordomo a single, violet coloured flower","After hearing her plea, the crone handed the majordomo a single, violet coloured flower"
 "Place this beside her bed, and to it all her sorrow shall be fed","Place this beside her bed, and to it all her sorrow shall be fed"
 "Desperate, the countess’ majordomo did as the crone advised, and less than a tide later, the lay-Countess of Vaul left her chambers for the first time since the loss of her child","Desperate, the countess’s majordomo did as the crone advised, and less than a tide later, the lay-Countess of Vaul left her chambers for the first time since the loss of her child"
-"The tale was quickly passed between courtiers, and ever since, the fauna - aptly named ‘Sorroweater’ - has been given as a gift in times of great sorrow","The tale was quickly passed between courtiers, and ever since, the fauna - aptly named ‘Sorroweater’ - has been given as a gift in times of great sorrow"
+"The tale was quickly passed between courtiers, and ever since, the fauna - aptly named ‘Sorroweater’ - has been given as a gift in times of great sorrow","The tale was quickly passed between courtiers and ever since, the fauna - aptly named ‘Sorroweater’ - has been given as a gift in times of great sorrow"
 The High Forum of 641 was indeed a great success,The High Forum of 641 was indeed a great success
 "As so often when the lay-nobility conveens, much was discussed, little was decided and nothing was accomplished save gluttony, fornication and a stabbing or two","As so often when the lay-nobility conveens, much was discussed, little was decided and nothing was accomplished save gluttony, fornication and a stabbing or two"
 Origins of the Starspawn,Origins of the Starspawn
@@ -193,11 +193,11 @@ Starspawn,Starspawn
 He pleaded to the Gods for help just as a shooting star passed through the sky,He pleaded to the Gods for help just as a shooting star passed through the sky
 "Hearing his cries and taking pity on the young man, the star descended to earth to answer his prayers","Hearing his cries and taking pity on the young man, the star descended to earth to answer his prayers"
 For such was her nature,For such was her nature
-"At first the soldier was grateful, but he became smitten by her beauty and soon grew lustful","At first the soldier was grateful, but he became smitten by her beauty and soon grew lustful"
-Then possessive and finally cruel towards the stellar being,"Then possessive, and finally cruel towards the stellar being"
+"At first the soldier was grateful, but he became smitten by her beauty and soon grew lustful","At first the soldier was grateful, but he became smitten by her beauty and shortly thereafter began to grow lustful"
+Then possessive and finally cruel towards the stellar being,"The soldier then became possessive of her, and finally cruel towards the stellar being"
 For such was his nature,For such was his nature
-"She refused him, claiming that stars belong to all who love them and the soldier went mad with rage","She refused him, claiming that stars belong to all who love them; upon hearing this, the soldier flew into a mad rage"
-"He strangled her then and there for if he could not have her, no one would","He strangled her there and then, for if he could not have her, no one would"
+"She refused him, claiming that stars belong to all who love them and the soldier went mad with rage","She refused him, claiming that stars belong to all who love them. Upon hearing this, the soldier flew into a mad rage - he strangled here, there and then."
+"He strangled her then and there for if he could not have her, no one would","For if he could not have her, no one would"
 "As the star’s last breath left her, her Sisters began to weep","As the star’s last breath left her, her sisters began to weep"
 "In a shower of burning light, their tears fell to the earth where the star lay, immolating the man who had killed her","In a shower of burning light, their tears fell to the earth where the star lay, immolating the man who had killed her"
 "When dawn finally broke and the stars withdrew, all that was left in their wake was a field of star-shaped flowers","When dawn finally broke and the stars withdrew, leaving their rosy-fingered streaks in the sky, all that remained upon Warda was a field of star-shaped flowers"
@@ -212,14 +212,14 @@ This bright fauna was first discovered in the province of Gorremia following one
 Monk's Journal,Monk's Journal
 We’re working long hours into the night to deal with the recent influx of corpses,We’re working long hours into the night to deal with the recent influx of corpses
 What compels these people to act so cruelly?,What compels these people to act so cruelly?
-Yesterday we had the corpse of a young boy of no more than 12 years come in,Yesterday we had the corpse of a young boy of no more than 12 years come in
-He had been beaten to death by the looks of it,He had been beaten to death by the looks of it
-"Sacred dead preserve me - were it not for the calling, I’m not sure I would have persevered","Sacred dead preserve me - were it not for the calling, I’m not sure I would have persevered"
+Yesterday we had the corpse of a young boy of no more than 12 years come in,Yesterday we had the corpse of a young boy of no more than twelve winters come in
+He had been beaten to death by the looks of it,The marks on his body indicate he was bludgeoned to death
+"Sacred dead preserve me - were it not for the calling, I’m not sure I would have persevered",May the Sacred Dead preserve me and give me the strength to persevere
 A glimmer of light,A glimmer of light
 "Brother Aruun came running up from the crypt, so frightened he had pissed his robes","Brother Aruun came running up from the crypt, so frightened he had pissed his robes"
-He claimed he saw something move down in the crypt,He claimed he saw something move down in the crypt
-Something “unnatural,Something “unnatural
-"We laughed till we fell over and by the end, so did he","We laughed till we fell over and by the end, so did he"
+He claimed he saw something move down in the crypt,"He claimed he saw something move down in the crypt,"
+Something “unnatural,something unnatural.
+"We laughed till we fell over and by the end, so did he","We laughed 'till we fell over; and by the end, so did he"
 No doubt he saw one of the rats but it’s funny where the mind wanders when sleep becomes scarce,"No doubt he saw one of the rats, but it’s funny where the mind wanders when sleep becomes scarce"
 Something is wrong in the village!,Something is wrong in the village!
 They say some kind of riot has broken out,They say some kind of riot has broken out
@@ -238,18 +238,18 @@ I dare not leave this room - I hear them outside,I dare not leave this room - I 
 I too shall pass,I too shall pass
 Black stars beckon,Black stars beckon
 A Ragged Note,A Ragged Note
-A ragged letter that seems to contain direction of some sort,A ragged letter that seems to contain direction of some sort
+A ragged letter that seems to contain direction of some sort,A ragged letter that seems to contain directions of some sort
 Enter the sewers from the harbor through the westernmost outlet,Enter the sewers from the harbour through the westernmost outlet
 Follow the chalk arrows on the wall and make your way east past the central cistern and then south,"Follow the chalk arrows on the wall, and make your way east past the central cistern, and then south"
-From there you’ll find a stairs going down and into the Rat-Maze,From there you’ll find stair going down and into the Rat Maze
+From there you’ll find a stairs going down and into the Rat-Maze,"From there you’ll find a set of stairs going down, leading into the Rat Maze"
 "In the maze, go W, S, S, W, W and you’ll find yourself in the Underhalls","In the maze, go W, S, S, W, W and you’ll find yourself in the Underhalls"
 Mind your manners while you’re there and be sure to peruse the Black Market,"Mind your manners while you’re there, and be sure to peruse the Black Market"
 Surgeon's Journal,Surgeon's Journal
 A journal that was kept by the ship surgeon of the Zephyr,A journal that was kept by the ship surgeon of the Zephyr
 Written on the day of departure from the mainland,Written on the day of departure from the mainland
-Left Adler's Helm today with a full complement of passengers,Left Adler's Helm today with a full complement of passengers
+Left Adler's Helm today with a full complement of passengers,Left for Adler's Helm today with a full complement of passengers bound to Horryn
 Mercenaries by the looks of it,"Mercenaries, by the looks of it"
-Paid well,Paid well
+Paid well,"And paid well, at that"
 Ship was dispatched by Guild before we could fully restock medical supplies,Ship was dispatched by the Guild before we could fully restock medical supplies
 Hopefully we won't need them,"Hopefully, we won't need them"
 "Then again, our passengers make me uneasy","Then again, our passengers make me uneasy"
@@ -286,13 +286,13 @@ Is this to be my fate as well?,Is this to be my fate as well?
 About six months ago,About six months ago
 Saw lights on the shore near the cave entrance,Saw lights on the shore near the cave entrance
 Smugglers Mathias say,"Smugglers, Mathias says"
-"He insists we leave them alone and I am forced to abide, though my mind wanders often to that cave and what may lay within","He insists we leave them alone and I am forced to abide, though my mind wanders often to that cave and what may lay within"
+"He insists we leave them alone and I am forced to abide, though my mind wanders often to that cave and what may lay within","He insists we leave them alone and I am forced to abide, though my mind wanders often to that cave and what may lay within it"
 About a month ago,About a month ago
 I cannot take it any more!,I cannot take it anymore!
 The old bastard is driving me mad!,The old bastard is driving me mad!
 He spies on me and gives me strange looks,He spies on me and gives me strange looks
 And I’m sure he goes through my things!,And I’m sure he goes through my things!
-I went for a walk to clear my head and I ended up by the entrance to the sea-cave,I went for a walk to clear my head and I ended up by the entrance to the sea-cave
+I went for a walk to clear my head and I ended up by the entrance to the sea-cave,I went for a walk to clear my head and I ended up by the entrance to the sea cave
 Something is calling me there,Something is calling me there
 I hear it even in my sleep,I hear it even in my sleep
 About a week before your arrival in Idra,About a week before your arrival in Idra
@@ -335,8 +335,8 @@ x Eggs - Potatoes - Onions,x Eggs - Potatoes - Onions
 Sea bird eggs will do just fine,Sea bird eggs will do just fine
 Onions grow wild in abundance,Onions grow wild in abundance
 Cabal Journal,Cabal Journal
-A journal that appears to have been written by one of the members of the Cabal expedition,A journal that appears to have been written by one of the members of the Cabal expedition
-This one was found in the base-camp,This one was found in the base-camp
+A journal that appears to have been written by one of the members of the Cabal expedition,A journal that appears to have been written by one of the members of the Cabal expedition that was dispatched to the Priory
+This one was found in the base-camp,This one was found in the base camp
 ENTRY,ENTRY
 We’ve finally arrived at the Priory and found it in shockingly good condition,We’ve finally arrived at the priory and found it in shockingly good condition
 It’s as if time has stood still here,It’s as if time has stood still here
@@ -356,12 +356,12 @@ Our apothecary is so far at a loss at curing it but suggests that proximity to t
 I’ve ordered that masks be worn near the growths,I’ve ordered that masks be worn near the growths
 A breakthrough,A breakthrough
 We found a document in the scriptorium with a verse on it!,we found a document in the scriptorium with a verse on it!
-It’s so clear now,It’s so clear now
+It’s so clear now,It’s all so clear now
 The portal had been hidden in plain sight all along - all it took to open it was the correct configuration of the statues!,The portal had been hidden in plain sight all along - all it took to open it was the correct configuration of the statues!
 The dreaming halls await!,The dreaming halls await!
 A journal that appears to have been written by one of the members of the Cabal expedition that was dispatched to the Priory,A journal that appears to have been written by one of the members of the Cabal expedition that was dispatched to the Priory
 This one was found on a cocooned corpse in the catacombs,This one was found on a cocooned corpse in the catacombs
-We entered the ‘Dreaming Hall’ today,We entered the ‘Dreaming Hall’ today
+We entered the ‘Dreaming Hall’ today,"We entered the ""Dreaming Hall"" today"
 I’m awestruck by the mystery of it all,I’m awestruck by the mystery of it all
 What secrets did the Sleeper whisper to the monks as they dreamed?,What secrets did the Sleeper whisper to the monks as they dreamed?
 We must push on and soon enough we too shall stand before his timeless glory,"We must push on and soon enough, we too shall stand before his timeless glory"
@@ -384,11 +384,11 @@ Something far older than the Priory itself,Something far older than the Black Pr
 Older than the Empire even is the talk around camp,"Older than the Empire even, is the talk around camp"
 I just wish my insides didn’t hurt as much,I just wish my insides didn’t hurt as much
 They’re sending me down with the next shipment of tools,They’re sending me down with the next shipment of tools
-That means passing the ‘night-maze’,That means passing the ‘night maze’
-They say it can’t be lit even by magical lighting,"They say it can’t be lit, even by magical lighting"
+That means passing the ‘night-maze’,"That means passing the ""night maze"""
+They say it can’t be lit even by magical lighting,"They say it cannot be lit, even by magical lighting"
 I hate the dark,How I loathe the dark
 Apparently it’s easy enough to navigate if you know how,"Apparently, it’s easy enough to navigate if you know how"
-South until you hit the first wall and then west until wall - north until wall - west until wall - north until wall - west until wall - then north and you’re there,"South, until you hit the first wall; and then west, until wall; north, until wall; west, until wall; north, until wall; west, until wall - then north; and you’re there"
+South until you hit the first wall and then west until wall - north until wall - west until wall - north until wall - west until wall - then north and you’re there,"South, until you hit the first wall; and then west, until wall; north, until wall; west, until wall; north, until wall; west, until wall - then north: and you’re there"
 I went all the way to the sanctum this time,I went all the way to the sanctum this time
 By the Golden how I wish I had not,"By the Golden, how I wish I had not"
 How can such a thing be?,How can such a thing be?
@@ -484,19 +484,19 @@ Cream,Cream
 Rich and creamy,Rich and creamy. But not butter
 Don’t let the cat have it,Don’t let the cat have it
 Dried Meat,Dried Meat
-"A favorite amongst adventures, this smoky, preserved meat can last longer than most people’s lives","A favourite amongst adventures, this smoky, preserved meat can last longer than most people’s lives"
+"A favorite amongst adventures, this smoky, preserved meat can last longer than most people’s lives","A favourite amongst adventures, this smoky, preserved meat can often outlast the very adventures that carry it."
 Eel,Eel
 "Due to their abundance in both rivers and oceans, eels are one of the most popular seafoods in the Empire","Due to their abundance in both rivers and oceans, eels are one of the most popular seafoods in the Empire"
 "So popular, in fact, that some citizens have even been known to accept them as payment","So popular, in fact, that some citizens have even been known to accept them as payment"
 Eggs,Eggs
 Don't put them all in one basket,Don't put them all in one basket
 Perklin,Perklin
-The humble perklin makes up for its meager size with its abundance,The humble perklin makes up for its meager size with its abundance
-It's often perserved with salt and eaten year round,It's often preserved with salt and eaten year round
+The humble perklin makes up for its meager size with its abundance,The perennial perklin. A humble little fish that makes up for its meager size with its abundance
+It's often perserved with salt and eaten year round,It's often preserved with salt and eaten all year round
 The smell is an acquired taste,The smell is an acquired taste
 Redman,Redman
-The tongue and eyes of the redman swells grotesquely once it's pulled from the depth in which it dwells,The tongue and eyes of the redman swells grotesquely once it's pulled from the depth in which it dwells
-"Despite its apperance, however, its flesh is considered a delicacy when served baked with lemons and vegetables","Despite its appearance, however, its flesh is considered a delicacy when served baked with lemons and vegetables"
+The tongue and eyes of the redman swells grotesquely once it's pulled from the depth in which it dwells,The tongue and eyes of the redman swell grotesquely once it's pulled from the depth in which it dwells
+"Despite its apperance, however, its flesh is considered a delicacy when served baked with lemons and vegetables","Despite its appearance however, its flesh is considered a delicacy when served baked with lemons and vegetables"
 Steel-Fin,Steel-Fin
 Dead fish eyes stare up at you,Dead fish eyes stare up at you
 Steel-Fin is a staple on dinner tables throughout the Outer Isles,Steel-Fin is a staple on dinner tables throughout the Outer Isles
@@ -507,7 +507,7 @@ From these flows countless tons of grain and rich white flour,From these flows c
 Garlic,Garlic
 "Pungent and full of flavor, this herb is most frequently used to enhance a variety of meals","Pungent and full of flavour, this herb is most frequently used to enhance a variety of meals"
 Cured Ham,Cured Ham
-"Tender, savory and long lasting","Tender, savory and long lasting"
+"Tender, savory and long lasting","Tender, savoury and long lasting"
 Cured ham is found in the cellar of every well-to-do merchant and petty noble in the Empire,Cured ham is found in the cellar of every well-to-do merchant and petty noble in the Empire
 Honey,Honey
 "Sticky and sweet, this ingredient is often used by cooks to sweeten or preserve food, and is a staple in every mead-makers arsenal","Sticky and sweet, this ingredient is often used by cooks to sweeten or preserve food, and is a staple in every mead-makers arsenal"
@@ -519,9 +519,9 @@ Lemons,Lemons
 Baked Crab,Baked Crab
 The crab flesh is coated in spiced butter before baking in the oven to perfection,The crab flesh is coated in spiced butter before baking in the oven to perfection
 Baked Mushrooms,Baked Mushrooms
-The nutty flavor of the wyrdloaf mixes wonderfully with the aromas of garlic to produce a meal fit for an emperor,The nutty flavor of the wyrdloaf mixes wonderfully with the aromas of garlic to produce a meal fit for an emperor
+The nutty flavor of the wyrdloaf mixes wonderfully with the aromas of garlic to produce a meal fit for an emperor,The nutty flavour of the wyrdloaf mixes wonderfully with the aromas of garlic to produce a meal fit for an emperor
 Baked Onions,Baked Onions
-"Onions are easily grow, keep for long and go a long ways towards covering up the taste of half-spoiled fish or meat","Onions are easily grow, keep for long and go a long ways towards covering up the taste of half-spoiled fish or meat"
+"Onions are easily grow, keep for long and go a long ways towards covering up the taste of half-spoiled fish or meat","Onions are easily grown, keep for a long while, and go a long ways towards covering up the taste of half-spoiled fish or meat"
 Baked Oysters,Baked Oysters
 Tender oysters coated in bread-crumbs and baked until just right,Tender oysters coated in breadcrumbs and baked until just right
 You just hope the oysters were fresh,You just hope the oysters were fresh
@@ -554,12 +554,12 @@ Farmer's Omelette,Farmer's Omelette
 Mushroom Omelette,Mushroom Omelette
 The mushroom omelette tastes of the forest,The mushroom omelette tastes of the forest
 Apple Pie,Apple Pie
-Sweet and comforting,Sweet and comforting
+Sweet and comforting,"Sweet and a litte tart, but all comforting"
 Pumpkin Pie,Pumpkin Pie
 Nothing says autumn like a nice old slice of pumpkin pie,Nothing says autumn like a nice old slice of pumpkin pie
 Roasted Eel,Roasted Eel
 Crispy skin and tender meat,Crispy skin and tender meat
-The roasted eel is seasoned with garlic and served with potato chips,The roasted eel is seasoned with garlic and served with thickly-cut potato chips
+The roasted eel is seasoned with garlic and served with potato chips,The roasted eel is seasoned with garlic and served with thickly-cut wedges of potato
 Cheese Sandwich,Cheese Sandwich
 "For a few short moments, whilst eating a melted cheese sandwich, all is well in the world","For a few short moments, whilst eating a melted cheese sandwich, all is well in the world"
 Mushroom Soup,Mushroom Soup
@@ -574,15 +574,15 @@ Penny Buns are mushrooms that make for excellent eating,Penny Buns are mushrooms
 Wyrdloaf,Wyrdloaf
 Wyrdloaf are mushrooms that make for excellent eating,Wyrdloaf are mushrooms that make for excellent eating
 Nuts,Nuts
-"Often added to meat dishes to boost nutrition, these tasty treats can be found growing on various trees and bushes throughout the Empire","Often added to meat dishes to boost nutrition, these tasty treats can be found growing on various trees and bushes throughout the Empire"
+"Often added to meat dishes to boost nutrition, these tasty treats can be found growing on various trees and bushes throughout the Empire","Often added to meat dishes to make them more nourishing, these tasty treats can be found growing on various trees and bushes throughout the Empire"
 Onions,Onions
 Oysters,Oysters
 This earthy flavored molluscs has been known to increase a person’s desire and sexual stamina,These earthy flavoured molluscs have been known to increase a person’s desire and sexual stamina
-No wonder then that the courtiers and lay nobility of the Heartlands gorge themselves on this delicacy,No wonder then that the courtiers and lay-nobility of the Heartlands gorge themselves on this delicacy
+No wonder then that the courtiers and lay nobility of the Heartlands gorge themselves on this delicacy,"It's no wonder then, that the courtiers and lay-nobility of the Heartlands gorge themselves on this delicacy"
 Just remember to smell them before you eat them,Just remember to smell them before consumption
 Pear,Pear
-"A freshly picked, juicy pear","A freshly picked, juicy pear. A versatile fruit with many variants of different flavours. Eat it straight off the tree, bake it in a pie or crumble, turn it into a fool with cream, or, best of all, make brandy out of it!"
-"Eat it fresh, bake it in a pie or make brandy from it!","The wood itself is prized for its properties among musicians, who can often be found playing in the taverns of villages with pear orchards"
+"A freshly picked, juicy pear","A freshly picked, juicy pear. A versatile fruit with many variants of different flavours. Eat it straight off the tree, bake it in a pie or crumble, turn it into a fool with cream, or, best of all, make brandy out of it"
+"Eat it fresh, bake it in a pie or make brandy from it!","The wood itself is prized for its properties among musicians, who can often be found playing in the taverns of villages with pear orchards."
 Potatoes,Potatoes
 Pumpkin,Pumpkin
 A bit watery and tasteless but might work well in a soup or a pie,"A bit watery and tasteless, but might work well in a soup or a pie"
@@ -602,13 +602,13 @@ Squid,Squid
 Sugar,Sugar
 "Due to its rarity, this sweet ingredient is usually only found in the kitchens of noble and middle-class households where it is typically used to make glorious pastries and confections","Due to the intensive and costly procedure involved its purification, fine sugar is a rarity, its sweetness reserved only for the kitchens of noble and middle-class households where it is typically used as an ingredient in glorious pastries and confections"
 Beef,Beef
-"A favorite on many a noble’s table, this thick cut of meat is as rich in iron as it is in flavor","A favourite on many a noble’s table, this thick cut of meat is as rich in iron as it is in flavour"
+"A favorite on many a noble’s table, this thick cut of meat is as rich in iron as it is in flavor","A favourite on the table of many a nobleman, this thick cut of meat is as rich in iron as it is in flavour"
 Warberries,Warberries
 Rich harvests from the warberry bush is said to portend war,Rich harvests from the warberry bush is said to portend war
 These tart berries are often used to make jams or other preserves in case food should become scarce,These tart berries are often used to make jams or other preserves in case food should become scarce
 Ombarian Wine,Ombarian Wine
 Fine wine imported from the vinyards of the Ombaria,Fine wine imported from the vineyards of the Ombaria
-Rumors abound of grape harvests failing due to drought in the Heartlands and wine is currently hard to come by,"Rumors abound of grape harvests failing due to drought in the Heartlands, making wine currently hard to come by"
+Rumors abound of grape harvests failing due to drought in the Heartlands and wine is currently hard to come by,"Rumours abound of grape harvests failing due to drought in the Heartlands, making wine currently hard to come by"
 #Gems,#Gems
 Amethyst,Amethyst
 "A common variety of quartz often believed to offer enlightenment, this gemstone is often found in the mountains of Gorremia","A common variety of quartz often believed to offer enlightenment, this gemstone is often found in the mountains of Gorremia"
@@ -616,7 +616,7 @@ Archon's Eye,Archon's Eye
 A common gemstone across the Empire,A common gemstone across the Empire
 Crones will tell you it protects the user from bad luck,Crones will tell you it protects the user from bad luck
 Diamond,Diamond
-The “Empress” of gemstones,The 'Empress' of gemstones
+The “Empress” of gemstones,"The ""Empress"" of gemstones"
 Emerald,Emerald
 A highly coveted semi-precious stone often worn by members of the lay-nobility,A highly coveted semi-precious stone often worn by members of the lay-nobility
 Moonstone,Moonstone
@@ -624,7 +624,7 @@ Moonstone,Moonstone
 Opal,Opal
 This semi-precious stone is found in far Arassha and is often inset in items of power,This semi-precious stone is found in far Arassha and is often inset in items of power
 Painite,Painite
-"A rare mineral often misidentified as a ruby, this gemstone is often called “The Jewler’s Best Friend","A rare mineral often misidentified as a ruby, this gemstone is often called “The Jeweller’s Best Friend."
+"A rare mineral often misidentified as a ruby, this gemstone is often called “The Jewler’s Best Friend","A rare mineral often misidentified as a ruby, this gemstone is often called ""The Jeweller’s Best Friend."
 Pearl,Pearl
 "A spherical stone, typically white or bluish-gray, the pearl is a favorite of rich sea-merchants","A spherical stone, typically white or bluish-grey, the pearl is a favourite of rich sea merchants"
 Red Beryl,Red Beryl
@@ -670,8 +670,8 @@ Ruby Necklace,Ruby Necklace
 Ancient Gold Necklace,Ancient Gold Necklace
 Ancient Jade Necklace,Ancient Jade Necklace
 The Guarded Heart,The Guarded Heart
-A beautifully crafted golden ring with a heart carved into it,A beautifully crafted golden ring with a heart carved into it
-The wearer of this ring will find their resolve strengthened,The wearer of this ring will find their resolve strengthened
+A beautifully crafted golden ring with a heart carved into it,"A resplendent and pure silver ring, beautifully crafted with a heart carved into it"
+The wearer of this ring will find their resolve strengthened,The wearer of this ring shall find his resolve strengthened
 Adds +1 to Will,Adds +1 to Will
 Skull Ring,Skull Ring
 An exquisitely crafted ring that could be quite valuable,An exquisitely crafted ring that could be quite valuable
@@ -954,9 +954,9 @@ Round Shield,Round Shield
 Bone Comb,Bone Comb
 "Finely carved from whale-bone, these combs provide a small modicum of luxury to the women and long-haired men of the Outer Isles","Finely carved from whalebone, these combs provide a small modicum of luxury to the women and long-haired men of the Outer Isles"
 Buttons,Buttons
-A small collection of mismatched buttons,A small collection of mismatched buttons
+A small collection of mismatched buttons,A small collection of mismatched buttons. Mothers keep a stash of these just in case.
 Conch Shell,Conch Shell
-You can hear the sea in them,You can hear the sea in them
+You can hear the sea in them,You can hear and see into the– Here! You can sea into the– You can hear the sea in them
 Cracked Wine Jug,Cracked Wine Jug
 A clay vessel commonly used to hold wine,A clay vessel commonly used to hold wine
 It does its job poorly,It does its job poorly
@@ -980,17 +980,17 @@ A glass vessel half full of rich Ombarian ink,A glass vessel half full of rich O
 Mug,Mug
 A roughly made mug,A roughly made mug
 Likely used for the Empire's drink of choice,Likely used for a citizen of the Empire's drink of choice
-Ale,Ale
+Ale,ale
 Old Shears,Old Shears
 A cutting tool commonly used by local farmers to shear their meager flocks,A cutting tool commonly used by local farmers to shear their meager flocks
 Ornate Gamepiece,Ornate Game Piece
-A piece from a set of pieces belonging to the game “Lancers,A piece from a set of pieces belonging to the game “Lancers
+A piece from a set of pieces belonging to the game “Lancers,"A piece from a set of pieces belonging to the game ""Lancers"
 Ornate Hand Mirror,Ornate Hand Mirror
-"Commonly used by members of nobility to check their appearance, these handheld items are believed by some to be ‘mirrors to the soul’","Commonly used by members of nobility to check their appearance, these handheld items are believed by some to be ‘reflections of the soul’"
+"Commonly used by members of nobility to check their appearance, these handheld items are believed by some to be ‘mirrors to the soul’","Commonly used by members of nobility to check their appearance, these handheld items are believed by some to be ""reflections of the soul"""
 Parchment,Parchment
 A stack of writing paper,A stack of writing paper
-Pitcher,Pitcher
-A pitcher used for serving drinks,A pitcher used for serving drinks
+Pitcher,Flagon
+A pitcher used for serving drinks,A large flagon used for serving drinks
 Plate,Plate
 A tin plate used for serving meals,A tin plate used for serving meals
 Ream of Fine Cloth,Ream of Fine Cloth
@@ -1013,7 +1013,7 @@ Wooden Doll,Wooden Doll
 "A toy made from smooth yew, these doll’s are popular gifts given to local children","A toy made from smooth yew, these dolls are popular gifts given to local children"
 Weaving Comb,Weaving Comb
 A tool commonly used in the weaving of tapestries,A tool commonly used in the weaving of tapestries
-This one appears to be made from the wood of the Yew Trees often found in the Outer Isles,This one appears to be made from the wood of the Yew Trees often found in the Outer Isles
+This one appears to be made from the wood of the Yew Trees often found in the Outer Isles,"Though boxwood is more popular on the mainland, this one appears to be made from the wood of the Yew Trees often found in the Outer Isles"
 Worn Dice,Worn Dice
 The bane of fools everywhere,The bane of fools everywhere
 You wonder how many fortunes have fallen prey to its faded numbers,You wonder how many fortunes have fallen prey to its faded numbers

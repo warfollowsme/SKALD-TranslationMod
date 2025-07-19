@@ -257,8 +257,8 @@ Secondary Stats,Estadísticas secundarias
 Combat Stats,Estadísticas de combate
 Crit Chance,Probabilidad de Crit
 Initiative,Iniciativa
-Melee To Hit,Cuerpo a cuerpo para golpear
-Ranged To Hit,A distancia Para golpear
+Melee To Hit,Golpear cuerpo a cuerpo
+Ranged To Hit,Golpear a distancia
 Defences,Defensas
 Dodge,Esquivar
 Toughness,Tenacidad
@@ -294,7 +294,7 @@ WILLPOWER,FUERZA DE VOLUNTAD
 Willpower describes a character’s ability to withstand mind-affecting conditions such as those caused by spells,"La fuerza de voluntad describe la capacidad de un personaje para resistir condiciones que afectan a la mente, como las causadas por hechizos."
 This attribute influences,Este atributo influye en
 Main Attribute,Atributo principal
-Counts encumberance from Headwear,Contabiliza los gastos de Headwear
+Counts encumberance from Headwear,Cuenta el estorbo de los cascos.
 Counts encumberance from Gloves,Cuenta estorbo de Guantes
 Counts encumberance from Armor and Footwear,Cuenta estorbo de Armaduras y Calzado
 Abilities,Habilidades

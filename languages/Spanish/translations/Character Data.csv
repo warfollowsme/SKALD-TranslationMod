@@ -18,14 +18,14 @@ the red-faced scullion bows slightly,El pinche de cara roja hace una ligera reve
 Servants,Servicio
 Henchman,Secuaz
 Brigand Archer,Arquero bandido
-Brigand Rogue,Bandido picaro
-Brigand Swordsman,Espadachin bandido
+Brigand Rogue,Bandido pícaro
+Brigand Swordsman,Espadachín bandido
 Child,Niño
-Jester,Bufon
+Jester,Bufón
 Farmer,Agricultor
 Fruit-Picker,Recolector de frutas
 Handmaid,Criada
-Crewmember,Miembro de la tripulacion
+Crewmember,Miembro de la tripulación
 Refugee,Refugiado
 "A ragged, hungry refugee from Horryn",Un refugiado harapiento y hambriento de Horryn
 Treasure Hunter,Cazador de tesoros
@@ -41,36 +41,36 @@ Spell Merchant,Comerciante de hechizos
 Trinket Merchant,Comerciante de baratijas
 Pilgrim,Peregrino
 Reaver Berserker,Berserker devorador
-Reaver Brute,Bruto reaver
-Reaver Scout,Explorador Reaver
+Reaver Brute,Bruto saqueador
+Reaver Scout,Explorador Saqueador
 Reaver,Saqueador
-Reaver Blackguard,Reaver Blackguard
-Reaver Mystic,Mistico Reaver
+Reaver Blackguard,Saqueador GuardiaOscura
+Reaver Mystic,Saqueador Mistico
 Cultist,Cultista
 Prisoner,Prisionero
 Wretch,Desgraciado
 Sailor,Marinero
-Captain,Capitan
+Captain,Capitán
 Mad Sailor,Marinero loco
-Mad Sailo,Sailo loco
+Mad Sailo,Marinero loco
 Guild Magos,Magos del gremio
 Guild Mag,Revista del gremio
 Wight,Wight
 Apprentice,Aprendiz
 Feral Clone,Clon salvaje
 #Monsters,#Monstruos
-Giant Bat,Murcielago gigante
+Giant Bat,Murciélago gigante
 Giant Beetle,Escarabajo gigante
 Rhino Beetle,Escarabajo rinoceronte
 Carrion Crawler,Carroñero
-Giant Centipede,Ciempies gigante
-Fell Crab,Cangrejo caido
-Corpse Eater,Devorador de cadaveres
+Giant Centipede,Ciempiés gigante
+Fell Crab,Cangrejo caído
+Corpse Eater,Devorador de cadáveres
 Giant Crab,Cangrejo gigante
 Crab,Cangrejo
 Rot Crab,Cangrejo podrido
 Spider Crab,Cangrejo araña
-Brood Guard,Guardia de cria
+Brood Guard,Guardia de cría
 Father,Padre
 Deep One Priestess,Sacerdotisa de lo Profundo
 Deep One Queen,Reina Profunda
@@ -80,7 +80,7 @@ Ghoul,Demonio necrofago
 Frost Ghoul,Necrofago de escarcha
 Giant Gnat,Mosquito gigante
 Cave Gnat,Mosquito de cueva
-Fell Hog,Cerdo caido
+Fell Hog,Cerdo caído
 Dire Hound,Perro terrible
 Fell Hound,Perro de caza
 Ice Hound,Sabueso de hielo
@@ -89,15 +89,15 @@ Shadow Stalker,Acechador de sombras
 Giant Leech,Sanguijuela gigante
 Albino Leech,Sanguijuela albina
 Bloodletter,Sangrador
-Fell Lizard,Lagarto caido
+Fell Lizard,Lagarto caído
 Alpha Lizard,Lagarto Alfa
 Giant Lizard,Lagarto gigante
 Ice Salamander,Salamandra de hielo
 Mold Child,Niño con moho
 Ooze,Rezumar
-Flesh Ooze,Supuracion de carne
+Flesh Ooze,Supuración de carne
 Medusa Jelly,Medusa Jelly
-Risen Ooze,Risen Ooze
+Risen Ooze,Cieno Alzado
 Magma Ooze,Magma Ooze
 Magmite,Magmita
 Large Ooze,Gran limo
@@ -107,13 +107,13 @@ Chitters-In-Darkness,Chitters-In-Darkness
 Rabid Rat,Rata rabiosa
 Shade,Sombra
 Dire Serpent,Serpiente terrible
-Fell Serpent,Serpiente caida
+Fell Serpent,Serpiente caída
 Giant Snake,Serpiente gigante
 Fleshstrider,Caminante de carne
-Flying Polyp,Polipo volador
-Dragon's Herald,Heraldo del Dragon
+Flying Polyp,Pólipo volador
+Dragon's Herald,Heraldo del Dragón
 Evolved,Evolucionado
-Newborne,Recien nacido
+Newborne,Recién nacido
 Vessel,Buque
 Stalker,Acosador
 Giant Spider,Araña gigante
@@ -131,7 +131,7 @@ Calipero,Calipero
 Lyra,Lira
 Malachai,Malachai
 Driina,Driina
-The imposing cleric turns to face you,El imponente clerigo se gira para mirarte
+The imposing cleric turns to face you,El imponente clérigo se gira para mirarte
 "There's a steely resolve in her eyes, but she gives you a warm, if sad smile by way of greeting","Hay una férrea determinación en sus ojos, pero te dedica una cálida, aunque triste, sonrisa a modo de saludo."
 Embla,Embla
 Bernard,Bernardo
@@ -145,7 +145,7 @@ Jeb,Jeb
 Vendor,Proveedor
 Klara,Clara
 Majordomo,Mayordomo
-Drummer,Bateria
+Drummer,Batería
 Piper,Flautista
 Lutist,Laudista
 Camilla,Camila
@@ -174,16 +174,16 @@ Dono,Dono
 Anto,Anto
 Zhara,Zhara
 Iben,Iben
-Chamberlain,Chambelan
+Chamberlain,Chambelán
 Markus,Marcos
-Chamberlain to the governor of Idra,Chambelan del gobernador de Idra
+Chamberlain to the governor of Idra,Chambelán del gobernador de Idra
 Jakub,Jakub
 Ella,Ella
 {addVocalBarkLocal|I've too much on my mind right now...},{addVocalBarkLocalTengo demasiadas cosas en la cabeza ahora mismo…}
 Giorgy,Giorgy
 "A ragged man, caked in dirt","Un hombre harapiento, cubierto de tierra"
 Marita,Marita
-Lighthouse Keeper,Guardian del faro
+Lighthouse Keeper,Guardián del faro
 Lon,Lon
 The camp's cook,El cocinero del campamento
 Hannah,Hannah
@@ -195,7 +195,7 @@ Maija,Maija
 Andros,Andros
 Marsa,Marsa
 A young girl,Una jovencita
-She's ragged and far to lean but she is smiling from ear to ear as she clutches her stuffed animal,Esta desaliñada y demasiado delgada  pero sonrie de oreja a oreja mientras agarra su animal de peluche
+She's ragged and far to lean but she is smiling from ear to ear as she clutches her stuffed animal,Esta desaliñada y demasiado delgada  pero sonríe de oreja a oreja mientras agarra su animal de peluche
 She's ragged and far to lean and looks like she's been crying recently,Está desaliñada y demasiado delgada y parece que ha estado llorando recientemente.
 Mother Katak,Madre Katak
 "An old, silver-haired crone",Una vieja bruja de pelo plateado

@@ -98,7 +98,7 @@ The ability to avoid incoming attacks and other reflex-based dangers,Represents 
 Toughness,Toughness
 The character’s ability to withstand adverse physical effects such as disease and poison,The character’s ability to withstand adverse physical effects such as disease and poison
 Willpower,Willpower
-Willpower describes a character’s ability to withstand mind-affecting conditions such as those caused by spells,"Represents the amount of fortitude a character possesses; their ability to withstand mind-affecting conditions, such as those caused by spells"
+Willpower describes a character’s ability to withstand mind-affecting conditions such as those caused by spells,"Represents the amount of fortitude a character possesses: that is to say their ability to withstand mind-affecting conditions, such as those caused by spells"
 #HitBonuses,#HitBonuses
 Bonus - Axes,Bonus - Axes
 Critical bonuses increase your critical chance for the indicated weapon type,Critical bonuses increase your critical chance for the indicated weapon type
@@ -170,7 +170,7 @@ Agility,Agility
 "A measure of hand-eye coordination, nimbleness and dexterity","A measure of hand-eye co-ordination, overall nimbleness and dexterity"
 Describes how tough and resilient a character is,A measure of a character's toughness and physical resilience
 Intellect,Intellect
-"Mental acuity, recall and analytical skill","Mental acuity, recall and analytical skill"
+"Mental acuity, recall and analytical skill","Mental acuity, recall and, analytical skill"
 Presence,Presence
 A character's ability to read and react to the surrounding environment and people,A character's ability to read and react to the surrounding environment and to people
 Strength,Strength
@@ -213,8 +213,8 @@ Vitality describes the amount of damage a character can take before becoming ser
 Vitality is fairly easily regained through the use of consumable items and spells,Vitality may be regained through the use of consumable items and spells
 Wounds,Wounds
 Wounds represent serious injury to the character,Wounds represent serious injuries sustained by the character
-"Wounds are much harder to recover for characters, typically requiring bed rest","Once afflicted, Wounds cannot be recovered from easily, typically requiring a period of convalescence; bed rest"
-#Skills,#Skills
+"Wounds are much harder to recover for characters, typically requiring bed rest",#Skills
+#Skills,
 Athletics,Athletics
 "Athletics are used to jump, climb, swim or sprint","Athletics is used to jump, climb, swim, or sprint"
 Awareness,Awareness
@@ -233,6 +233,6 @@ Stealth,Stealth
 Stealth is used during adventuring,Stealth is actively used during adventuring
 In particular it determines if NPCs notice the party as it moves around,"In particular, it determines if NPCs notice the party as it moves"
 Survival,Survival
-"Survival is used to forage for food, navigate difficult overland terrain and also determines a character's general knowledge of nature",Survival is used when foraging. navigating difficult overland terrain; and represents the insight a character has in the ways of nature
+"Survival is used to forage for food, navigate difficult overland terrain and also determines a character's general knowledge of nature","Survival is used when foraging, navigating difficult overland terrain; and represents the insight a character has in the ways of nature"
 Thievery,Thievery
 Used to pick locks and pockets as well as to steal from shops,"Used to pick locks, lift pockets, and steal from shops"

@@ -16,7 +16,7 @@ Speed,Velocidad
 Adds +1 to Movement Speed,Añade +1 a la velocidad de movimiento
 Heroic,Heroico
 Adds +1 to all five Primary Attributes,Añade +1 a los cinco atributos principales
-Protection,Proteccion
+Protection,Protección
 "adds +1 to Will, Toughness and Dodge","Añade +1 a Voluntad, Resistencia y Esquiva."
 Defence,Defensa
 Adds +1 to Dodge,Añade +1 a Esquivar
@@ -28,12 +28,12 @@ Athletics,Atletismo
 Adds +1 to Athletics,Añade +1 a Atletismo
 Awareness,Conciencia
 Adds +1 to Awareness,Añade +1 a Conciencia
-Crafting,Elaboracion
-Adds +1 to Crafting,Añade +1 a Elaboracion
+Crafting,Elaboración
+Adds +1 to Crafting,Añade +1 a Elaboración
 Diplomacy,Diplomacia
 Adds +1 to Diplomacy,Añade +1 a Diplomacia
-Healing,Curacion
-Adds +1 to Healing,Añade +1 a Cicatrizacion
+Healing,Curación
+Adds +1 to Healing,Añade +1 a Curación
 Lore,Ciencia
 Adds +1 to Lore,Añade +1 al conocimiento
 Stealth,Sigilo
@@ -43,23 +43,23 @@ Adds +1 to Survival,Añade +1 a Supervivencia
 Thievery,Robo
 Adds +1 to Thievery,Añade +1 a Robo
 #Weapon Enchantments,#Encantamientos de armas
-Accuracy,Precision
+Accuracy,Precisión
 This Weapon has +2 To Hit,Este El arma tiene +2 para golpear
-Accuracy and Damage,Precision y daño
+Accuracy and Damage,Precisión y daño
 This Weapon does +1 base damage and has +2 To Hit,Este Arma Hace +1 de daño base y tiene +2 para golpear
-Greater Accuracy and Damage,Mayor que Precision y daño
+Greater Accuracy and Damage,Mayor que Precisión y daño
 This Weapon does +3 base damage and has +3 To Hit,Este Arma Hace +3 de daño base y tiene +3 para golpear
-Accuracy - Greater,Precision - Mayor
+Accuracy - Greater,Precisión - Mayor
 This Weapon has +3 To Hit,Este El arma tiene +3 para golpear
-Acid Attack,Acido Ataque
-A small amount of extra acid-damage is caused on a hit,Una pequeña cantidad de daño acido adicional es causado en un golpe
+Acid Attack,Ácido Ataque
+A small amount of extra acid-damage is caused on a hit,Una pequeña cantidad de daño ácido adicional es causado en un golpe
 Frost Attack,Ataque de escarcha
 A small amount of extra cold-damage is caused on a hit,Una pequeña cantidad de daño adicional por frio es causado en un golpe
 Keen,Afecto
 This Weapon does +1 base damage,Esta arma inflige +1 de daño base
 Keen - Greater,Afecto - Mayor
 This Weapon does +3 base damage,Esta arma inflige +3 de daño base
-Lightning Attack,Ataque relampago
+Lightning Attack,Ataque relámpago
 A small amount of extra lightning-damage is caused on a hit,Se causa una pequeña cantidad adicional de daño por rayos al impactar
 Fire Attack,Ataque de fuego
 A small amount of extra fire-damage is caused on a hit,Se inflige una pequeña cantidad adicional de daño por fuego al impactar

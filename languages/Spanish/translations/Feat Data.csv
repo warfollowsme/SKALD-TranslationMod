@@ -1,5 +1,5 @@
 original,traducido
-#Cleric Feats,#Dotes de clerigo
+#Cleric Feats,#Dotes de clérigo
 Medium Armor Expert,Experto en armadura media
 Heavy Armor Expert,Experto en armaduras pesadas
 Body Magic Initiate,Iniciado en Magia Corporal
@@ -18,11 +18,11 @@ Mind Magic Master,Maestro de magia mental
 You may now cast Tier 3 spells of the Mind School,Ahora puedes lanzar hechizos de nivel 3 de la Escuela de la Mente
 Mind Magic Grand Master,Gran Maestro de Magia Mental
 You may now cast Tier 4 spells of the Mind School,Ahora puedes lanzar hechizos de nivel 4 de la Escuela de la Mente
-Religious Training,Formacion religiosa
-Resilience Initiate,Resiliencia Iniciar
+Religious Training,Formación religiosa
+Resilience Initiate,Iniciado Resiliencia 
 Resilience Expert,Experto en resiliencia
 Divine Spellcasting,Lanzamiento de hechizos divinos
-"You gain the ability to learn spells from the Mind, Body and Spirit School","Obtienes la capacidad de aprender hechizos de la Escuela de Mente, Cuerpo y Espiritu"
+"You gain the ability to learn spells from the Mind, Body and Spirit School","Obtienes la capacidad de aprender hechizos de la Escuela de Mente, Cuerpo y Espíritu"
 Spirit Magic Initiate,Iniciado en Magia Espiritual
 You may now cast Tier 1 spells of the Spirit School,Ahora puedes lanzar hechizos de nivel 1 de la Escuela Espiritual
 Spirit Magic Expert,Experto en magia espiritual
@@ -35,10 +35,10 @@ Faithful Initiate,Iniciado fiel
 Faithful Expert,Experto fiel
 Faithful Master,Maestro fiel
 Faithful Grand Master,Fiel Gran Maestro
-Cleric Weapons Initate,Armas de clerigo iniciadas
-Cleric Weapons Expert,Clerigo experto en armas
-Cleric Weapons Master,Maestro de armas clerigo
-Cleric Weapons Grand Master,Gran Maestro de Armas de Clerigo
+Cleric Weapons Initate,Armas de clérigo iniciadas
+Cleric Weapons Expert,Clérigo experto en armas
+Cleric Weapons Master,Maestro de armas clérigo
+Cleric Weapons Grand Master,Gran Maestro de Armas de Clérigo
 #Magos Feats,Hazañas de #Magos
 Air Magic Initiate,Iniciado en Magia del Aire
 Air Magic Expert,Experto en magia del aire
@@ -65,19 +65,19 @@ Fire Magic Master,Maestro de magia de fuego
 Fire Magic Grand Master,Gran Maestro de Magia de Fuego
 Light Weapons Initiate,Iniciado en armas ligeras
 Light Weapons Expert,Experto en armas ligeras
-Touched by the Reticulum,Tocado por el Reticulo
+Touched by the Reticulum,Tocado por el Retículo
 Ranged Weapons Initiate,Iniciado en armas a distancia
 #NPC Feats,Dotes de #NPC
 Warrior,Guerrero
-#Rogue Feats,Hazañas de picaro
+#Rogue Feats,Hazañas de pícaro
 Bardic Magic Initiate,Iniciado en Magia Bardica
 Bardic Magic Expert,Experto en magia bardica
 Bardic Magic Master,Maestro de magia bardica
 Bardic Spellcasting,Lanzamiento de hechizos de bardo
-Backstab Initiate,Iniciar puñalada por la espalda
+Backstab Initiate,Iniciado puñalada por la espalda
 Backstab Expert,Experto en puñaladas por la espalda
 Backstab Master,Maestro de la puñalada por la espalda
-Backstab Grand Master,Gran Maestro de la Puñalada por la Traicion
+Backstab Grand Master,Gran Maestro de la Puñalada por la Traición
 Bard Initiate,Iniciado bardo
 Bard Expert,Bardo experto
 Bard Master,Maestro bardo
@@ -88,11 +88,11 @@ Duelist Master,Maestro duelista
 Duelist Grand-Master,Gran Maestro Duelista
 Mobility Initiate,Movilidad Iniciada
 Mobility Expert,Experto en movilidad
-Mobility Master,Master en Movilidad
-Rogue Blade Initiate,Iniciado de Rogue Blade
+Mobility Master,Maestro en Movilidad
+Rogue Blade Initiate,Iniciado en Hoja de pícaro
 Rogue Blade Expert,Experto en cuchillas rebeldes
-Rogue Ranged Initiate,Iniciado a distancia picaro
-Rogue Ranged Expert,Picaro experto a distancia
+Rogue Ranged Initiate,Iniciado a distancia pícaro
+Rogue Ranged Expert,Pícaro experto a distancia
 Survivor Initiate,Sobreviviente Iniciado
 Survivor Expert,Experto en supervivencia
 Survivor Master,Maestro superviviente
@@ -114,15 +114,15 @@ You may now cast Tier 4 spells of the Nature School,Ahora puedes lanzar hechizos
 Archery Initiate,Iniciado en tiro con arco
 Archery Expert,Experto en tiro con arco
 Archery Master,Maestro de tiro con arco
-Arms Mastery,Maestria en armas
+Arms Mastery,Maestría en armas
 Axe Initiate,Iniciado con hacha
 Axe Expert,Experto en hachas
 Axe Master,Maestro del hacha
 Bred for War,Criados para la guerra
 Tough as Nails,Duro como una roca
-Light Armor Mastery,Maestria en armadura ligera
-Medium Armor Mastery,Maestria en armadura media
-Heavy Armor Mastery,Maestria en armadura pesada
+Light Armor Mastery,Maestría en armadura ligera
+Medium Armor Mastery,Maestría en armadura media
+Heavy Armor Mastery,Maestría en armadura pesada
 Calloused Hands,Manos callosas
 Brutality,Brutalidad
 Bloodthirsty,Sanguinario
