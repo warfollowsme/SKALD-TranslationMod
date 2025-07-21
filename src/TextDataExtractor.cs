@@ -85,7 +85,7 @@ public static class TextDataExtractor
         return outputs;
     }
 
-    // Удаляет внешние кавычки, если они парные и не содержат вложенных
+    // Removes outer quotes if they are paired and do not contain nested ones
     private static string StripQuotesIfWrapped(string s)
     {
         if (s.StartsWith("\"") && s.EndsWith("\"") && s.Count(c => c == '"') == 2)
@@ -395,7 +395,7 @@ public static class TextDataExtractor
     }
 
     /// <summary>
-    /// Извлекает строковые списки
+    /// Extracts string lists
     /// </summary>
     private static void ExtractStringListsToFile(string directory)
     {
@@ -433,7 +433,7 @@ public static class TextDataExtractor
     }
 
     /// <summary>
-    /// Извлекает все предметы
+    /// Extracts all items
     /// </summary>
     private static void ExtractItemsToFile(string directory)
     {
@@ -475,7 +475,7 @@ public static class TextDataExtractor
     }
 
     /// <summary>
-    /// Извлекает категорию предметов
+    /// Extracts item category
     /// </summary>
     private static void ExtractItemCategory<T>(StringBuilder csv, string categoryName, List<T> items) 
         where T : SKALDProjectData.ItemDataContainers.ItemData
@@ -497,7 +497,7 @@ public static class TextDataExtractor
     }
 
     /// <summary>
-    /// Извлекает книги отдельно (с полным содержимым)
+    /// Extracts books separately (with full content)
     /// </summary>
     private static void ExtractBooksToFile(string directory)
     {
@@ -539,7 +539,7 @@ public static class TextDataExtractor
     }
 
     /// <summary>
-    /// Извлекает персонажей
+    /// Extracts characters
     /// </summary>
     private static void ExtractCharactersToFile(string directory)
     {
@@ -589,7 +589,7 @@ public static class TextDataExtractor
     }
 
     /// <summary>
-    /// Извлекает квесты
+    /// Extracts quests
     /// </summary>
     private static void ExtractQuestsToFile(string directory)
     {
@@ -630,7 +630,7 @@ public static class TextDataExtractor
     }
 
     /// <summary>
-    /// Извлекает отдельный квест
+    /// Extracts a single quest
     /// </summary>
     private static void ExtractQuest(StringBuilder csv, SKALDProjectData.QuestContainers.QuestData quest, string questType)
     {
@@ -643,7 +643,7 @@ public static class TextDataExtractor
     }
 
     /// <summary>
-    /// Извлекает журнал
+    /// Extracts journal
     /// </summary>
     private static void ExtractJournalToFile(string directory)
     {
@@ -692,7 +692,7 @@ public static class TextDataExtractor
     }
 
     /// <summary>
-    /// Извлекает способности и заклинания
+    /// Extracts abilities and spells
     /// </summary>
     private static void ExtractAbilitiesAndSpellsToFile(string directory)
     {
@@ -744,7 +744,7 @@ public static class TextDataExtractor
     }
 
     /// <summary>
-    /// Получает путь к директории плагина
+    /// Gets the path to the plugin directory
     /// </summary>
     private static string GetPluginDirectory()
     {
@@ -760,7 +760,7 @@ public static class TextDataExtractor
     }
 
     /// <summary>
-    /// Получает стек проектов из GameData
+    /// Gets the project stack from GameData
     /// </summary>
     private static List<SKALDProjectData> GetProjectStack()
     {
@@ -778,6 +778,59 @@ public static class TextDataExtractor
             Debug.LogError($"Failed to get project stack: {ex.Message}");
             return new List<SKALDProjectData>();
         }
+    }
+
+    private static readonly char[] TrimChars = { ' ', '\t', '\r', '\n' };
+    /// <summary>
+    /// Splits text into parts of ≤ maxLen characters without breaking words.
+    /// </summary>
+    /// <param name="text">Original text.</param>
+    /// <param name="maxLen">Maximum fragment length (default 295).</param>
+    /// <returns>List of fragment strings.</returns>
+    public static List<string> SplitText(string text, int maxLen = 295)
+    {
+        if (maxLen < 1)
+            throw new ArgumentException("maxLen должен быть положительным.", nameof(maxLen));
+
+        var parts = new List<string>();
+        if (string.IsNullOrEmpty(text))
+            return parts;
+
+        var current = new StringBuilder();
+
+        foreach (var token in Regex.Split(text, @"(\s+)"))
+        {
+            if (token.Length == 0) continue;
+
+            // Если слово длиннее лимита — режем его жёстко
+            if (token.Length > maxLen)
+            {
+                if (current.Length > 0)
+                {
+                    parts.Add(current.ToString().TrimEnd(TrimChars));
+                    current.Clear();
+                }
+
+                for (int i = 0; i < token.Length; i += maxLen)
+                    parts.Add(token.Substring(i, Math.Min(maxLen, token.Length - i)));
+
+                continue;
+            }
+
+            // Влезает ли токен в буфер?
+            if (current.Length + token.Length > maxLen)
+            {
+                parts.Add(current.ToString().TrimEnd(TrimChars));
+                current.Clear();
+            }
+
+            current.Append(token);
+        }
+
+        if (current.Length > 0)
+            parts.Add(current.ToString().TrimEnd(TrimChars));
+
+        return parts;
     }
 }
 
