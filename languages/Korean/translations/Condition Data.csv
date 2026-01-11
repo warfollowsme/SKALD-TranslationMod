@@ -1,0 +1,77 @@
+original,translate
+#Magical Conditions,#마법 상태
+Barkskinned,나무 껍질 피부
+Fortified Strength,힘 강화
+Blessed,축복받음
+Blurred,흐릿해짐
+Clarity of Mind,명석한 정신
+Condemned,규탄받음
+Diamondskinned,다이아몬드 피부
+Fell Light,사악한 빛
+The target emits a sinister glow,대상이 불길한 빛을 내뿜습니다
+Fortified Awareness,인지력 강화
+Fortify Initiative,주도권 강화
+Fortified Will,의지력 강화
+Heroic Inspiration,영웅적 고무
+Illuminated,빛남
+"The target glows softly, emitting lighting","대상이 은은하게 빛나며 주위를 밝힙니다"
+Immunity,면역
+Acid,산성
+Electricity,전기
+Fire,화염
+Panic,공황
+Lesser Invisibility,하급 투명화
+Invisible,투명화
+Regeneration - Greater,재생 - 상급
+Regeneration - Lesser,재생 - 하급
+Acid Resistance,산성 저항
+Electric Resistance,전기 저항
+Fire Resistance,화염 저항
+Fortified Agility,민첩 강화
+Slowed,둔화됨
+Stoneskinned,돌 피부
+Thornclad,가시 무장
+Weakened,약화됨
+#Natural Conditions,#자연 상태
+Negative Condition,부정적 상태
+The conditions that currently affects this character,현재 이 캐릭터에게 영향을 미치는 상태입니다
+Fearful,두려움
+Sleeping,수면
+Bleeding,출혈
+Bleeding causes the character to lose 10% of their max Vitality at the start of each turn,출혈로 인해 매 턴 시작 시 최대 활력의 10%를 잃습니다
+Lesser Blindness,하급 실명
+Enthralled,매혹됨
+Confused,혼란
+Deafened,청각 장애
+Moderately Diseased,중급 질병
+Severly Diseased,심각한 질병
+Weakly Diseased,약한 질병
+Disrupted,교란됨
+Exhausted,탈진
+Immobilized,이동 불가
+Injured Arm,팔 부상
+Injured Head,머리 부상
+Injured Leg,다리 부상
+Injured Torso,몸통 부상
+Insane,광기
+Intoxicated,취함
+Nauseous,메스꺼움
+Panicked,공황
+Paralyzed,마비됨
+Moderate Poison,중급 독
+Strong Poison,강한 독
+Poison causes the character to lose 10% of their max Vitality at the start of each turn,독으로 인해 매 턴 시작 시 최대 활력의 10%를 잃습니다
+Weak Poison,약한 독
+Mute,침묵
+Stunned,기절
+#Tactical Conditions,#전술 상태
+Defending,방어 중
+Greater Frenzy,상급 광란
+Lesser Frenzy,하급 광란
+Hamstrung,힘줄 끊김
+Greater Haste,상급 신속
+Lesser Haste,하급 신속
+Inspired,고무됨
+Marked,표적
+Motivated,의욕 충만
+Removes Conditions with Tag,해당 태그가 있는 상태 제거

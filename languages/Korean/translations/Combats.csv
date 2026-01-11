@@ -1,0 +1,36 @@
+original,translate
+#General,#일반
+Victory!,승리!
+Combat!,전투!
+There are no enemies. Press ENTER to leave combat!,적이 없습니다. ENTER 키를 눌러 전투를 종료하십시오!
+Auto-resolving round!,라운드 자동 진행 중!
+Press any key to stop!,중단하려면 아무 키나 누르십시오!
+The combatants stare at each other from across the battlefield,전투원들이 전장 너머로 서로를 응시합니다
+The party has been attacked!,파티가 공격받았습니다!
+Prepare for combat!,전투를 준비하십시오!
+REMEMBER: You can press RETURN on your turn to auto-resolve combat!,기억하세요: 당신의 턴에 RETURN 키를 눌러 전투를 자동 진행할 수 있습니다!
+Round,라운드
+Deploy Your Party!,파티를 배치하십시오!
+Begin Combat!,전투 시작!
+Deploy your party and press {ITEM},파티를 배치하고 {ITEM} 키를 누르십시오
+Deploy Party,파티 배치
+Out of range,사거리 밖
+Pass turn and defend,턴 넘기기 및 방어
+Open the current character's Inventory,현재 캐릭터의 인벤토리 열기
+Hold action until end of turn,턴 종료 시까지 행동 대기
+Slashing Damage,베기 피해
+Bloodied!,피투성이!
+Charge {ITEM},{ITEM} 돌격
+Select an Item to use,사용할 아이템 선택
+View combat log,전투 로그 보기
+Repeat last action,마지막 행동 반복
+No Maneuvers to perform,수행할 기술이 없습니다
+No spells available,사용 가능한 주문이 없습니다
+Perform attack,공격 수행
+Select a Maneuver to perform,수행할 기술을 선택하십시오
+Fire-Spit,화염 침 뱉기
+Electric Damage,전기 피해
+Fire Damage,화염 피해
+Mercenary begun,용병 시작됨
+An option!,선택지!
+Critical Hit!,치명타!

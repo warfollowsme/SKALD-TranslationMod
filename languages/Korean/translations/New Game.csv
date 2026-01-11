@@ -1,0 +1,370 @@
+original,translate
+Select,선택
+Abort,중단
+Pick a Difficulty,난이도 선택
+Character Creation,캐릭터 생성
+Class,직업
+Background,배경
+Attributes,능력치
+Appearance,외형
+Welcome to character creation!,캐릭터 생성에 오신 것을 환영합니다!
+Start by picking a DIFFICULTY for your playthrough,플레이할 난이도를 선택하여 시작하십시오
+Are you sure you want to abort?,정말 중단하시겠습니까?
+Difficulty can be changed during play,난이도는 게임 플레이 중에 변경할 수 있습니다
+Bard,음유시인
+Battlemagos,전투 마법사
+Champion,챔피언
+Hierophant,대사제
+Hospitaller,구호 기사
+Officer,지휘관
+Ranger,순찰자
+Thief,도둑
+Select a Class,직업 선택
+ARMSMASTER,무기 전문가
+Archetype,원형
+Warrior,전사
+The Main Attribute for this Class is Strength,이 직업의 주 능력치는 힘입니다
+Start,시작
+DP,DP
+HP/Lvl,HP/레벨
+Magic/Lvl,마법/레벨
+May use any armor,모든 방어구 사용 가능
+"May use all weapons of type Blade, Axe, Club and Bow","검, 도끼, 곤봉, 활 유형의 모든 무기 사용 가능"
+"Next, select a CLASS for your character!","다음으로, 캐릭터의 직업을 선택하십시오!"
+Classes define a character's role in the party by adding certain exclusive abilities,직업은 특정 전용 능력을 추가하여 파티 내 캐릭터의 역할을 정의합니다
+DEVELOPMENT POINTS,개발 점수
+Development Points are gained when leveling up and used to buy ranks in Feats,"개발 점수는 레벨 업 시 획득하며, 재주 등급을 구매하는 데 사용됩니다"
+This unlocks new Abilities for the Character making them more powerful,이를 통해 캐릭터의 새로운 능력을 잠금 해제하여 더욱 강력하게 만듭니다
+MAIN ATTRIBUTE,주 능력치
+The Main Attribute is the Attribute that is the most important for this Class,주 능력치는 해당 직업에 가장 중요한 능력치입니다
+STRENGTH,힘
+Attribute - Primary,능력치 - 주
+A measure of a character's brawn and physical power,캐릭터의 근력과 신체적 힘을 나타내는 척도입니다
+ATTUNEMENT PER LEVEL,레벨당 마력 조율
+"Indicates how much of the game’s Magic resource, Attunement, is gained every time the character levels up","캐릭터가 레벨 업할 때마다 게임의 마법 자원인 '마력 조율'을 얼마나 획득하는지 나타냅니다"
+VITALITY PER LEVEL,레벨당 활력
+"Indicates how much of the game’s Hitpoint resource, Vitality, is gained every time the character levels up","캐릭터가 레벨 업할 때마다 게임의 체력 자원인 '활력'을 얼마나 획득하는지 나타냅니다"
+BARD,음유시인
+Rogue,도적
+The Bard mixes the Rogue’s decent combat skills and high maneuverability with the use of arcane magic,음유시인은 도적의 전투 기술 및 높은 기동성을 비전 마법과 혼합하여 사용합니다
+The Main Attribute for this Class is Presence,이 직업의 주 능력치는 존재감입니다
+May wear Light armor,경갑 착용 가능
+"May use Light and Medium weapons of type Blade, Axe, Club and Bow","검, 도끼, 곤봉, 활 유형의 소형 및 중형 무기 사용 가능"
+ROGUE,도적
+The Rogue combines important non-combat skills with a large damage output against single targets,도적은 중요한 비전투 기술과 단일 대상에 대한 높은 피해량을 겸비하고 있습니다
+BATTLEMAGOS,전투 마법사
+"Unlike other Magi, they also get access to a few basic combat-related Feats and may wear light armor","다른 마법사들과 달리, 이들은 몇 가지 기초적인 전투 관련 재주를 사용할 수 있으며 경갑을 착용할 수 있습니다"
+The Main Attribute for this Class is Intellect,이 직업의 주 능력치는 지능입니다
+"May use Light weapons of type Blade, Club and Bow","검, 곤봉, 활 유형의 소형 무기 사용 가능"
+CHAMPION,챔피언
+Cleric,성직자
+The Champion is a Cleric who excels in the use of blades and armor whilst still having limited divine spell-casting abilities,챔피언은 검과 방어구 사용에 뛰어나면서도 제한적인 신성 주문 시전 능력을 갖춘 성직자입니다
+May use all weapons of type Blade and Club,검과 곤봉 유형의 모든 무기 사용 가능
+GUILD-MAGOS,길드 마법사
+This comes at the cost of having absolutely no combat related Feats,이는 전투 관련 재주를 전혀 가질 수 없다는 대가를 치릅니다
+May not wear armor,방어구 착용 불가
+HIEROPHANT,대사제
+A Hierophant is a Cleric who can develop all the different Divine Spell Schools fully,대사제는 모든 다양한 신성 마법 학파를 완전히 개발할 수 있는 성직자입니다
+May use Light and Medium weapons of type Club,곤봉 유형의 소형 및 중형 무기 사용 가능
+HOSPITALLER,구호 기사
+The Hospitaller is a Cleric who serves as a front line healer,구호 기사는 최전선 치유사 역할을 하는 성직자입니다
+"Well armed and armored, they can stand their ground against overwhelming foes whilst also getting access to the highest tiers of the Body Magic School","잘 무장하고 갑옷을 갖춰 입었으며 신체 마법 학파의 최상위 티어에 접근할 수 있어, 압도적인 적들에 맞서 자리를 지킬 수 있습니다"
+OFFICER,지휘관
+The Officer is a skilled warrior who serves as a force multiplier through their tactical skills,지휘관은 전술적 기술을 통해 아군의 전력을 증강시키는 숙련된 전사입니다
+"Issuing orders across the battlefield, they vastly improve the performance of their fellow party-members","전장에 명령을 내려 동료 파티원들의 성능을 크게 향상시킵니다"
+RANGER,순찰자
+The Ranger is a Warrior specializing in ranged combat and with access to limited nature magic,순찰자는 원거리 전투에 특화되어 있으며 제한적인 자연 마법을 사용할 수 있는 전사입니다
+THIEF,도둑
+The Thief is a Rogue who uses Stealth to set up devestating Backstab attacks,도둑은 은신을 사용하여 파괴적인 기습(Backstab) 공격을 준비하는 도적입니다
+The Main Attribute for this Class is Agility,이 직업의 주 능력치는 민첩입니다
+STEALTH,은신
+Attribute - Skill,능력치 - 기술
+Stealth is used during adventuring,은신은 모험 중에 사용됩니다
+In particular it determines if NPCs notice the party as it moves around,특히 파티가 이동할 때 NPC가 이를 알아차릴 수 있는지를 결정합니다
+AGILITY,민첩
+"A measure of hand-eye coordination, nimbleness and dexterity","눈과 손의 협응력, 전반적인 날렵함과 손재주를 나타내는 척도입니다"
+BACKSTAB,기습 (Backstab)
+A character that has activated the Ability to Backstab will automatically perform Backstabbing Attacks against opponents that are either Flanked or Vulnerable,기습 능력을 활성화한 캐릭터는 [측면 공격] 당했거나 [취약함] 상태인 적에게 자동으로 기습 공격을 수행합니다
+A successful Backstab Attack adds the character’s Backstab Bonus Multiplied by the Weapon’s Crit Modifier to the damage roll,기습 공격에 성공하면, 캐릭터의 기습 보너스에 무기의 치명타 배수를 곱한 값이 피해량에 추가됩니다
+FLANKING,측면 공격
+A character can be Flanked if opponents occupy the tile above and below it or to the left and right of it,적이 캐릭터의 위/아래 또는 좌/우 타일을 점유하면 해당 캐릭터는 [측면 공격] 상태가 됩니다
+Attacking a Flanked target allows the Attacker to add their Flanking Bonus to the Attack Roll,측면 공격 상태인 대상을 공격하면 공격자는 자신의 [측면 공격 보너스]를 공격 굴림에 추가할 수 있습니다
+Rogues may Backstab Flanked Characters,도적은 측면 공격 상태인 캐릭터에게 기습을 가할 수 있습니다
+BACKSTAB BONUS,기습 보너스
+"If a successful Backstab Attack is performed, this Attribute is multiplied by the Weapon’s Crit multiplier and added to the total Damage","기습 공격에 성공하면, 이 속성값에 무기의 치명타 배수를 곱한 값이 총 피해량에 추가됩니다"
+VULNERABLE,취약함
+A Vulnerable character cannot defend themselves,취약한 캐릭터는 스스로를 방어할 수 없습니다
+This makes them much easier to hit and it also means they can be Backstabbed,이로 인해 훨씬 맞히기 쉬워지며, 기습당할 수도 있습니다
+WARRIOR,전사
+A Warrior is a front-line fighter who can take and deal large amounts of damage,전사는 최전선에서 싸우며 큰 피해를 견디고 입힐 수 있는 투사입니다
+PRESENCE,존재감
+A character's ability to read and react to the surrounding environment and people,주변 환경과 사람들을 읽고 반응하는 캐릭터의 능력입니다
+ATTUNEMENT,마력 조율
+Attribute - Magic,능력치 - 마법
+CLERIC,성직자
+The Cleric offers close-range support to their party through close ranged buffs and restorative spells,성직자는 근거리 강화 효과와 회복 주문을 통해 파티에 근접 지원을 제공합니다
+BODY MAGIC SCHOOL,신체 마법 학파
+The value of this attribute indicates the highest Spell Tier of Body magic spells you may cast,이 속성값은 시전할 수 있는 신체 마법 주문의 가장 높은 티어를 나타냅니다
+SPELL TIER,주문 티어
+"By studying different Schools of Spellcasting, a character gains Spell Tiers in that School","다양한 주문 시전 학파를 연구함으로써 캐릭터는 해당 학파의 주문 티어를 얻습니다"
+Spell Tiers qualify a character to learn spells and different spells have different Tier requirements,주문 티어는 캐릭터가 주문을 배울 자격을 부여하며, 주문마다 요구하는 티어가 다릅니다
+MAGOS,마법사
+"The Magos is a ranged strikers that can cast powerful, and often destructive, spells",마법사는 원거리에서 강력하고 종종 파괴적인 주문을 시전하는 공격 담당입니다
+INTELLECT,지능
+"Mental acuity, recall and analytical skill","정신적 예리함, 기억력, 분석 기술을 나타냅니다"
+FIRE MAGIC SCHOOL,화염 마법 학파
+The value of this attribute indicates the highest Spell Tier of Fire magic spells you may cast,이 속성값은 시전할 수 있는 화염 마법 주문의 가장 높은 티어를 나타냅니다
+Acolyte,수습 사제
+Courtier,궁정인
+Entertainer,유랑 예인
+Ex-Legionary,전직 군단병
+Guilder,길드원
+Laborer,노동자
+Monastic,수도사
+Noble,귀족
+Nomad,유목민
+Snake-Cultist,뱀 숭배자
+Street Rat,부랑아
+Thug,폭력배
+Vagabond,방랑자
+Wildling,야인
+Select a Background,배경 선택
+ACOLYTE,수습 사제
+You claim a connection with the divine that goes far deeper than most,당신은 남들보다 훨씬 깊은 신성과의 연결을 주장합니다
+"Whether legitimate of not, you’re always ready to dispense holy wisdom; Be it Imperial gospel or the profane ramblings of the heretic","그것이 사실이든 아니든, 당신은 언제나 성스러운 지혜를 전파할 준비가 되어 있습니다. 그것이 제국의 복음이든 이단자의 불경한 헛소리든 말입니다"
++5 Attunement,+5 마력 조율
+Select a BACKGROUND for your character,캐릭터의 [배경]을 선택하십시오
+"BACKGROUNDS add points in skills, influence starting conditions and narrative content","[배경]은 기술 점수를 추가하고, 시작 조건과 스토리 콘텐츠에 영향을 줍니다"
+COURTIER,궁정인
+Your time spent kissing noble arses has made you a master of navigating the cut-throat politics of the Imperial lay-courts,귀족들에게 아첨을 떨며 보낸 시간 덕분에 제국 평신도 법원의 외교적 세계에서의 경험은 물론, 타인의 미묘한 신체 언어를 읽어내는 예리한 능력을 얻었습니다
++1 Awareness,+1 인지
++1 Diplomacy,+1 화술
+NOBLE,귀족
+"An individual of old blood, you learned long ago that wealth and connections tend to open doors that are otherwise closed to the filthy masses","순수 혈통의 후손인 당신에게, 충분한 부와 그것을 적절히 과시하는 법을 아는 것이 수많은 장애물을 피하는 길이라는 사실은 너무나 당연합니다. 당신에게 허리 숙여 성문을 열어주는 경비병이 더러운 거지에게는 문을 쾅 닫아버리는 것처럼 말입니다"
++1 Lore,+1 학식
+DIPLOMACY,화술
+"Diplomacy is used to lie, bargain or sway others in negotiations","화술은 협상, 흥정, 속임수, 또는 타인을 설득할 때 사용됩니다"
+It influences prices at merchants,상인과의 거래 가격에 영향을 줍니다
+LORE,학식
+A general knowledge skill,일반적인 지식에 대한 기술입니다
+AWARENESS,인지
+The ability to notice small details and hidden things,작은 세부 사항이나 숨겨진 것들을 알아차리는 능력입니다
+You are an esteemed member of the Empire’s teeming underworld with a special knack for getting in and out of places you shouldn’t be,당신은 제국의 들끓는 암흑가의 존경받는 일원이며, 출입해서는 안 될 장소를 드나드는 특별한 재주가 있습니다
++1 Stealth,+1 은신
++1 Thievery,+1 도적질
+THIEVERY,도적질
+Used to pick locks and pockets as well as to steal from shops,"자물쇠 따기, 소매치기, 상점 털이 등에 사용됩니다"
+ENTERTAINER,유랑 예인
+"In equal parts despised and adored by the wealthy of the Empire, the traveling entertainer can make a pretty penny off their blinding charisma and nimble fingers","제국의 부유층에게 경멸과 사랑을 동시에 받는 유랑 예인은 눈부신 매력과 다재다능한 손재주로 꽤 짭짤한 수입을 올릴 수 있습니다"
+FORMER LEGIONNAIRE,전직 군단병
+A member of the ‘old breed’; forged and tempered by the hardships of soldiering,'구세대'의 일원인 당신은 군 생활의 고난 속에서 단련되고 다듬어졌습니다
+You now belong to the ever-growing fraternity of fellow men and women with scarred bodies and broken minds who roam the Empire in search for a quiet piece of land to call home,당신은 이제 상처 입은 몸과 피폐해진 정신을 이끌고 마음 편히 쉴 땅을 찾아 제국을 떠도는, 점점 늘어만 가는 남녀 형제들의 무리에 속하게 되었습니다
++30lbs Carrying Bonus,+30lbs 운반 보너스
+CARRYING BONUS,운반 보너스
+Attribute - Misc,능력치 - 기타
+A bonus in pounds added to the character’s Carrying Capacity,캐릭터의 운반 능력에 추가되는 보너스 무게(파운드)입니다
+GUILDER,길드원
+"Like so many of the Empires young and promising, you were recruited into guild service at a fairly early age","제국의 유망한 젊은이들이 으레 그렇듯, 당신도 꽤 어린 나이에 길드 업무에 징집되었습니다"
+"As the saying goes, work for the illustrious guilds tends to leave you with 'gold in your purse and blood on your hands'","옛말에 이르기를, 저명한 길드를 위해 일하면 ""주머니에는 금이, 손에는 피가"" 남게 된다고 합니다"
++1 Crafting,+1 제작
+CRAFTING,제작
+Crafting is used when creating items at crafting stations,제작은 작업대에서 아이템을 만들 때 사용됩니다
+LABORER,노동자
+You’ve spent years toiling under the oppressive yoke of hard labor,당신은 수년 동안 고된 노동의 억압적인 굴레 아래서 뼈 빠지게 일했습니다
+"Though it may not have left you with much coin in your pocket, it has given you an unnatural resistance to hardship","주머니에 돈은 별로 모으지 못했을지 몰라도, 고난에 대한 비정상적인 저항력을 얻었습니다"
++1 Toughness,+1 강인함
+TOUGHNESS,강인함
+The character’s ability to withstand adverse physical effects such as disease and poison,질병이나 독과 같은 부정적인 신체 효과를 견디는 캐릭터의 능력입니다
+MONASTIC,수도사
+You have served one of the holy orders of the Empire from the safety of one of its walled monastic communities,당신은 성벽으로 둘러싸인 수도원 공동체의 안전함 속에서 제국의 성스러운 교단 중 하나를 섬겼습니다
+Pray the world has not grown too cruel in your absence,부디 당신이 없는 동안 세상이 너무 잔혹해지지 않았기를 기도하십시오
++1 Healing,+1 치유
+HEALING,치유
+Healing is used in camp to increase the rate of wound recovery for wounded characters,치유는 야영 시 부상 회복 속도를 높이는 데 사용됩니다
+It also influences the amount of vitality regained from healing potions and is used in dialogue tests when dealing with medical issues and such,또한 치유 물약으로 회복되는 활력의 양에 영향을 주며 의학적 지식을 나타내는 대화 판정에도 사용됩니다
+VITALITY,활력
+Attribute - Secondary,능력치 - 보조
+Vitality describes the amount of damage a character can take before becoming seriously wounded,"활력은 캐릭터가 부상(Wounds) 피해를 입기 시작하여 심각한 부상을 당하기 전까지 견딜 수 있는 피해량을 나타냅니다"
+Vitality is fairly easily regained through the use of consumable items and spells,활력은 소모품이나 주문을 통해 비교적 쉽게 회복할 수 있습니다
+NOMAD,유목민
+"You’ve spent years across the seas, living with the desert nomads","물의 바다, 모래의 바다. 당신은 수많은 겨울 동안 그 각각을 유랑했습니다"
+"Though ever the outsider, the nomads deemed you trust-worthy enough to become an initiate in the mysteries of their pagan fire-worship","비록 언제나 이방인이었지만, 유목민들은 당신을 그들의 이교도적 불 숭배의 신비에 입문시킬 만큼 신뢰할 만하다고 여겼습니다"
++25% Fire Damage Resistance,+25% 화염 피해 저항
+FIRE DAMAGE RESISTANCE,화염 피해 저항
+Attribute - Resistance,능력치 - 저항
+Damage Resistance reduces incoming Damage of the indicated type by a percentage amount equal to the attribute value,피해 저항은 속성값과 동일한 비율(%)만큼 해당 유형의 들어오는 피해를 감소시킵니다
+A value of 100% or higher means immunity to this damage type,100% 이상의 수치는 해당 피해 유형에 대한 면역과 같습니다
+A negative value means a vulnerability to the damage type,음수 값은 해당 피해 유형에 대한 취약점으로 작용합니다
+"If this is the case, incoming Damage will be increased","이 경우, 들어오는 피해가 증가합니다"
+SAILOR,선원
+You’ve heard the call of the Mother of Maelstroms and salt water now runs in your veins,당신은 소용돌이의 어머니가 부르는 소리를 들었고, 이제 당신의 혈관에는 소금물이 흐릅니다
+"Whether on the deck of a Guilder caravel or manning the sails of a meager fishing sloop, you feel most at home when you’re at sea","길드 캐러벨의 갑판 위에서든 빈약한 낚싯배의 돛을 다루든, 당신은 바다에 있을 때 가장 편안함을 느낍니다"
++1 Athletics,+1 운동
+ATHLETICS,운동
+SALT,소금
+Food,음식
+Food Val,음식 가치
+Value,가치
+Weight,무게
+Used in,사용처
+"With the once-mighty legions of the Empire in decline, this is an age of sellswords and mercenaries","한때 강력했던 제국 군단이 쇠퇴하면서, 바야흐로 용병과 청부업자의 시대가 도래했습니다"
+There is no shortage of those willing to pay professionals to wreak violence on others and you are very good at your job,타인에게 폭력을 행사하는 대가로 전문가에게 돈을 지불하려는 사람들은 차고 넘칩니다. 바로 당신 같은 전문가에게 말이죠
++3 Vitality,+3 활력
+SNAKE-CULTIST,뱀 숭배자
+Writhing with serpents in darkened cellars and hidden temples has left you immune to the snake’s kiss,어두운 지하실과 숨겨진 사원에서 뱀들과 뒤엉켜 지낸 덕분에 뱀의 입맞춤에 면역이 생겼습니다
++100% Poison Resistance,+100% 독 저항
+POISON RESISTANCE,독 저항
+Resistance to a condition represents the percentage chance to avoid contracting the condition,상태 이상 저항은 해당 상태 이상에 걸리는 것을 피할 확률(백분율)을 나타냅니다
+An attribute value of 100% or above means immunity to the condition in question,100% 이상의 수치는 해당 상태 이상에 대한 면역과 같습니다
+STREET RAT,부랑아
+Spending your formative years fending for yourself on the hard streets of the Empire’s sprawling cities has left you with a preternatural instinct for surviving,인격 형성기를 제국의 거대한 도시의 거친 거리에서 스스로를 지키며 보낸 당신은 생존에 대한 초자연적인 본능을 갖게 되었습니다
+No crime is too petty - no meat too mysterious,"어떤 범죄도 너무 사소하지 않고, 어떤 고기도 너무 수상하지 않습니다"
++2 Initiative,+2 주도권
+INITIATIVE,주도권
+Initiative determines who goes first in combat,주도권은 전투에서 유닛이 턴을 가져가는 순서를 결정합니다
+THUG,폭력배
+"Punch first, ask questions later","일단 때리고, 질문은 나중에"
+You have perfected the noble art of solving problems with brute force,곤봉의 형태로 말이죠
++1 Club Damage Bonus,+1 곤봉 피해량 보너스
+CLUB DAMAGE BONUS,곤봉 피해량 보너스
+Weapon Damage bonuses increase the Damage dealt when using the indicated Weapon type,무기 피해량 보너스는 해당 무기 유형을 사용할 때 입히는 피해를 증가시킵니다
+VAGABOND,방랑자
+"Having spent most of your teenage years’ on the road, you are a free spirit with no allegiance to any one person or place","십 대 시절의 대부분을 길 위에서 보낸 당신은 그 어떤 사람이나 장소에도 얽매이지 않는 자유로운 영혼입니다"
+"Drifting from place to place, you go where there is work, food and a warm bed to be had","이곳저곳을 떠돌며, 일거리와 음식, 그리고 따뜻한 잠자리가 있는 곳으로 향합니다"
++1 Survival,+1 생존
+SURVIVAL,생존
+"Survival is used to forage for food, navigate difficult overland terrain and also determines a character's general knowledge of nature","생존은 식량을 채집하거나 험난한 지형을 탐색할 때 사용되며, 자연의 섭리에 대한 캐릭터의 통찰력을 나타냅니다"
+WILDLING,야인
+"As the light of civilization fades, the vast wildernesses of the Empire encroach on the civilized folk",문명의 촛불 도서관들이 그 주위를 둘러싼 거대한 황무지로 스며듭니다
+Thankfully you don’t count yourself among those,하지만 하나둘씩 불이 꺼져갈 때, 당신은 그들 속에 속하지 않음에 감사함을 느낍니다
+The sky is your temple and the howling of wolves your litany,당신은 대신 달빛이 비추는 지식을 탐구하고, 늑대들의 울음소리 합창에서 길을 찾습니다
+Primary Stats,주 능력치
+Agility,민첩
+Intellect,지능
+Presence,존재감
+Strength,힘
+Skills,기술
+Athletics,운동
+Awareness,인지
+Crafting,제작
+Diplomacy,화술
+Healing,치유
+Lore,학식
+Stealth,은신
+Survival,생존
+Thievery,도적질
+Secondary Stats,보조 능력치
+Combat Stats,전투 능력치
+Crit Chance,치명타 확률
+Initiative,주도권
+Melee To Hit,근접 명중
+Ranged To Hit,원거리 명중
+Defences,방어
+Dodge,회피
+Toughness,강인함
+Willpower,의지력
+Select an entry!,항목을 선택하십시오!
+Primary Attributes and Skills,주 능력치 및 기술
+Distribute points to your PRIMARY ATTRIBUTES and SKILLS,[주 능력치]와 [기술]에 포인트를 분배하십시오
+These go a long way towards defining your character mechanically,이는 캐릭터의 메커니즘을 정의하는 데 큰 역할을 합니다
+SECONDARY STATS,보조 능력치
+Secondary attributes that tend to vary during play,플레이 중에 변동될 수 있는 보조적인 속성입니다
+SKILLS,기술
+Skills are derived from primary attributes and are used to perform most non-combat tasks in the game,기술은 주 능력치에서 파생되며, 게임 내 대부분의 비전투 작업을 수행하는 데 사용됩니다
+TOTAL,합계
+FORTITUDE,인내력
+Describes how tough and resilient a character is,캐릭터의 강인함과 신체적 회복력을 나타내는 척도입니다
+WOUNDS,부상
+Ranks,등급
+RANKS,등급
+COMBAT STATS,전투 능력치
+Derived attributes that are used during combat,전투 중에 사용되는 파생 속성입니다
+CRIT CHANCE,치명타 확률
+Describes the percentage of Hits that are upgraded to Critical Hits,공격 적중이 치명타로 강화될 확률을 나타냅니다
+CRITICAL HIT,치명타
+"For each successful Attack, there is a chance the Hit is upgraded to a Critical Hit","각 성공적인 공격마다 적중이 치명타로 강화될 확률이 존재합니다"
+This is a percentage chance equal to the attacker’s Crit Chance Attribute,이것은 공격자의 [치명타 확률] 속성값과 동일한 백분율 확률입니다
+"If a Critical Hit is confirmed, the Damage dealt is multiplied by the Weapon’s Crit. value","치명타가 확정되면, 입히는 피해량에 무기의 치명타 수치가 곱해집니다"
+"For instance a Weapon with a Crit. value of, multiplies the Damage dealt in a Critical Hit by","예를 들어, 치명타 수치가 X인 무기는 치명타 시 입히는 피해량에 X를 곱합니다"
+MELEE DMG,근접 피해
+This is added to the current weapon's damage range for a total damage range,이 수치는 현재 무기의 피해 범위에 더해져 최종 피해 범위를 결정합니다
+Counts encumberance from Armor,방어구 무게 페널티 적용
+Defences are used to defend against attacks and negative effects,방어는 공격과 부정적인 효과로부터 보호를 제공합니다
+WILLPOWER,의지력
+Willpower describes a character’s ability to withstand mind-affecting conditions such as those caused by spells,"캐릭터가 가진 정신적 인내력의 정도를 나타내며, 주문 등으로 인한 정신 지배 상태를 견디는 능력입니다"
+This attribute influences,이 능력치는 다음에 영향을 줍니다
+Main Attribute,주 능력치
+Counts encumberance from Headwear,모자 무게 페널티 적용
+Counts encumberance from Gloves,장갑 무게 페널티 적용
+Counts encumberance from Armor and Footwear,방어구 및 신발 무게 페널티 적용
+Abilities,능력
+ABILITIES,능력
+These are the Feats derived from your class,이는 당신의 직업에서 파생된 [재주]들입니다
+Distribute your Development Points in them to gain benefits and new Abilities,개발 점수를 분배하여 혜택과 새로운 능력을 얻으십시오
+Ranks to Distribute,분배할 등급
+Armsmaster Feats,무기 전문가 재주
+Not Today!,오늘은 죽지 않아!
+NOT TODAY!,오늘은 죽지 않아!
+Triggered Ability,발동 능력
+Targets,대상
+Self,자신
+Smashing Charge,강타 돌격
+Enemies,적
+Allies,아군
+Anyone,누구든
+AoE,범위(AoE)
+Melee,근접
+Your Charges cause 1-3 additional Blunt Damage,돌격 시 1-3의 추가 타격 피해를 입힙니다
+Killing an opponent using a Heavy Melee Weapon restores 1 Attack,대형 근접 무기로 적을 처치하면 공격 기회 1회를 회복합니다
+SWORD EXPERT,검술 숙련
+Deep Cut,깊게 베기
+Your Critical Hits using Blades cause Bleeding on your target,검으로 치명타 적중 시 대상을 출혈 상태로 만듭니다
+Critical Hits with a Club causes The Injured Leg condition,곤봉으로 치명타 적중 시 대상에게 [다리 부상] 상태를 부여합니다
+AXE EXPERT,도끼 숙련
+Rending Blow,찢어발기기
+RENDING BLOW,찢어발기기
+Critical Hits with an Axe causes Injury Conditions,도끼로 치명타 적중 시 부상 상태를 유발합니다
+ARCHERY EXPERT,궁술 숙련
+ARCHERY MASTER,궁술 달인
+Rapid Reload,빠른 재장전
+RAPID RELOAD,빠른 재장전
+"If you score a Critical Hit with a Bow, you immediately regain 1 attack",활로 치명타 적중 시 즉시 추가 공격 기회 1회를 얻습니다
+AXE MASTER,도끼 달인
+Decapitation,참수
+DECAPITATION,참수
+AllEnemies,모든 적
+The gruesomeness of your Axe-Kill causes the Fear condition in all opponents who can see it,도끼 처형의 끔찍한 잔혹성으로 인해 이를 목격한 모든 적이 공포에 질립니다
+CLUB MASTER,곤봉 달인
+SHIELD MASTER,방패 달인
+Shield Slam,방패 강타
+SHIELD SLAM,방패 강타
+"Whilst wielding a shield, dodging a melee attack causes you to deal 1-4 Blunt damage to your attacker","방패를 든 상태에서 근접 공격을 회피하면, 공격자에게 1-4의 타격 피해를 입힙니다"
+SWORD MASTER,검술 달인
+MEDIUM ARMOR MASTERY,평갑 숙련
+BLOODTHIRSTY,피의 갈망
+HEAVY ARMOR MASTERY,중갑 숙련
+Cannot place Rank,등급을 올릴 수 없음
+The maximum number of ranks have been placed for this Feat!,이 재주의 등급이 최대치에 도달했습니다!
+You don't have any ranks to distribute,분배할 수 있는 등급이 없습니다
+Level up to gain ranks!,레벨 업하여 등급을 획득하십시오!
+Gender,성별
+Empty,비어 있음
+Male,남성
+Portrait,초상화
+Hair Style,헤어스타일
+Style,스타일
+Facial Hair,수염
+Hair Color,머리 색상
+Skin Tone,피부색
+Main Color,주 색상
+Secondary Color,보조 색상
+Tertiary Color,3차 색상
+Randomize,무작위
+Customize Appearance,외형 사용자 지정
+You can use this screen to customize your characters physical appearance,이 화면에서 캐릭터의 신체적 외형을 사용자 지정할 수 있습니다
+Note that changes made here are purely cosmetic,여기서 변경한 내용은 순전히 장식용입니다
+Finalize your character by editing their appearance,외형을 편집하여 캐릭터 생성을 마무리하십시오
+Female,여성
+Type a name and press 'Continue'!,이름을 입력하고 '계속'을 누르십시오!
+Name must be between 3 and 10 characters long and may only contain standard English letters (A-Z,이름은 3~10자여야 하며 표준 영어 알파벳(A-Z)만 포함할 수 있습니다
+You must destribute all your attribute points before you can proceed!,진행하기 전에 모든 능력치 포인트를 분배해야 합니다!

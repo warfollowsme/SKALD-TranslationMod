@@ -1,0 +1,314 @@
+﻿original,translate
+Core 1.0.7e,Core 1.0.7e; 한글 에디션
+Continue Game,게임 이어하기
+New Game,새 게임
+Load,불러오기
+Save,저장
+Start Module,모듈 시작
+Settings,설정
+Credits,제작진
+Quit,종료
+Exit,나가기
+Reset,초기화
+Gameplay,게임플레이
+Difficulty,난이도
+Display,화면
+Audio,오디오
+Controls,조작
+Fonts,폰트
+Enter Map Auto Save,맵 진입 자동 저장
+Rest Auto Save,휴식 자동 저장
+Tactical Icons Always On,전술 아이콘 항상 표시
+Tactical Grid,전술 그리드
+Show Stealth Info,은신 정보 표시
+Combat Pop-Up Length,전투 팝업 지속 시간
+Tutorials,튜토리얼
+Controller Sensitivity,컨트롤러 민감도
+Language,언어
+Enabled,활성화
+Disabled,비활성화
+DISABLED,비활성화
+ENABLED,활성화
+Normal,보통
+Extensive,확장
+DELUXE,디럭스
+Nostalgia Mode,향수 모드
+Dice Animation,주사위 애니메이션
+White - Pips,흰색 - 눈
+Russian,러시아어
+Gameplay Settings,게임플레이 설정
+ENTER MAP AUTO SAVE,맵 진입 자동 저장
+The game will auto save whenever you enter a new map,새로운 맵에 진입할 때마다 게임이 자동 저장됩니다
+REST AUTO SAVE,휴식 자동 저장
+The game will auto save whenever you make camp,야영을 할 때마다 게임이 자동 저장됩니다
+TACTICAL ICONS ALWAYS ON,전술 아이콘 항상 표시
+The degree to which the game shows tactical symbols and a grid during combat,전투 중 전술 기호와 그리드를 표시하는 방식을 설정합니다
+"If set to true, the game will automatically show tactical icons during the planning state","설정 시, 계획 단계에서 자동으로 전술 아이콘을 표시합니다"
+"If set to false, the tactical icons will only show when holding down SHIFT","해제 시, SHIFT 키를 누르고 있을 때만 전술 아이콘이 표시됩니다"
+TACTICAL GRID,전술 그리드
+Whether or not the game shows a grid along with the tactical icons when activated during combat,전투 중 전술 아이콘이 활성화될 때 그리드를 함께 표시할지 여부를 설정합니다
+SHOW STEALTH INFO,은신 정보 표시
+Setting this to Enabled will show a tooltip box containing info on light levels and stealth modifiers for tiles when you right click them,활성화 시 타일을 우클릭하면 해당 타일의 조도 및 은신 보정치 정보를 포함한 툴팁이 표시됩니다
+COMBAT POP-UP LENGTH,전투 팝업 지속 시간
+This adjusts how long the on-screen combat pop-up text lingers,전투 중 화면에 나타나는 팝업 텍스트가 유지되는 시간을 조절합니다
+"Note that a turn does not progress until all the characters pop-up text is gone, so adjusting this number will also adjust how quickly combat turns pass","모든 캐릭터의 팝업 텍스트가 사라질 때까지 턴이 진행되지 않으므로, 이 수치를 조절하면 전투 턴의 진행 속도도 조절됩니다"
+TUTORIALS,튜토리얼
+The degree to which you want the game to offer gameplay tutorials during play,게임 플레이 중 튜토리얼을 얼마나 자주 표시할지 설정합니다
+CONTROLLER SENSITIVITY,컨트롤러 민감도
+The sensitivity of the joystick used for moving the cursor when using a controller,컨트롤러 사용 시 커서 이동에 사용되는 조이스틱의 민감도입니다
+LANGUAGE,언어
+Select the display language for the game,게임의 표시 언어를 선택합니다
+English,영국 영어
+None,없음
+Some,일부
+Slow,느림
+Very Slow,매우 느림
+Fast,빠름
+Attribute Rerolls,능력치 굴림 재시도
+Player Rerolls,플레이어 굴림 재시도
+P. Dmg. Rerolls,플레이어 피해 굴림 재시도
+Enemy Rerolls,적 굴림 재시도
+E. Dmg. Rerolls,적 피해 굴림 재시도
+Miss Smoothening,빗나감 보정
+Combat Heal,전투 후 회복
+No Encumb,무게 제한 없음
+Cannot Die,사망 불가
+XP For KO Char,기절 캐릭터 경험치
+Easy,쉬움
+Difficulty Settings,난이도 설정
+DIFFICULTY,난이도
+The current difficulty of the game,게임의 현재 난이도입니다
+Easy mode is a great way for players who are new to this style of roleplaying game to experience Skald,쉬움 모드는 이런 스타일의 롤플레잉 게임이 처음인 플레이어가 스칼드(Skald)의 개념을 가볍게 익히는 데 가장 적합합니다
+Combat is forgiving and there should be little need to optimize character builds,"전투가 비교적 관대하므로, 캐릭터 빌드나 장비를 최적화할 필요가 거의 없습니다"
+Dice rolls are weighted in the player’s favor,주사위 굴림 또한 플레이어에게 유리하도록 보정됩니다
+Normal mode is the game’s intended difficulty setting,"보통 모드는 기본 난이도이며, 스칼드를 경험하는 의도된 방식입니다"
+There is only very limited artificial smoothing of certain dice rolls,"경험을 개선하기 위해 특정 주사위 굴림에만 약간의 인위적인 보정이 들어갑니다"
+Dice rolls are slightly weighted in the opponent's favor making them more deadly,"주사위 굴림이 적에게 약간 유리하게 작용하여 더 위협적이며, 플레이어의 준비와 일관성을 더욱 중요하게 만듭니다"
+CUSTOM,사용자 지정
+Custom difficulty,사용자 지정 난이도
+Narrative,스토리
+Narrative mode is the difficulty for players who would like to experience the game’s story and setting with a minimum of focus on combat and grinding,스토리 모드는 전투는 이야기에 풍미를 더하는 부차적인 요소로 두고, 주로 게임의 스토리를 경험하고 싶은 플레이어에게 가장 적합합니다
+ATTRIBUTE REROLLS,능력치 굴림 재시도
+"If this number is greater than zero, the system will reroll any of the player's Attribute Check (Skill Checks for instance) dice rolls that many times and pick the most favorable one to the player","이 숫자가 0보다 크면, 시스템은 플레이어의 능력치 판정(예: 기술 판정) 주사위를 해당 횟수만큼 다시 굴려 플레이어에게 가장 유리한 결과를 선택합니다"
+PLAYER REROLLS,플레이어 굴림 재시도
+"If this number is greater than zero, the system will reroll any of the player's Combat dice rolls (such as Attack Rolls or Defence Rolls) that many times and pick the most favorable one to the player","이 숫자가 0보다 크면, 시스템은 플레이어의 전투 주사위(공격 굴림 또는 방어 굴림 등)를 해당 횟수만큼 다시 굴려 플레이어에게 가장 유리한 결과를 선택합니다"
+P. DMG. REROLLS,플레이어 피해 굴림 재시도
+"If this number is greater than zero, the system will reroll any of the player's damage dice rolls that many times and pick the most favorable one to the player","이 숫자가 0보다 크면, 시스템은 플레이어의 피해량 주사위를 해당 횟수만큼 다시 굴려 플레이어에게 가장 유리한 결과를 선택합니다"
+ENEMY REROLLS,적 굴림 재시도
+"If this number is greater than zero, the system will reroll any of the enemy's Combat dice rolls (such as Attack Rolls or Defence Rolls) that many times and pick the most favorable one to the enemy","이 숫자가 0보다 크면, 시스템은 적의 전투 주사위(공격 굴림 또는 방어 굴림 등)를 해당 횟수만큼 다시 굴려 적에게 가장 유리한 결과를 선택합니다"
+E. DMG. REROLLS,적 피해 굴림 재시도
+"If this number is greater than zero, the system will reroll any of the enemy's damage dice rolls that many times and pick the most favorable one to the enemy","이 숫자가 0보다 크면, 시스템은 적의 피해량 주사위를 해당 횟수만큼 다시 굴려 적에게 가장 유리한 결과를 선택합니다"
+MISS SMOOTHENING,빗나감 보정
+The degree to which the engine compensates player miss streaks by increasing To-Hit chances,플레이어의 공격이 연속으로 빗나갈 때 엔진이 명중률을 높여 보정해 주는 정도입니다
+Ignore Food,식량 무시
+COMBAT HEAL,전투 후 회복
+"If Enabled, the party will heal fully after each combat","활성화 시, 매 전투가 끝난 후 파티의 체력이 완전히 회복됩니다"
+No Trash Mobs,무작위 전투 무시
+NO ENCUMB,무게 제한 무시
+"If Enabled, the party has no limit to carrying capacity","활성화 시, 파티의 소지 무게 제한이 사라집니다"
+CANNOT DIE,사망 방지
+"If Enabled, the main PC can never die in combat","활성화 시, 주인공 캐릭터는 전투 중에 절대 사망하지 않습니다"
+XP FOR KO CHAR,쓰러진 아군에게 경험치 부여
+"If Enabled, XP will also be given to downed characters after combat","활성화 시, 전투 후 쓰러진(기절한) 캐릭터에게도 경험치가 주어집니다"
+IGNORE FOOD,식량 무시
+"If Enabled, the party does not need to consume food","활성화 시, 파티는 더 이상 식량을 소비할 필요가 없습니다."
+NO TRASH MOBS,무작위 전투 무시
+"If Enabled, the party will not encounter 'trash mob' encounters on the overland map","활성화 시, 월드맵에서 JRPG 스타일의 무작위 적 조우가 더 이상 발생하지 않습니다. 이 기능은 적과의 조우만 막아주며 상인이나 표류물 같은 다른 월드맵 이벤트는 유지됩니다."
+TO-HIT ROLL,명중 굴림
+Concept,개념
+The To-Hit roll is made by comparing the Attacker's Attack Roll to the Defender's Defence Roll,명중 굴림은 공격자의 [공격 굴림]과 방어자의 [방어 굴림]을 비교하여 결정됩니다
+If the Attacker rolls equal to or higher than the Defence Roll the attack is a hit,공격자의 굴림 값이 방어 굴림 값과 같거나 높으면 공격이 명중합니다
+ATTACK ROLL,공격 굴림
+The Attack Roll is calulated in the following way,공격 굴림은 다음 방식으로 계산됩니다
+2d6 + Melee To Hit / Ranged To Hit + Misc,2d6 + 근접 명중 / 원거리 명중 + 기타
+Bonuses + Accuracy Bonuses,보너스 + 정확도 보너스
+2D6,2D6
+Simulates rolling and adding up two six-sided dice,6면체 주사위 두 개를 굴려 합산하는 것을 시뮬레이션합니다
+In other words a 2d6 roll generates a number between 2 and,"즉, 2d6 굴림은 2에서 12 사이의 숫자를 생성합니다"
+DEFENCE ROLL,방어 굴림
+The Defence Roll is,방어 굴림은 다음과 같습니다
+2d6 + Misc Bonuses + Dodge,2d6 + 기타 보너스 + 회피
+Attribute - Defence,능력치 - 방어
+The ability to avoid incoming attacks and other reflex-based dangers,들어오는 공격이나 반사 신경이 필요한 기타 위험을 피하는 캐릭터의 숙련도를 나타냅니다
+"In other words, this determines how hard a character is to hit","즉, 캐릭터를 맞히기가 얼마나 어려운지를 결정합니다"
+MELEE TO HIT,근접 명중
+Attribute - Combat,능력치 - 전투
+The character's skill at attacking with melee weapons,근접 무기로 공격하는 캐릭터의 기술입니다
+Determines hit chance,명중 확률을 결정합니다
+RANGED TO HIT,원거리 명중
+The characters skill at attacking with ranged weapons,원거리 무기로 공격하는 캐릭터의 기술입니다
+ACCURACY,정확도
+Accuracy is added to an attacker's Attack Roll when trying to hit an opponent,정확도는 적을 맞히려 할 때 공격자의 공격 굴림에 더해집니다
+Accuracy is typically derived from a weapon's quality,정확도는 일반적으로 무기의 품질에서 비롯됩니다
+CRT Filter,CRT 필터
+Screen Mode,화면 모드
+Windowed Mode Scale,창 모드 배율
+VSync,수직 동기화(VSync)
+Classic Console,클래식 콘솔
+Fancy Lighting,고급 조명
+Weather Effects,날씨 효과
+Screen Shaking,화면 흔들림
+Full,전체 화면
+Off,끄기
+Display Settings,화면 설정
+CRT FILTER,CRT 필터
+"This feature should only be disabled if you experience performance issues. Editors note: As of patch 1.0.7, hovering over this option results in a temporary slow-down that may persist until you exist this options window. Try pressing the 1 or Esc key to quit quickly! ","이 필터 중 하나를 적용하면 게임에 흐릿하고 복고풍인 미학을 더해줍니다"
+Soft,부드러움
+Classic,클래식
+High-End,고급형
+Arcade,아케이드 캐비닛
+Kitchen TV,주방용 TV
+Mini CRT,소형 CRT TV
+Old TV,구형 TV
+Broken B/W,고장 난 흑백 TV
+SCREEN MODE,화면 모드
+Allows the game to be played in full screen or windowed mode,게임을 전체 화면 또는 창 모드로 플레이할 수 있게 합니다
+WINDOWED MODE SCALE,창 모드 배율
+The scale of the window when run in Window mode,창 모드로 실행할 때의 창 크기 배율입니다
+VSYNC,수직 동기화(VSync)
+VSync prevents artifacts such as screen tearing,VSync를 활성화하면 모니터 주사율에 맞춰 게임을 실행합니다. 또한 화면 찢김(티어링)이나 기타 아티팩트 현상을 방지하는 데 도움이 됩니다
+CLASSIC CONSOLE,클래식 콘솔
+The console uses the classic C64 color theme,콘솔에 고전 C64 색상 테마를 사용합니다
+FANCY LIGHTING,고급 조명
+If enabled it will use the games blended lighting system,"활성화 시, 게임의 블렌딩 조명 시스템을 사용합니다"
+This is the intended experience,이것은 의도된 게임 경험입니다
+This feature should only be disabled if you experience performance issues,"이 기능은 성능 문제가 발생할 경우에만 비활성화하십시오. 편집자 주: 1.0.7 패치 기준으로, 이 옵션 위에 마우스를 올리면 일시적인 느려짐 현상이 발생할 수 있으며 옵션 창을 나갈 때까지 지속될 수 있습니다. 키보드의 1 또는 Esc 키를 누르거나, 컨트롤러/스팀 덱 사용자는 종료 명령과 관련된 버튼을 눌러 메인 메뉴로 나가보십시오!"
+WEATHER EFFECTS,날씨 효과
+If enabled the game will render weather effects like fog and rain,활성화 시 안개나 비와 같은 날씨 효과를 렌더링합니다
+Disabling this option may increase performance,이 옵션을 비활성화하면 성능이 향상될 수 있습니다
+SCREEN SHAKING,화면 흔들림
+Whether or not to allow the screen-shake visual effect,화면 흔들림 시각 효과를 허용할지 여부입니다
+Windowed,창 모드
+Music Volume,음악 볼륨
+Sound FX Volume,효과음 볼륨
+Audio Settings,오디오 설정
+MUSIC VOLUME,음악 볼륨
+The volume of the soundtrack,배경 음악의 볼륨입니다
+SOUND FX VOLUME,효과음 볼륨
+The volume of the sound effects,효과음의 볼륨입니다
+Re-Assign,키 재설정
+Key Bindings,키 설정
+Spellbook,주문서
+SPELLBOOK,주문서
+G,G
+This binding can be changed,이 키 설정은 변경할 수 있습니다
+Character Sheet,캐릭터 시트
+C,C
+Console,콘솔
+Tab,Tab
+Feats,재주(Feats)
+F,F
+Feedback,피드백
+F2,F3
+Hide,은신
+LeftCont,왼쪽 Ctrl
+Highlight,강조 표시
+LeftShif,왼쪽 Shift
+Inventory,인벤토리
+E,E
+Level Up,레벨 업
+L,L
+Light Torch,횃불 켜기
+T,T
+Move E,동쪽 이동
+D,D
+RightArr,오른쪽 화살표
+Move N,북쪽 이동
+W,W
+UpArrow,위쪽 화살표
+Move S,남쪽 이동
+S,S
+DownArro,아래쪽 화살표
+Move W,서쪽 이동
+A,A
+LeftArro,왼쪽 화살표
+Next Character,다음 캐릭터
+Q,Q
+Quests,퀘스트
+J,J
+Quick Load,빠른 불러오기
+F9,F10
+Quick Save,빠른 저장
+F5,F6
+QUICK SAVE,빠른 저장
+QUICK LOAD,빠른 불러오기
+QUESTS,퀘스트
+MOVE W,서쪽 이동
+LEFTARRO,왼쪽 화살표
+NEXT CHARACTER,다음 캐릭터
+MOVE S,남쪽 이동
+DOWNARRO,아래쪽 화살표
+MOVE N,북쪽 이동
+UPARROW,위쪽 화살표
+MOVE E,동쪽 이동
+RIGHTARR,오른쪽 화살표
+LIGHT TORCH,횃불 켜기
+LEVEL UP,레벨 업
+INVENTORY,인벤토리
+HIGHLIGHT,강조 표시
+LEFTSHIF,왼쪽 Shift
+HIDE,은신
+LEFTCONT,왼쪽 Ctrl
+FEEDBACK,피드백
+FEATS,재주(Feats)
+CONSOLE,콘솔
+TAB,TAB
+CHARACTER SHEET,캐릭터 시트
+Assigning key,키 할당 중
+"Press ENTER or ""Re-Assign"" when done!","완료되면 ENTER 또는 ""키 재설정""을 누르세요!"
+Enter new key,새로운 키 입력
+Components,구성 요소
+Description Font,설명 폰트
+Description Color,설명 색상
+Quote Color,인용구 색상
+Description Shadow,설명 그림자
+Draw Outline,외곽선 그리기
+Text Background Color,텍스트 배경 색상
+Font,폰트
+Color,색상
+Font Settings,폰트 설정
+DESCRIPTION FONT,설명 폰트
+The font used for most descriptions,대부분의 설명에 사용되는 폰트입니다
+This is what a quote looks like.,"'인용구는 이렇게 보입니다.'"
+DESCRIPTION COLOR,설명 색상
+The color of the main descriptive text,주 설명 텍스트의 색상입니다
+QUOTE COLOR,인용구 색상
+The color of the main descriptive text that is displayed in quotation marks,따옴표 안에 표시되는 주 설명 텍스트의 색상입니다
+DESCRIPTION SHADOW,설명 그림자
+The color of the main descriptive text's drop-down shadow,주 설명 텍스트의 그림자 색상입니다
+DRAW OUTLINE,설명 외곽선
+Draws an outline around the letters instead of a drop-down shadow,그림자 대신 글자 주위에 외곽선을 그립니다
+TEXT BACKGROUND COLOR,텍스트 배경 색상
+The color of certain UI-elements behind text,설명 텍스트가 놓이는 특정 UI 요소의 색상입니다
+Adjust this to increase the contrast between text and background,텍스트와 배경 사이의 대비를 높이려면 이 항목을 조절하세요
+Dark,어두움
+Black,검정
+Launch,실행
+Get More Content,프로젝트 더 찾아보기
+Back,뒤로
+empty,비어 있음
+Load Module,모듈 불러오기
+LOAD,불러오기
+Copy,복사
+Rename,이름 변경
+Delete,삭제
+Load Game,게임 불러오기
+AUTO_SAVE,자동_저장
+Save Date,저장 날짜
+Save Time,저장 시간
+Main Char,주인공
+Rigurt,리거트
+Level,레벨
+Map,맵
+Game Date,게임 날짜
+Day,일차
+Version,버전
+Module,모듈
+Against the Black Priory,검은 수도원에 맞서
+Do you really want to quit the game?,정말로 바탕 화면으로 나가시겠습니까?
+Unsaved progress will be lost,저장되지 않은 진행 상황은 손실됩니다
+Choose a visual style,비주얼 스타일 선택
+DEFAULT is recommended,가독성이 가장 좋은 [기본값]을 권장합니다.
+This can also be customized in the SETTINGS menu,이 옵션은 나중에 [설정] 메뉴에서 변경할 수 있습니다
+Default,기본값
+To-Hit,명중

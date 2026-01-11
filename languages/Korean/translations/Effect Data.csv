@@ -1,0 +1,97 @@
+original,translate
+#Blessing Effects,#축복 효과
+Greater Restore Attunement,상급 마력 조율 회복
+Minor Restore Attunement,하급 마력 조율 회복
+Moderate Restore Attunement,중급 마력 조율 회복
+Sublime Restore Attunement,숭고한 마력 조율 회복
+Barkskin,나무 껍질 피부
+Bear's Strength,곰의 힘
+Bless,축복
+Blur,흐릿함
+Clarity of Mind,명석한 정신
+Cure Blindness,실명 치료
+Cure Charm,매혹 치료
+Cure Deafness,청각 장애 치료
+Cure Moderate Disease,중급 질병 치료
+Cure Severe Disease,심각한 질병 치료
+Cure Weak Disease,약한 질병 치료
+Removes the Diseased Condition from the target,대상에게서 질병 상태를 제거합니다
+Cure Insanity,광기 치료
+Cure Paralysis,마비 치료
+Cure Moderate Poison,중급 독 치료
+Cure Strong Poison,강한 독 치료
+Cure Weak Poison,약한 독 치료
+Cure Silenced,침묵 치료
+Defend,방어
+Diamond Form,다이아몬드 형상
+Fortify Awareness,인지력 강화
+Fortify Initiative,주도권 강화
+Fortify Will,의지력 강화
+Frenzy,광란
+Greater Haste,상급 신속
+Lesser Haste,하급 신속
+Greater Healing,상급 치유
+Minor Healing,하급 치유
+Minute Healing,미세 치유
+Moderate Healing,중급 치유
+Sublime Healing,숭고한 치유
+Heroism,영웅심
+Hide,은신
+Illuminate,빛남
+Acid Immunity,산성 면역
+Electric Immunity,전기 면역
+Fire Immunity,화염 면역
+Panic Immunity,공황 면역
+Inspire,고무
+Invisibility Lesser,하급 투명화
+Recover,회복
+Greater Regeneration,상급 재생
+Lesser Regeneration,하급 재생
+Remove Fear,공포 제거
+Acid Resistance,산성 저항
+Electric Resistance,전기 저항
+Fire Resistance,화염 저항
+Serpent's Grace,뱀의 우아함
+Stoneskin,돌 피부
+Thornclad,가시 무장
+#Curse Effects,#저주 효과
+Cause Confusion,혼란 유발
+Deafness,청각 장애
+Cause Fear,공포 유발
+Condemn,규탄
+Disrupt,교란
+Immobilize,이동 불가
+Infect,감염
+Greater Infect,상급 감염
+Lesser Infect,하급 감염
+Infects the target with a disease,대상을 질병에 감염시킵니다
+Mark Target,표적 지정
+Paralyze,마비
+Moderate Poisoning,중급 중독
+Strong Poisoning,강한 중독
+Weak Poisoning,약한 중독
+Purge Invisibility,투명화 해제
+Silence,침묵
+Slow,둔화
+Stun,기절
+Weaken,약화
+#Damage Effects,#피해 효과
+Cause Bleeding,출혈 유발
+Cause Injury,부상 유발
+Kneecap,무릎 부수기
+Minor Acid Splash,약한 산성 뿌리기
+Massive Kinetic Damage,막대한 운동 피해
+Medium Kinetic Damage,중급 운동 피해
+Minor Magical Damage,약한 마법 피해
+Minor Sublime Damage,약한 숭고함 피해
+Fire Flash,화염 섬광
+Hamstring,힘줄 끊기
+Minor Psychic Blast,약한 정신 폭발
+Minor Slam,약한 강타
+Medium Slash,중급 베기
+Minor Slash,약한 베기
+#General Effects,#일반 효과
+Clear Magical Conditions,마법 상태 제거
+Dispel Magic,마법 해제
+Get Drunk,취하기
+Push Target,대상 밀치기

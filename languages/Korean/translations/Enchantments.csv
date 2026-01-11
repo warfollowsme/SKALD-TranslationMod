@@ -1,0 +1,66 @@
+original,translate
+#General Enchantments,#일반 마법 부여
+Agility,민첩
+Adds +1 to Agility,민첩이 +1 증가합니다
+Fortitude,인내
+Adds +1 to Fortitude,인내력이 +1 증가합니다
+Intellect,지능
+Adds +1 to Intellect,지능이 +1 증가합니다
+Presence,존재감
+Adds +1 to Presence,존재감이 +1 증가합니다
+Strength,힘
+Adds +1 to Strength,힘이 +1 증가합니다
+Initiative,주도권
+Adds +2 to Initiative,주도권이 +2 증가합니다
+Speed,속도
+Adds +1 to Movement Speed,이동력이 +1 증가합니다
+Heroic,영웅
+Adds +1 to all five Primary Attributes,5가지 주 능력치가 모두 +1 증가합니다
+Protection,보호
+"adds +1 to Will, Toughness and Dodge","의지력, 강인함, 회피가 +1 증가합니다"
+Defence,방어
+Adds +1 to Dodge,회피가 +1 증가합니다
+Toughness,강인함
+Adds +1 to Toughness,강인함이 +1 증가합니다
+Willpower,의지력
+Adds +1 to Willpower,의지력이 +1 증가합니다
+Athletics,운동
+Adds +1 to Athletics,운동이 +1 증가합니다
+Awareness,인지
+Adds +1 to Awareness,인지가 +1 증가합니다
+Crafting,제작
+Adds +1 to Crafting,제작이 +1 증가합니다
+Diplomacy,화술
+Adds +1 to Diplomacy,화술이 +1 증가합니다
+Healing,치유
+Adds +1 to Healing,치유가 +1 증가합니다
+Lore,학식
+Adds +1 to Lore,학식이 +1 증가합니다
+Stealth,은신
+Adds +1 to Stealth,은신이 +1 증가합니다
+Survival,생존
+Adds +1 to Survival,생존이 +1 증가합니다
+Thievery,도적질
+Adds +1 to Thievery,도적질이 +1 증가합니다
+#Weapon Enchantments,#무기 마법 부여
+Accuracy,정확도
+This Weapon has +2 To Hit,이 무기는 명중이 +2 증가합니다
+Accuracy and Damage,정확도와 피해
+This Weapon does +1 base damage and has +2 To Hit,이 무기는 기본 피해가 +1, 명중이 +2 증가합니다
+Greater Accuracy and Damage,상급 정확도와 피해
+This Weapon does +3 base damage and has +3 To Hit,이 무기는 기본 피해가 +3, 명중이 +3 증가합니다
+Accuracy - Greater,정확도 - 상급
+This Weapon has +3 To Hit,이 무기는 명중이 +3 증가합니다
+Acid Attack,산성 공격
+A small amount of extra acid-damage is caused on a hit,적중 시 소량의 추가 산성 피해를 입힙니다
+Frost Attack,서리 공격
+A small amount of extra cold-damage is caused on a hit,적중 시 소량의 추가 냉기 피해를 입힙니다
+Keen,예리함
+This Weapon does +1 base damage,이 무기는 기본 피해가 +1 증가합니다
+Keen - Greater,예리함 - 상급
+This Weapon does +3 base damage,이 무기는 기본 피해가 +3 증가합니다
+Lightning Attack,번개 공격
+A small amount of extra lightning-damage is caused on a hit,적중 시 소량의 추가 번개 피해를 입힙니다
+Fire Attack,화염 공격
+A small amount of extra fire-damage is caused on a hit,적중 시 소량의 추가 화염 피해를 입힙니다
+Increases the Dodge of the wielder by +1,착용자의 회피가 +2 증가합니다

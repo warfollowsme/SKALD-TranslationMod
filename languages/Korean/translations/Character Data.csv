@@ -1,0 +1,223 @@
+original,translate
+#Animals,#동물
+Chicken,닭
+Dog,개
+The dog is roaming around restlessly,개가 불안하게 돌아다니고 있습니다
+Goat,염소
+#Common Humanoids,#일반 인간형
+Commoner,평민
+Guard,경비병
+A guardsman dressed in the livery of the noble house Berryn scowls at you,베린 귀족 가문의 제복을 입은 경비병이 당신을 노려봅니다
+Armsmaster Lyra awaits you at the main entrance,무기 전문가 라이라가 정문에서 당신을 기다리고 있습니다
+You best talk to her if you've not already done so,아직 그녀와 대화하지 않았다면 이야기해 보는 것이 좋을 겁니다
+Guest,손님
+Scullion,부엌데기
+Good evening m'lord,"좋은 저녁입니다, 나리"
+Good evening m'lady,"좋은 저녁입니다, 아가씨"
+the red-faced scullion bows slightly,얼굴이 붉어진 부엌데기가 가볍게 고개를 숙입니다
+Servants,하인들
+Henchman,심복
+Brigand Archer,산적 궁수
+Brigand Rogue,산적 도적
+Brigand Swordsman,산적 검사
+Child,아이
+Jester,광대
+Farmer,농부
+Fruit-Picker,과일 따는 사람
+Handmaid,시녀
+Crewmember,선원
+Refugee,난민
+"A ragged, hungry refugee from Horryn","호린에서 온 굶주리고 남루한 차림의 난민입니다"
+Treasure Hunter,보물 사냥꾼
+Fire-Spitter,불 뿜는 사람
+Mercenary,용병
+"The mercenary looks at you, menacingly","용병이 당신을 위협적으로 쳐다봅니다"
+Armorer,방어구 상인
+Arms Merchant,무기 상인
+Food Merchant,식료품 상인
+Potion Merchant,물약 상인
+Reagent Merchant,시약 상인
+Spell Merchant,주문 상인
+Trinket Merchant,장신구 상인
+Pilgrim,순례자
+Reaver Berserker,약탈자 광전사
+Reaver Brute,약탈자 투사
+Reaver Scout,약탈자 정찰병
+Reaver,약탈자
+Reaver Blackguard,약탈자 흑기사
+Reaver Mystic,약탈자 신비주의자
+Cultist,광신도
+Prisoner,죄수
+Wretch,비참한 자
+Sailor,선원
+Captain,선장
+Mad Sailor,미친 선원
+Mad Sailo,미친 선원
+Guild Magos,길드 마법사
+Guild Mag,길드 마법사
+Wight,망령
+Apprentice,수습생
+Feral Clone,야생 복제체
+#Monsters,#괴물
+Giant Bat,거대 박쥐
+Giant Beetle,거대 딱정벌레
+Rhino Beetle,코뿔소 딱정벌레
+Carrion Crawler,부패 벌레
+Giant Centipede,거대 지네
+Fell Crab,흉포한 게
+Corpse Eater,시체 포식자
+Giant Crab,거대 게
+Crab,게
+Rot Crab,부패 게
+Spider Crab,거미 게
+Brood Guard,무리 수호자
+Father,아버지
+Deep One Priestess,딥 원 여사제
+Deep One Queen,딥 원 여왕
+Deep One Warrior,딥 원 전사
+Devolved,퇴화한 자
+Ghoul,구울
+Frost Ghoul,서리 구울
+Giant Gnat,거대 모기
+Cave Gnat,동굴 모기
+Fell Hog,흉포한 멧돼지
+Dire Hound,광포한 사냥개
+Fell Hound,흉포한 사냥개
+Ice Hound,얼음 사냥개
+Ice Strider,얼음 활보자
+Shadow Stalker,그림자 추적자
+Giant Leech,거대 거머리
+Albino Leech,알비노 거머리
+Bloodletter,흡혈귀
+Fell Lizard,흉포한 도마뱀
+Alpha Lizard,우두머리 도마뱀
+Giant Lizard,거대 도마뱀
+Ice Salamander,얼음 도롱뇽
+Mold Child,곰팡이 아이
+Ooze,점액 괴물
+Flesh Ooze,살점 점액 괴물
+Medusa Jelly,메두사 젤리
+Risen Ooze,되살아난 점액 괴물
+Magma Ooze,마그마 점액 괴물
+Magmite,마그마이트
+Large Ooze,대형 점액 괴물
+Giant Rat,거대 쥐
+Dire Rat,광포한 쥐
+Chitters-In-Darkness,어둠 속의 딱딱거림
+Rabid Rat,광견병 걸린 쥐
+Shade,망령
+Dire Serpent,광포한 뱀
+Fell Serpent,흉포한 뱀
+Giant Snake,거대 뱀
+Fleshstrider,살점 활보자
+Flying Polyp,비행 폴립
+Dragon's Herald,용의 전령
+Evolved,진화한 자
+Newborne,갓 태어난 자
+Vessel,그릇
+Stalker,추적자
+Giant Spider,거대 거미
+Large Spider,대형 거미
+Shambler,비틀거리며 걷는 자
+Frost Shambler,서리 비틀거리는 자
+#Unique Humanoids,#고유 인간형
+Big Lorn,거구 론
+Arra the Trader,상인 아라
+Doran the Pilot,항해사 도란
+Chef Armand,요리사 아르망
+Kydeon,키데온
+The scarred and graying veteran smiles varmly towards you,상처 입고 머리가 희끗희끗한 베테랑이 당신에게 따뜻하고 친근한 미소를 짓습니다
+Calipero,칼리페로
+Lyra,라이라
+Malachai,말라카이
+Driina,드리나
+The imposing cleric turns to face you,위압적인 성직자가 당신을 돌아봅니다
+"There's a steely resolve in her eyes, but she gives you a warm, if sad smile by way of greeting","그녀의 눈에는 강철 같은 결의가 엿보이지만, 인사 대신 따뜻하면서도 슬픈 미소를 짓습니다"
+Embla,엠블라
+Bernard,버나드
+Barmaid,주점 여종업원
+Baroness of Firgol,피르골 남작부인
+Pert the Beekeeper,양봉업자 퍼트
+Ari,아리
+Cass,카스
+Temmy,테미
+Jeb,젭
+Vendor,상인
+Klara,클라라
+Majordomo,집사
+Drummer,고수
+Piper,피리 부는 사람
+Lutist,류트 연주자
+Camilla,카밀라
+Hierophant Drahl,대사제 드랄
+Albert,알버트
+Blacksmith,대장장이
+Quartermaster,병참 장교
+Clothier,의류 상인
+Julia,줄리아
+Ylia,일리아
+Martha,마사
+Frantzo,프란초
+Captain Vivian,비비안 선장
+Bobbert the Recruit,신병 봅버트
+Rat Queen,쥐 여왕
+Esteban,에스테반
+Armand,아르망
+Art Peddler,예술품 행상인
+Merchant,상인
+Bor the Sewerjack,하수구 청소부 보르
+Cora,코라
+Natia,나티아
+Philip,필립
+Iago,이아고
+Dono,도노
+Anto,안토
+Zhara,자라
+Iben,이벤
+Chamberlain,시종장
+Markus,마르쿠스
+Chamberlain to the governor of Idra,이드라 총독의 시종장
+Jakub,야쿱
+Ella,엘라
+{addVocalBarkLocal|I've too much on my mind right now...},{addVocalBarkLocal|지금은 머릿속이 너무 복잡해...}
+Giorgy,기오르기
+"A ragged man, caked in dirt",흙으로 뒤덮인 남루한 남자
+Marita,마리타
+Lighthouse Keeper,등대지기
+Lon,론
+The camp's cook,야영지의 요리사
+Hannah,한나
+"On your way through the refugee camp you notice a woman and a pale-looking child huddled together beneath an old, worn blanket","난민 캠프를 지나던 중, 낡고 해진 담요 밑에 몸을 웅크린 여인과 창백한 아이가 눈에 띕니다"
+Shepherd,양치기
+Wreck Picker,난파선 수집가
+Kat,캣
+Maija,마이야
+Andros,안드로스
+Marsa,마르사
+A young girl,어린 소녀
+She's ragged and far to lean but she is smiling from ear to ear as she clutches her stuffed animal,그녀의 수척한 얼굴은 봉제 인형을 껴안으며 더할 나위 없는 애정을 담은 미소를 짓고 있습니다
+She's ragged and far to lean and looks like she's been crying recently,앙상한 소녀의 뼈가 누더기 사이로 드러나 보입니다. 최근에 운 것 같기도 합니다
+Mother Katak,카탁 어머니
+"An old, silver-haired crone",은발의 노파
+Thomas,토마스
+Oleg the Gray,회색의 올렉
+Red Kala,붉은 칼라
+The Butcher,도살자
+Roland,롤랜드
+Snow,스노우
+"The man called ""Snow"" by his crew, was once the first mate of the Zephyr","선원들에게 ""스노우""라고 불리던 그는 한때 제퍼 호의 일등 항해사였습니다"
+Aaron,아론
+Leva,레바
+One of the wretched surviors from the Zephyr,제퍼 호의 비참한 생존자 중 한 명
+"The woman looks torn, tattered and exhausted",그 여자는 찢어지고 해진 옷을 입고 지쳐 보입니다
+"As you approach, she offers a tired, but grateful smile","당신이 다가가자, 그녀는 지쳤지만 고마워하는 미소를 짓습니다"
+Grigor,그리 고르
+"The man looks torn, tattered and exhausted",그 남자는 찢어지고 해진 옷을 입고 지쳐 보입니다
+As you approach the sailor shrinks back in terror whilst avoiding your gaze,"당신이 다가가자 선원은 겁에 질려 움츠러들며 당신의 시선을 피합니다"
+"As you approach the sailor offers a tired, but grateful smile","당신이 다가가자, 선원은 지쳤지만 고마워하는 미소를 짓습니다"
+Jan,얀
+Andry,앤드리
+Carylla,카릴라
+Tycho,티코
+The Ancient King,고대의 왕
+Joran the Usurper,찬탈자 요란

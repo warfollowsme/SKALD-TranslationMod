@@ -1,0 +1,154 @@
+original,translate
+#Combat Tutorials,#전투 튜토리얼
+Charging,돌격
+Moving at least 2 tiles in a straight line before performing an attack allows characters with a Melee weapon to perform a Charge Attack,근접 무기를 든 캐릭터가 공격하기 전에 직선으로 최소 2타일 이상 이동하면 돌격 공격을 수행할 수 있습니다
+Charge attacks significantly increase your likelihood to hit,돌격 공격은 명중 확률을 크게 높여줍니다
+Charge attacks add a bonus to your hit chance depending on how far you manage to move before attacking,돌격 공격은 공격 전 이동한 거리에 따라 명중 확률에 보너스를 추가합니다
+The teal pips over the character indicate how much momentum is built up by the charge,캐릭터 위의 청록색 점들은 돌격으로 인해 얼마나 많은 가속도가 붙었는지를 나타냅니다
+"The more momentum, the bigger the charge bonus","가속도가 높을수록, 돌격 보너스도 커집니다"
+A successful charge will give the following text printing the bonus that was added to the character’s To-Hit roll,돌격에 성공하면 캐릭터의 명중 굴림에 추가된 보너스가 텍스트로 표시됩니다
+Tactical View,전술 보기
+Pressing SHIFT in combat brings up the tactical overlay and makes it easier to see the exact positioning of characters and the underlying grid,전투 중 SHIFT 키를 누르면 전술 오버레이가 나타나 캐릭터의 정확한 위치와 바닥의 그리드를 쉽게 확인할 수 있습니다
+"In the settings menu, you can toggle the tactical overlay to be always on during the player’s turn","설정 메뉴에서 플레이어 턴 동안 전술 오버레이가 항상 켜져 있도록 설정할 수 있습니다"
+Holding LEFT TRIGGER in combat brings up the tactical overlay and makes it easier to see the exact positioning of characters and the underlying grid,전투 중 왼쪽 트리거를 누르고 있으면 전술 오버레이가 나타나 캐릭터의 정확한 위치와 바닥의 그리드를 쉽게 확인할 수 있습니다
+Conditions,상태 이상
+You have contracted a disease from your fight with the rats,저런! 쥐들과 싸우다가 병에 걸렸군요
+You may see what conditions are affecting you by opening the Character Sheet,캐릭터 시트를 열어 현재 어떤 상태 이상에 걸려 있는지 확인할 수 있습니다
+Click your portraits or press ‘C’ to do so,초상화를 클릭하거나 'C' 키를 눌러 확인하십시오
+Not all conditions are negative!,모든 상태 이상이 부정적인 것은 아닙니다!
+Press the Y BUTTON to do so,Y 버튼을 눌러 확인하십시오
+Negative conditions can often be cured by magic or rest,부정적인 상태 이상은 종종 마법이나 휴식으로 치료할 수 있습니다
+This disease can be cured by a potion,이 질병은 물약으로 치료할 수 있습니다
+Pick up and equip the lantern to search the area!,랜턴을 줍고 장착하여 주변을 수색하십시오!
+Hint,힌트
+Some containers are hidden until your character “spots” them,어떤 보관함들은 캐릭터가 ""발견""하기 전까지 숨겨져 있습니다
+Difficulty,난이도
+Warda is a dangerous place where you can quickly end up facing very dangerous beings,와르다는 매우 위험한 존재들과 마주칠 수 있는 위험한 곳입니다
+Sometimes the best tactic is to leave a fight for later as you level up and gather more equipment and allies,때로는 레벨을 올리고 더 많은 장비와 동료를 모을 때까지 싸움을 미루는 것이 최선의 전술일 수 있습니다
+Remember that you can change the difficulty of the game at any time,언제든지 게임 난이도를 변경할 수 있다는 점을 기억하십시오
+You can even create your own custom difficulty!,심지어 자신만의 맞춤형 난이도를 만들 수도 있습니다!
+Play the game the way YOU want it!,원하는 방식으로 게임을 즐기십시오!
+Flanking,측면 공격 (Flanking)
+A character can be Flanked if opponents occupy the tile above and below it or to the left and right of it,적이 캐릭터의 위/아래 또는 좌/우 타일을 점유하면 해당 캐릭터는 [측면 공격] 상태가 됩니다
+It is much easier to hit a Flanked character,측면 공격 상태인 캐릭터는 맞히기가 훨씬 쉽습니다
+A Rogue will automatically Backstab Flanked targets to deal massive amounts of damage,도적은 측면 공격 상태인 대상에게 자동으로 기습을 가해 막대한 피해를 입힙니다
+Here the main character has moved to the right of the mercenary,여기서 주인공이 용병의 오른쪽으로 이동했습니다
+And then Roland moves to the left of the mercenary who is now Flanked,그리고 롤랜드가 용병의 왼쪽으로 이동하여, 이제 용병은 측면 공격 상태가 되었습니다
+Note the red double-arrow icon that indicates when a character is Flanked,캐릭터가 측면 공격 상태일 때 나타나는 빨간색 이중 화살표 아이콘을 주목하십시오
+Initiative,주도권
+"In combat, characters act in order of initiative","전투에서 캐릭터는 주도권 순서대로 행동합니다"
+You can view the initiative order by using the Initiative Widget on the left side of the screen,화면 왼쪽의 주도권 위젯을 통해 주도권 순서를 확인할 수 있습니다
+Moving the cursor over the widget makes it pop out,커서를 위젯 위로 가져가면 팝업되어 자세히 볼 수 있습니다
+Note that moving the cursor over a name will make that character's outline flash on the battlefield,이름 위에 커서를 올리면 전장에서 해당 캐릭터의 윤곽선이 깜빡입니다
+Injuries,부상
+Your character is critically injured!,캐릭터가 치명적인 부상을 입었습니다!
+This means you have taken enough damage to reduce BOTH your Vitality and Wounds,이는 활력과 부상 수치가 모두 감소할 만큼 충분한 피해를 입었다는 의미입니다
+The green bar under your Character’s portrait represents your Vitality score,캐릭터 초상화 아래의 녹색 막대는 활력 수치를 나타냅니다
+Vitality is a buffer to your wounds and as long as you have Vitality left you won’t take (serious,활력은 부상에 대한 완충제 역할을 하며, 활력이 남아 있는 한 심각한 부상 피해를 입지 않습니다
+Wound damage,부상 피해
+Vitality is easily lost and easily regained!,활력은 쉽게 잃지만 쉽게 회복할 수 있습니다!
+Potions and healing magic restores Vitality - even during combat,물약과 치유 마법은 전투 중에도 활력을 회복시켜 줍니다
+"The second, purple bar represents your Wounds","두 번째 보라색 막대는 부상을 나타냅니다"
+Losing Wounds is much more serious than losing Vitality,부상 수치를 잃는 것은 활력을 잃는 것보다 훨씬 심각합니다
+Reaching 0 wounds means your character falls unconscious,부상 수치가 0이 되면 캐릭터는 의식을 잃게 됩니다
+Wounds can also only be recovered by resting (or leveling up,또한 부상은 휴식(또는 레벨 업)을 통해서만 회복할 수 있습니다
+Try to avoid taking Wound damage at all costs!,무슨 수를 써서라도 부상 피해를 입지 않도록 하십시오!
+"Whenever you take Wound damage, you gain an Injury Condition as indicated by the icon on the portrait","부상 피해를 입을 때마다 초상화에 아이콘으로 표시되는 부상 상태를 얻게 됩니다"
+Injuries confer serious penalties to your character and can only be removed by resting,부상은 캐릭터에게 심각한 페널티를 부여하며 휴식을 통해서만 제거할 수 있습니다
+A party full of injured party members has its combat effectiveness severely reduced!,부상당한 파티원이 많으면 파티의 전투 효율이 심각하게 떨어집니다!
+Making camp and resting is the surest way to restore an injured character!,야영을 하고 휴식을 취하는 것이 부상당한 캐릭터를 회복하는 가장 확실한 방법입니다!
+Note that resting is not possible in every location so plan accordingly,"모든 장소에서 휴식이 가능한 것은 아니므로, 그에 맞춰 계획을 세우십시오"
+You can also rest at inns when you find them,여관을 발견하면 그곳에서도 휴식을 취할 수 있습니다
+Interactables,상호작용 가능 물체
+Moving the cursor over an interactable object will make a yellow outline appear,상호작용 가능한 물체 위로 커서를 가져가면 노란색 윤곽선이 나타납니다
+Left mouse-click to interact with the object,마우스 왼쪽 버튼을 클릭하여 물체와 상호작용하십시오
+Right mouse-click to examine it,마우스 오른쪽 버튼을 클릭하여 조사하십시오
+Use RIGHT TRIGGER to interact with and object and press LEFT TRIGGER to examine it,오른쪽 트리거를 사용하여 물체와 상호작용하고 왼쪽 트리거를 눌러 조사하십시오
+Holding down SHIFT will highlight all interactable objects in view,SHIFT 키를 누르고 있으면 시야 내의 모든 상호작용 가능한 물체가 강조 표시됩니다
+Some objects are hidden and won't be highlighted until they are spotted,일부 물체는 숨겨져 있어 발견되기 전까지는 강조 표시되지 않습니다
+Holding down LEFT TRIGGER will highlight all interactable objects in view,왼쪽 트리거를 누르고 있으면 시야 내의 모든 상호작용 가능한 물체가 강조 표시됩니다
+Inventory,인벤토리
+"If you've not already done so, you must equip a weapon",아직 하지 않았다면 무기를 장착해야 합니다
+Press 'E' to manage your equipment,'E' 키를 눌러 장비를 관리하십시오
+Clicking an item selects and examines it,아이템을 클릭하면 선택되고 설명이 표시됩니다
+Select items using the cursor to examine and use it,커서를 사용하여 아이템을 선택하고 조사하거나 사용하십시오
+Press the X BUTTON on the controller to manage your equipment,컨트롤러의 X 버튼을 눌러 장비를 관리하십시오
+Double click on items to use them,아이템을 더블 클릭하여 사용하십시오
+For weapons and armor this means the item becomes equipped,무기와 방어구의 경우 장착됩니다
+Equipped items are moved to the relevant equipment slot,장착된 아이템은 해당 장비 슬롯으로 이동합니다
+"Select an item and press the A BUTTON to ""use"" it","아이템을 선택하고 A 버튼을 눌러 ""사용""하십시오"
+Note that you can also press RIGHT TRIGGER with the cursor over a selected item to use it,선택한 아이템 위에 커서를 두고 오른쪽 트리거를 눌러 사용할 수도 있습니다
+Movement Points,이동 포인트
+The widget on the lower right side represents the character’s action points,오른쪽 하단의 위젯은 캐릭터의 행동 포인트를 나타냅니다
+The yellow pips represent Movement points,노란색 점은 이동 포인트를 나타냅니다
+The violet pips represent Attacks,보라색 점은 공격 횟수를 나타냅니다
+You can move a number of tiles each combat equal to your Movement Points AND Attacks,전투 시 이동 포인트와 공격 횟수를 합친 만큼의 타일을 이동할 수 있습니다
+But spending Attacks to move means you won't be able to attack that turn,하지만 공격 횟수를 소모하여 이동하면 해당 턴에는 공격할 수 없습니다
+This is a good way of moving extra far,이는 평소보다 더 멀리 이동할 때 유용한 방법입니다
+Performing an attack will clear out all remaining movement points,공격을 수행하면 남은 모든 이동 포인트가 사라집니다
+"In other words, attacking will end the character’s turn in most cases","즉, 대부분의 경우 공격하면 캐릭터의 턴이 종료됩니다"
+New Character,새 캐릭터
+You’ve added a new character to your party!,새로운 캐릭터를 파티에 추가했습니다!
+"Press ""Q"" or the character portraits to swap the party leader","""Q"" 키나 캐릭터 초상화를 눌러 파티 리더를 변경할 수 있습니다"
+Press RIGHT BUMPER or the character portraits to swap the party leader,오른쪽 범퍼나 캐릭터 초상화를 눌러 파티 리더를 변경할 수 있습니다
+The current leader’s Attributes are used for tests outside combat (such as for Awareness or Stealth,전투 외 상황(인지 또는 은신 등)에서의 판정은 현재 리더의 능력치를 사용합니다
+Familiarize yourself with the Attributes and Abilities of your party members and have the right character take the lead depending on the circumstances,파티원의 능력치와 능력을 파악하고 상황에 따라 적절한 캐릭터가 리더를 맡도록 하십시오
+"When a new member joins your party, they Level Up to your current level","새 멤버가 파티에 합류하면 현재 레벨로 레벨 업합니다"
+The “Level Up” icon on your party-member’s portrait shows that a character is ready to level up!,파티원 초상화의 ""레벨 업"" 아이콘은 캐릭터가 레벨 업할 준비가 되었음을 나타냅니다!
+Double-click the character portrait and select FEATS to begin leveling up,캐릭터 초상화를 더블 클릭하고 [재주]를 선택하여 레벨 업을 시작하십시오
+Press the X BUTTON and go to the FEATS tab to begin leveling up,X 버튼을 누르고 [재주] 탭으로 이동하여 레벨 업을 시작하십시오
+Stealth,은신
+Press the Hide button to go into Stealth mode,은신 버튼을 눌러 은신 모드로 들어가십시오
+The action buttons also map to the numerical buttons,액션 버튼은 숫자 버튼에도 매핑되어 있습니다
+You may also press LEFT JOYSTICK to enter stealth mode,왼쪽 조이스틱을 눌러 은신 모드로 들어갈 수도 있습니다
+While in stealth mode the Stealth indicator becomes visible,은신 모드 중에는 은신 표시기가 나타납니다
+A yellow indicator means you're in danger of being spotted,노란색 표시기는 발각될 위험이 있음을 의미합니다
+"While your indicator is yellow, it will count down to 0%","표시기가 노란색일 때는 0%까지 카운트 다운됩니다"
+When it reaches 0% you are spotted and will become visible,0%에 도달하면 발각되어 모습이 드러납니다
+Moving in lit areas and being close to other characters will make the counter go down very fast,밝은 곳에서 이동하거나 다른 캐릭터에게 가까이 가면 카운트 다운 속도가 매우 빨라집니다
+Stick to shadows and avoid other characters,그러니 그림자에 숨고 다른 캐릭터들을 피하십시오
+Your ability to stay hidden is dictated by your stealth skill,숨어 있는 능력은 은신 기술에 의해 결정됩니다
+Increase this skill to stay hidden for longer,이 기술을 올려 더 오랫동안 은신 상태를 유지하십시오
+Wearing armor makes it harder to stay hidden,방어구를 착용하면 은신 상태를 유지하기가 더 어려워집니다
+"If the indicator turns green, it means you are no longer in danger of being spotted","표시기가 녹색으로 바뀌면 더 이상 발각될 위험이 없다는 뜻입니다"
+"Spending time in ""green"" areas will refill your stealth meter","""녹색"" 영역에서 이동하거나 대기하며 시간을 보내면 은신 미터가 다시 채워집니다"
+#Misc,#기타
+Crafting,제작
+This is the Crafting screen,제작 화면입니다
+"To create new items, double-click ingredients in your inventory to place them in the “Workstation” and then press “Craft","새 아이템을 만들려면 인벤토리의 재료를 더블 클릭하여 ""작업대""에 놓고 ""제작""을 누르십시오"
+"If the recipe is valid, new items will be created","유효한 조리법이라면 새 아이템이 생성됩니다"
+"To create new items, place ingredients in the “Workstation” grid and then press “Craft","새 아이템을 만들려면 재료를 ""작업대"" 그리드에 놓고 ""제작""을 누르십시오"
+The recipe list in the left column represents known recipes,왼쪽 열의 조리법 목록은 이미 알고 있는 조리법들을 보여줍니다
+You learn new recipes by experimenting or by finding recipe books out in the world,실험을 하거나 세상 곳곳에서 조리법 책을 찾아 새로운 조리법을 배울 수 있습니다
+Recipes that can currently be crafted are shown in green,현재 제작 가능한 조리법은 녹색으로 표시됩니다
+Selecting a green recipe will automatically add all the necessary ingredients to the “Workstation,녹색 조리법을 선택하면 필요한 모든 재료가 자동으로 ""작업대""에 추가됩니다
+Crafting is dependent on the Crafting skill,제작은 [제작] 기술에 의존합니다
+"Crafting a valid recipe will always succeed but depending on your skill and the recipe’s difficulty, there is a chance you may produce more than one item","유효한 조리법으로 제작하면 항상 성공하지만, 기술 수준과 조리법 난이도에 따라 아이템을 하나 이상 생산할 수도 있습니다"
+Resting,휴식
+This is the Camp screen,야영 화면입니다
+Use it to feed the party and select camp activities for the party members before resting,휴식을 취하기 전에 파티원들에게 식사를 제공하고 야영 활동을 선택하십시오
+"By default, the game always auto-saves when you make camp","기본적으로 야영을 할 때마다 게임이 자동 저장됩니다"
+"To fully recover from injuries, your party members must be well fed","부상에서 완전히 회복하려면 파티원들이 배불리 먹어야 합니다"
+Normally 10 points of food is required per party member to recover 100%,일반적으로 100% 회복하려면 파티원당 10포인트의 식량이 필요합니다
+If less than the required amount is added your party will only recover partially,필요한 양보다 적게 제공하면 파티원은 부분적으로만 회복합니다
+Add food from your inventory by double clicking it,인벤토리에서 식량을 더블 클릭하여 추가하십시오
+Note that prepared meals add a lot more food per item than raw ingredients,조리된 식사는 날것의 재료보다 아이템당 훨씬 많은 식량을 제공한다는 점을 명심하십시오
+Seek out crafting stations to craft meals from raw ingredients,제작대를 찾아 날재료로 식사를 만드십시오
+Select food from your inventory for your party to eat,인벤토리에서 파티원들이 먹을 음식을 선택하십시오
+You also need to select Camp Activities for your party members,또한 파티원들의 야영 활동을 선택해야 합니다
+These provide bonuses based on your character's skills,이것은 캐릭터의 기술에 따라 파티에 보너스를 제공합니다
+Beds and Inns,침대와 여관
+Keep an eye out for beds or inns to rest in while adventuring,모험 중에 쉴 수 있는 침대나 여관을 눈여겨보십시오
+Doing so is superior to sleeping in the wild,야외에서 자는 것보다 훨씬 효과적입니다
+"While resting at an inn or in a bed, you have the option to manage your party!","여관이나 침대에서 쉴 때 파티를 관리할 수 있습니다!"
+"This means you can choose what characters get to be part of your main party, and who should wait in camp","즉, 어떤 캐릭터를 메인 파티에 포함시키고 누구를 대기시킬지 선택할 수 있습니다"
+Camp followers do not earn XP and never participate in combat,대기 중인 동료는 경험치를 얻지 못하며 전투에 참여하지 않습니다
+Camp followers will for the most part not engage in the narrative,"대기 중인 동료는 대부분 스토리 진행에 관여하지 않습니다"
+"There are a few exceptions to this however, and there are some cases where even characters outside your main party may chime in during conversations","하지만 예외도 있으며, 메인 파티에 없는 캐릭터가 대화 중에 끼어드는 경우도 있습니다"
+Sailing,항해
+"While sailing on the overland map, the “Make Camp” button changes appearance","월드맵에서 항해 중일 때는 ""야영"" 버튼의 모양이 바뀝니다"
+Click it to explore the ship you’re currently on,버튼을 클릭하여 현재 타고 있는 배를 탐험하십시오
+Press it to explore the ship you’re currently on,버튼을 눌러 현재 타고 있는 배를 탐험하십시오
+"While on the ship, it’s possible to rest and reorganize, cook, craft items and even do some limited bartering","배 안에서는 휴식 및 재정비, 요리, 아이템 제작이 가능하며 선상 상인과 제한적인 거래도 할 수 있습니다"
+There may also be characters to talk to,대화할 수 있는 캐릭터가 있을 수도 있습니다
+"When you’re done interacting with the ship and crew, interact with the ship’s helm to go back to the overland map","배와 선원들과의 상호작용을 마친 후에는 배의 조타륜과 상호작용하여 월드맵으로 돌아가십시오"

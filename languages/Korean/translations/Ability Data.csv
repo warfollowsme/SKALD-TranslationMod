@@ -1,0 +1,326 @@
+original,translate
+#Combat Manuevers,#전투 기술
+Wild Swing,마구 휘두르기
+Critical Strike,치명타
+Defend Ally,아군 보호
+Mark Target,표적 지정
+The Target gets the Marked Condition which confers a -2 penalty to Dodge for the rest of the encounter,"대상에게 [표적] 상태가 적용되어, 전투가 종료될 때까지 회피에 -2 페널티를 부여합니다"
+Radiate Fear,공포 발산
+Blizzard Aura,눈보라 오라
+Aura of Fire,화염 오라
+Fire Lance,화염 창
+Howl of Terror,공포의 울부짖음
+Lightning Lash,번개 채찍
+Spit Acid,산성 침 뱉기
+Spit Poison,독 침 뱉기
+Spray Acid,산성 분사
+Attack!,공격!
+Forwards!,전진!
+Regroup!,재정비!
+Stand Your Ground!,물러서지 마라!
+Precise Strike,정밀 타격
+Rapid Shot,속사
+The character makes a ranged attack,캐릭터가 원거리 공격을 수행합니다
+"If that attack is successful, they may make another, free attack","공격이 성공하면, 추가로 무료 공격을 1회 더 수행할 수 있습니다"
+Pierce Armor,방어구 관통
+Vein Strike,혈관 타격
+Savage Strike,맹렬한 일격
+Shake the Earth,대지 진동
+Shield Rush,방패 돌진
+Perform an attack that pushes your opponent back one square if successfull,"성공 시, 대상을 한 칸 뒤로 밀어내는 공격을 수행합니다"
+Deals normal damage,일반 피해를 입힙니다
+Spellburn,마력 연소
+Storm of Steel,강철의 폭풍
+Stunning Blow,기절 타격
+Thrust And Parry,찌르기와 막기
+Dash,돌진
+Hide in Combat,전투 중 은신
+You gain the ability to hide whilst in Combat,전투 중 은신 상태에 들어갈 수 있는 능력을 얻습니다
+Attacking whilst hidden triggers the Backstab attack,은신 중 공격하면 기습(Backstab) 공격이 발동됩니다
+Infect,감염
+Ice Breath,얼음 숨결
+Imperial Litany,제국의 기도문
+Hamstring,힘줄 끊기
+Second Wind,재기의 바람
+#Passive Abilitiy,#지속 능력
+Backstabber,기습 공격자
+Allows the character to perform Backstab Attacks against voulnerable targets,취약한 대상에게 기습(Backstab) 공격을 수행할 수 있습니다
+Evasive,회피 기동
+Disengaging from Melee does not cause your turn to end,근접 교전에서 이탈해도 턴이 종료되지 않습니다
+Fancy Footwork,현란한 발놀림
+Swapping Places with allies not longer causes your Turn to end,아군과 위치를 교체해도 더 이상 턴이 종료되지 않습니다
+Activate Spellcasting,주문 시전 활성화
+Allows the character to begin studying schools of spellcasting,캐릭터가 주문 학파 연구를 시작할 수 있습니다
+"To learn spells, pick and invest in one or more such schools","주문을 배우려면 하나 이상의 학파를 선택하고 투자하십시오"
+Increased Agiliy,민첩 증가
+Increased Heavy Armor Use,중갑 숙련도 증가
+Increased Light Armor Use,경갑 숙련도 증가
+Increased Medium Armor Use,평갑 숙련도 증가
+Increased Athletics,운동 능력 증가
+Increased Attunement,마력 조율 증가
+Spell Aura Radius Increase,주문 오라 범위 증가
+Increased Awareness,인지력 증가
+Increased Backstab Damage,기습 피해량 증가
+Pack Mule,짐꾼
+Increased Crafting,제작 능력 증가
+Critical Resistance,치명타 저항
+Increased Diplomacy,화술 증가
+Increased Dodge,회피 증가
+Fletching,화살 제작
+Doubles the chance of recovering a spent arrow after combat,전투 후 이미 발사된 화살을 회수할 확률이 두 배가 됩니다
+Increased Fortitude,인내력 증가
+Increased Gold Drops,골드 획득량 증가
+Increased Healing,치유량 증가
+Increased Initiative,주도권 증가
+Increased Intellect,지능 증가
+Increased Lore,학식 증가
+Increased Max Cascade,최대 연쇄 증가
+Increased Movement,이동력 증가
+Increased Presence,존재감 증가
+Increased Spell Aptitude,주문 적성 증가
+Increased Stealth,은신 능력 증가
+Increased Strength,힘 증가
+You are powerfully built,당신은 강인한 신체를 가졌습니다
+to Strength Primary Attribute,주 능력치인 힘에
+Survival Increase,생존력 증가
+Increased Thievery,도적질 능력 증가
+Increased Toughness,강인함 증가
+Increased Vitality,활력 증가
+Increased Will,의지력 증가
+Charger,돌격대장
+Axe Finesse,도끼 기교
+Blade Finesse,검 기교
+Bow Finesse,활 기교
+Club Finesse,곤봉 기교
+Light Weapon Finesse,소형 무기 기교
+Vicious,포악함
+Axe Damage,도끼 피해량
+Blade Damage,검 피해량
+Bow Damage,활 피해량
+Club Damage,곤봉 피해량
+Brutal,잔혹함
+Heavy Weapon Damage,대형 무기 피해량
+Light Weapon Damage,소형 무기 피해량
+Piercing Damage,찌르기 피해량
+Phalanx,방패 벽
+"While wielding a shield, get a dodge bonus for adjacent allies","방패를 든 상태에서 인접한 아군에게 회피 보너스를 제공합니다"
+Bonus is +1 per ally up to a maximum of the Phalanx Bonus attribute value (typically,"보너스는 아군 1명당 +1이며, 최대치는 '방패 벽 보너스' 속성값과 같습니다 (일반적으로"
+Shield Training,방패 훈련
+Acid Immunity,산성 면역
+Blindness Immunity,실명 면역
+Cold Immunity,냉기 면역
+Critical Immunity,치명타 면역
+Deafness Immunity,청각 장애 면역
+Disease Immunity,질병 면역
+Lightning Immunity,번개 면역
+Fire Immunity,화염 면역
+Non Magical Damage Immunity,비마법 피해 면역
+Panic Immunity,공황 면역
+Paralysis Immunity,마비 면역
+Poison Immunity,독 면역
+Sleep Immunity,수면 면역
+Fell Illumination,사악한 빛
+Multi Attack,다중 공격
+Gain 1 extra Attack per Turn,턴당 1회의 추가 공격 기회를 얻습니다
+Greater Increased Attunement,상급 마력 조율 증가
+Major Natural Armor,대형 자연 방어
+Medium Natural Armor,중형 자연 방어
+Minor Natural Armor,소형 자연 방어
+Greater Natural Weapons,상급 자연 무기
+Natural Weapons,자연 무기
+Point Blank Shot,근거리 사격
+You can use Ranged Weapons even when in Melee,근접 교전 중에도 원거리 무기를 사용할 수 있습니다
+Resistance,저항
+Slashing,베기
+Blunt,타격
+Piercing,찌르기
+Magical,마법
+Cold,냉기
+Acid,산성
+Kinetic,운동
+Sublime,숭고함
+Electric,전기
+Fire,화염
+Psychic,정신
+Minor Resistance,하급 저항
+Lightning,번개
+Physical,물리
+Increased Aura Radius,오라 범위 증가
+Increased Line Effects,직선 효과 범위 증가
+Increased Sphere Effects,구형 효과 범위 증가
+Air Magic Focus,대기 마법 집중
+Bardic Magic Focus,음유시인 마법 집중
+Body Magic Focus,신체 마법 집중
+Earth Magic Focus,대지 마법 집중
+Fire Magic Focus,화염 마법 집중
+Mind Magic Focus,정신 마법 집중
+Nature Magic Focus,자연 마법 집중
+Spirit Magic Focus,영혼 마법 집중
+Axe Accuracy,도끼 정확도
+Blade Accuracy,검 정확도
+Bow Accuracy,활 정확도
+Club Accuracy,곤봉 정확도
+General Accuracy,일반 정확도
+Heavy Weapon Accuracy,대형 무기 정확도
+Light Weapon Accuracy,소형 무기 정확도
+Melee Accuracy,근접 정확도
+Ranged Accuracy,원거리 정확도
+Vulnerability,취약점
+Cold,냉기
+Sublime,숭고함
+Bonus XP Percentage,보너스 경험치 비율
+Blessing of Agility,민첩의 축복
+Blessing of Fortitude,인내의 축복
+Blessing of Intellect,지능의 축복
+Blessing of Presence,존재감의 축복
+Blessing of Strength,힘의 축복
+#Spells,#주문
+Spells,주문
+Armor of Thorns,가시 흉갑
+Heroic Aura,영웅의 오라
+Aura of Condemnation,규탄의 오라
+Aura of Fear,공포의 오라
+Miasma,독기
+Aura of Silence,침묵의 오라
+Searing Light,타오르는 빛
+Smothering Blanket,질식의 장막
+Sight to Behold,경이로운 광경
+Eye-Shine,안광
+Fire Sprite,불의 정령
+Fireworks,불꽃놀이
+Heroic Tune,영웅의 선율
+Now you See Me,이제 날 봐...
+Lambent Dance,은은한 춤
+Lifting Tune,고양의 선율
+Light Please,빛을 주소서
+Raise the Curtain,막을 올려라
+Shadow Step,그림자 밟기
+Song of Soothing,위로의 노래
+Sparkledust,반짝이는 가루
+Whisper of Confusion,혼란의 속삭임
+Barkskin,나무 껍질 피부
+Bear's Strength,곰의 힘
+Blessing Aura,축복의 오라
+Blessing Touch,축복의 손길
+Blink,점멸
+Mark of Blurring,흐릿함의 표식
+Breath Glass,유리 숨결
+Blinding Bolt,실명의 화살
+Circle of Corporeal Restoration,신체 회복의 원
+Circle of Healing,치유의 원
+Circle of Mental Restoration,정신 회복의 원
+Clear Senses,맑은 정신
+Command of Paralyzation,마비의 명령
+Cure Moderate Disease,중급 질병 치료
+Heal Mind,정신 치유
+Fleet of Foot,발 빠른 움직임
+Cure Moderate Poison,중급 독 치료
+Diamond Form,다이아몬드 형상
+Dispel Magic,마법 해제
+Distort Mass,질량 왜곡
+Divine Intervention,신성한 개입
+Aura of Flame,화염의 오라
+Fireball,화염구
+Breath of the Ancients,고대의 숨결
+Flaming Fists,화염 주먹
+Fire Frenzy,화염 광란
+Inferno,지옥불
+Searing Lash,타오르는 채찍
+Aura of Fire Resistance,화염 저항 오라
+Fire Warrior,화염의 전사
+Force of Nature,자연의 힘
+Fortify Awareness,인지력 강화
+Fortify Will,의지력 강화
+Mark of Haste,신속의 표식
+Mark of Heroism,영웅심의 표식
+Hammer of Light,빛의 망치
+Holy Judgement,신성한 심판
+Holy Lance,신성한 창
+Hysterical Blindness,히스테리성 실명
+Curse of Ensnarement,속박의 저주
+Instil Courage,용기 주입
+Mark of Invisibility,투명화의 표식
+Greater Lay on Hands,상급 치유의 손길
+Minor Lay on Hands,하급 치유의 손길
+Moderate Lay on Hands,중급 치유의 손길
+Lesser Regeneration,하급 재생
+Mark of Illumination,광명의 표식
+Holy Light,신성한 빛
+Lightning Strike,낙뢰
+Magic Missile,매직 미사일
+Web of Roots,뿌리 거미줄
+Sublime Projection,숭고한 투영
+Pestilence,역병
+Poisoned Globe,독 구체
+Purge Invisibility,투명화 해제
+Purge Magic,마법 정화
+Greater Regeneration,상급 재생
+Corporeal Restoration,신체 회복
+Mental Restoration,정신 회복
+Serpent's Grace,뱀의 우아함
+Arcane Shockwave,비전 충격파
+Steal Breath,숨 훔치기
+Mark of Lethargy,무기력의 표식
+Mass Lethargy,광역 무기력
+Stoneskin,돌 피부
+Stunning Aura,기절 오라
+Stunning Touch,기절의 손길
+Summon Giant Insect,거대 곤충 소환
+Summon Magmite,마그마이트 소환
+Summon Ooze,점액 괴물 소환
+Summon Vermin,해충 소환
+Swarm of Gnats,모기 떼
+Thunderclap,천둥소리
+Touch of Condemnation,규탄의 손길
+Touch of Confusion,혼란의 손길
+Touch of Weakness,약화의 손길
+#Triggered Abilities,#발동 능력
+Arcane Rush,비전 쇄도
+"The first time you take Wound Hit point Damage each combat, you automatically regain 30-40 Attunement Points","매 전투에서 첫 부상 체력 피해를 입을 때, 30-40의 마력(Attunement)을 재생합니다"
+Crippling Finesse,치명적 기교
+"When scoring a Backstab hit using a Light Weapon, the targets gets a random injury Condition","소형 무기로 기습에 성공하면, 대상은 무작위 부상 상태를 얻습니다"
+Rending Blow,찢어발기기
+Critical Hits with an Axe causes Injury Conditions,도끼로 치명타 적중 시 부상 상태를 유발합니다
+Deep Cut,깊게 베기
+Your Critical Hits using Blades cause Bleeding on your target,검(Blades)으로 치명타 적중 시 대상을 출혈 상태로 만듭니다
+Red Arcs,붉은 궤적
+Scoring a Critical Hit with a Light Blade causes you to restore 1 Attack,소형 검으로 치명타 적중 시 즉시 추가 공격 기회 1회를 얻습니다
+Rapid Reload,빠른 재장전
+"If you score a Critical Hit with a Bow, you immediately regain 1 attack",활로 치명타 적중 시 즉시 추가 공격 기회 1회를 얻습니다
+Kneecap,무릎 부수기
+Critical Hits with a Club causes The Injured Leg condition,곤봉으로 치명타 적중 시 대상에게 [다리 부상] 상태를 부여합니다
+Weaving Blade,칼날 엮기
+Dodging a Melee Attack whilst armed causes you to deal a small amont of Slashing Damage to your attacker,"무기를 든 상태에서 근접 공격을 회피하면, 공격자에게 소량의 베기 피해를 입힙니다"
+Felling Strike,쓰러뜨리기
+Weakly Infections,약한 감염성
+Your unarmed attack may cause disease in the target,비무장 공격 시 대상에게 질병을 유발할 수 있습니다
+Decapitation,참수
+The gruesomeness of your Axe-Kill causes the Fear condition in all opponents who can see it,도끼 처형의 끔찍한 잔혹성으로 인해 이를 목격한 모든 적이 공포에 질립니다
+Cleave,베어 넘기기
+Killing an opponent using a Heavy Melee Weapon restores 1 Attack,대형 근접 무기로 적을 처치하면 공격 기회 1회를 회복합니다
+Inspiring Kill,고무적인 처치
+"When killing an Opponent in Armed or Unarmed Melee combat, all Allies who witness the kill get the Inspired Condition for 1 Turn","근접 전투에서 적을 처치하면, 이를 목격한 모든 아군이 1턴 동안 [고무됨] 상태를 얻습니다"
+Replenishing Takedown,회복의 제압
+"Killing a Marked Target, heals the party a small amount","[표적] 상태인 대상을 처치하면, 파티의 체력이 소량 회복됩니다"
+Magnificent Takedown,화려한 제압
+"When killing a Marked target, all Allies who witness the kill get the Inspired Condition for 1 Turn","[표적] 상태인 대상을 처치하면, 이를 목격한 모든 아군이 1턴 동안 [고무됨] 상태를 얻습니다"
+Bleeding Strike,출혈 타격
+Greater Bleeding Strike,상급 출혈 타격
+Lesser Bleeding Strike,하급 출혈 타격
+Acid Burst,산성 폭발
+Sommon Abomination,흉물 소환
+Lesser Poison Attack,약한 독 공격
+Moderate Poison Attack,중급 독 공격
+Strong Poison Attack,강한 독 공격
+Stunning Strike,기절 타격
+Steal Life,생명력 흡수
+Shield Slam,방패 강타
+"Whilst wielding a shield, dodging a melee attack causes you to deal 1-4 Blunt damage to your attacker","방패를 든 상태에서 근접 공격을 회피하면, 공격자에게 1-4의 타격 피해를 입힙니다"
+Smashing Charge,강타 돌격
+Your Charges cause 1-3 additional Blunt Damage,돌격 시 1-3의 추가 타격 피해를 입힙니다
+Hidden Deployment,은밀한 배치
+You start combat Hidden,전투 시작 시 은신 상태가 됩니다
+Smoke Bomb,연막탄
+"The first time you're Wounded each combat, you automatically hide","매 전투에서 첫 부상을 입을 때, 자동으로 은신 상태가 됩니다"
+Not Today!,오늘은 죽지 않아!
+"The first time you take Wound Hit point Damage each combat, you automatically regain 12-18 Vitality Hit Points","매 전투에서 첫 부상 체력 피해를 입을 때, 12-18의 활력(Vitality)을 재생합니다"
