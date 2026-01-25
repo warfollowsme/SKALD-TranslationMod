@@ -1,21 +1,21 @@
 original,translate
 #Beds,#Beds
-Bed,Bed
-Bedroll,Bedroll
+Bed,A bed
+Bedroll,A bedroll
 #Containers,#Containers
-Armor Stand,Armour stand
-Armor Stands,Armour tands
-Backpack,Backpack
+Armor Stand,An armour stand
+Armor Stands,Armour stands
+Backpack,A backpack
 Arrows,Arrows
-A Barrel,A common barrel. How vulgar!
+A Barrel,A common barrel
 "A barrel of standard Imperial measurements, used to carry cargo on Guild ships","A barrel of standard Imperial measurements, used to carry cargo on Guild ships"
 Barrels,Barrels
 Bookshelf,Bookshelf
-Box,Box
+Box,A box
 A solid box,A solid box
 Brandy Crates,Brandy crates
-Cabinet,Cabinet
-A Chest,A hest
+Cabinet,A cabinet
+A Chest,A chest
 A sturdy wooden chest,A sturdy wooden chest
 A shoddy wooden chest,A shoddy wooden chest
 Cocoon,Cocoon
@@ -27,28 +27,28 @@ Oleg,Oleg
 Mauled Corpses,Mauled corpses
 A Crate,A crate
 A well made wooden crate that carries the brand of the Nautical Guild,A well made wooden crate branded with the Nautical Guild's seal
-Crates,Crates
+Crates,Many crates
 Small wooden crates,Small wooden crates
 Alcove,An alcove
-Shelves,Shelves
+Shelves,Some shelves
 Desk,A Desk
 Apothecary's Desk,An apothecary's desk
-Flower,Flower
+Flower,A lovely flower
 Secret Compartment,Secret compartment
-Your Luggage,Your luggage
+Your Luggage,Your luggage.
 A very sturdy wooden chest,A very sturdy wooden chest
 A sturdy chest,A sturdy chest
 Table of Notes,Table of notes
 Sacks,Some sacks
 Sarcophagus,A sarcophagus
-Reagent Shelf,A reagent Shelf
+Reagent Shelf,A reagent shelf
 Smuggler's Corpse,A smuggler's corpse
 Table,A table
-Surgical Tools,A set of surgical Tools
+Surgical Tools,A set of surgical tools
 #Decoratives,#Decoratives
 Cave-In,Cave-In
 Aquarium,Aquarium
-Cauldron,A cauldron
+Cauldron,A cauldron.
 An empty cauldron,An empty cauldron
 Eyes,Eyes!
 Fountain,A fountain
@@ -62,7 +62,7 @@ Ancient Pottery,Ancient pottery
 Hole,A hole
 Scarecrow,A scarecrow
 #Doors,#Doors
-Barred Gate,A barred gate
+Barred Gate,A barred gate.
 Door,A door
 Gate,A gate
 A Door,A door
@@ -97,7 +97,7 @@ The mauled corpse of a giant spider,The mauled corpse of a giant spider
 Grave,A grave
 A fresh grave with a simple marker made of sticks,A fresh grave with a simple marker made of sticks
 No name can be found upon it,No name can be found upon it
-The corpse belongs to a graying old man,The corpse belongs to a greying old man
+The corpse belongs to a graying old man,"The corpse belongs to a greying, old man"
 His face is serene and there is nothing to indicate he did not die of natural causes,His face is serene. There is nothing to indicate he did not die of natural causes
 "Leaning over the body however, you spot thin strands of some bizarre purplish fungal growth protruding from the man's mouth and nose","Leaning over the body however, you spot thin strands of some bizarre purplish fungal growth protruding from the man's mouth and nose"
 "Strange vines of some unknown, purplish growth bursts forth from the masonry","Strange vines of some unknown, purplish growth bursts forth from the masonry"
@@ -108,7 +108,7 @@ A body lies broken upon the ground,A battered body lies broken upon the ground
 "Though it has been gnawed by hounds, it seems clear that this person fell or jumped from the cliffs above","Though it has been gnawed by hounds, it seems clear that this person fell from a great height; the cliffs above"
 Old Crates,Old crates
 Old and ruined shipping crates litter this part of the cave,Old and ruined shipping crates litter this part of the cave
-Only smugglers would use a place like this to store their goods,Only smugglers' would use a place like this to store their goods
+Only smugglers would use a place like this to store their goods,Only smugglers would use a place like this to store their goods
 "Perhaps there are other, similar caches to be found on the Outer Isles?","Perhaps there are other, similar caches to be found on the Outer Isles?"
 A Note,A note
 A note is scrawled in crude letters,A barely legible note is scrawled in crude letters
@@ -137,32 +137,32 @@ Ink and paper that appears to have been abandoned mid-use,A pot of ink and sheet
 It seems someone was copying the mosaic on the floor,It seems someone was copying the mosaic on the floor
 Grotesque Relief,A grotesque relief
 The sarcophagus has the following description,The sarcophagus has the following description
-Carroleth the Manyfaced - First Grandmaster of the Order of the Crystal Eye,Carroleth the Manyfaced - First Grandmaster of the Order of the Crystal Eye
-Rothrax the Gray - Second Grandmaster of the Order of the Crystal Eye,Rothrax the Grey - Second Grandmaster of the Order of the Crystal Eye
-Kalamar the Wise - Third Grandmaster of the Order of the Crystal Eye,Kalamar the Wise - Third Grandmaster of the Order of the Crystal Eye
+Carroleth the Manyfaced - First Grandmaster of the Order of the Crystal Eye,Carroleth the Many-faced - First Grand Master of the Order of the Crystal Eye
+Rothrax the Gray - Second Grandmaster of the Order of the Crystal Eye,Rothrax the Grey - Second Grand Master of the Order of the Crystal Eye
+Kalamar the Wise - Third Grandmaster of the Order of the Crystal Eye,Kalamar the Wise - Third Grand Master of the Order of the Crystal Eye
 Secret Passage,A secret passage
 The relief of this altarpiece seems to shift and squirm in the dancing light,The relief of this altarpiece seems to shift and squirm in the dancing light
 "What’s more, there appears to be a hidden passage behind it","What’s more, there appears to be a hidden passage behind it"
 No way of opening it can be seen nearby,No way of opening it can be seen nearby
-Pile of Ash,Pile of Ash
+Pile of Ash,Pile of ash
 This cave opens up into the sheer cliff wall beneath the tower,This cave opens up into the sheer cliff wall beneath the tower
 Piled on the ledge is a great heap of ash that the wind occasionally carries away in great wisps,Piled on the ledge is a great heap of ash that the wind occasionally carries away in great wisps
 Carefully you prod the pile only to find a small handful of scorched human bones and teeth,"Carefully you prod the pile, only to find a small handful of scorched human bones and teeth"
-"Looking around, you see a great in the ceiling above from which the ash appears to have been dumped","Looking around, you see a grate in the ceiling above from which the ash appears to have been dumped"
+"Looking around, you see a great in the ceiling above from which the ash appears to have been dumped","Looking around, you see a grate in the ceiling above, from which the ash appears to have been dumped"
 "A large square slab with small holes carved in it appears to be placed over some sort of shaft, sealing it shut","A large square slab with small holes carved in it appears to be placed over some sort of shaft, sealing it shut"
-You attempt to look through one of the holes but are knocked back by an unbearable stench emitting from below,You attempt to look through one of the holes but are knocked back by an unbearable stench emitting from below
-But wait?,But wait?
-Was there something else?,Was there something else?
+You attempt to look through one of the holes but are knocked back by an unbearable stench emitting from below,You attempt to look into one of the holes but an unbearable stench permeates through from below; you are knocked back
+But wait?,But wait!
+Was there something else?,"A glimpse before you were overpowered, of something; was there something else…"
 Movement?,Movement?
-The slab seems too heavy to lift and just as well,The slab seems too heavy to lift. Just as well!
-You have an overwhelming feeling that what is trapped in the shaft below was not meant for mortal eyes to see and is best left in the dark,You have an overwhelming feeling that what is trapped in the shaft below was not meant for mortal eyes to see and is best left in the inky blackness it calls home
+The slab seems too heavy to lift and just as well,The slab seems too heavy to lift. Just as well
+You have an overwhelming feeling that what is trapped in the shaft below was not meant for mortal eyes to see and is best left in the dark,you have an overwhelming feeling that what is trapped in the shaft below was not meant for mortal eyes to see and is best left in the inky blackness it calls home
 A Desk,A desk
 A desk with a maritime navigation map,A desk with a maritime navigation map laid on it
 The map is labled 'The Outer Isles' and a course is drawn towards an island named 'Idra',"The map is labelled ""The Outer Isles"" and a course is drawn towards an island named ""Idra"""
-A Grisly Scene,A Grisly Scene
-You recognize the corpse of one of the crew-mates,You recognize the corpse of one of the crew-mates
-A young man of barely 16 years called Sullum,A young man of barely 16 years called Sultan
-The youth has been mauled to death by what you assume are the grotesquely altered rats you encounterd just minutes ago,The unfortunate youth has been mauled to death by what you assume are the grotesquely altered rats you encountered just minutes ago
+A Grisly Scene,A... grisly scene
+You recognize the corpse of one of the crew-mates,You recognise the corpse of one of the crew mates
+A young man of barely 16 years called Sullum,A young man of barely 16 years called Sullum
+The youth has been mauled to death by what you assume are the grotesquely altered rats you encounterd just minutes ago,"The unfortunate youth bears deep lacerations all over, presumably mauled to death by the grotesquely altered rats you encountered just moments ago"
 The corpse is still warm,The corpse is still warm
 #Interactables,#Interactables
 A Cat,A cat
@@ -185,8 +185,8 @@ Dead Horse,A dead horse
 Scraps of Meat,Scraps of meat
 Jakub and Ella,Jakub and Ella
 The Ganglion,The Ganglion
-A Well,"Well, well. It's a well. Well done. Well? What more do you want?"
-Dessicated Corpse,Dessicated corpse
+A Well,A Well
+Dessicated Corpse,Desiccated corpse
 Ladder,A ladder
 Telescope,A telescope
 Cato's Study,Cato's study
@@ -217,11 +217,11 @@ Strange Basins,Some strange basins
 Vomit Cap cluster,A cluster of vomit caps
 Waterfall,A waterfall
 Winch,A winch
-Drainage,The drainage
-Elevator,An elevator
+Drainage,Drainage
+Elevator,A lift
 A Strange Machine,A strange machine
-Protoplasmic Catalyzer,"A... protoplasmic catalyzer, of course"
-Book,A book
+Protoplasmic Catalyzer,"A... protoplasmic catalyser, of course"
+Book,Book
 Reflecting Pool,The reflecting pool
 #LightSources,#LightSources
 Bees,Bees!
@@ -229,7 +229,7 @@ Brazier,A brazier
 Camp Fire,A campfire
 Candles,Some candles
 Candle,A candle
-Flies,Flies. Buzz off!
+Flies,"Flies. Buzz off, would ya"
 Fire,A fire
 Fireflies,A few fireflies
 Glow Globe,A glow globe
@@ -242,10 +242,10 @@ Light,"A heavy- no wait, it's a light"
 #Pickups,#Pickups
 Carrots,Carrots
 Cheese Wheel,A cheese wheel
-Fish,A Fish
+Fish,A fish
 Gullyfern,Gullyfern
 Legionnaire’s Rest,Legionnaire’s Rest
-Sorrow-Eater,Sorrow-Eater
+Sorrow-Eater,Sorrow-Eaters
 Starspawn,Starspawn
 Sunmouth,Sunmouth
 Apples,Apples
@@ -259,29 +259,27 @@ Patch of Glowmen,Patch of glowmen
 Fellbell,Fellbell
 Laughtercap,Laughtercap
 Morel,Morel
-Punny Bun,Punny bun
+Punny Bun,Penny bun
 Wyrdloaf,Wyrdloaf
 Bird's Nest,A bird's nest
 Onions,Onions
-Pick-Axe,Pick-axe
+Pick-Axe,Pickaxe
 Potatos,Potatoes
 Ripe Pumpkin,A ripe pumpkin
-Recipe,A recipe
+Recipe,Recipe
 Rotten Log,A rotten log
 A Badge,A badge
-Shovel,A shovel
+Shovel,Shovel
 Vessels,Vessels
 Lotus Pool,The Lotus Pool
 #TestProps,#TestProps
 Broken Bridge,A broken bridge
 The bridge ahead is broken,The bridge ahead is broken
-Perhaps you can jump the gap?,Perhaps you can jump the gap?
+Perhaps you can jump the gap?,Leap the precipice?
 Climbing Holds,Climbing holds
 You can climb down this wall,You can climb down this wall
 You can climb the wall ahead,You can climb the wall ahead
-"Using the rope, you can descend the wall","Using the rope, you can descend the wall"
 Stack of Boxes,Stack of boxes
-Using the stack of boxes you can reach the rope and try to climb the wall,Using the stack of boxes you can reach the rope and try to climb the wall
 #Triggers,#Triggers
 {notHasJournalEntry|JOU_CrabCaveEntrance},{notHasJournalEntry|JOU_CrabCaveEntrance}
 A Survivor,A survivor
@@ -299,7 +297,7 @@ Castle Entrance,The castle entrance
 Castle Exit,The castle exit
 Catacomb Entrance,The catacomb entrance
 Exit to Temple,The exit to the temple
-Grate,A grate
+Grate,A grate. Doesn’t seem so special
 Secret Door,A secret door
 Firgol,Firgol
 Adler's Helm,Adler's Helm
@@ -316,9 +314,13 @@ A Tower,A tower
 Rope and Bucket,A rope and bucket
 Ladders,Ladders
 #WorkBenches,#WorkBenches
-Alchemist's Tools,Some alchemist tools
+Workbench,Workbench
+Alchemist's Tools,Some alchemist tools.
 A cauldron for cooking,A cooking cauldron
 Pot,A pot
 An pot that can be used for cooking,A cooking pot
-Oven,An oven
+Oven,An oven.
 An oven that can be used for cooking,An oven for cooking food
+A Comfortable Camp,A Comfortable Camp
+A Rough Camp,A Rough Camp
+Party Management,Party Management

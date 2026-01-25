@@ -1,5 +1,13 @@
-﻿original,translate
-Core 1.0.7e,Core 1.0.7e; British English Edition
+original,translate
+Pre-Launch 1.0.3d,Pre-Launch 1.0.3d - EN-GB
+Pre-Launch 1.0.3d - DELUXE EDITION,Pre-Launch 1.0.3d - DELUXE - EN-GB
+Launch 1.0.5,Launch 1.0.5 - EN-GB
+Launch 1.0.5 - DELUXE EDITION,Launch 1.0.5 - DELUXE - EN-GB
+Core 1.0.6c,Core 1.0.6c - EN-GB
+Core 1.0.6c - DELUXE EDITION,Core 1.0.6c - DELUXE - EN-GB
+Core 1.0.7e - DELUXE EDITION,Core 1.0.7e - DELUXE - EN-GB
+SKALD Core 1.0.7e - DELUXE EDITION,Core 1.0.7e - DELUXE - EN-GB
+Press 1.0.9d - DELUXE EDITION,Press 1.0.9d - DELUXE - EN-GB
 Continue Game,Continue Game
 New Game,New Game
 Load,Load
@@ -35,23 +43,28 @@ DELUXE,DELUXE
 Nostalgia Mode,Nostalgia Mode
 Dice Animation,Dice Animation
 White - Pips,White - Pips
+White - Roman,White - Roman
+Blue - Pips,Blue - Pips
+Blue - Roman,Blue - Roman
+Red - Pips,Red - Pips
+Red - Roman,Red - Roman
 Russian,Russian
 Gameplay Settings,Gameplay Settings
 ENTER MAP AUTO SAVE,ENTER MAP AUTO SAVE
-The game will auto save whenever you enter a new map,The game will auto save whenever you enter a new map
+The game will auto save whenever you enter a new map,"When enabled, the game will auto save whenever you enter a new map"
 REST AUTO SAVE,REST AUTO SAVE
-The game will auto save whenever you make camp,The game will auto save whenever you make camp
+The game will auto save whenever you make camp,"When enabled, the game will auto save whenever you make camp"
 TACTICAL ICONS ALWAYS ON,TACTICAL ICONS ALWAYS ON
 The degree to which the game shows tactical symbols and a grid during combat,The degree to which the game shows tactical symbols and a grid during combat
-"If set to true, the game will automatically show tactical icons during the planning state","If set to true, the game will automatically show tactical icons during the planning state"
-"If set to false, the tactical icons will only show when holding down SHIFT","If set to false, the tactical icons will only show when holding down SHIFT"
+"If set to true, the game will automatically show tactical icons during the planning state","When enabled, the game will automatically show tactical icons during the planning state"
+"If set to false, the tactical icons will only show when holding down SHIFT","When disabled, the tactical icons will only show when holding down SHIFT"
 TACTICAL GRID,TACTICAL GRID
 Whether or not the game shows a grid along with the tactical icons when activated during combat,Whether or not the game shows a grid along with the tactical icons when activated during combat
 SHOW STEALTH INFO,SHOW STEALTH INFO
-Setting this to Enabled will show a tooltip box containing info on light levels and stealth modifiers for tiles when you right click them,Setting this to Enabled will show a tooltip box containing info on light levels and stealth modifiers for tiles when you right click them
+Setting this to Enabled will show a tooltip box containing info on light levels and stealth modifiers for tiles when you right click them,"When enabled, this will show a tooltip box containing info on light levels and stealth modifiers for tiles when you right click them"
 COMBAT POP-UP LENGTH,COMBAT POP-UP LENGTH
 This adjusts how long the on-screen combat pop-up text lingers,This adjusts how long the on-screen combat pop-up text lingers
-"Note that a turn does not progress until all the character�s pop-up text is gone, so adjusting this number will also adjust how quickly combat turns pass","Note that a turn does not progress until all the character�s pop-up text is gone, so adjusting this number will also adjust how quickly combat turns pass"
+"Note that a turn does not progress until all the character’s pop-up text is gone, so adjusting this number will also adjust how quickly combat turns pass","Note that a turn does not progress until all the character’s pop-up text is gone, so adjusting this number will also adjust how quickly combat turns pass"
 TUTORIALS,TUTORIALS
 The degree to which you want the game to offer gameplay tutorials during play,The degree to which you want the game to offer gameplay tutorials during play
 CONTROLLER SENSITIVITY,CONTROLLER SENSITIVITY
@@ -66,14 +79,15 @@ Very Slow,Very Slow
 Fast,Fast
 Attribute Rerolls,Attribute Rerolls
 Player Rerolls,Player Rerolls
-P. Dmg. Rerolls,Player Dmg. Rerolls
+P. Dmg. Rerolls,P. Dmg. Rerolls
 Enemy Rerolls,Enemy Rerolls
-E. Dmg. Rerolls,Enemy Dmg. Rerolls
+E. Dmg. Rerolls,E. Dmg. Rerolls
 Miss Smoothening,Miss Smoothening
 Combat Heal,Combat Heal
-No Encumb,No Encumb
+No Encumb,No Encumbrance
 Cannot Die,Cannot Die
 XP For KO Char,XP For KO Char
+No Trash Mobs,No World Combat
 Easy,Easy
 Difficulty Settings,Difficulty Settings
 DIFFICULTY,DIFFICULTY
@@ -86,34 +100,35 @@ There is only very limited artificial smoothing of certain dice rolls,"Dice roll
 Dice rolls are slightly weighted in the opponent's favor making them more deadly,"Dice rolls are slightly weighted in the opponent's favour, making foes more punishing; putting additional emphasis on player preparation and consistency"
 CUSTOM,CUSTOM
 Custom difficulty,Custom difficulty
+You're trying to edit the difficulty so the difficulty options are now being set to the ‘CUSTOM’ values,You're trying to edit the difficulty so the difficulty options are now being set to the “CUSTOM” values
+The custom difficulty will be saved and you can toggle back and forth between ‘CUSTOM’ difficulty and the pre-set difficulties any time,The custom difficulty will be saved and you can toggle back and forth between “CUSTOM” difficulty and the pre-set difficulties any time
 Narrative,Narrative
 Narrative mode is the difficulty for players who would like to experience the game’s story and setting with a minimum of focus on combat and grinding,Narrative mode is best suited for players primarily seeking to experience the game's story with combat being a secondary way to add flavour to the narrative
 ATTRIBUTE REROLLS,ATTRIBUTE REROLLS
-"If this number is greater than zero, the system will reroll any of the player's Attribute Check (Skill Checks for instance) dice rolls that many times and pick the most favorable one to the player","If this number is greater than zero, the system will reroll any of the player's Attribute Check (Skill Checks for instance) dice rolls that many times and pick the most favourable one to the player"
+"If this number is greater than zero, the system will reroll any of the player's Attribute Check (Skill Checks for instance) dice rolls that many times and pick the most favorable one to the player","If this number is greater than zero, the system will reroll any of the player's Attribute Check (Skill Checks, for instance) dice rolls by the amount specified, choosing the roll most favourable to the player"
 PLAYER REROLLS,PLAYER REROLLS
-"If this number is greater than zero, the system will reroll any of the player's Combat dice rolls (such as Attack Rolls or Defence Rolls) that many times and pick the most favorable one to the player","If this number is greater than zero, the system will reroll any of the player's Combat dice rolls (such as Attack Rolls or Defence Rolls) that many times and pick the most favourable one to the player"
-P. DMG. REROLLS,P. DMG. REROLLS
-"If this number is greater than zero, the system will reroll any of the player's damage dice rolls that many times and pick the most favorable one to the player","If this number is greater than zero, the system will reroll any of the player's damage dice rolls that many times and pick the most favourable one to the player"
+"If this number is greater than zero, the system will reroll any of the player's Combat dice rolls (such as Attack Rolls or Defence Rolls) that many times and pick the most favorable one to the player","If this number is greater than zero, the system will reroll any of the player's Combat dice rolls (such as Attack Rolls or Defence Rolls) by the amount specified, choosing the roll most favourable to the player"
+P. DMG. REROLLS,PLAYER DAMAGE REROLLS
+"If this number is greater than zero, the system will reroll any of the player's damage dice rolls that many times and pick the most favorable one to the player","If this number is greater than zero, the system will reroll any of the player's damage dice rolls by the amount specified, choosing the roll most favourable to the player"
 ENEMY REROLLS,ENEMY REROLLS
-"If this number is greater than zero, the system will reroll any of the enemy's Combat dice rolls (such as Attack Rolls or Defence Rolls) that many times and pick the most favorable one to the enemy","If this number is greater than zero, the system will reroll any of the enemy's Combat dice rolls (such as Attack Rolls or Defence Rolls) that many times and pick the most favorable one to the enemy"
-E. DMG. REROLLS,E. DMG. REROLLS
-"If this number is greater than zero, the system will reroll any of the enemy's damage dice rolls that many times and pick the most favorable one to the enemy","If this number is greater than zero, the system will reroll any of the enemy's damage dice rolls that many times and pick the most favourable one to the enemy"
+"If this number is greater than zero, the system will reroll any of the enemy's Combat dice rolls (such as Attack Rolls or Defence Rolls) that many times and pick the most favorable one to the enemy","If this number is greater than zero, the system will reroll any of the enemy's Combat dice rolls (such as Attack Rolls or Defence Rolls) by the amount specified, choosing the roll most favourable to the enemy"
+E. DMG. REROLLS,ENEMY DAMAGE REROLLS
+"If this number is greater than zero, the system will reroll any of the enemy's damage dice rolls that many times and pick the most favorable one to the enemy","If this number is greater than zero, the system will reroll any of the enemy's damage dice rolls by the amount specified, choosing the roll most favourable to the player"
 MISS SMOOTHENING,MISS SMOOTHENING
 The degree to which the engine compensates player miss streaks by increasing To-Hit chances,The degree to which the engine compensates player miss streaks by increasing To-Hit chances
 Ignore Food,Ignore Food
 COMBAT HEAL,COMBAT HEAL
 "If Enabled, the party will heal fully after each combat","If Enabled, the party will fully heal after each combat"
-No Trash Mobs,Ignore Random Encounters
-NO ENCUMB,IGNORE ENCUMB
+NO ENCUMB,IGNORE ENCUMBRANCE
 "If Enabled, the party has no limit to carrying capacity","If Enabled, the party has no limit to its carrying capacity"
 CANNOT DIE,DEATH PREVENTION
 "If Enabled, the main PC can never die in combat","If Enabled, the main Player Character cannot die in combat"
 XP FOR KO CHAR,GRANT XP FOR FALLEN ALLIES
 "If Enabled, XP will also be given to downed characters after combat","If Enabled, experience will also be given to downed characters after combat"
 IGNORE FOOD,IGNORE FOOD
-"If Enabled, the party does not need to consume food","If Enabled, the party no longer needs to consume food."
-NO TRASH MOBS,IGNORE RANDOM ENCOUNTERS
-"If Enabled, the party will not encounter 'trash mob' encounters on the overland map","If Enabled, the party will no longer run into foes randomly, JRPG style, on the overworld map. Enabling this feature only prevents the player encountering foes, not other overworld events such as merchants or flotsam."
+"If Enabled, the party does not need to consume food","If Enabled, the party no longer needs to consume food when resting, which is normally required in the recovery of injuries and the replenishment of Hitpoints. One may still gather and consume food, but it is entirely cosmetic; an intentional undertaking done for the sake of role playing"
+NO TRASH MOBS,IGNORE OVERWORLD ENCOUNTERS
+"If Enabled, the party will not encounter 'trash mob' encounters on the overland map","If Enabled, the party will no longer run into foes randomly, JRPG style, on the overworld map. Enabling this feature only prevents the player encountering foes, not other overworld events such as merchants or flotsam"
 TO-HIT ROLL,TO-HIT ROLL
 Concept,Concept
 The To-Hit roll is made by comparing the Attacker's Attack Roll to the Defender's Defence Roll,The To-Hit roll is made by comparing the Attacker's Attack Roll to the Defender's Defence Roll
@@ -122,7 +137,7 @@ ATTACK ROLL,ATTACK ROLL
 The Attack Roll is calulated in the following way,The Attack Roll is calculated in the following way
 2d6 + Melee To Hit / Ranged To Hit + Misc,2d6 + Melee To Hit / Ranged To Hit + Misc
 Bonuses + Accuracy Bonuses,Bonuses + Accuracy Bonuses
-2D6,2D7
+2D6,2D6
 Simulates rolling and adding up two six-sided dice,Simulates rolling and adding up two six-sided dice
 In other words a 2d6 roll generates a number between 2 and,"In other words, a 2d6 roll generates a number between 2 and"
 DEFENCE ROLL,DEFENCE ROLL
@@ -162,17 +177,17 @@ Mini CRT,Mini CRT TV
 Old TV,Old TV
 Broken B/W,Broken B&W TV
 SCREEN MODE,SCREEN MODE
-Allows the game to be played in full screen or windowed mode,Allows the game to be played in fullscreen or windowed mode
+Allows the game to be played in full screen or windowed mode,Allows the game to be played in either fullscreen or windowed mode
 WINDOWED MODE SCALE,WINDOWED MODE SCALE
-The scale of the window when run in Window mode,The scale of the window when run in Window mode
+The scale of the window when run in Window mode,The scale of the window when run in windowed mode
 VSYNC,VSYNC
 VSync prevents artifacts such as screen tearing,Enabling VSync has the game run at the refresh rate your monitor. It also may also aid in the prevention of screen tearing and other artifacts
 CLASSIC CONSOLE,CLASSIC CONSOLE
 The console uses the classic C64 color theme,The console uses the classic C64 colour theme
 FANCY LIGHTING,FANCY LIGHTING
-If enabled it will use the game�s blended lighting system,"If enabled, it will use the game�s blended lighting system"
+If enabled it will use the game’s blended lighting system,"If enabled, it will use the game’s blended lighting system"
 This is the intended experience,This is the intended experience
-This feature should only be disabled if you experience performance issues,"This feature should only be disabled if you experience performance issues. Editor's note: As of patch 1.0.7, hovering over this option results in temporary slow-down that may persist until you leave the display options window. Try pressing 1 or Esc on your keyboard, or for controller/Steam Deck users. the relevant button shown below with the Exit command to quit to the main menu!"
+This feature should only be disabled if you experience performance issues,"This feature should only be disabled if you experience performance issues. Editor's note: As of patch 1.0.7, hovering over this option results in temporary slow-down that may persist until you leave the display options window. Try pressing 1 or Esc on your keyboard, or for controller/Steam Deck users, the relevant button shown below with the Exit command to quit to the main menu"
 WEATHER EFFECTS,WEATHER EFFECTS
 If enabled the game will render weather effects like fog and rain,If enabled the game will render weather effects like fog and rain
 Disabling this option may increase performance,Disabling this option may increase performance
@@ -263,13 +278,13 @@ Description Color,Description Colour
 Quote Color,Quote Colour
 Description Shadow,Description Shadow
 Draw Outline,Draw Outline
-Text Background Color,Text Background Colour
+Text Background Color,Text Window Colour
 Font,Font
 Color,Colour
 Font Settings,Font Settings
 DESCRIPTION FONT,DESCRIPTION FONT
 The font used for most descriptions,The font used for most descriptions
-�This is what a quote looks like.�,�This is what a quote looks like.�
+This is what a quote looks like,This is what a quote looks like
 DESCRIPTION COLOR,DESCRIPTION COLOUR
 The color of the main descriptive text,The colour of the main descriptive text
 QUOTE COLOR,QUOTE COLOUR
@@ -288,15 +303,23 @@ Get More Content,Seek More Projects
 Back,Back
 empty,empty
 Load Module,Load Module
-LOAD,LOAD
+LOAD,Load
 Copy,Copy
 Rename,Rename
 Delete,Delete
 Load Game,Load Game
+Game Loaded!,Game Loaded!
 AUTO_SAVE,AUTO_SAVE
 Save Date,Save Date
 Save Time,Save Time
 Main Char,Main Char
+Save Game,Save Game
+OK,OK
+Type a name and press 'OK'!,Type a name and press “OK”!
+OVERWRITE,Overwrite
+Type a name and press 'Save'!,Type a name and press “Save”!
+Name must be between 3 and 60 characters long and must be a valid file-name,Name must be between 3 and 60 characters long and must be a valid file name
+Are you sure you want to delete the following save,Are you sure you want to delete the following save
 Rigurt,Rigurt
 Level,Level
 Map,Map
@@ -308,7 +331,69 @@ Against the Black Priory,Against the Black Priory
 Do you really want to quit the game?,Are you certain you wish to quit to the desktop?
 Unsaved progress will be lost,Any unsaved progress will be lost
 Choose a visual style,Choose a visual style
-DEFAULT is recommended,The most LEGIBLE is recommended.
+DEFAULT is recommended,The most LEGIBLE is recommended
 This can also be customized in the SETTINGS menu,These options can be customised later in the SETTINGS menu
 Default,Default
 To-Hit,To-Hit
+The skin of the dice being rolled during skill-tests,The appearance of the dice rolled during skill tests
+Toggles the special ‘nostalgic UI’ that may remind you of classic RPG series we all know and love,"When enabled, this changes the user interface to a special, nostalgic one reminiscent of a classic CRPG series fondly remembered by many"
+Activating this filter gives the game a fuzzy retro look,"Applies the selected filter to give the game a fuzzy, retro aesthetic"
+An empty save-slot,An empty save slot
+Are you sure you want to overwrite the following save,Are you sure you want to overwrite the following save
+#Credits,#Credits
+"For Sofie, Amalie and Kathrine","For Sofie, Amalie, and Kathrine"
+WRITTEN AND DEVELOPED BY,WRITTEN AND DEVELOPED BY
+PUBLISHED BY,PUBLISHED BY
+Raw Fury,Raw Fury
+WITH FINANCIAL SUPPORT FROM,WITH FINANCIAL SUPPORT FROM
+Innovation Norway,Innovation Norway
+Norwegian Film Institute,Norwegian Film Institute
+PRODUCED BY,PRODUCED BY
+ART,ART
+KEY ART,KEY ART
+MUSIC,MUSIC
+SOUND FX,SOUND FX
+ADDITIONAL WRITING,ADDITIONAL WRITING
+ADDITIONAL CODIING,ADDITIONAL CODING
+A special thanks to NAIVE,A special thanks to NAIVE
+for their work on,for their work on
+the Skald Trailer,the Skald Trailer
+A special thanks to ARTISTRY,A special thanks to ARTISTRY
+the Launch Trailer,the Launch Trailer
+CROWDFUNDERS,CROWDFUNDERS
+DARK LORD TIER,DARK LORD TIER
+DEITY TIER,DEITY TIER
+IMPERATOR TIER,IMPERATOR TIER
+HIGH WIZARD TIER,HIGH WIZARD TIER
+LORD OF THE REALM TIER,LORD OF THE REALM TIER
+KNIGHT TIER,KNIGHT TIER
+FREEMAN TIER,FREEMAN TIER
+RAW FURY,RAW FURY
+Special Thanks,Special Thanks
+Daniel Jonsson,D. Jonsson
+Alexandre Billaud,A. Billaud
+KM Troedsson,KM Troedsson
+Special Mention,Special Mention
+QLOC S.A,QLOC S.A
+General Manager,General Manager
+Head of Business Development,Head of Business Development
+Senior Business Development Manager,Senior Business Development Manager
+Director of Quality Assurance,Director of Quality Assurance
+QA Operations Manager,QA Operations Manager
+Lead QA Project Manager,Lead QA Project Manager
+QA Lab Managers,QA Lab Managers
+Piotr Badurek,"Piotr Badurek, Emil Lubowicki"
+Emil Lubowicki,"Gabriela Malinowska, Tomasz Prusicki"
+Gabriela Malinowska,QA Team Leader
+Tomasz Prusicki,Marcin Oprzadek
+Learning & Development Manager,Learning & Development Manager
+Learning & Development Coordinator,Learning & Development Coordinator
+Learning & Development Specialists,Learning & Development Specialists
+QA Team Leader,IT Director
+Marcin Oprzadek,Artur Szczurzynski
+QA Testers,QA Testers
+Patryk Osowiecki,"Patryk Osowiecki, Dawid Salamadry,"
+Dawid Salamadry,"Bosong Zhou, and unofficially"
+Bosong Zhou,me!
+IT Director,EN-GB Editor’s Personal Thanks:
+Artur Szczurzynski,"warfollowsme, Scott Wilson, Rikkles"

@@ -31,6 +31,1272 @@ Select a Maneuver to perform,Select a Manoeuvre to perform
 Fire-Spit,Fire-Spit
 Electric Damage,Electric Damage
 Fire Damage,Fire Damage
-Mercenary begun,Mercenary begun
 An option!,An option!
 Critical Hit!,Critical Hit!
+Hostile,Hostile
+Not Alert,Not Alert
+Alerted,Alerted
+Shifting,Shifting
+is Flat-Footed,is Flat-Footed
+Out of ammo!,Out of ammo!
+#Combat Log Misc,#Combat Log Misc
+Combat Log,Combat Log
+hits,hits
+Hidden,Hidden
+Miss,Miss
+misses,misses
+took damage,took damage
+Clear Log,Clear Log
+is Dead,is Dead
+Targets user,Targets user
+takes takes damage from,takes takes damage from
+Incoming damage,Incoming damage
+Incoming amount,Incoming amount
+Damage Taken,Damage Taken
+Target took extra damamge,Target took extra damage
+Armor Soak reduced damage by,Armour Soak reduced damage by
+ATTACK ROLL MODIFIERS,ATTACK ROLL MODIFIERS
+Weapon Accuracy,Weapon Accuracy
+DEFENCE ROLL MODIFIERS,DEFENCE ROLL MODIFIERS
+gained the condition,gained the condition
+automatically hit,automatically hit
+Base Backstab Bonus,Base Backstab Bonus
+Weapon Backstab Mod,Weapon Backstab Mod
+BACKSTABBED,BACKSTABBED
+2d6,2d6
+Homer forces himself forwards!,Homer forces himself forwards!
+forwards!,forwards!
+is Knocked Out,is Knocked Out
+Cooldown,Cooldown
+Cooldown: 1 turn,Cooldown: 1 turn
+Cooldown: 2 turns,Cooldown: 2 turns
+Cooldown: 3 turns,Cooldown: 3 turns
+Aura effect,Aura effect
+Flanked,Flanked
+Cannot fire in melee!,Cannot fire in melee!
+Out of ammo!,Out of ammo!
+Can't reach target!,Can't reach target!
+Damage reduced by,Damage reduced by
+Ammo Accuracy,Ammo Accuracy
+fights defensivly and gains +3 to Dodge until next turn!,fights defensively and gains +3 to Dodge until next turn!
+Ready,Ready
+Criticals,Criticals
+Critical Hits,Critical Hits
+Sleep,Sleep
+Resistant,Resistant
+Vulnerable,Vulnerable
+Immune,Immune
+RESISTANCES,RESISTANCES
+VULNERABILITIES,VULNERABILITIES
+IMMUNITIES,IMMUNITIES
+Move/Atc,Move/Atc
+Characters resistance is 100%,Characters resistance is 100%
+Damage reduced to,Damage reduced to
+Non-Magical,Non-Magical
+Gained,Gained
+XP!,XP!
+GP,GP
+Removes Conditions,Removes Conditions
+Disengages,Disengages
+Disengaging,Disengaging
+turns,turns
+Time Use,Time Use
+Confirm,Confirm
+Spell,Spell
+Cost,Cost
+Att,Att
+#Combat Log,#Combat Log
+Soak: -1,Soak: -1
+Soak: -2,Soak: -2
+Soak: -3,Soak: -3
+Soak: -4,Soak: -4
+Soak: -5,Soak: -5
+Soak: -6,Soak: -6
+Soak: -7,Soak: -7
+Soak: -8,Soak: -8
+Soak: -9,Soak: -9
+Soak: -10,Soak: -10
+Soak: -11,Soak: -11
+Soak: -12,Soak: -12
+Soak: -13,Soak: -13
+Soak: -14,Soak: -14
+Soak: -15,Soak: -15
+Soak: -16,Soak: -16
+Slashing Damage,Slashing Damage
+Blunt Damage,Blunt Damage
+Piercing Damage,Piercing Damage
+Magical Damage,Magical Damage
+Cold Damage,Cold Damage
+Acid Damage,Acid Damage
+Kinetic Damage,Kinetic Damage
+Sublime Damage,Sublime Damage
+Electric Damage,Electric Damage
+Fire Damage,Fire Damage
+Psychic Damage,Psychic Damage
+Slashing Dmg,Slashing Dmg
+Blunt Dmg,Blunt Dmg
+Piercing Dmg,Piercing Dmg
+Magical Dmg,Magical Dmg
+Cold Dmg,Cold Dmg
+Acid Dmg,Acid Dmg
+Kinetic Dmg,Kinetic Dmg
+Sublime Dmg,Sublime Dmg
+Electric Dmg,Electric Dmg
+Fire Dmg,Fire Dmg
+Psychic Dmg,Psychic Dmg
+Non-Magical Dmg,Non-Magical Dmg
+Resistant to Slashing Damage,Resistant to Slashing Damage
+Resistant to Blunt Damage,Resistant to Blunt Damage
+Resistant to Piercing Damage,Resistant to Piercing Damage
+Resistant to Magical Damage,Resistant to Magical Damage
+Resistant to Cold Damage,Resistant to Cold Damage
+Resistant to Acid Damage,Resistant to Acid Damage
+Resistant to Kinetic Damage,Resistant to Kinetic Damage
+Resistant to Sublime Damage,Resistant to Sublime Damage
+Resistant to Electric Damage,Resistant to Electric Damage
+Resistant to Fire Damage,Resistant to Fire Damage
+Resistant to Psychic Damage,Resistant to Psychic Damage
+Resistant to Non-Magical Damage,Resistant to Non-Magical Damage
+Resistant to Physical Damage,Resistant to Physical Damage
+Vulnerable to Slashing Damage,Vulnerable to Slashing Damage
+Vulnerable to Blunt Damage,Vulnerable to Blunt Damage
+Vulnerable to Piercing Damage,Vulnerable to Piercing Damage
+Vulnerable to Magical Damage,Vulnerable to Magical Damage
+Vulnerable to Cold Damage,Vulnerable to Cold Damage
+Vulnerable to Acid Damage,Vulnerable to Acid Damage
+Vulnerable to Kinetic Damage,Vulnerable to Kinetic Damage
+Vulnerable to Sublime Damage,Vulnerable to Sublime Damage
+Vulnerable to Electric Damage,Vulnerable to Electric Damage
+Vulnerable to Fire Damage,Vulnerable to Fire Damage
+Vulnerable to Psychic Damage,Vulnerable to Psychic Damage
+Vulnerable to Non-Magical Damage,Vulnerable to Non-Magical Damage
+Vulnerable to Physical Damage,Vulnerable to Physical Damage
+Immune to Slashing Damage,Immune to Slashing Damage
+Immune to Blunt Damage,Immune to Blunt Damage
+Immune to Piercing Damage,Immune to Piercing Damage
+Immune to Magical Damage,Immune to Magical Damage
+Immune to Cold Damage,Immune to Cold Damage
+Immune to Acid Damage,Immune to Acid Damage
+Immune to Kinetic Damage,Immune to Kinetic Damage
+Immune to Sublime Damage,Immune to Sublime Damage
+Immune to Electric Damage,Immune to Electric Damage
+Immune to Fire Damage,Immune to Fire Damage
+Immune to Psychic Damage,Immune to Psychic Damage
+Immune to Non-Magical Damage,Immune to Non-Magical Damage
+Immune to Physical Damage,Immune to Physical Damage
+#Combatant is out of ammo!,#Combatant is out of ammo!
+{PLAYER} is out of ammo!,{PLAYER} is out of ammo!
+Kat is out of ammo!,Kat is out of ammo!
+Roland is out of ammo!,Roland is out of ammo!
+Driina is out of ammo!,Driina is out of ammo!
+Iben is out of ammo!,Iben is out of ammo!
+Iago is out of ammo!,Iago is out of ammo!
+Embla is out of ammo!,Embla is out of ammo!
+#Combatant passes!,#Combatant passes!
+{PLAYER} passes!,{PLAYER} passes!
+Kat passes!,Kat passes!
+Roland passes!,Roland passes!
+Driina passes!,Driina passes!
+Iben passes!,Iben passes!
+Iago passes!,Iago passes!
+Embla passes!,Embla passes!
+#Combatant Shifts,#Combatant Shifts
+{PLAYER} Shifts,{PLAYER} Shifts
+Kat Shifts,Kat Shifts
+Roland Shifts,Roland Shifts
+Driina Shifts,Driina Shifts
+Iben Shifts,Iben Shifts
+Iago Shifts,Iago Shifts
+Embla Shifts,Embla Shifts
+#Combatant defends,#Combatant defends
+{PLAYER} Defends,{PLAYER} Defends
+Kat Defends,Kat Defends
+Roland Defends,Roland Defends
+Driina Defends,Driina Defends
+Iben Defends,Iben Defends
+Iago Defends,Iago Defends
+Embla Defends,Embla Defends
+#Combatant Disengages,#Combatant Disengages
+{PLAYER} Disengages,{PLAYER} Disengages
+Kat Disengages,Kat Disengages
+Roland Disengages,Roland Disengages
+Driina Disengages,Driina Disengages
+Iben Disengages,Iben Disengages
+Iago Disengages,Iago Disengages
+Embla Disengages,Embla Disengages
+#Combatant holds his action,#Combatant holds his action
+{PLAYER} holds his action,{PLAYER} holds his action
+{PLAYER} holds her action,{PLAYER} holds her action
+Kat holds her action,Kat holds her action
+Roland holds his action,Roland holds his action
+Driina holds her action,Driina holds her action
+Iben holds his action,Iben holds his action
+Iago holds his action,Iago holds his action
+Embla holds her action,Embla holds her action
+#Combatant acts,#Combatant acts
+{PLAYER} acts,{PLAYER} acts
+Kat acts,Kat acts
+Roland acts,Roland acts
+Driina acts,Driina acts
+Iben acts,Iben acts
+Iago acts,Iago acts
+Embla acts,Embla acts
+Giant Bat acts,Giant Bat acts
+Giant Beetle acts,Giant Beetle acts
+Rhino Beetle acts,Rhino Beetle acts
+Carrion Crawler acts,Carrion Crawler acts
+Giant Centipede acts,Giant Centipede acts
+Fell Crab acts,Fell Crab acts
+Corpse Eater acts,Corpse Eater acts
+Giant Crab acts,Giant Crab acts
+Crab acts,Crab acts
+Rot Crab acts,Rot Crab acts
+Spider Crab acts,Spider Crab acts
+Brood Guard acts,Brood Guard acts
+Father acts,Father acts
+Deep One Priestess acts,Deep One Priestess acts
+Deep One Queen acts,Deep One Queen acts
+Deep One Warrior acts,Deep One Warrior acts
+Devolved acts,Devolved acts
+Ghoul acts,Ghoul acts
+Frost Ghoul acts,Frost Ghoul acts
+Giant Gnat acts,Giant Gnat acts
+Cave Gnat acts,Cave Gnat acts
+Fell Hog acts,Fell Hog acts
+Dire Hound acts,Dire Hound acts
+Fell Hound acts,Fell Hound acts
+Ice Hound acts,Ice Hound acts
+Ice Strider acts,Ice Strider acts
+Shadow Stalker acts,Shadow Stalker acts
+Giant Leech acts,Giant Leech acts
+Albino Leech acts,Albino Leech acts
+Bloodletter acts,Bloodletter acts
+Fell Lizard acts,Fell Lizard acts
+Alpha Lizard acts,Alpha Lizard acts
+Giant Lizard acts,Giant Lizard acts
+Ice Salamander acts,Ice Salamander acts
+Mold Child acts,Mould Child acts
+Ooze acts,Ooze acts
+Flesh Ooze acts,Flesh Ooze acts
+Medusa Jelly acts,Medusa Jelly acts
+Risen Ooze acts,Risen Ooze acts
+Magma Ooze acts,Magma Ooze acts
+Magmite acts,Magmite acts
+Large Ooze acts,Large Ooze acts
+Giant Rat acts,Giant Rat acts
+Dire Rat acts,Dire Rat acts
+Chitters-In-Darkness acts,Chitters-In-Darkness acts
+Rabid Rat acts,Rabid Rat acts
+Shade acts,Shade acts
+Dire Serpent acts,Dire Serpent acts
+Fell Serpent acts,Fell Serpent acts
+Giant Snake acts,Giant Snake acts
+Fleshstrider acts,Fleshstrider acts
+Flying Polyp acts,Flying Polyp acts
+Dragon's Herald acts,Dragon's Herald acts
+Evolved acts,Evolved acts
+Newborne acts,Newborn acts
+Vessel acts,Vessel acts
+Stalker acts,Stalker acts
+Giant Spider acts,Giant Spider acts
+Large Spider acts,Large Spider acts
+Shambler acts,Shambler acts
+Frost Shambler acts,Frost Shambler acts
+Reaver Berserker acts,Reaver Berserker acts
+Brigand Archer acts,Brigand Archer acts
+Brigand Rogue acts,Brigand Rogue acts
+Brigand Swordsman acts,Brigand Swordsman acts
+Mad Sailor acts,Mad Sailor acts
+Mad Sailo acts,Mad Sailo acts
+Guild Magos acts,Guild Magos acts
+Guild Mag acts,Guild Mag acts
+Wight acts,Wight acts
+Feral Clone acts,Feral Clone acts
+Jester acts,Jester acts
+Reaver Brute acts,Reaver Brute acts
+Reaver Scout acts,Reaver Scout acts
+Reaver acts,Reaver acts
+Reaver Blackguard acts,Reaver Blackguard acts
+Reaver Mystic acts,Reaver Mystic acts
+Cultist acts,Cultist acts
+Bobbert the Recruit acts,Bobbert the Recruit acts
+Wreck Picker acts,Wreck Picker acts
+Oleg the Gray acts,Oleg the Grey acts
+Red Kala acts,Red Kala acts
+The Butcher acts,The Butcher acts
+Snow acts,Snow acts
+The Ancient King acts,The Ancient King acts
+Joran the Usurper acts,Joran the Usurper acts
+Baroness acts,Baroness acts
+Handmaid acts,Handmaid acts
+Majordomo acts,Majordomo acts
+#Combatant begun,#Combatant begun
+{PLAYER} begun,{PLAYER} begun
+Kat begun,Kat begun
+Roland begun,Roland begun
+Driina begun,Driina begun
+Iben begun,Iben begun
+Iago begun,Iago begun
+Embla begun,Embla begun
+Giant Bat begun,Giant Bat begun
+Giant Beetle begun,Giant Beetle begun
+Rhino Beetle begun,Rhino Beetle begun
+Carrion Crawler begun,Carrion Crawler begun
+Giant Centipede begun,Giant Centipede begun
+Fell Crab begun,Fell Crab begun
+Corpse Eater begun,Corpse Eater begun
+Giant Crab begun,Giant Crab begun
+Crab begun,Crab begun
+Rot Crab begun,Rot Crab begun
+Spider Crab begun,Spider Crab begun
+Brood Guard begun,Brood Guard begun
+Father begun,Father begun
+Deep One Priestess begun,Deep One Priestess begun
+Deep One Queen begun,Deep One Queen begun
+Deep One Warrior begun,Deep One Warrior begun
+Devolved begun,Devolved begun
+Ghoul begun,Ghoul begun
+Frost Ghoul begun,Frost Ghoul begun
+Giant Gnat begun,Giant Gnat begun
+Cave Gnat begun,Cave Gnat begun
+Fell Hog begun,Fell Hog begun
+Dire Hound begun,Dire Hound begun
+Fell Hound begun,Fell Hound begun
+Ice Hound begun,Ice Hound begun
+Ice Strider begun,Ice Strider begun
+Shadow Stalker begun,Shadow Stalker begun
+Giant Leech begun,Giant Leech begun
+Albino Leech begun,Albino Leech begun
+Bloodletter begun,Bloodletter begun
+Fell Lizard begun,Fell Lizard begun
+Alpha Lizard begun,Alpha Lizard begun
+Giant Lizard begun,Giant Lizard begun
+Ice Salamander begun,Ice Salamander begun
+Mold Child begun,Mould Child begun
+Ooze begun,Ooze begun
+Flesh Ooze begun,Flesh Ooze begun
+Medusa Jelly begun,Medusa Jelly begun
+Risen Ooze begun,Risen Ooze begun
+Magma Ooze begun,Magma Ooze begun
+Magmite begun,Magmite begun
+Large Ooze begun,Large Ooze begun
+Giant Rat begun,Giant Rat begun
+Dire Rat begun,Dire Rat begun
+Chitters-In-Darkness begun,Chitters-In-Darkness begun
+Rabid Rat begun,Rabid Rat begun
+Shade begun,Shade begun
+Dire Serpent begun,Dire Serpent begun
+Fell Serpent begun,Fell Serpent begun
+Giant Snake begun,Giant Snake begun
+Fleshstrider begun,Fleshstrider begun
+Flying Polyp begun,Flying Polyp begun
+Dragon's Herald begun,Dragon's Herald begun
+Evolved begun,Evolved begun
+Newborne begun,Newborn begun
+Vessel begun,Vessel begun
+Stalker begun,Stalker begun
+Giant Spider begun,Giant Spider begun
+Large Spider begun,Large Spider begun
+Shambler begun,Shambler begun
+Frost Shambler begun,Frost Shambler begun
+Reaver Berserker begun,Reaver Berserker begun
+Brigand Archer begun,Brigand Archer begun
+Brigand Rogue begun,Brigand Rogue begun
+Brigand Swordsman begun,Brigand Swordsman begun
+Mad Sailor begun,Mad Sailor begun
+Mad Sailo begun,Mad Sailo begun
+Guild Magos begun,Guild Magos begun
+Guild Mag begun,Guild Mag begun
+Wight begun,Wight begun
+Feral Clone begun,Feral Clone begun
+Jester begun,Jester begun
+Reaver Brute begun,Reaver Brute begun
+Reaver Scout begun,Reaver Scout begun
+Reaver begun,Reaver begun
+Reaver Blackguard begun,Reaver Blackguard begun
+Reaver Mystic begun,Reaver Mystic begun
+Cultist begun,Cultist begun
+Bobbert the Recruit begun,Bobbert the Recruit begun
+Wreck Picker begun,Wreck Picker begun
+Oleg the Gray begun,Oleg the Grey begun
+Red Kala begun,Red Kala begun
+The Butcher begun,The Butcher begun
+Snow begun,Snow begun
+The Ancient King begun,The Ancient King begun
+Joran the Usurper begun,Joran the Usurper begun
+Baroness begun,Baroness begun
+Handmaid begun,Handmaid begun
+Majordomo begun,Majordomo begun
+#Combatant recovers from surprise!,#Combatant recovers from surprise!
+{PLAYER} recovers from surprise!,{PLAYER} recovers from surprise!
+Kat  recovers from surprise!,Kat  recovers from surprise!
+Roland recovers from surprise!,Roland recovers from surprise!
+Driina recovers from surprise!,Driina recovers from surprise!
+Iben recovers from surprise!,Iben recovers from surprise!
+Iago recovers from surprise!,Iago recovers from surprise!
+Embla recovers from surprise!,Embla recovers from surprise!
+Giant Bat recovers from surprise!,Giant Bat recovers from surprise!
+Giant Beetle recovers from surprise!,Giant Beetle recovers from surprise!
+Rhino Beetle recovers from surprise!,Rhino Beetle recovers from surprise!
+Carrion Crawler recovers from surprise!,Carrion Crawler recovers from surprise!
+Giant Centipede recovers from surprise!,Giant Centipede recovers from surprise!
+Fell Crab recovers from surprise!,Fell Crab recovers from surprise!
+Corpse Eater recovers from surprise!,Corpse Eater recovers from surprise!
+Giant Crab recovers from surprise!,Giant Crab recovers from surprise!
+Crab recovers from surprise!,Crab recovers from surprise!
+Rot Crab recovers from surprise!,Rot Crab recovers from surprise!
+Spider Crab recovers from surprise!,Spider Crab recovers from surprise!
+Brood Guard recovers from surprise!,Brood Guard recovers from surprise!
+Father recovers from surprise!,Father recovers from surprise!
+Deep One Priestess recovers from surprise!,Deep One Priestess recovers from surprise!
+Deep One Queen recovers from surprise!,Deep One Queen recovers from surprise!
+Deep One Warrior recovers from surprise!,Deep One Warrior recovers from surprise!
+Devolved recovers from surprise!,Devolved recovers from surprise!
+Ghoul recovers from surprise!,Ghoul recovers from surprise!
+Frost Ghoul recovers from surprise!,Frost Ghoul recovers from surprise!
+Giant Gnat recovers from surprise!,Giant Gnat recovers from surprise!
+Cave Gnat recovers from surprise!,Cave Gnat recovers from surprise!
+Fell Hog recovers from surprise!,Fell Hog recovers from surprise!
+Dire Hound recovers from surprise!,Dire Hound recovers from surprise!
+Fell Hound recovers from surprise!,Fell Hound recovers from surprise!
+Ice Hound recovers from surprise!,Ice Hound recovers from surprise!
+Ice Strider recovers from surprise!,Ice Strider recovers from surprise!
+Shadow Stalker recovers from surprise!,Shadow Stalker recovers from surprise!
+Giant Leech recovers from surprise!,Giant Leech recovers from surprise!
+Albino Leech recovers from surprise!,Albino Leech recovers from surprise!
+Bloodletter recovers from surprise!,Bloodletter recovers from surprise!
+Fell Lizard recovers from surprise!,Fell Lizard recovers from surprise!
+Alpha Lizard recovers from surprise!,Alpha Lizard recovers from surprise!
+Giant Lizard recovers from surprise!,Giant Lizard recovers from surprise!
+Ice Salamander recovers from surprise!,Ice Salamander recovers from surprise!
+Mold Child recovers from surprise!,Mould Child recovers from surprise!
+Ooze recovers from surprise!,Ooze recovers from surprise!
+Flesh Ooze recovers from surprise!,Flesh Ooze recovers from surprise!
+Medusa Jelly recovers from surprise!,Medusa Jelly recovers from surprise!
+Risen Ooze recovers from surprise!,Risen Ooze recovers from surprise!
+Magma Ooze recovers from surprise!,Magma Ooze recovers from surprise!
+Magmite recovers from surprise!,Magmite recovers from surprise!
+Large Ooze recovers from surprise!,Large Ooze recovers from surprise!
+Giant Rat recovers from surprise!,Giant Rat recovers from surprise!
+Dire Rat recovers from surprise!,Dire Rat recovers from surprise!
+Chitters-In-Darkness recovers from surprise!,Chitters-In-Darkness recovers from surprise!
+Rabid Rat recovers from surprise!,Rabid Rat recovers from surprise!
+Shade recovers from surprise!,Shade recovers from surprise!
+Dire Serpent recovers from surprise!,Dire Serpent recovers from surprise!
+Fell Serpent recovers from surprise!,Fell Serpent recovers from surprise!
+Giant Snake recovers from surprise!,Giant Snake recovers from surprise!
+Fleshstrider recovers from surprise!,Fleshstrider recovers from surprise!
+Flying Polyp recovers from surprise!,Flying Polyp recovers from surprise!
+Dragon's Herald recovers from surprise!,Dragon's Herald recovers from surprise!
+Evolved recovers from surprise!,Evolved recovers from surprise!
+Newborne recovers from surprise!,Newborn recovers from surprise!
+Vessel recovers from surprise!,Vessel recovers from surprise!
+Stalker recovers from surprise!,Stalker recovers from surprise!
+Giant Spider recovers from surprise!,Giant Spider recovers from surprise!
+Large Spider recovers from surprise!,Large Spider recovers from surprise!
+Shambler recovers from surprise!,Shambler recovers from surprise!
+Frost Shambler recovers from surprise!,Frost Shambler recovers from surprise!
+Reaver Berserker recovers from surprise!,Reaver Berserker recovers from surprise!
+Brigand Archer recovers from surprise!,Brigand Archer recovers from surprise!
+Brigand Rogue recovers from surprise!,Brigand Rogue recovers from surprise!
+Brigand Swordsman recovers from surprise!,Brigand Swordsman recovers from surprise!
+Mad Sailor recovers from surprise!,Mad Sailor recovers from surprise!
+Mad Sailo recovers from surprise!,Mad Sailo recovers from surprise!
+Guild Magos recovers from surprise!,Guild Magos recovers from surprise!
+Guild Mag recovers from surprise!,Guild Mag recovers from surprise!
+Wight recovers from surprise!,Wight recovers from surprise!
+Feral Clone recovers from surprise!,Feral Clone recovers from surprise!
+Jester recovers from surprise!,Jester recovers from surprise!
+Reaver Brute recovers from surprise!,Reaver Brute recovers from surprise!
+Reaver Scout recovers from surprise!,Reaver Scout recovers from surprise!
+Reaver recovers from surprise!,Reaver recovers from surprise!
+Reaver Blackguard recovers from surprise!,Reaver Blackguard recovers from surprise!
+Reaver Mystic recovers from surprise!,Reaver Mystic recovers from surprise!
+Cultist recovers from surprise!,Cultist recovers from surprise!
+Bobbert the Recruit recovers from surprise!,Bobbert the Recruit recovers from surprise!
+Wreck Picker recovers from surprise!,Wreck Picker recovers from surprise!
+Oleg the Gray recovers from surprise!,Oleg the Grey recovers from surprise!
+Red Kala recovers from surprise!,Red Kala recovers from surprise!
+The Butcher recovers from surprise!,The Butcher recovers from surprise!
+Snow recovers from surprise!,Snow recovers from surprise!
+The Ancient King recovers from surprise!,The Ancient King recovers from surprise!
+Joran the Usurper recovers from surprise!,Joran the Usurper recovers from surprise!
+Baroness recovers from surprise!,Baroness recovers from surprise!
+Handmaid recovers from surprise!,Handmaid recovers from surprise!
+Majordomo recovers from surprise!,Majordomo recovers from surprise!
+#Combatant is occupied!,#Combatant is occupied!
+{PLAYER} is occupied!,{PLAYER} is occupied!
+Kat is occupied!,Kat is occupied!
+Roland is occupied!,Roland is occupied!
+Driina is occupied!,Driina is occupied!
+Iben is occupied!,Iben is occupied!
+Iago is occupied!,Iago is occupied!
+Embla is occupied!,Embla is occupied!
+Giant Bat is occupied!,Giant Bat is occupied!
+Giant Beetle is occupied!,Giant Beetle is occupied!
+Rhino Beetle is occupied!,Rhino Beetle is occupied!
+Carrion Crawler is occupied!,Carrion Crawler is occupied!
+Giant Centipede is occupied!,Giant Centipede is occupied!
+Fell Crab is occupied!,Fell Crab is occupied!
+Corpse Eater is occupied!,Corpse Eater is occupied!
+Giant Crab is occupied!,Giant Crab is occupied!
+Crab is occupied!,Crab is occupied!
+Rot Crab is occupied!,Rot Crab is occupied!
+Spider Crab is occupied!,Spider Crab is occupied!
+Brood Guard is occupied!,Brood Guard is occupied!
+Father is occupied!,Father is occupied!
+Deep One Priestess is occupied!,Deep One Priestess is occupied!
+Deep One Queen is occupied!,Deep One Queen is occupied!
+Deep One Warrior is occupied!,Deep One Warrior is occupied!
+Devolved is occupied!,Devolved is occupied!
+Ghoul is occupied!,Ghoul is occupied!
+Frost Ghoul is occupied!,Frost Ghoul is occupied!
+Giant Gnat is occupied!,Giant Gnat is occupied!
+Cave Gnat is occupied!,Cave Gnat is occupied!
+Fell Hog is occupied!,Fell Hog is occupied!
+Dire Hound is occupied!,Dire Hound is occupied!
+Fell Hound is occupied!,Fell Hound is occupied!
+Ice Hound is occupied!,Ice Hound is occupied!
+Ice Strider is occupied!,Ice Strider is occupied!
+Shadow Stalker is occupied!,Shadow Stalker is occupied!
+Giant Leech is occupied!,Giant Leech is occupied!
+Albino Leech is occupied!,Albino Leech is occupied!
+Bloodletter is occupied!,Bloodletter is occupied!
+Fell Lizard is occupied!,Fell Lizard is occupied!
+Alpha Lizard is occupied!,Alpha Lizard is occupied!
+Giant Lizard is occupied!,Giant Lizard is occupied!
+Ice Salamander is occupied!,Ice Salamander is occupied!
+Mold Child is occupied!,Mould Child is occupied!
+Ooze is occupied!,Ooze is occupied!
+Flesh Ooze is occupied!,Flesh Ooze is occupied!
+Medusa Jelly is occupied!,Medusa Jelly is occupied!
+Risen Ooze is occupied!,Risen Ooze is occupied!
+Magma Ooze is occupied!,Magma Ooze is occupied!
+Magmite is occupied!,Magmite is occupied!
+Large Ooze is occupied!,Large Ooze is occupied!
+Giant Rat is occupied!,Giant Rat is occupied!
+Dire Rat is occupied!,Dire Rat is occupied!
+Chitters-In-Darkness is occupied!,Chitters-In-Darkness is occupied!
+Rabid Rat is occupied!,Rabid Rat is occupied!
+Shade is occupied!,Shade is occupied!
+Dire Serpent is occupied!,Dire Serpent is occupied!
+Fell Serpent is occupied!,Fell Serpent is occupied!
+Giant Snake is occupied!,Giant Snake is occupied!
+Fleshstrider is occupied!,Fleshstrider is occupied!
+Flying Polyp is occupied!,Flying Polyp is occupied!
+Dragon's Herald is occupied!,Dragon's Herald is occupied!
+Evolved is occupied!,Evolved is occupied!
+Newborne is occupied!,Newborn is occupied!
+Vessel is occupied!,Vessel is occupied!
+Stalker is occupied!,Stalker is occupied!
+Giant Spider is occupied!,Giant Spider is occupied!
+Large Spider is occupied!,Large Spider is occupied!
+Shambler is occupied!,Shambler is occupied!
+Frost Shambler is occupied!,Frost Shambler is occupied!
+Reaver Berserker is occupied!,Reaver Berserker is occupied!
+Brigand Archer is occupied!,Brigand Archer is occupied!
+Brigand Rogue is occupied!,Brigand Rogue is occupied!
+Brigand Swordsman is occupied!,Brigand Swordsman is occupied!
+Mad Sailor is occupied!,Mad Sailor is occupied!
+Mad Sailo is occupied!,Mad Sailo is occupied!
+Guild Magos is occupied!,Guild Magos is occupied!
+Guild Mag is occupied!,Guild Mag is occupied!
+Wight is occupied!,Wight is occupied!
+Feral Clone is occupied!,Feral Clone is occupied!
+Jester is occupied!,Jester is occupied!
+Reaver Brute is occupied!,Reaver Brute is occupied!
+Reaver Scout is occupied!,Reaver Scout is occupied!
+Reaver is occupied!,Reaver is occupied!
+Reaver Blackguard is occupied!,Reaver Blackguard is occupied!
+Reaver Mystic is occupied!,Reaver Mystic is occupied!
+Cultist is occupied!,Cultist is occupied!
+Bobbert the Recruit is occupied!,Bobbert the Recruit is occupied!
+Wreck Picker is occupied!,Wreck Picker is occupied!
+Oleg the Gray is occupied!,Oleg the Grey is occupied!
+Red Kala is occupied!,Red Kala is occupied!
+The Butcher is occupied!,The Butcher is occupied!
+Snow is occupied!,Snow is occupied!
+The Ancient King is occupied!,The Ancient King is occupied!
+Joran the Usurper is occupied!,Joran the Usurper is occupied!
+Baroness is occupied!,Baroness is occupied!
+Handmaid is occupied!,Handmaid is occupied!
+Majordomo is occupied!,Majordomo is occupied!
+#Combatant does not have a valid target!,#Combatant does not have a valid target!
+{PLAYER} does not have a valid target!,{PLAYER} does not have a valid target!
+Kat does not have a valid target!,Kat does not have a valid target!
+Roland does not have a valid target!,Roland does not have a valid target!
+Driina does not have a valid target!,Driina does not have a valid target!
+Iben does not have a valid target!,Iben does not have a valid target!
+Iago does not have a valid target!,Iago does not have a valid target!
+Embla does not have a valid target!,Embla does not have a valid target!
+Giant Bat does not have a valid target!,Giant Bat does not have a valid target!
+Giant Beetle does not have a valid target!,Giant Beetle does not have a valid target!
+Rhino Beetle does not have a valid target!,Rhino Beetle does not have a valid target!
+Carrion Crawler does not have a valid target!,Carrion Crawler does not have a valid target!
+Giant Centipede does not have a valid target!,Giant Centipede does not have a valid target!
+Fell Crab does not have a valid target!,Fell Crab does not have a valid target!
+Corpse Eater does not have a valid target!,Corpse Eater does not have a valid target!
+Giant Crab does not have a valid target!,Giant Crab does not have a valid target!
+Crab does not have a valid target!,Crab does not have a valid target!
+Rot Crab does not have a valid target!,Rot Crab does not have a valid target!
+Spider Crab does not have a valid target!,Spider Crab does not have a valid target!
+Brood Guard does not have a valid target!,Brood Guard does not have a valid target!
+Father does not have a valid target!,Father does not have a valid target!
+Deep One Priestess does not have a valid target!,Deep One Priestess does not have a valid target!
+Deep One Queen does not have a valid target!,Deep One Queen does not have a valid target!
+Deep One Warrior does not have a valid target!,Deep One Warrior does not have a valid target!
+Devolved does not have a valid target!,Devolved does not have a valid target!
+Ghoul does not have a valid target!,Ghoul does not have a valid target!
+Frost Ghoul does not have a valid target!,Frost Ghoul does not have a valid target!
+Giant Gnat does not have a valid target!,Giant Gnat does not have a valid target!
+Cave Gnat does not have a valid target!,Cave Gnat does not have a valid target!
+Fell Hog does not have a valid target!,Fell Hog does not have a valid target!
+Dire Hound does not have a valid target!,Dire Hound does not have a valid target!
+Fell Hound does not have a valid target!,Fell Hound does not have a valid target!
+Ice Hound does not have a valid target!,Ice Hound does not have a valid target!
+Ice Strider does not have a valid target!,Ice Strider does not have a valid target!
+Shadow Stalker does not have a valid target!,Shadow Stalker does not have a valid target!
+Giant Leech does not have a valid target!,Giant Leech does not have a valid target!
+Albino Leech does not have a valid target!,Albino Leech does not have a valid target!
+Bloodletter does not have a valid target!,Bloodletter does not have a valid target!
+Fell Lizard does not have a valid target!,Fell Lizard does not have a valid target!
+Alpha Lizard does not have a valid target!,Alpha Lizard does not have a valid target!
+Giant Lizard does not have a valid target!,Giant Lizard does not have a valid target!
+Ice Salamander does not have a valid target!,Ice Salamander does not have a valid target!
+Mold Child does not have a valid target!,Mould Child does not have a valid target!
+Ooze does not have a valid target!,Ooze does not have a valid target!
+Flesh Ooze does not have a valid target!,Flesh Ooze does not have a valid target!
+Medusa Jelly does not have a valid target!,Medusa Jelly does not have a valid target!
+Risen Ooze does not have a valid target!,Risen Ooze does not have a valid target!
+Magma Ooze does not have a valid target!,Magma Ooze does not have a valid target!
+Magmite does not have a valid target!,Magmite does not have a valid target!
+Large Ooze does not have a valid target!,Large Ooze does not have a valid target!
+Giant Rat does not have a valid target!,Giant Rat does not have a valid target!
+Dire Rat does not have a valid target!,Dire Rat does not have a valid target!
+Chitters-In-Darkness does not have a valid target!,Chitters-In-Darkness does not have a valid target!
+Rabid Rat does not have a valid target!,Rabid Rat does not have a valid target!
+Shade does not have a valid target!,Shade does not have a valid target!
+Dire Serpent does not have a valid target!,Dire Serpent does not have a valid target!
+Fell Serpent does not have a valid target!,Fell Serpent does not have a valid target!
+Giant Snake does not have a valid target!,Giant Snake does not have a valid target!
+Fleshstrider does not have a valid target!,Fleshstrider does not have a valid target!
+Flying Polyp does not have a valid target!,Flying Polyp does not have a valid target!
+Dragon's Herald does not have a valid target!,Dragon's Herald does not have a valid target!
+Evolved does not have a valid target!,Evolved does not have a valid target!
+Newborne does not have a valid target!,Newborn does not have a valid target!
+Vessel does not have a valid target!,Vessel does not have a valid target!
+Stalker does not have a valid target!,Stalker does not have a valid target!
+Giant Spider does not have a valid target!,Giant Spider does not have a valid target!
+Large Spider does not have a valid target!,Large Spider does not have a valid target!
+Shambler does not have a valid target!,Shambler does not have a valid target!
+Frost Shambler does not have a valid target!,Frost Shambler does not have a valid target!
+Reaver Berserker does not have a valid target!,Reaver Berserker does not have a valid target!
+Brigand Archer does not have a valid target!,Brigand Archer does not have a valid target!
+Brigand Rogue does not have a valid target!,Brigand Rogue does not have a valid target!
+Brigand Swordsman does not have a valid target!,Brigand Swordsman does not have a valid target!
+Mad Sailor does not have a valid target!,Mad Sailor does not have a valid target!
+Mad Sailo does not have a valid target!,Mad Sailo does not have a valid target!
+Guild Magos does not have a valid target!,Guild Magos does not have a valid target!
+Guild Mag does not have a valid target!,Guild Mag does not have a valid target!
+Wight does not have a valid target!,Wight does not have a valid target!
+Feral Clone does not have a valid target!,Feral Clone does not have a valid target!
+Jester does not have a valid target!,Jester does not have a valid target!
+Reaver Brute does not have a valid target!,Reaver Brute does not have a valid target!
+Reaver Scout does not have a valid target!,Reaver Scout does not have a valid target!
+Reaver does not have a valid target!,Reaver does not have a valid target!
+Reaver Blackguard does not have a valid target!,Reaver Blackguard does not have a valid target!
+Reaver Mystic does not have a valid target!,Reaver Mystic does not have a valid target!
+Cultist does not have a valid target!,Cultist does not have a valid target!
+Bobbert the Recruit does not have a valid target!,Bobbert the Recruit does not have a valid target!
+Wreck Picker does not have a valid target!,Wreck Picker does not have a valid target!
+Oleg the Gray does not have a valid target!,Oleg the Grey does not have a valid target!
+Red Kala does not have a valid target!,Red Kala does not have a valid target!
+The Butcher does not have a valid target!,The Butcher does not have a valid target!
+Snow does not have a valid target!,Snow does not have a valid target!
+The Ancient King does not have a valid target!,The Ancient King does not have a valid target!
+Joran the Usurper does not have a valid target!,Joran the Usurper does not have a valid target!
+Baroness does not have a valid target!,Baroness does not have a valid target!
+Handmaid does not have a valid target!,Handmaid does not have a valid target!
+Majordomo does not have a valid target!,Majordomo does not have a valid target!
+#Combatant used Maneuver,#Combatant used Manoeuvre
+{PLAYER} used Maneuver,{PLAYER} used Manoeuvre
+Kat used Maneuver,Kat used Manoeuvre
+Roland used Maneuver,Roland used Manoeuvre
+Driina used Maneuver,Driina used Manoeuvre
+Iben used Maneuver,Iben used Manoeuvre
+Iago used Maneuver,Iago used Manoeuvre
+Embla used Maneuver,Embla used Manoeuvre
+Giant Bat used Maneuver,Giant Bat used Manoeuvre
+Giant Beetle used Maneuver,Giant Beetle used Manoeuvre
+Rhino Beetle used Maneuver,Rhino Beetle used Manoeuvre
+Carrion Crawler used Maneuver,Carrion Crawler used Manoeuvre
+Giant Centipede used Maneuver,Giant Centipede used Manoeuvre
+Fell Crab used Maneuver,Fell Crab used Manoeuvre
+Corpse Eater used Maneuver,Corpse Eater used Manoeuvre
+Giant Crab used Maneuver,Giant Crab used Manoeuvre
+Crab used Maneuver,Crab used Manoeuvre
+Rot Crab used Maneuver,Rot Crab used Manoeuvre
+Spider Crab used Maneuver,Spider Crab used Manoeuvre
+Brood Guard used Maneuver,Brood Guard used Manoeuvre
+Father used Maneuver,Father used Manoeuvre
+Deep One Priestess used Maneuver,Deep One Priestess used Manoeuvre
+Deep One Queen used Maneuver,Deep One Queen used Manoeuvre
+Deep One Warrior used Maneuver,Deep One Warrior used Manoeuvre
+Devolved used Maneuver,Devolved used Manoeuvre
+Ghoul used Maneuver,Ghoul used Manoeuvre
+Frost Ghoul used Maneuver,Frost Ghoul used Manoeuvre
+Giant Gnat used Maneuver,Giant Gnat used Manoeuvre
+Cave Gnat used Maneuver,Cave Gnat used Manoeuvre
+Fell Hog used Maneuver,Fell Hog used Manoeuvre
+Dire Hound used Maneuver,Dire Hound used Manoeuvre
+Fell Hound used Maneuver,Fell Hound used Manoeuvre
+Ice Hound used Maneuver,Ice Hound used Manoeuvre
+Ice Strider used Maneuver,Ice Strider used Manoeuvre
+Shadow Stalker used Maneuver,Shadow Stalker used Manoeuvre
+Giant Leech used Maneuver,Giant Leech used Manoeuvre
+Albino Leech used Maneuver,Albino Leech used Manoeuvre
+Bloodletter used Maneuver,Bloodletter used Manoeuvre
+Fell Lizard used Maneuver,Fell Lizard used Manoeuvre
+Alpha Lizard used Maneuver,Alpha Lizard used Manoeuvre
+Giant Lizard used Maneuver,Giant Lizard used Manoeuvre
+Ice Salamander used Maneuver,Ice Salamander used Manoeuvre
+Mold Child used Maneuver,Mould Child used Manoeuvre
+Ooze used Maneuver,Ooze used Manoeuvre
+Flesh Ooze used Maneuver,Flesh Ooze used Manoeuvre
+Medusa Jelly used Maneuver,Medusa Jelly used Manoeuvre
+Risen Ooze used Maneuver,Risen Ooze used Manoeuvre
+Magma Ooze used Maneuver,Magma Ooze used Manoeuvre
+Magmite used Maneuver,Magmite used Manoeuvre
+Large Ooze used Maneuver,Large Ooze used Manoeuvre
+Giant Rat used Maneuver,Giant Rat used Manoeuvre
+Dire Rat used Maneuver,Dire Rat used Manoeuvre
+Chitters-In-Darkness used Maneuver,Chitters-In-Darkness used Manoeuvre
+Rabid Rat used Maneuver,Rabid Rat used Manoeuvre
+Shade used Maneuver,Shade used Manoeuvre
+Dire Serpent used Maneuver,Dire Serpent used Manoeuvre
+Fell Serpent used Maneuver,Fell Serpent used Manoeuvre
+Giant Snake used Maneuver,Giant Snake used Manoeuvre
+Fleshstrider used Maneuver,Fleshstrider used Manoeuvre
+Flying Polyp used Maneuver,Flying Polyp used Manoeuvre
+Dragon's Herald used Maneuver,Dragon's Herald used Manoeuvre
+Evolved used Maneuver,Evolved used Manoeuvre
+Newborne used Maneuver,Newborn used Manoeuvre
+Vessel used Maneuver,Vessel used Manoeuvre
+Stalker used Maneuver,Stalker used Manoeuvre
+Giant Spider used Maneuver,Giant Spider used Manoeuvre
+Large Spider used Maneuver,Large Spider used Manoeuvre
+Shambler used Maneuver,Shambler used Manoeuvre
+Frost Shambler used Maneuver,Frost Shambler used Manoeuvre
+Reaver Berserker used Maneuver,Reaver Berserker used Manoeuvre
+Brigand Archer used Maneuver,Brigand Archer used Manoeuvre
+Brigand Rogue used Maneuver,Brigand Rogue used Manoeuvre
+Brigand Swordsman used Maneuver,Brigand Swordsman used Manoeuvre
+Mad Sailor used Maneuver,Mad Sailor used Manoeuvre
+Mad Sailo used Maneuver,Mad Sailo used Manoeuvre
+Guild Magos used Maneuver,Guild Magos used Manoeuvre
+Guild Mag used Maneuver,Guild Mag used Manoeuvre
+Wight used Maneuver,Wight used Manoeuvre
+Feral Clone used Maneuver,Feral Clone used Manoeuvre
+Jester used Maneuver,Jester used Manoeuvre
+Reaver Brute used Maneuver,Reaver Brute used Manoeuvre
+Reaver Scout used Maneuver,Reaver Scout used Manoeuvre
+Reaver used Maneuver,Reaver used Manoeuvre
+Reaver Blackguard used Maneuver,Reaver Blackguard used Manoeuvre
+Reaver Mystic used Maneuver,Reaver Mystic used Manoeuvre
+Cultist used Maneuver,Cultist used Manoeuvre
+Bobbert the Recruit used Maneuver,Bobbert the Recruit used Manoeuvre
+Wreck Picker used Maneuver,Wreck Picker used Manoeuvre
+Oleg the Gray used Maneuver,Oleg the Grey used Manoeuvre
+Red Kala used Maneuver,Red Kala used Manoeuvre
+The Butcher used Maneuver,The Butcher used Manoeuvre
+Snow used Maneuver,Snow used Manoeuvre
+The Ancient King used Maneuver,The Ancient King used Manoeuvre
+Joran the Usurper used Maneuver,Joran the Usurper used Manoeuvre
+Baroness used Maneuver,Baroness used Manoeuvre
+Handmaid used Maneuver,Handmaid used Manoeuvre
+Majordomo used Maneuver,Majordomo used Manoeuvre
+#Combatant used Triggered Ability,#Combatant used Triggered Ability
+{PLAYER} used Triggered Ability,{PLAYER} used Triggered Ability
+Kat used Triggered Ability,Kat used Triggered Ability
+Roland used Triggered Ability,Roland used Triggered Ability
+Driina used Triggered Ability,Driina used Triggered Ability
+Iben used Triggered Ability,Iben used Triggered Ability
+Iago used Triggered Ability,Iago used Triggered Ability
+Embla used Triggered Ability,Embla used Triggered Ability
+Giant Bat used Triggered Ability,Giant Bat used Triggered Ability
+Giant Beetle used Triggered Ability,Giant Beetle used Triggered Ability
+Rhino Beetle used Triggered Ability,Rhino Beetle used Triggered Ability
+Carrion Crawler used Triggered Ability,Carrion Crawler used Triggered Ability
+Giant Centipede used Triggered Ability,Giant Centipede used Triggered Ability
+Fell Crab used Triggered Ability,Fell Crab used Triggered Ability
+Corpse Eater used Triggered Ability,Corpse Eater used Triggered Ability
+Giant Crab used Triggered Ability,Giant Crab used Triggered Ability
+Crab used Triggered Ability,Crab used Triggered Ability
+Rot Crab used Triggered Ability,Rot Crab used Triggered Ability
+Spider Crab used Triggered Ability,Spider Crab used Triggered Ability
+Brood Guard used Triggered Ability,Brood Guard used Triggered Ability
+Father used Triggered Ability,Father used Triggered Ability
+Deep One Priestess used Triggered Ability,Deep One Priestess used Triggered Ability
+Deep One Queen used Triggered Ability,Deep One Queen used Triggered Ability
+Deep One Warrior used Triggered Ability,Deep One Warrior used Triggered Ability
+Devolved used Triggered Ability,Devolved used Triggered Ability
+Ghoul used Triggered Ability,Ghoul used Triggered Ability
+Frost Ghoul used Triggered Ability,Frost Ghoul used Triggered Ability
+Giant Gnat used Triggered Ability,Giant Gnat used Triggered Ability
+Cave Gnat used Triggered Ability,Cave Gnat used Triggered Ability
+Fell Hog used Triggered Ability,Fell Hog used Triggered Ability
+Dire Hound used Triggered Ability,Dire Hound used Triggered Ability
+Fell Hound used Triggered Ability,Fell Hound used Triggered Ability
+Ice Hound used Triggered Ability,Ice Hound used Triggered Ability
+Ice Strider used Triggered Ability,Ice Strider used Triggered Ability
+Shadow Stalker used Triggered Ability,Shadow Stalker used Triggered Ability
+Giant Leech used Triggered Ability,Giant Leech used Triggered Ability
+Albino Leech used Triggered Ability,Albino Leech used Triggered Ability
+Bloodletter used Triggered Ability,Bloodletter used Triggered Ability
+Fell Lizard used Triggered Ability,Fell Lizard used Triggered Ability
+Alpha Lizard used Triggered Ability,Alpha Lizard used Triggered Ability
+Giant Lizard used Triggered Ability,Giant Lizard used Triggered Ability
+Ice Salamander used Triggered Ability,Ice Salamander used Triggered Ability
+Mold Child used Triggered Ability,Mould Child used Triggered Ability
+Ooze used Triggered Ability,Ooze used Triggered Ability
+Flesh Ooze used Triggered Ability,Flesh Ooze used Triggered Ability
+Medusa Jelly used Triggered Ability,Medusa Jelly used Triggered Ability
+Risen Ooze used Triggered Ability,Risen Ooze used Triggered Ability
+Magma Ooze used Triggered Ability,Magma Ooze used Triggered Ability
+Magmite used Triggered Ability,Magmite used Triggered Ability
+Large Ooze used Triggered Ability,Large Ooze used Triggered Ability
+Giant Rat used Triggered Ability,Giant Rat used Triggered Ability
+Dire Rat used Triggered Ability,Dire Rat used Triggered Ability
+Chitters-In-Darkness used Triggered Ability,Chitters-In-Darkness used Triggered Ability
+Rabid Rat used Triggered Ability,Rabid Rat used Triggered Ability
+Shade used Triggered Ability,Shade used Triggered Ability
+Dire Serpent used Triggered Ability,Dire Serpent used Triggered Ability
+Fell Serpent used Triggered Ability,Fell Serpent used Triggered Ability
+Giant Snake used Triggered Ability,Giant Snake used Triggered Ability
+Fleshstrider used Triggered Ability,Fleshstrider used Triggered Ability
+Flying Polyp used Triggered Ability,Flying Polyp used Triggered Ability
+Dragon's Herald used Triggered Ability,Dragon's Herald used Triggered Ability
+Evolved used Triggered Ability,Evolved used Triggered Ability
+Newborne used Triggered Ability,Newborn used Triggered Ability
+Vessel used Triggered Ability,Vessel used Triggered Ability
+Stalker used Triggered Ability,Stalker used Triggered Ability
+Giant Spider used Triggered Ability,Giant Spider used Triggered Ability
+Large Spider used Triggered Ability,Large Spider used Triggered Ability
+Shambler used Triggered Ability,Shambler used Triggered Ability
+Frost Shambler used Triggered Ability,Frost Shambler used Triggered Ability
+Reaver Berserker used Triggered Ability,Reaver Berserker used Triggered Ability
+Brigand Archer used Triggered Ability,Brigand Archer used Triggered Ability
+Brigand Rogue used Triggered Ability,Brigand Rogue used Triggered Ability
+Brigand Swordsman used Triggered Ability,Brigand Swordsman used Triggered Ability
+Mad Sailor used Triggered Ability,Mad Sailor used Triggered Ability
+Mad Sailo used Triggered Ability,Mad Sailo used Triggered Ability
+Guild Magos used Triggered Ability,Guild Magos used Triggered Ability
+Guild Mag used Triggered Ability,Guild Mag used Triggered Ability
+Wight used Triggered Ability,Wight used Triggered Ability
+Feral Clone used Triggered Ability,Feral Clone used Triggered Ability
+Jester used Triggered Ability,Jester used Triggered Ability
+Reaver Brute used Triggered Ability,Reaver Brute used Triggered Ability
+Reaver Scout used Triggered Ability,Reaver Scout used Triggered Ability
+Reaver used Triggered Ability,Reaver used Triggered Ability
+Reaver Blackguard used Triggered Ability,Reaver Blackguard used Triggered Ability
+Reaver Mystic used Triggered Ability,Reaver Mystic used Triggered Ability
+Cultist used Triggered Ability,Cultist used Triggered Ability
+Bobbert the Recruit used Triggered Ability,Bobbert the Recruit used Triggered Ability
+Wreck Picker used Triggered Ability,Wreck Picker used Triggered Ability
+Oleg the Gray used Triggered Ability,Oleg the Grey used Triggered Ability
+Red Kala used Triggered Ability,Red Kala used Triggered Ability
+The Butcher used Triggered Ability,The Butcher used Triggered Ability
+Snow used Triggered Ability,Snow used Triggered Ability
+The Ancient King used Triggered Ability,The Ancient King used Triggered Ability
+Joran the Usurper used Triggered Ability,Joran the Usurper used Triggered Ability
+Baroness used Triggered Ability,Baroness used Triggered Ability
+Handmaid used Triggered Ability,Handmaid used Triggered Ability
+#Combatant used Spell,#Combatant used Spell
+{PLAYER} used Spell,{PLAYER} used Spell
+Kat used Spell,Kat used Spell
+Roland used Spell,Roland used Spell
+Driina used Spell,Driina used Spell
+Iben used Spell,Iben used Spell
+Iago used Spell,Iago used Spell
+Embla used Spell,Embla used Spell
+Giant Bat used Spell,Giant Bat used Spell
+Giant Beetle used Spell,Giant Beetle used Spell
+Rhino Beetle used Spell,Rhino Beetle used Spell
+Carrion Crawler used Spell,Carrion Crawler used Spell
+Giant Centipede used Spell,Giant Centipede used Spell
+Fell Crab used Spell,Fell Crab used Spell
+Corpse Eater used Spell,Corpse Eater used Spell
+Giant Crab used Spell,Giant Crab used Spell
+Crab used Spell,Crab used Spell
+Rot Crab used Spell,Rot Crab used Spell
+Spider Crab used Spell,Spider Crab used Spell
+Brood Guard used Spell,Brood Guard used Spell
+Father used Spell,Father used Spell
+Deep One Priestess used Spell,Deep One Priestess used Spell
+Deep One Queen used Spell,Deep One Queen used Spell
+Deep One Warrior used Spell,Deep One Warrior used Spell
+Devolved used Spell,Devolved used Spell
+Ghoul used Spell,Ghoul used Spell
+Frost Ghoul used Spell,Frost Ghoul used Spell
+Giant Gnat used Spell,Giant Gnat used Spell
+Cave Gnat used Spell,Cave Gnat used Spell
+Fell Hog used Spell,Fell Hog used Spell
+Dire Hound used Spell,Dire Hound used Spell
+Fell Hound used Spell,Fell Hound used Spell
+Ice Hound used Spell,Ice Hound used Spell
+Ice Strider used Spell,Ice Strider used Spell
+Shadow Stalker used Spell,Shadow Stalker used Spell
+Giant Leech used Spell,Giant Leech used Spell
+Albino Leech used Spell,Albino Leech used Spell
+Bloodletter used Spell,Bloodletter used Spell
+Fell Lizard used Spell,Fell Lizard used Spell
+Alpha Lizard used Spell,Alpha Lizard used Spell
+Giant Lizard used Spell,Giant Lizard used Spell
+Ice Salamander used Spell,Ice Salamander used Spell
+Mold Child used Spell,Mould Child used Spell
+Ooze used Spell,Ooze used Spell
+Flesh Ooze used Spell,Flesh Ooze used Spell
+Medusa Jelly used Spell,Medusa Jelly used Spell
+Risen Ooze used Spell,Risen Ooze used Spell
+Magma Ooze used Spell,Magma Ooze used Spell
+Magmite used Spell,Magmite used Spell
+Large Ooze used Spell,Large Ooze used Spell
+Giant Rat used Spell,Giant Rat used Spell
+Dire Rat used Spell,Dire Rat used Spell
+Chitters-In-Darkness used Spell,Chitters-In-Darkness used Spell
+Rabid Rat used Spell,Rabid Rat used Spell
+Shade used Spell,Shade used Spell
+Dire Serpent used Spell,Dire Serpent used Spell
+Fell Serpent used Spell,Fell Serpent used Spell
+Giant Snake used Spell,Giant Snake used Spell
+Fleshstrider used Spell,Fleshstrider used Spell
+Flying Polyp used Spell,Flying Polyp used Spell
+Dragon's Herald used Spell,Dragon's Herald used Spell
+Evolved used Spell,Evolved used Spell
+Newborne used Spell,Newborn used Spell
+Vessel used Spell,Vessel used Spell
+Stalker used Spell,Stalker used Spell
+Giant Spider used Spell,Giant Spider used Spell
+Large Spider used Spell,Large Spider used Spell
+Shambler used Spell,Shambler used Spell
+Frost Shambler used Spell,Frost Shambler used Spell
+Reaver Berserker used Spell,Reaver Berserker used Spell
+Brigand Archer used Spell,Brigand Archer used Spell
+Brigand Rogue used Spell,Brigand Rogue used Spell
+Brigand Swordsman used Spell,Brigand Swordsman used Spell
+Mad Sailor used Spell,Mad Sailor used Spell
+Mad Sailo used Spell,Mad Sailo used Spell
+Guild Magos used Spell,Guild Magos used Spell
+Guild Mag used Spell,Guild Mag used Spell
+Wight used Spell,Wight used Spell
+Feral Clone used Spell,Feral Clone used Spell
+Jester used Spell,Jester used Spell
+Reaver Brute used Spell,Reaver Brute used Spell
+Reaver Scout used Spell,Reaver Scout used Spell
+Reaver used Spell,Reaver used Spell
+Reaver Blackguard used Spell,Reaver Blackguard used Spell
+Reaver Mystic used Spell,Reaver Mystic used Spell
+Cultist used Spell,Cultist used Spell
+Bobbert the Recruit used Spell,Bobbert the Recruit used Spell
+Wreck Picker used Spell,Wreck Picker used Spell
+Oleg the Gray used Spell,Oleg the Grey used Spell
+Red Kala used Spell,Red Kala used Spell
+The Butcher used Spell,The Butcher used Spell
+Snow used Spell,Snow used Spell
+The Ancient King used Spell,The Ancient King used Spell
+Joran the Usurper used Spell,Joran the Usurper used Spell
+Baroness used Spell,Baroness used Spell
+Handmaid used Spell,Handmaid used Spell
+Majordomo used Spell,Majordomo used Spell
+Majordomo used Triggered Ability,Majordomo used Triggered Ability
+#Combatant immune to the condition,#Combatant immune to the condition
+{PLAYER} immune to the condition,{PLAYER} immune to the condition
+Kat immune to the condition,Kat immune to the condition
+Roland immune to the condition,Roland immune to the condition
+Driina immune to the condition,Driina immune to the condition
+Iben immune to the condition,Iben immune to the condition
+Iago immune to the condition,Iago immune to the condition
+Embla immune to the condition,Embla immune to the condition
+Giant Bat immune to the condition,Giant Bat immune to the condition
+Giant Beetle immune to the condition,Giant Beetle immune to the condition
+Rhino Beetle immune to the condition,Rhino Beetle immune to the condition
+Carrion Crawler immune to the condition,Carrion Crawler immune to the condition
+Giant Centipede immune to the condition,Giant Centipede immune to the condition
+Fell Crab immune to the condition,Fell Crab immune to the condition
+Corpse Eater immune to the condition,Corpse Eater immune to the condition
+Giant Crab immune to the condition,Giant Crab immune to the condition
+Crab immune to the condition,Crab immune to the condition
+Rot Crab immune to the condition,Rot Crab immune to the condition
+Spider Crab immune to the condition,Spider Crab immune to the condition
+Brood Guard immune to the condition,Brood Guard immune to the condition
+Father immune to the condition,Father immune to the condition
+Deep One Priestess immune to the condition,Deep One Priestess immune to the condition
+Deep One Queen immune to the condition,Deep One Queen immune to the condition
+Deep One Warrior immune to the condition,Deep One Warrior immune to the condition
+Devolved immune to the condition,Devolved immune to the condition
+Ghoul immune to the condition,Ghoul immune to the condition
+Frost Ghoul immune to the condition,Frost Ghoul immune to the condition
+Giant Gnat immune to the condition,Giant Gnat immune to the condition
+Cave Gnat immune to the condition,Cave Gnat immune to the condition
+Fell Hog immune to the condition,Fell Hog immune to the condition
+Dire Hound immune to the condition,Dire Hound immune to the condition
+Fell Hound immune to the condition,Fell Hound immune to the condition
+Ice Hound immune to the condition,Ice Hound immune to the condition
+Ice Strider immune to the condition,Ice Strider immune to the condition
+Shadow Stalker immune to the condition,Shadow Stalker immune to the condition
+Giant Leech immune to the condition,Giant Leech immune to the condition
+Albino Leech immune to the condition,Albino Leech immune to the condition
+Bloodletter immune to the condition,Bloodletter immune to the condition
+Fell Lizard immune to the condition,Fell Lizard immune to the condition
+Alpha Lizard immune to the condition,Alpha Lizard immune to the condition
+Giant Lizard immune to the condition,Giant Lizard immune to the condition
+Ice Salamander immune to the condition,Ice Salamander immune to the condition
+Mold Child immune to the condition,Mould Child immune to the condition
+Ooze immune to the condition,Ooze immune to the condition
+Flesh Ooze immune to the condition,Flesh Ooze immune to the condition
+Medusa Jelly immune to the condition,Medusa Jelly immune to the condition
+Risen Ooze immune to the condition,Risen Ooze immune to the condition
+Magma Ooze immune to the condition,Magma Ooze immune to the condition
+Magmite immune to the condition,Magmite immune to the condition
+Large Ooze immune to the condition,Large Ooze immune to the condition
+Giant Rat immune to the condition,Giant Rat immune to the condition
+Dire Rat immune to the condition,Dire Rat immune to the condition
+Chitters-In-Darkness immune to the condition,Chitters-In-Darkness immune to the condition
+Rabid Rat immune to the condition,Rabid Rat immune to the condition
+Shade immune to the condition,Shade immune to the condition
+Dire Serpent immune to the condition,Dire Serpent immune to the condition
+Fell Serpent immune to the condition,Fell Serpent immune to the condition
+Giant Snake immune to the condition,Giant Snake immune to the condition
+Fleshstrider immune to the condition,Fleshstrider immune to the condition
+Flying Polyp immune to the condition,Flying Polyp immune to the condition
+Dragon's Herald immune to the condition,Dragon's Herald immune to the condition
+Evolved immune to the condition,Evolved immune to the condition
+Newborne immune to the condition,Newborn immune to the condition
+Vessel immune to the condition,Vessel immune to the condition
+Stalker immune to the condition,Stalker immune to the condition
+Giant Spider immune to the condition,Giant Spider immune to the condition
+Large Spider immune to the condition,Large Spider immune to the condition
+Shambler immune to the condition,Shambler immune to the condition
+Frost Shambler immune to the condition,Frost Shambler immune to the condition
+Reaver Berserker immune to the condition,Reaver Berserker immune to the condition
+Brigand Archer immune to the condition,Brigand Archer immune to the condition
+Brigand Rogue immune to the condition,Brigand Rogue immune to the condition
+Brigand Swordsman immune to the condition,Brigand Swordsman immune to the condition
+Mad Sailor immune to the condition,Mad Sailor immune to the condition
+Mad Sailo immune to the condition,Mad Sailo immune to the condition
+Guild Magos immune to the condition,Guild Magos immune to the condition
+Guild Mag immune to the condition,Guild Mag immune to the condition
+Wight immune to the condition,Wight immune to the condition
+Feral Clone immune to the condition,Feral Clone immune to the condition
+Jester immune to the condition,Jester immune to the condition
+Reaver Brute immune to the condition,Reaver Brute immune to the condition
+Reaver Scout immune to the condition,Reaver Scout immune to the condition
+Reaver immune to the condition,Reaver immune to the condition
+Reaver Blackguard immune to the condition,Reaver Blackguard immune to the condition
+Reaver Mystic immune to the condition,Reaver Mystic immune to the condition
+Cultist immune to the condition,Cultist immune to the condition
+Bobbert the Recruit immune to the condition,Bobbert the Recruit immune to the condition
+Wreck Picker immune to the condition,Wreck Picker immune to the condition
+Oleg the Gray immune to the condition,Oleg the Grey immune to the condition
+Red Kala immune to the condition,Red Kala immune to the condition
+The Butcher immune to the condition,The Butcher immune to the condition
+Snow immune to the condition,Snow immune to the condition
+The Ancient King immune to the condition,The Ancient King immune to the condition
+Joran the Usurper immune to the condition,Joran the Usurper immune to the condition
+Baroness immune to the condition,Baroness immune to the condition
+Handmaid immune to the condition,Handmaid immune to the condition
+Majordomo immune to the condition,Majordomo immune to the condition
+#Combatant immune to,#Combatant immune to
+{PLAYER} immune to,{PLAYER} immune to
+Kat immune to,Kat immune to
+Roland immune to,Roland immune to
+Driina immune to,Driina immune to
+Iben immune to,Iben immune to
+Iago immune to,Iago immune to
+Embla immune to,Embla immune to
+Giant Bat immune to,Giant Bat immune to
+Giant Beetle immune to,Giant Beetle immune to
+Rhino Beetle immune to,Rhino Beetle immune to
+Carrion Crawler immune to,Carrion Crawler immune to
+Giant Centipede immune to,Giant Centipede immune to
+Fell Crab immune to,Fell Crab immune to
+Corpse Eater immune to,Corpse Eater immune to
+Giant Crab immune to,Giant Crab immune to
+Crab immune to,Crab immune to
+Rot Crab immune to,Rot Crab immune to
+Spider Crab immune to,Spider Crab immune to
+Brood Guard immune to,Brood Guard immune to
+Father immune to,Father immune to
+Deep One Priestess immune to,Deep One Priestess immune to
+Deep One Queen immune to,Deep One Queen immune to
+Deep One Warrior immune to,Deep One Warrior immune to
+Devolved immune to,Devolved immune to
+Ghoul immune to,Ghoul immune to
+Frost Ghoul immune to,Frost Ghoul immune to
+Giant Gnat immune to,Giant Gnat immune to
+Cave Gnat immune to,Cave Gnat immune to
+Fell Hog immune to,Fell Hog immune to
+Dire Hound immune to,Dire Hound immune to
+Fell Hound immune to,Fell Hound immune to
+Ice Hound immune to,Ice Hound immune to
+Ice Strider immune to,Ice Strider immune to
+Shadow Stalker immune to,Shadow Stalker immune to
+Giant Leech immune to,Giant Leech immune to
+Albino Leech immune to,Albino Leech immune to
+Bloodletter immune to,Bloodletter immune to
+Fell Lizard immune to,Fell Lizard immune to
+Alpha Lizard immune to,Alpha Lizard immune to
+Giant Lizard immune to,Giant Lizard immune to
+Ice Salamander immune to,Ice Salamander immune to
+Mold Child immune to,Mould Child immune to
+Ooze immune to,Ooze immune to
+Flesh Ooze immune to,Flesh Ooze immune to
+Medusa Jelly immune to,Medusa Jelly immune to
+Risen Ooze immune to,Risen Ooze immune to
+Magma Ooze immune to,Magma Ooze immune to
+Magmite immune to,Magmite immune to
+Large Ooze immune to,Large Ooze immune to
+Giant Rat immune to,Giant Rat immune to
+Dire Rat immune to,Dire Rat immune to
+Chitters-In-Darkness immune to,Chitters-In-Darkness immune to
+Rabid Rat immune to,Rabid Rat immune to
+Shade immune to,Shade immune to
+Dire Serpent immune to,Dire Serpent immune to
+Fell Serpent immune to,Fell Serpent immune to
+Giant Snake immune to,Giant Snake immune to
+Fleshstrider immune to,Fleshstrider immune to
+Flying Polyp immune to,Flying Polyp immune to
+Dragon's Herald immune to,Dragon's Herald immune to
+Evolved immune to,Evolved immune to
+Newborne immune to,Newborn immune to
+Vessel immune to,Vessel immune to
+Stalker immune to,Stalker immune to
+Giant Spider immune to,Giant Spider immune to
+Large Spider immune to,Large Spider immune to
+Shambler immune to,Shambler immune to
+Frost Shambler immune to,Frost Shambler immune to
+Reaver Berserker immune to,Reaver Berserker immune to
+Brigand Archer immune to,Brigand Archer immune to
+Brigand Rogue immune to,Brigand Rogue immune to
+Brigand Swordsman immune to,Brigand Swordsman immune to
+Mad Sailor immune to,Mad Sailor immune to
+Mad Sailo immune to,Mad Sailo immune to
+Guild Magos immune to,Guild Magos immune to
+Guild Mag immune to,Guild Mag immune to
+Wight immune to,Wight immune to
+Feral Clone immune to,Feral Clone immune to
+Jester immune to,Jester immune to
+Reaver Brute immune to,Reaver Brute immune to
+Reaver Scout immune to,Reaver Scout immune to
+Reaver immune to,Reaver immune to
+Reaver Blackguard immune to,Reaver Blackguard immune to
+Reaver Mystic immune to,Reaver Mystic immune to
+Cultist immune to,Cultist immune to
+Bobbert the Recruit immune to,Bobbert the Recruit immune to
+Wreck Picker immune to,Wreck Picker immune to
+Oleg the Gray immune to,Oleg the Grey immune to
+Red Kala immune to,Red Kala immune to
+The Butcher immune to,The Butcher immune to
+Snow immune to,Snow immune to
+The Ancient King immune to,The Ancient King immune to
+Joran the Usurper immune to,Joran the Usurper immune to
+Baroness immune to,Baroness immune to
+Handmaid immune to,Handmaid immune to
+Majordomo immune to,Majordomo immune to
+#Combatant immune to the condition,#Combatant immune to the condition
+{PLAYER} immune to the condition,{PLAYER} immune to the condition
+Kat immune to the condition,Kat immune to the condition
+Roland immune to the condition,Roland immune to the condition
+Driina immune to the condition,Driina immune to the condition
+Iben immune to the condition,Iben immune to the condition
+Iago immune to the condition,Iago immune to the condition
+Embla immune to the condition,Embla immune to the condition
+Giant Bat immune to the condition,Giant Bat immune to the condition
+Giant Beetle immune to the condition,Giant Beetle immune to the condition
+Rhino Beetle immune to the condition,Rhino Beetle immune to the condition
+Carrion Crawler immune to the condition,Carrion Crawler immune to the condition
+Giant Centipede immune to the condition,Giant Centipede immune to the condition
+Fell Crab immune to the condition,Fell Crab immune to the condition
+Corpse Eater immune to the condition,Corpse Eater immune to the condition
+Giant Crab immune to the condition,Giant Crab immune to the condition
+Crab immune to the condition,Crab immune to the condition
+Rot Crab immune to the condition,Rot Crab immune to the condition
+Spider Crab immune to the condition,Spider Crab immune to the condition
+Brood Guard immune to the condition,Brood Guard immune to the condition
+Father immune to the condition,Father immune to the condition
+Deep One Priestess immune to the condition,Deep One Priestess immune to the condition
+Deep One Queen immune to the condition,Deep One Queen immune to the condition
+Deep One Warrior immune to the condition,Deep One Warrior immune to the condition
+Devolved immune to the condition,Devolved immune to the condition
+Ghoul immune to the condition,Ghoul immune to the condition
+Frost Ghoul immune to the condition,Frost Ghoul immune to the condition
+Giant Gnat immune to the condition,Giant Gnat immune to the condition
+Cave Gnat immune to the condition,Cave Gnat immune to the condition
+Fell Hog immune to the condition,Fell Hog immune to the condition
+Dire Hound immune to the condition,Dire Hound immune to the condition
+Fell Hound immune to the condition,Fell Hound immune to the condition
+Ice Hound immune to the condition,Ice Hound immune to the condition
+Ice Strider immune to the condition,Ice Strider immune to the condition
+Shadow Stalker immune to the condition,Shadow Stalker immune to the condition
+Giant Leech immune to the condition,Giant Leech immune to the condition
+Albino Leech immune to the condition,Albino Leech immune to the condition
+Bloodletter immune to the condition,Bloodletter immune to the condition
+Fell Lizard immune to the condition,Fell Lizard immune to the condition
+Alpha Lizard immune to the condition,Alpha Lizard immune to the condition
+Giant Lizard immune to the condition,Giant Lizard immune to the condition
+Ice Salamander immune to the condition,Ice Salamander immune to the condition
+Mold Child immune to the condition,Mould Child immune to the condition
+Ooze immune to the condition,Ooze immune to the condition
+Flesh Ooze immune to the condition,Flesh Ooze immune to the condition
+Medusa Jelly immune to the condition,Medusa Jelly immune to the condition
+Risen Ooze immune to the condition,Risen Ooze immune to the condition
+Magma Ooze immune to the condition,Magma Ooze immune to the condition
+Magmite immune to the condition,Magmite immune to the condition
+Large Ooze immune to the condition,Large Ooze immune to the condition
+Giant Rat immune to the condition,Giant Rat immune to the condition
+Dire Rat immune to the condition,Dire Rat immune to the condition
+Chitters-In-Darkness immune to the condition,Chitters-In-Darkness immune to the condition
+Rabid Rat immune to the condition,Rabid Rat immune to the condition
+Shade immune to the condition,Shade immune to the condition
+Dire Serpent immune to the condition,Dire Serpent immune to the condition
+Fell Serpent immune to the condition,Fell Serpent immune to the condition
+Giant Snake immune to the condition,Giant Snake immune to the condition
+Fleshstrider immune to the condition,Fleshstrider immune to the condition
+Flying Polyp immune to the condition,Flying Polyp immune to the condition
+Dragon's Herald immune to the condition,Dragon's Herald immune to the condition
+Evolved immune to the condition,Evolved immune to the condition
+Newborne immune to the condition,Newborn immune to the condition
+Vessel immune to the condition,Vessel immune to the condition
+Stalker immune to the condition,Stalker immune to the condition
+Giant Spider immune to the condition,Giant Spider immune to the condition
+Large Spider immune to the condition,Large Spider immune to the condition
+Shambler immune to the condition,Shambler immune to the condition
+Frost Shambler immune to the condition,Frost Shambler immune to the condition
+Reaver Berserker immune to the condition,Reaver Berserker immune to the condition
+Brigand Archer immune to the condition,Brigand Archer immune to the condition
+Brigand Rogue immune to the condition,Brigand Rogue immune to the condition
+Brigand Swordsman immune to the condition,Brigand Swordsman immune to the condition
+Mad Sailor immune to the condition,Mad Sailor immune to the condition
+Mad Sailo immune to the condition,Mad Sailo immune to the condition
+Guild Magos immune to the condition,Guild Magos immune to the condition
+Guild Mag immune to the condition,Guild Mag immune to the condition
+Wight immune to the condition,Wight immune to the condition
+Feral Clone immune to the condition,Feral Clone immune to the condition
+Jester immune to the condition,Jester immune to the condition
+Reaver Brute immune to the condition,Reaver Brute immune to the condition
+Reaver Scout immune to the condition,Reaver Scout immune to the condition
+Reaver immune to the condition,Reaver immune to the condition
+Reaver Blackguard immune to the condition,Reaver Blackguard immune to the condition
+Reaver Mystic immune to the condition,Reaver Mystic immune to the condition
+Cultist immune to the condition,Cultist immune to the condition
+Bobbert the Recruit immune to the condition,Bobbert the Recruit immune to the condition
+Wreck Picker immune to the condition,Wreck Picker immune to the condition
+Oleg the Gray immune to the condition,Oleg the Grey immune to the condition
+Red Kala immune to the condition,Red Kala immune to the condition
+The Butcher immune to the condition,The Butcher immune to the condition
+Snow immune to the condition,Snow immune to the condition
+The Ancient King immune to the condition,The Ancient King immune to the condition
+Joran the Usurper immune to the condition,Joran the Usurper immune to the condition
+Baroness immune to the condition,Baroness immune to the condition
+Handmaid immune to the condition,Handmaid immune to the condition
+Majordomo immune to the condition,Majordomo immune to the condition

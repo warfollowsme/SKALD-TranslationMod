@@ -44,14 +44,14 @@ Injuries,Injuries
 Your character is critically injured!,Your character is critically injured!
 This means you have taken enough damage to reduce BOTH your Vitality and Wounds,This means you have taken enough damage to reduce BOTH your Vitality and Wounds
 The green bar under your Character’s portrait represents your Vitality score,The green bar under your Character’s portrait represents your Vitality score
-Vitality is a buffer to your wounds and as long as you have Vitality left you won’t take (serious,Vitality is a buffer to your wounds and as long as you have Vitality left you won’t take (serious
+Vitality is a buffer to your wounds and as long as you have Vitality left you won’t take (serious,Vitality is a buffer to your Wounds and as long as you have Vitality left you won’t take (serious
 Wound damage,Wound damage
-Vitality is easily lost and easily regained!,Vitality is easily lost and easily regained
-Potions and healing magic restores Vitality - even during combat,Potions and healing magic can restore Vitality - both in and out of combat!
+Vitality is easily lost and easily regained!,Vitality is easily lost and easily regained.
+Potions and healing magic restores Vitality - even during combat,Potions and healing magic can restore Vitality - both in and out of combat
 "The second, purple bar represents your Wounds","The second, purple bar represents your Wounds"
 Losing Wounds is much more serious than losing Vitality,Losing Wounds is much more serious than losing Vitality
 Reaching 0 wounds means your character falls unconscious,Reaching 0 Wounds means your character is rendered unconscious
-Wounds can also only be recovered by resting (or leveling up,Wounds can also only be recovered by resting (or leveling up
+Wounds can also only be recovered by resting (or leveling up,Wounds can also only be recovered by resting (or levelling up
 Try to avoid taking Wound damage at all costs!,Sustaining Wound damage is best avoided!
 "Whenever you take Wound damage, you gain an Injury Condition as indicated by the icon on the portrait","Whenever you take Wound damage, you gain an Injury Condition as indicated by the icon on the portrait"
 Injuries confer serious penalties to your character and can only be removed by resting,Injuries confer serious penalties to your character and can only be removed by resting
@@ -96,7 +96,7 @@ Familiarize yourself with the Attributes and Abilities of your party members and
 "When a new member joins your party, they Level Up to your current level","When a new member joins your party, they Level Up to your current level"
 The “Level Up” icon on your party-member’s portrait shows that a character is ready to level up!,The “Level Up” icon on your party-member’s portrait shows that a character is ready to level up!
 Double-click the character portrait and select FEATS to begin leveling up,Double-click the character portrait and select FEATS to begin levelling up
-Press the X BUTTON and go to the FEATS tab to begin leveling up,Press the X BUTTON and go to the FEATS tab to begin levelling up
+Press the X BUTTON and go to the FEATS tab to begin leveling up,Press the X BUTTON and go to the FEATS tab to begin levelling up.
 Stealth,Stealth
 Press the Hide button to go into Stealth mode,Press the Hide button to go into Stealth mode
 The action buttons also map to the numerical buttons,The action buttons also map to the numerical buttons
@@ -104,7 +104,7 @@ You may also press LEFT JOYSTICK to enter stealth mode,You may also press LEFT J
 While in stealth mode the Stealth indicator becomes visible,While in stealth mode the Stealth indicator becomes visible
 A yellow indicator means you're in danger of being spotted,A yellow indicator means you're in danger of being spotted
 "While your indicator is yellow, it will count down to 0%","While your indicator is yellow, it will count down to 0%"
-When it reaches 0% you are spotted and will become visible,When it reaches 0% you have been spotted and will become visible
+When it reaches 0% you are spotted and will become visible,"Should it reach 0%, you will have been spotted and become visible"
 Moving in lit areas and being close to other characters will make the counter go down very fast,Moving in lit areas and being close to other characters will make the counter go down much faster
 Stick to shadows and avoid other characters,So stick to shadows and avoid others
 Your ability to stay hidden is dictated by your stealth skill,Your ability to stay hidden is dictated by your stealth skill

@@ -1,12 +1,12 @@
 original,translate
-#Colors,#Colours
+#Colors,#Colors
 Black,Black
 Blue,Blue
 Light Blue,Light Blue
 Brown,Brown
 Light Brown,Light Brown
 Cyan,Cyan
-Gray,Gray
+Gray,Grey
 DarkGray,Dark Grey
 Light Gray,Light Grey
 Green,Green
@@ -24,6 +24,7 @@ Disable,Disable
 Loot,Loot
 Inv,Inv
 Container,Container
+Drop / Pick Up,Drop / Pick Up
 Get All,Get All
 Transfer Stack,Transfer Stack
 Transfer Item,Transfer Item
@@ -35,7 +36,6 @@ Woman Human,Female Human
 Xp To Go,Xp To Go
 Active Conditions,Active Conditions
 Move Character,Move Character
-Overcast Night,Overcast Night
 Can be removed by magic,Can be removed by magic
 Adds Status Tag,Adds Status Tag
 This list will only show entries with non-zero values,This list will only show entries with non-zero values
@@ -46,6 +46,36 @@ There are no weapons nearby to attack,There are no weapons nearby to attack
 You can't enter combat without enemies within combat range,You can't enter combat without enemies within combat range
 You wait a short while,You wait a short while
 Pass a turn,Pass a turn
+View Inventory,View Inventory
+View the Journal,View the Journal
+Time,Time
+X Pos,X Pos
+Y Pos,Y Pos
+Water blocks your path!,Water blocks your path!
+A simple wooden door. (,A simple wooden door. (
+A double wooden door. (,A double wooden door. (
+It cannot be opened from this side. (,It cannot be opened from this side. (
+"A massive, reinforced door. (","A massive, reinforced door. ("
+HP,HP
+Overcast Dawn,Overcast Dawn
+Raining Dawn,Raining Dawn
+Foggy Dawn,Foggy Dawn
+Fog and Rain Dawn,Fog and Rain Dawn
+Overcast Day,Overcast Day
+Raining Day,Raining Day
+Foggy Day,Foggy Day
+Fog and Rain Day,Fog and Rain Day
+Raining Day,Raining Day
+Overcast Dusk,Overcast Dusk
+Raining Dusk,Raining Dusk
+Fog and Rain Dusk,Fog and Rain Dusk
+Foggy Dusk,Foggy Dusk
+Overcast Night,Overcast Night
+Raining Night,Raining Night
+Fog and Rain Night,Fog and Rain Night
+Foggy Night,Foggy Night
+#Crafting,#Crafting
+{ITEM} ,{ITEM} 
 Recipes,Recipes
 Workstation,Workstation
 Craft,Craft
@@ -53,22 +83,218 @@ Clear,Clear
 You currently don't have any recepies to add to the crafting table,You currently don't have any recipes to add to the crafting table
 Try experimenting with ingredients or look for recipes in the world,Try experimenting with ingredients or look for recipes in the world
 An unknown recipe,An unknown recipe
-POTION OF STRENGTH RECIPE,POTION OF STRENGTH RECIPE
 "To craft items, you must add ingredients to the crafting grid","To craft items, you must add ingredients to the crafting grid"
 Do this by double-clicking on ingredients from your inventory,Do this by double-clicking on ingredients from your inventory
 Clicking a recipe to view ingredients required,Clicking a recipe to view ingredients required
 Green recipes are available,Green recipes are available
 No crafting ingredients added!,No crafting ingredients added!
 This is not a valid recipe!,This is not a valid recipe!
+2d6 +,2d6 +
+crafting,crafting
+Crafted 1 {ITEM},Crafted 1 {ITEM}
+Crafted 2 {ITEM},Crafted 2 {ITEM}
+#Skill Checks,#Skill Checks
+STATIC TEST,STATIC TEST
 DICE ROLL TEST,DICE ROLL TEST
 Roll Dice,Roll Dice
 + 2d6,+ 2d7
 must roll,must roll
 or above on 2d6 to succeed on this,or above on 2d6 to succeed on this
+AGILITY vs,AGILITY vs
+FORTITUDE vs,FORTITUDE vs
+INTELLECT vs,INTELLECT vs
+PRESENCE vs,PRESENCE vs
+STRENGTH vs,STRENGTH vs
+ATHLETICS vs,ATHLETICS vs
+AWARENESS vs,AWARENESS vs
+CRAFTING vs,CRAFTING vs
+DIPLOMACY vs,DIPLOMACY vs
+HEALING vs,HEALING vs
+LORE vs,LORE vs
+STEALTH vs,STEALTH vs
+SURVIVAL vs,SURVIVAL vs
+THIEVERY vs,THIEVERY vs
+{PLAYER} has a AGILITY score of,{PLAYER} has a AGILITY score of
+{PLAYER} only has a AGILITY score of,{PLAYER} only has a AGILITY score of
+{PLAYER} has a FORTITUDE score of,{PLAYER} has a FORTITUDE score of
+{PLAYER} only has a FORTITUDE score of,{PLAYER} only has a FORTITUDE score of
+{PLAYER} has a INTELLECT score of,{PLAYER} has a INTELLECT score of
+{PLAYER} only has a INTELLECT score of,{PLAYER} only has a INTELLECT score of
+{PLAYER} has a PRESENCE score of,{PLAYER} has a PRESENCE score of
+{PLAYER} only has a PRESENCE score of,{PLAYER} only has a PRESENCE score of
+{PLAYER} has a STRENGTH score of,{PLAYER} has a STRENGTH score of
+{PLAYER} only has a STRENGTH score of,{PLAYER} only has a STRENGTH score of
+{PLAYER} has a ATHLETICS score of,{PLAYER} has a ATHLETICS score of
+{PLAYER} only has a ATHLETICS score of,{PLAYER} only has a ATHLETICS score of
+{PLAYER} has a AWARENESS score of,{PLAYER} has a AWARENESS score of
+{PLAYER} only has a AWARENESS score of,{PLAYER} only has a AWARENESS score of
+{PLAYER} has a CRAFTING score of,{PLAYER} has a CRAFTING score of
+{PLAYER} only has a CRAFTING score of,{PLAYER} only has a CRAFTING score of
+{PLAYER} has a DIPLOMACY score of,{PLAYER} has a DIPLOMACY score of
+{PLAYER} only has a DIPLOMACY score of,{PLAYER} only has a DIPLOMACY score of
+{PLAYER} has a HEALING score of,{PLAYER} has a HEALING score of
+{PLAYER} only has a HEALING score of,{PLAYER} only has a HEALING score of
+{PLAYER} has a LORE score of,{PLAYER} has a LORE score of
+{PLAYER} only has a LORE score of,{PLAYER} only has a LORE score of
+{PLAYER} has a STEALTH score of,{PLAYER} has a STEALTH score of
+{PLAYER} only has a STEALTH score of,{PLAYER} only has a STEALTH score of
+{PLAYER} has a SURVIVAL score of,{PLAYER} has a SURVIVAL score of
+{PLAYER} only has a SURVIVAL score of,{PLAYER} only has a SURVIVAL score of
+{PLAYER} has a THIEVERY score of,{PLAYER} has a THIEVERY score of
+{PLAYER} only has a THIEVERY score of,{PLAYER} only has a THIEVERY score of
+vs Difficulty,vs Difficulty
+Athletics (,Athletics (
+Awareness (,Awareness (
+Crafting (,Crafting (
+Diplomacy (,Diplomacy (
+Healing (,Healing (
+Lore (,Lore (
+Stealth (,Stealth (
+Survival (,Survival (
+Thievery (,Thievery (
+beats Difficulty (,beats Difficulty (
+ATHLETICS 4+,ATHLETICS 4+
+ATHLETICS 5+,ATHLETICS 5+
+ATHLETICS 6+,ATHLETICS 6+
+ATHLETICS 7+,ATHLETICS 7+
+ATHLETICS 8+,ATHLETICS 8+
+ATHLETICS 9+,ATHLETICS 9+
+ATHLETICS 10+,ATHLETICS 10+
+AWARENESS 4+,AWARENESS 4+
+AWARENESS 5+,AWARENESS 5+
+AWARENESS 6+,AWARENESS 6+
+AWARENESS 7+,AWARENESS 7+
+AWARENESS 8+,AWARENESS 8+
+AWARENESS 9+,AWARENESS 9+
+AWARENESS 10+,AWARENESS 10+
+CRAFTING 4+,CRAFTING 4+
+CRAFTING 5+,CRAFTING 5+
+CRAFTING 6+,CRAFTING 6+
+CRAFTING 7+,CRAFTING 7+
+CRAFTING 8+,CRAFTING 8+
+CRAFTING 9+,CRAFTING 9+
+CRAFTING 10+,CRAFTING 10+
+DIPLOMACY 4+,DIPLOMACY 4+
+DIPLOMACY 5+,DIPLOMACY 5+
+DIPLOMACY 6+,DIPLOMACY 6+
+DIPLOMACY 7+,DIPLOMACY 7+
+DIPLOMACY 8+,DIPLOMACY 8+
+DIPLOMACY 9+,DIPLOMACY 9+
+DIPLOMACY 10+,DIPLOMACY 10+
+HEALING 4+,HEALING 4+
+HEALING 5+,HEALING 5+
+HEALING 6+,HEALING 6+
+HEALING 7+,HEALING 7+
+HEALING 8+,HEALING 8+
+HEALING 9+,HEALING 9+
+HEALING 10+,HEALING 10+
+LORE 4+,LORE 4+
+LORE 5+,LORE 5+
+LORE 6+,LORE 6+
+LORE 7+,LORE 7+
+LORE 8+,LORE 8+
+LORE 9+,LORE 9+
+LORE 10+,LORE 10+
+STEALTH 4+,STEALTH 4+
+STEALTH 5+,STEALTH 5+
+STEALTH 6+,STEALTH 6+
+STEALTH 7+,STEALTH 7+
+STEALTH 8+,STEALTH 8+
+STEALTH 9+,STEALTH 9+
+STEALTH 10+,STEALTH 10+
+SURVIVAL 4+,SURVIVAL 4+
+SURVIVAL 5+,SURVIVAL 5+
+SURVIVAL 6+,SURVIVAL 6+
+SURVIVAL 7+,SURVIVAL 7+
+SURVIVAL 8+,SURVIVAL 8+
+SURVIVAL 9+,SURVIVAL 9+
+SURVIVAL 10+,SURVIVAL 10+
+THIEVERY 4+,THIEVERY 4+
+THIEVERY 5+,THIEVERY 5+
+THIEVERY 6+,THIEVERY 6+
+THIEVERY 7+,THIEVERY 7+
+THIEVERY 8+,THIEVERY 8+
+THIEVERY 9+,THIEVERY 9+
+THIEVERY 10+,THIEVERY 10+
+A ATHLETICS score of 4 or higher is required to succeed,An ATHLETICS score of 4 or higher is required to succeed
+A ATHLETICS score of 5 or higher is required to succeed,An ATHLETICS score of 5 or higher is required to succeed
+A ATHLETICS score of 6 or higher is required to succeed,An ATHLETICS score of 6 or higher is required to succeed
+A ATHLETICS score of 7 or higher is required to succeed,An ATHLETICS score of 7 or higher is required to succeed
+A ATHLETICS score of 8 or higher is required to succeed,An ATHLETICS score of 8 or higher is required to succeed
+A ATHLETICS score of 9 or higher is required to succeed,An ATHLETICS score of 9 or higher is required to succeed
+A ATHLETICS score of 10 or higher is required to succeed,An ATHLETICS score of 10 or higher is required to succeed
+A AWARENESS score of 4 or higher is required to succeed,An AWARENESS score of 4 or higher is required to succeed
+A AWARENESS score of 5 or higher is required to succeed,An AWARENESS score of 5 or higher is required to succeed
+A AWARENESS score of 6 or higher is required to succeed,An AWARENESS score of 6 or higher is required to succeed
+A AWARENESS score of 7 or higher is required to succeed,An AWARENESS score of 7 or higher is required to succeed
+A AWARENESS score of 8 or higher is required to succeed,An AWARENESS score of 8 or higher is required to succeed
+A AWARENESS score of 9 or higher is required to succeed,An AWARENESS score of 9 or higher is required to succeed
+A AWARENESS score of 10 or higher is required to succeed,An AWARENESS score of 10 or higher is required to succeed
+A CRAFTING score of 4 or higher is required to succeed,A CRAFTING score of 4 or higher is required to succeed
+A CRAFTING score of 5 or higher is required to succeed,A CRAFTING score of 5 or higher is required to succeed
+A CRAFTING score of 6 or higher is required to succeed,A CRAFTING score of 6 or higher is required to succeed
+A CRAFTING score of 7 or higher is required to succeed,A CRAFTING score of 7 or higher is required to succeed
+A CRAFTING score of 8 or higher is required to succeed,A CRAFTING score of 8 or higher is required to succeed
+A CRAFTING score of 9 or higher is required to succeed,A CRAFTING score of 9 or higher is required to succeed
+A CRAFTING score of 10 or higher is required to succeed,A CRAFTING score of 10 or higher is required to succeed
+A DIPLOMACY score of 4 or higher is required to succeed,A DIPLOMACY score of 4 or higher is required to succeed
+A DIPLOMACY score of 5 or higher is required to succeed,A DIPLOMACY score of 5 or higher is required to succeed
+A DIPLOMACY score of 6 or higher is required to succeed,A DIPLOMACY score of 6 or higher is required to succeed
+A DIPLOMACY score of 7 or higher is required to succeed,A DIPLOMACY score of 7 or higher is required to succeed
+A DIPLOMACY score of 8 or higher is required to succeed,A DIPLOMACY score of 8 or higher is required to succeed
+A DIPLOMACY score of 9 or higher is required to succeed,A DIPLOMACY score of 9 or higher is required to succeed
+A DIPLOMACY score of 10 or higher is required to succeed,A DIPLOMACY score of 10 or higher is required to succeed
+A HEALING score of 4 or higher is required to succeed,A HEALING score of 4 or higher is required to succeed
+A HEALING score of 5 or higher is required to succeed,A HEALING score of 5 or higher is required to succeed
+A HEALING score of 6 or higher is required to succeed,A HEALING score of 6 or higher is required to succeed
+A HEALING score of 7 or higher is required to succeed,A HEALING score of 7 or higher is required to succeed
+A HEALING score of 8 or higher is required to succeed,A HEALING score of 8 or higher is required to succeed
+A HEALING score of 9 or higher is required to succeed,A HEALING score of 9 or higher is required to succeed
+A HEALING score of 10 or higher is required to succeed,A HEALING score of 10 or higher is required to succeed
+A LORE score of 4 or higher is required to succeed,A LORE score of 4 or higher is required to succeed
+A LORE score of 5 or higher is required to succeed,A LORE score of 5 or higher is required to succeed
+A LORE score of 6 or higher is required to succeed,A LORE score of 6 or higher is required to succeed
+A LORE score of 7 or higher is required to succeed,A LORE score of 7 or higher is required to succeed
+A LORE score of 8 or higher is required to succeed,A LORE score of 8 or higher is required to succeed
+A LORE score of 9 or higher is required to succeed,A LORE score of 9 or higher is required to succeed
+A LORE score of 10 or higher is required to succeed,A LORE score of 10 or higher is required to succeed
+A STEALTH score of 4 or higher is required to succeed,A STEALTH score of 4 or higher is required to succeed
+A STEALTH score of 5 or higher is required to succeed,A STEALTH score of 5 or higher is required to succeed
+A STEALTH score of 6 or higher is required to succeed,A STEALTH score of 6 or higher is required to succeed
+A STEALTH score of 7 or higher is required to succeed,A STEALTH score of 7 or higher is required to succeed
+A STEALTH score of 8 or higher is required to succeed,A STEALTH score of 8 or higher is required to succeed
+A STEALTH score of 9 or higher is required to succeed,A STEALTH score of 9 or higher is required to succeed
+A STEALTH score of 10 or higher is required to succeed,A STEALTH score of 10 or higher is required to succeed
+A SURVIVAL score of 4 or higher is required to succeed,A SURVIVAL score of 4 or higher is required to succeed
+A SURVIVAL score of 5 or higher is required to succeed,A SURVIVAL score of 5 or higher is required to succeed
+A SURVIVAL score of 6 or higher is required to succeed,A SURVIVAL score of 6 or higher is required to succeed
+A SURVIVAL score of 7 or higher is required to succeed,A SURVIVAL score of 7 or higher is required to succeed
+A SURVIVAL score of 8 or higher is required to succeed,A SURVIVAL score of 8 or higher is required to succeed
+A SURVIVAL score of 9 or higher is required to succeed,A SURVIVAL score of 9 or higher is required to succeed
+A SURVIVAL score of 10 or higher is required to succeed,A SURVIVAL score of 10 or higher is required to succeed
+A THIEVERY score of 4 or higher is required to succeed,A THIEVERY score of 4 or higher is required to succeed
+A THIEVERY score of 5 or higher is required to succeed,A THIEVERY score of 5 or higher is required to succeed
+A THIEVERY score of 6 or higher is required to succeed,A THIEVERY score of 6 or higher is required to succeed
+A THIEVERY score of 7 or higher is required to succeed,A THIEVERY score of 7 or higher is required to succeed
+A THIEVERY score of 8 or higher is required to succeed,A THIEVERY score of 8 or higher is required to succeed
+A THIEVERY score of 9 or higher is required to succeed,A THIEVERY score of 9 or higher is required to succeed
+A THIEVERY score of 10 or higher is required to succeed,A THIEVERY score of 10 or higher is required to succeed
+FAIL,FAIL
+this skill check due to having low skill Score versus the Difficulty,this skill check due to having low skill Score versus the Difficulty
+will automatically,will automatically
+SUCCEED,SUCCEED
+this skill check due to having high Skill Score versus the Difficulty,this skill check due to having high skill Score versus the Difficulty
 skill check!,skill check!
+#Misc,#Misc
 Pick,Pick
 Force,Force
+Locked,Locked
+A sturdy wooden chest. (,A sturdy wooden chest. (
 Pick or force the lock until its HP reaches zero,Pick or force the lock until its HP reaches zero
+Not Pickable,Not Pickable
+This lock cannot be picked!,This lock cannot be picked!
+is too hurt to force a lock,is too hurt to force a lock
+The web of some giant arachnid. (,The web of some giant arachnid. (
 Party has,Party has
 You cannot rest anywhere in this area,You cannot rest anywhere in this area
 You must look for a suitable camp-site elsewhere,You must look for a suitable camp-site elsewhere
@@ -88,12 +314,10 @@ Consumed 1 {ITEM},Consumed 1 {ITEM}
 You add {ITEM} to your party,You add {ITEM} to your party
 Removes Conditions with Tag: #{ITEM},Removes Conditions with Tag: #{ITEM}
 Consumed,Consumed
-The party does not have a lightsource to equip,The party does not have a lightsource to equip
+The party does not have a lightsource to equip,The party does not have a light source to equip
 Find a lantern!,Find a lantern!
 Restores {ITEM} (+{ITEM},Restores {ITEM} (+{ITEM}
 Heals {ITEM} (+{ITEM},Heals {ITEM} (+{ITEM}
-View Inventory,View Inventory
-View the Journal,View the Journal
 {ITEM} ended,{ITEM} ended
 Added some items to inventory!,Added some items to inventory!
 Updated Journal,Updated Journal
@@ -102,9 +326,10 @@ Adds Condition,Adds Condition
 Faction is {ITEM},Faction is {ITEM}
 NEUTERAL,NEUTRAL
 You created,You created
-Main quests that have not yet been completed,Main quests that have not yet been completed
 FAILURE,FAILURE
 You have been found wanting,You have been found wanting
+) + Static Bonus (,) + Static Bonus (
+does not beat Difficulty (,does not beat Difficulty (
 does not beat Difficulty,does not beat Difficulty
 SNEAKING,SNEAKING
 Status,Status
@@ -114,19 +339,282 @@ Unsafe,Unsafe
 Unlocked,Unlocked
 Loot the corpses of your enemies!,Loot the corpses of your enemies!
 Read,Read
-Raining Night,Raining Night
-You have died - The Dragon awakens,You have died - The Dragon awakens...
+You have died - The Dragon awakens,You have died - the Dragon awakens..
 Reload a previous save or restart the game!,Reload a previous save or restart the game!
-Game too difficult?,Finding the game too difficult?
-You can set the Difficulty in Settings -> Difficulty,"You can adjust Difficulty parameters in the Settings menu, under Difficulty"
+Game too difficult,Finding the game too difficult
+You can set the Difficulty in Settings -> Difficulty,"You can adjust Difficulty parameters in the Settings menu, under Difficulty."
 Load Last Save,Load Last Save
 Load Other Save,Load Other Save
 Restart Game,Restart Game
 Game Over!,Game Over!
-{PLAYER} does not have Thieves Tools!,{PLAYER} does not have Thieves Tools!
+You have died - The Dragon awakens,You have died - The Dragon awakens
+Reload a previous save or restart the game!,Reload a previous save or restart the game!
+Game too difficult?,Finding the game too difficult?
+You can set the Difficulty in Settings -> Difficulty,You can set the Difficulty in Settings -> Difficulty
+Load Last Save,Load Last Save
+Load Other Save,Load Other Save
+Restart Game,Restart Game
+Game Over!,Game Over!
+{PLAYER} does not have Thieves Tools!,{PLAYER} does not have Thieves’ Tools!
 The adventure begins!,The adventure begins!
 You see,You see
 You must destribute all your attribute points before you can proceed!,You must distribute all your attribute points before proceeding!
-Can't be far now?,Can't be far now?
+Can't be far now,Can't be far now
 Name,Name
 New Recipe,New Recipe
+#Camping,#Camping
+Begin Rest,Begin Rest
+Manage Party,Manage Party
+Main Party,Main Party
+is now leading the party,is now leading the party
+Tonight's Meal,Tonight's Meal
+Party's Food,Party's Food
+Camp Followers,Camp Followers
+Click a party member to move them between your camp and your active party,Click a party member to move them between your camp and your active party
+ACTIVITY,ACTIVITY
+Activities,Activities
+Entertain,Entertain
+The character tries to lift their comrades' Spirits using their Diplomacy skill,The character tries to lift their comrades' Spirits using their Diplomacy skill
+Success adds the Motivated Condition to all party-members,Success adds the Motivated Condition to all party members
+Forage,Forage
+The character has a chance to find some extra food depending on their Survival skill,The character has a chance to find some extra food depending on their Survival skill
+The food found cannot be consumed until the next rest period,The food found cannot be consumed until the next rest period
+Train,Train
+The character attempts to instruct the party using their Lore skill,The character attempts to instruct the party using their Lore skill
+Success gives a small XP reward,Success gives a small XP reward
+Fletch,Fletch
+The character has a chance to create a small number of Hunting Arrows depending on their Crafting skill,The character has a chance to create a small number of Hunting Arrows depending on their Crafting skill
+Camp activities begin,Camp activities begin
+{PLAYER} is too heavily wounded to work,{PLAYER} is too heavily wounded to work
+Kat is too heavily wounded to work,Kat is too heavily wounded to work
+Roland is too heavily wounded to work,Roland is too heavily wounded to work
+Driina is too heavily wounded to work,Driina is too heavily wounded to work
+Iben is too heavily wounded to work,Iben is too heavily wounded to work
+Embla is too heavily wounded to work,Embla is too heavily wounded to work
+{PLAYER} must roll,{PLAYER} must roll
+Kat must roll,Kat must roll
+Roland must roll,Roland must roll
+Driina must roll,Driina must roll
+Iben must roll,Iben must roll
+Iago must roll,Iago must roll
+Embla must roll,Embla must roll
+Kat successfully entertained their companions!,Kat successfully entertained their companions!
+Roland successfully entertained their companions!,Roland successfully entertained their companions!
+Driina successfully entertained their companions!,Driina successfully entertained their companions!
+Iben successfully entertained their companions!,Iben successfully entertained their companions!
+Embla successfully entertained their companions!,Embla successfully entertained their companions!
+{PLAYER} found,{PLAYER} found
+Kat found,Kat found
+Roland found,Roland found
+Driina found,Driina found
+Iben found,Iben found
+Embla found,Embla found
+ration!,ration!
+Kat fletched,Kat fletched
+Roland fletched,Roland fletched
+Driina fletched,Driina fletched
+Iben fletched,Iben fletched
+Embla fletched,Embla fletched
+arrow!,arrow!
+arrows!,arrows!
+Z,Z
+Z z,Z z
+Z z Z,Z z Z
+"The party was well-fed and rested 8 hours, recovering fully","The party was well-fed and rested 8 hours, recovering fully"
+The party rested 8 hours and recovered partially,The party rested 8 hours and recovered partially
+You rest for 8 hours,You rest for 8 hours
+"Taking a running start, you leap","Taking a running start, you leap"
+You make it and fall heavily into a roll as you land,You make it and fall heavily into a roll as you land
+Fix Rope,Fix Rope
+You are swept off by the waterfall!,You are swept off by the waterfall!
+You use the shovel to dig in the ground a bit but you don't find anything!,"You use the shovel to dig in the ground a bit, but you don't find anything…"
+You use the shovel to dig in the ground a bit and you find somehing!,You use the shovel to dig in the ground a bit - and you find something!
+Hire,Hire
+A mercenary is a blank character that you get to create from scratch and add to your party,A mercenary is a blank character that you get to create from scratch and add to your party
+This portcullis is closed,This portcullis is closed
+"Perhaps there is an opening mechanism nearby, inside the city",It would be counterproductive for the opening mechanism to be outside the city walls.
+This is one of the entrances to the inn,This is one of the entrances to the inn
+"The door, however, is barricaded from the inside and there is no way of opening it from where you’re currently standing",The door is barricaded fast from within; there is no way of opening it from where you’re currently standing
+Perhaps there is another way in,Perhaps there is another way in
+Perhaps there is an opening mechanism nearby,Perhaps there is an opening mechanism nearby
+The main portcullis gate has been opened,The main portcullis gate has been opened
+Using the stack of boxes you can reach the rope and try to climb the wall,"Using the stack of boxes, you can reach the rope and try to climb the wall"
+You scale the wall,You scale the wall
+"Using the rope, you can descend the wall","Using the rope, you can descend the wall"
+You manage to descend the wall,You manage to descend the wall
+The portcullis gate to the harbor has been opened,The portcullis gate to the harbour has been opened
+You're Encumbered and cannot move!,You're Encumbered and cannot move!
+A sudden draft catches your attention,A sudden draft catches your attention
+It cuts across your path in a way that seems unnatural considering the architecture of the area,It cuts across your path in a way that seems unnatural considering the architecture of the area
+This gate must be the main exit from the keep,This gate must be the main exit from the keep
+It’s currently locked with a key nowhere in sight,It’s currently locked with a key nowhere in sight
+This means you're carrying more weight than your current Strength score allows,This means you're carrying more weight than your current Strength score allows
+You need to drop some items or find a way to raise your Strength,You need to drop some items or find a way to raise your Strength
+The party is encumbered and cannot move!,The party is encumbered and cannot move!
+Do you wish to hire this mercenary for 300 gold,Do you wish to hire this mercenary for 300 gold
+Do you wish to hire this mercenary for 400 gold,Do you wish to hire this mercenary for 400 gold
+Do you wish to hire this mercenary for 500 gold,Do you wish to hire this mercenary for 500 gold
+Do you wish to hire this mercenary for 1000 gold,Do you wish to hire this mercenary for 1000 gold
+Do you wish to hire this mercenary for 1500 gold,Do you wish to hire this mercenary for 1500 gold
+A mercenary is a blank character that you get to create from scratch and add to your party,"A mercenary is a blank character, created from scratch, that you get to add as a permanent addition to your party"
+Items Worn,Items Worn
+Party Inventory,Party Inventory
+To Hit,To Hit
+Damage,Damage
+Encumb,Encumb
+Equip,Equip
+#Feat Learning,#Feat Learning
+{PLAYER} reaches Level,{PLAYER} reaches Level
+You cannot Exit this screen while you have unsaved Development Points placed in Feats,You cannot Exit this screen while you have unsaved Development Points placed in Feats
+Click,Click
+SAVE AND EXIT,SAVE AND EXIT
+or,or
+"To gain spellcasting abilities, you must purchase ranks in the relevant (violet","To access a spellcasting ability, you must purchase all ranks in the relevant (cyan"
+Feat-tree,Magic Spirit Tier
+More spells can be learned by studying spell-tomes that you acquire as you adventure,"Spell tomes, acquired as you adventure, can also be learned from; but you must be of the proper rank"
+You must select 2 spells before proceeding!,You must select 2 spells before proceeding!
+Learn 2 new spells from the Bardic Magic School,Learn two new spells from the Bardic Magic School
+Learn 2 new spells from the Body Magic School,Learn two new spells from the Body Magic School
+Learn 2 new spells from the Mind Magic School,Learn two new spells from the Mind Magic School
+Learn 2 new spells from the Nature Magic School,Learn two new spells from the Nature Magic School
+Learn 2 new spells from the Spirit Magic School,Learn two new spells from the Spirit Magic School
+Learn 2 new spells from the Air Magic School,Learn two new spells from the Air Magic School
+Learn 2 new spells from the Earth Magic School,Learn two new spells from the Earth Magic School
+Learn 2 new spells from the Fire Magic School,Learn two new spells from the Fire Magic School
+Left-click to select spells Right-click to examine them,Left-click to (de)select spells; Right-click to examine them
+You have selected the required spells and can proceed!,You have selected the required spells and can proceed!
+Pick 1 new Bardic Magic School 1 spell to learn,Pick ONE new Bardic Magic School 1 spell to learn
+Pick 2 new Bardic Magic School 1 spells to learn,Pick TWO new Bardic Magic School 1 spells to learn
+Pick 1 new Bardic Magic School 2 spell to learn,Pick ONE new Bardic Magic School 2 spell to learn
+Pick 2 new Bardic Magic School 2 spells to learn,Pick TWO new Bardic Magic School 2 spells to learn
+Pick 1 new Bardic Magic School 3 spell to learn,Pick ONE new Bardic Magic School 3 spell to learn
+Pick 2 new Bardic Magic School 3 spells to learn,Pick TWO new Bardic Magic School 3 spells to learn
+Pick 1 new Body Magic School 1 spell to learn,Pick ONE new Body Magic School 1 spell to learn
+Pick 2 new Body Magic School 1 spells to learn,Pick TWO new Body Magic School 1 spells to learn
+Pick 1 new Body Magic School 2 spell to learn,Pick ONE new Body Magic School 2 spell to learn
+Pick 2 new Body Magic School 2 spells to learn,Pick TWO new Body Magic School 2 spells to learn
+Pick 1 new Body Magic School 3 spell to learn,Pick ONE new Body Magic School 3 spell to learn
+Pick 2 new Body Magic School 3 spells to learn,Pick TWO new Body Magic School 3 spells to learn
+Pick 1 new Body Magic School 4 spell to learn,Pick ONE new Body Magic School 4 spell to learn
+Pick 2 new Body Magic School 4 spells to learn,Pick TWO new Body Magic School 4 spells to learn
+Pick 1 new Mind Magic School 1 spell to learn,Pick ONE new Mind Magic School 1 spell to learn
+Pick 2 new Mind Magic School 1 spells to learn,Pick TWO new Mind Magic School 1 spells to learn
+Pick 1 new Mind Magic School 2 spell to learn,Pick ONE new Mind Magic School 2 spell to learn
+Pick 2 new Mind Magic School 2 spells to learn,Pick TWO new Mind Magic School 2 spells to learn
+Pick 1 new Mind Magic School 3 spell to learn,Pick ONE new Mind Magic School 3 spell to learn
+Pick 2 new Mind Magic School 3 spells to learn,Pick TWO new Mind Magic School 3 spells to learn
+Pick 1 new Mind Magic School 4 spell to learn,Pick ONE new Mind Magic School 4 spell to learn
+Pick 2 new Mind Magic School 4 spells to learn,Pick TWO new Mind Magic School 4 spells to learn
+Pick 1 new Nature Magic School 1 spell to learn,Pick ONE new Nature Magic School 1 spell to learn
+Pick 2 new Nature Magic School 1 spells to learn,Pick TWO new Nature Magic School 1 spells to learn
+Pick 1 new Nature Magic School 2 spell to learn,Pick ONE new Nature Magic School 2 spell to learn
+Pick 2 new Nature Magic School 2 spells to learn,Pick TWO new Nature Magic School 2 spells to learn
+Pick 1 new Nature Magic School 3 spell to learn,Pick ONE new Nature Magic School 3 spell to learn
+Pick 2 new Nature Magic School 3 spells to learn,Pick TWO new Nature Magic School 3 spells to learn
+Pick 1 new Nature Magic School 4 spell to learn,Pick ONE new Nature Magic School 4 spell to learn
+Pick 2 new Nature Magic School 4 spells to learn,Pick TWO new Nature Magic School 4 spells to learn
+Pick 1 new Spirit Magic School 1 spell to learn,Pick ONE new Spirit Magic School 1 spell to learn
+Pick 2 new Spirit Magic School 1 spells to learn,Pick TWO new Spirit Magic School 1 spells to learn
+Pick 1 new Spirit Magic School 2 spell to learn,Pick ONE new Spirit Magic School 2 spell to learn
+Pick 2 new Spirit Magic School 2 spells to learn,Pick TWO new Spirit Magic School 2 spells to learn
+Pick 1 new Spirit Magic School 3 spell to learn,Pick ONE new Spirit Magic School 3 spell to learn
+Pick 2 new Spirit Magic School 3 spells to learn,Pick TWO new Spirit Magic School 3 spells to learn
+Pick 1 new Spirit Magic School 4 spell to learn,Pick ONE new Spirit Magic School 4 spell to learn
+Pick 2 new Spirit Magic School 4 spells to learn,Pick TWO new Spirit Magic School 4 spells to learn
+Pick 1 new Air Magic School 1 spell to learn,Pick ONE new Air Magic School 1 spell to learn
+Pick 2 new Air Magic School 1 spells to learn,Pick TWO new Air Magic School 1 spells to learn
+Pick 1 new Air Magic School 2 spell to learn,Pick ONE new Air Magic School 2 spell to learn
+Pick 2 new Air Magic School 2 spells to learn,Pick TWO new Air Magic School 2 spells to learn
+Pick 1 new Air Magic School 3 spell to learn,Pick ONE new Air Magic School 3 spell to learn
+Pick 2 new Air Magic School 3 spells to learn,Pick TWO new Air Magic School 3 spells to learn
+Pick 1 new Air Magic School 4 spell to learn,Pick ONE new Air Magic School 4 spell to learn
+Pick 2 new Air Magic School 4 spells to learn,Pick TWO new Air Magic School 4 spells to learn
+Pick 1 new Earth Magic School 1 spell to learn,Pick ONE new Earth Magic School 1 spell to learn
+Pick 2 new Earth Magic School 1 spells to learn,Pick TWO new Earth Magic School 1 spells to learn
+Pick 1 new Earth Magic School 2 spell to learn,Pick ONE new Earth Magic School 2 spell to learn
+Pick 2 new Earth Magic School 2 spells to learn,Pick TWO new Earth Magic School 2 spells to learn
+Pick 1 new Earth Magic School 3 spell to learn,Pick ONE new Earth Magic School 3 spell to learn
+Pick 2 new Earth Magic School 3 spells to learn,Pick TWO new Earth Magic School 3 spells to learn
+Pick 1 new Earth Magic School 4 spell to learn,Pick ONE new Earth Magic School 4 spell to learn
+Pick 2 new Earth Magic School 4 spells to learn,Pick TWO new Earth Magic School 4 spells to learn
+Pick 1 new Fire Magic School 1 spell to learn,Pick ONE new Fire Magic School 1 spell to learn
+Pick 2 new Fire Magic School 1 spells to learn,Pick TWO new Fire Magic School 1 spells to learn
+Pick 1 new Fire Magic School 2 spell to learn,Pick ONE new Fire Magic School 2 spell to learn
+Pick 2 new Fire Magic School 2 spells to learn,Pick TWO new Fire Magic School 2 spells to learn
+Pick 1 new Fire Magic School 3 spell to learn,Pick ONE new Fire Magic School 3 spell to learn
+Pick 2 new Fire Magic School 3 spells to learn,Pick TWO new Fire Magic School 3 spells to learn
+Pick 1 new Fire Magic School 4 spell to learn,Pick ONE new Fire Magic School 4 spell to learn
+Pick 2 new Fire Magic School 4 spells to learn,Pick TWO new Fire Magic School 4 spells to learn
+#Console,#Console
+Press TAB to exit or ESC to clear console,Press TAB to exit or ESC to clear console
+Some helpful commands,Some helpful commands
+heals the party fully - adds 1000 gold. - Wins any combat,heals the party fully. - adds 1000 gold. - Wins any combat
+#Vendor UI,#Vendor UI
+Buy,Buy
+Steal,Steal
+Vendor wants,Vendor wants
+Sell mult,Sell mult
+Buy mult,Buy mult
+Suspicion,Suspicion!
+Restocks in 5 days,Restocks in five days
+Restocks in 4 days,Restocks in four days
+Restocks in 3 days,Restocks in three days
+Restocks in 2 days,Restocks in two days
+Restocks in 1 days,Restocks in one day
+Sell,Sell one
+Sell Stack,Sell Entire Stack
+Vendor will pay you,Vendor will give you
+for this,for this
+Sold for,Sold for
+Sold {ITEM},Sold {ITEM}
+This item cannot be used like this,This item cannot be used like this
+This item can't be traded,This item can't be traded
+This item cannot be sold,This item cannot be sold
+This merchant will not buy stolen goods,This merchant will not buy stolen goods
+This item is not for sale,This item is not for sale
+"Gold, equipped items and quest items cannot be traded","Gold, equipped items, and quest items cannot be traded"
+Purchased {ITEM},Purchased {ITEM}
+You cannot afford this item,"You cannot afford this item, gold stocks are too low"
+Trying to steal {ITEM} from merchant,Trying to steal {ITEM} from merchant
+{PLAYER} stole {ITEM},{PLAYER} successfully stole {ITEM}
+Vendor's Suspicion increased by,Vendor's Suspicion rose by
+Failed to steal item!,Failure! The merchant caught you.
+This merchant no longer trusts you and refuses to trade,"After your failed attempt, the merchant considers you distrustful, and refuses your offer to trade"
+Try again later,"You will have to return later if you wish to trade once more, after matters have settled down"
+Vendor cannot afford this item,Vendor cannot afford this item
+Gold remaining - Item is worth,Gold remaining - Item is worth
+#Combat stuff,#Combat stuff
+Select a Spell to cast,Select a Spell to cast
+Select Ability!,Select Ability!
+Targets all allies,Targets all allies
+Click anywhere to use ability!,Click anywhere to use ability!
+Select a target for your Ability!,Select a target for your Ability!
+Select a target to use ability!,Select a target to use ability!
+Select a target for your SPELL!,Select a target for your SPELL!
+Backstab!,Backstab!
+Critical Backstab!!!,Critical Backstab!!!
+Targets all enemies,Targets all enemies
+Targets all allies,Targets all allies
+Click anywhere to use ability!,Click anywhere to use ability!
+Select a target for your Maneuver!,Select a target for your Manoeuvre!
+Characters cannot hold actions once they have begun acting,Characters cannot hold actions once they have begun acting
+#Ending Cutscene,#Ending Cutscene
+was a year of little note for the Empire,was a year of little note for the Empire
+Peace and stability reigned,Peace and stability reigned
+With one exception,With one exception
+The Outer Isles were lost,The Outer Isles were lost
+The event is extensively documented,The event is extensively documented
+The catastrophe was wholly natural albeit tragic,"The catastrophe was wholly natural, albeit tragic"
+The volcano Kataban awoke after millennia of dormancy,The volcano Kataban awoke after millennia of dormancy
+It is written that the plume of smoke could be seen from the mainland,"It is written that, “the plume of smoke could be seen from the mainland…”"
+But there were other rumors as well,But there were other rumours as well
+Sailors claim they saw a new star in the sky the night of Karaban’s eruption,Sailors claim they saw a new star in the sky the night of Karaban’s eruption
+Such rumors are naught but lies,Such rumours are naught but lies
+#Ending Screen,#Ending Screen
+"Let it be known that after much toil and hardship, {PLAYER} joins the illustrious ranks of the most holy order of the Persevering Blade","Let it be known that after much toil and hardship, {PLAYER} joins the illustrious ranks of the most holy order of the Persevering Blade"
+To be one of us is to have spat in the face of Death and Despair,To be one of us is to have spat in the face of Death and Despair
+It is to be one who forges ahead where lesser souls stand trembling,It is to be one who forges ahead where lesser souls stand trembling
+"Now, onward to glory!","Now, onward to glory!"
+You completed the game as a level {LEVEL?} {CLASS?} in {DAYS?} days,You completed the game as a level {LEVEL?} {CLASS?} in {DAYS?} days
+Report thine feat on Twitter to (a)SkaldRPG!,Report thine feat on Twitter to (a)SkaldRPG!
+AL,AL

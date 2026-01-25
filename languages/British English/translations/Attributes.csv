@@ -119,9 +119,9 @@ Hit Bonus - Axes,Hit Bonus - Axes
 Weapon Hit Bonuses are added to the To Hit roll when using weapons of the indicated type,Weapon Hit Bonuses are added to the To Hit roll when using weapons of the indicated type
 Hit Bonus - Bows,Hit Bonus - Bows
 Hit Bonus - Clubs,Hit Bonus - Clubs
-Hit Bonus - Heavy Weap,Hit Bonus - Heavy 
-Hit Bonus - Light Weap,Hit Bonus - Light 
-Hit Bonus - Medium Weap,Hit Bonus - Medium 
+Hit Bonus - Heavy Weap,Hit Bonus - Heavy
+Hit Bonus - Light Weap,Hit Bonus - Light
+Hit Bonus - Medium Weap,Hit Bonus - Medium
 Hit Bonus - Polearms,Hit Bonus - Polearms
 Hit Bonus - Blades,Hit Bonus - Blades
 Hit Bonus - Unarmed,Hit Bonus - Unarmed
@@ -135,7 +135,7 @@ Attunement refills fully when the character rests in a camp,Attunement fully ref
 Note that different classes use different root abilities for Attunement,N.B. Different classes use different Primary Stats when calculating their Attunement
 Magical Aptitude,Magical Aptitude
 MAGICAL APTITUDE,MAGICAL APTITUDE
-The Magical Aptitude score is added to the numerical value of spells such as the amount of damage dealt or vitality healed,"The Magical Aptitude score is added to the numerical value of spells, such as the  damage dealt or vitality healed"
+The Magical Aptitude score is added to the numerical value of spells such as the amount of damage dealt or vitality healed,"The Magical Aptitude score is added to the numerical value of spells, such as the damage dealt or vitality healed"
 Max Cascade,Max. Cascade
 MAX CASCADE,MAXIMUM CASCADE
 The maximum numbers of spells a spellcaster can cast in a single turn due to Cascade effects,Determines the highest number of Spells that can be cast in a single turn due to Cascade effects
@@ -143,7 +143,7 @@ Magic Schools,Magic Schools
 The Schools of Magic,The Schools of Magic
 The value of this attribute indicates the maximum tier of spell from that school the character may cast,The value of this attribute indicates the maximum tier of spell from that school the character may cast
 Aura Radius,Aura Radius
-"If non-zero, this number is added to the radius of your spells with Aura-shaped area of effects","If non-zero, this value is added to the radius of your spells with an Aura-shaped area of effect."
+"If non-zero, this number is added to the radius of your spells with Aura-shaped area of effects","If non-zero, this value is added to the radius of your spells with an Aura-shaped area of effect"
 Line Range,Line Range
 "If non-zero, this number is added to the width and length of your spells with Line- and Cone-shaped areas of effects","If non-zero, this value is added to the width and length of your spells with a Line- or Cone-shaped areas of effect"
 Sphere Radius,Sphere Radius
@@ -167,10 +167,10 @@ Spirit Magic School,Spirit Magic School
 The value of this attribute indicates the highest Spell Tier of Spirit magic spells you may cast,The value of this attribute indicates the highest Spell Tier of Spirit magic spells you may cast
 #PrimaryAttributes,#PrimaryAttributes
 Agility,Agility
-"A measure of hand-eye coordination, nimbleness and dexterity","A measure of hand-eye co-ordination, overall nimbleness and dexterity"
+"A measure of hand-eye coordination, nimbleness and dexterity","A measure of hand-eye co-ordination, overall nimbleness and dexterity."
 Describes how tough and resilient a character is,A measure of a character's toughness and physical resilience
 Intellect,Intellect
-"Mental acuity, recall and analytical skill","Mental acuity, recall and, analytical skill"
+"Mental acuity, recall and analytical skill","Mental acuity, recall, and analytical skill"
 Presence,Presence
 A character's ability to read and react to the surrounding environment and people,A character's ability to read and react to the surrounding environment and to people
 Strength,Strength
@@ -213,8 +213,8 @@ Vitality describes the amount of damage a character can take before becoming ser
 Vitality is fairly easily regained through the use of consumable items and spells,Vitality may be regained through the use of consumable items and spells
 Wounds,Wounds
 Wounds represent serious injury to the character,Wounds represent serious injuries sustained by the character
-"Wounds are much harder to recover for characters, typically requiring bed rest",#Skills
-#Skills,
+"Wounds are much harder to recover for characters, typically requiring bed rest","Once afflicted, Wounds cannot be recovered from easily, typically requiring a period of convalescence; bed rest"
+#Skills,#Skills
 Athletics,Athletics
 "Athletics are used to jump, climb, swim or sprint","Athletics is used to jump, climb, swim, or sprint"
 Awareness,Awareness
@@ -223,7 +223,7 @@ Crafting,Crafting
 Crafting is used when creating items at crafting stations,Crafting is used when creating items at crafting stations
 Diplomacy,Diplomacy
 "Diplomacy is used to lie, bargain or sway others in negotiations","Diplomacy is used in negotiations, bargaining, duplicity, and to generally convince others"
-It influences prices at merchants,It influences prices at merchants
+It influences prices at merchants,It influences prices at merchants.
 Healing,Healing
 Healing is used in camp to increase the rate of wound recovery for wounded characters,Healing is used in camp to increase the rate of Wound recovery
 It also influences the amount of vitality regained from healing potions and is used in dialogue tests when dealing with medical issues and such,It also influences the amount of vitality regained from healing potions and represents a characters medical knowledge and proficiency in dialogue tests

@@ -14,14 +14,14 @@ Armsmaster,Armsmaster
 The Armsmaster is a Warrior that does not have a specialized Feat Tree,The Armsmaster is a Warrior that does not have a specialised Feat Tree
 Instead the Armsmaster has access to all the combat-centered Feat Trees and they start with extra Development Points to represent their martial expertise,"Instead, the Armsmaster has access to all the combat-centred Feat Trees, and they start with extra Development Points to represent their martial expertise"
 Bard,Bard
-The Bard mixes the Rogue’s decent combat skills and high maneuverability with the use of arcane magic,The Bard mixes the Rogue’s combat skills and high manoeuvrability with the use of arcane magics
+The Bard mixes the Rogue’s decent combat skills and high maneuverability with the use of arcane magic,The Bard mixes the combat skills and manoeuvrability of a Rogue with the use of arcane magicks
 Battlemagos,Battlemagos
 The Battlemagos is a Magos specializing in the destructive spells of the Fire Magic School,The Battlemagos is a Magos specialising in the destructive spells of the Fire Magic School
-"Unlike other Magi, they also get access to a few basic combat-related Feats and may wear light armor","Unlike other Magi, they also get access to a few basic combat-related Feats and may wear light armor"
+"Unlike other Magi, they also get access to a few basic combat-related Feats and may wear light armor","Unlike other Magi, they also get access to a few basic combat-related Feats and may wear light armour"
 Berserker,Berserker
 Champion,Champion
 The Champion is a Cleric who excels in the use of blades and armor whilst still having limited divine spell-casting abilities,The Champion is a Cleric who excels in the use of blades and armour whilst still having limited divine spell-casting abilities
-Duelist,Duelist
+Duelist,Duellist
 Guild-Magos,Guild-Magos
 A Guild-Magos is a spellcaster who can develop all the different Arcane Spell Schools fully,A Guild-Magos is a spellcaster who can fully develop in all the Arcane Spell Schools
 This comes at the cost of having absolutely no combat related Feats,This comes at the cost of having absolutely no combat related Feats whatsoever
@@ -33,7 +33,7 @@ The Hospitaller is a Cleric who serves as a front line healer,The Hospitaller is
 Inquisitor,Inquisitor
 Officer,Officer
 The Officer is a skilled warrior who serves as a force multiplier through their tactical skills,The Officer is a skilled warrior who serves as a force multiplier through their tactical skills
-"Issuing orders across the battlefield, they vastly improve the performance of their fellow party-members","Issuing orders across the battlefield, they vastly improve the performance of their fellow party-members"
+"Issuing orders across the battlefield, they vastly improve the performance of their fellow party-members","Issuing orders across the battlefield, they vastly improve the performance of their fellow party members"
 Ranger,Ranger
 The Ranger is a Warrior specializing in ranged combat and with access to limited nature magic,The Ranger is a Warrior specialising in ranged combat and with access to limited nature magic
 Skald,Skald
@@ -52,7 +52,7 @@ Vermin,Vermin
 Resolute Beast,Resolute Beast
 Bravo,Bravo
 Brute,Brute
-"Magi are ranged strikers that can cast powerful, destructive ranged spells",The Magi are users of magic that casts powerful and often destructive spells from a distance
+"Magi are ranged strikers that can cast powerful, destructive ranged spells","Members of an order of Magicks, the Magi are users of magic that casts powerful and often destructive spells from a distance"
 Commoner,Commoner
 Laborer,Labourer
 Noble,Noble

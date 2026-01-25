@@ -1,12 +1,12 @@
 original,translate
-#Apperances,#Apperances
+#Apperances,#Appearances
 Carylla,Carylla
 #Difficulties,#Difficulties
 Narrative,Narrative
 Narrative mode is the difficulty for players who would like to experience the game’s story and setting with a minimum of focus on combat and grinding,Narrative mode is best suited for players primarily seeking to experience the game's story with combat being a secondary way to add flavour to the narrative
 Easy,Easy
-Easy mode is a great way for players who are new to this style of roleplaying game to experience Skald,Easy mode is best suited to beginners and newcomers to this style of roleplaying game who wish for a light introduction to its concepts through Skald
-Combat is forgiving and there should be little need to optimize character builds,"Combat should be relatively forgiving, with little need to optimise character builds and loadouts"
+Easy mode is a great way for players who are new to this style of roleplaying game to experience Skald,Easy mode is best suited to beginners and newcomers to this style of role-playing game who wish for a light introduction to its concepts through Skald
+Combat is forgiving and there should be little need to optimize character builds,"Combat should be relatively forgiving, with little need to optimise character builds and load-outs"
 Dice rolls are weighted in the player’s favor,Dice rolls are also weighted in the player’s favour
 Normal,Normal
 Normal mode is the game’s intended difficulty setting,"Normal mode is the default difficulty, and the intended way to experience Skald"
@@ -28,13 +28,15 @@ Devolved,Devolved
 "More beast than man, devolved troglodytes charge towards you!","More beast than man, devolved troglodytes charge towards you!"
 Flotsam,Flotsam
 You come across some flotsam,You come across some flotsam
+Avoid,Avoid
+You avoid the encounter,You avoid the encounter
 Giant Insects,Giant Insects
 Giant insects scurry towards you!,Giant insects scurry towards you!
 Giant insects swarm you!,Giant insects swarm you!
 White Hounds,White Hounds
 Foul slavering beasts barrel towards you!,Foul slavering beasts barrel towards you!
 Crabs,Crabs
-You're being swarmed by monsterously over-grown crabs!,You're being swarmed by monsterously over-grown crabs!
+You're being swarmed by monsterously over-grown crabs!,You're being swarmed by monstrously over-grown crabs!
 Rot Crabs,Rot Crabs
 Horribly changes crustaceans shamble towards you!,Horribly changed crustaceans shamble towards you!
 Spider Crabs,Spider-Crabs
@@ -77,6 +79,8 @@ Venom drips from snapping jaws as monstrously huge spiders swarm towards you,Ven
 The Frozen Dead,The Frozen Dead
 The restless corpses of those claimed by the frozen wastes shamble towards you,The restless corpses of those claimed by the frozen wastes shamble towards you
 #Factions,#Factions
+Factions,Factions
+Unaligned,Unaligned
 Village of Firgol,Village of Firgol
 Nautical Guild,Nautical Guild
 House Berryn,House Berryn
@@ -97,8 +101,8 @@ The air is laden with the scent of fruit and the laughter of children and the pa
 The Manor,The Manor
 The Mines,The Mines
 Adler's Helm,Adler's Helm
-Before you lies what appears to be closer to a fortified mining-camp than a town,Before you lies what appears to be closer to a fortified mining-camp than a town
-The most striking detail are the wrecks of abandoned ships that lie just outside the town’s harbor,The most striking detail are the wrecks of abandoned ships that lie just outside the town’s harbor
+Before you lies what appears to be closer to a fortified mining-camp than a town,Before you lies what appears to be closer to a fortified mining camp than a town
+The most striking detail are the wrecks of abandoned ships that lie just outside the town’s harbor,The most striking detail are the wrecks of abandoned ships that lie just outside the harbour
 Horryn,Horryn
 The Underhalls,The Underhalls
 Horryn Castle,Horryn Castle
@@ -112,11 +116,11 @@ Walls of Horryn,Walls of Horryn
 The Coastal Pass,The Coastal Pass
 The Deep Forest,The Deep Forest
 "Besides the buzzing of insects and croaking of toads, the forest is disconcertingly quiet","Besides the buzzing of insects and croaking of toads, the forest is disconcertingly quiet"
-The foliage seems to thin slightly in this area and to the north-east you can make out a faint wisp of smoke rising from a chimney,The foliage seems to thin slightly in this area and to the northeast you can make out a faint wisp of smoke rising from a lone chimney
-"The foliage does however, seem to thin slightly in this area and to the north-east you can make out a faint wisp of smoke rising from a chimney","The foliage does, however, seem to thin slightly in this area; to the northeast you can make out a faint wisp of smoke rising from a lone chimney"
+The foliage seems to thin slightly in this area and to the north-east you can make out a faint wisp of smoke rising from a chimney,The foliage seems to thin slightly in this area and to the north-east you can make out a faint wisp of smoke rising from a lone chimney
+"The foliage does however, seem to thin slightly in this area and to the north-east you can make out a faint wisp of smoke rising from a chimney","The foliage does, however, seem to thin slightly in this area; to the north-east you can make out a faint wisp of smoke rising from a lone chimney"
 Forest Caves,Forest Caves
 The Hidden Glen,The Hidden Glen
-A hidden glen nestled between two mountains,A hidden glen nestled between two mountains
+A hidden glen nestled between two mountains,A hidden is glen nestled between two mountains
 "Had you not known to look for it, you would have easily missed it","Had you not known where to look, it would have been easily overlooked"
 Shores of Idra,Shores of Idra
 Ahead of you lies the windswept shore where you landed on Idra and the abandoned farmsteam,"Ahead of you lies the windswept shore where you landed on Idra, with its abandoned farmstead"
@@ -127,7 +131,7 @@ An ancient lighthouse rises steeply from the bluffs ahead of you,An ancient ligh
 Under the Lighthouse,Under the Lighthouse
 Lighthouse,Lighthouse
 Refugee Camp,Refugee Camp
-"Before you, the unmistakable mess, squalor and desperation of a refugee camp sprawls around a small farmstead like a festering wound","Before you, the unmistakable mess, squalor and desperation of a refugee camp sprawls around a small farmstead like a festering wound"
+"Before you, the unmistakable mess, squalor and desperation of a refugee camp sprawls around a small farmstead like a festering wound","Before you the unmistakable mess, squalor, and desperation of a refugee camp sprawls around a small farmstead like a festering wound"
 Coastal Road,Coastal Road
 Sea-Caves,Sea-Caves
 "A huge sea-cave, created by eons of the sea’s relentless attack on the rock, gapes in the cliffs ahead","A huge sea-cave, created by eons of the sea’s relentless attack on the rock, gapes in the cliffs ahead"
@@ -144,7 +148,7 @@ Excavation Site,Excavation Site
 Priory Crypt,Priory Crypt
 The Black Priory,The Black Priory
 A grim edifice rises from the wastelands,A grim edifice rises from the wastelands
-"Its walls are weatherbeaten and its empty windows glare at you like dead, black eyes","Its walls are weatherbeaten and its empty windows glare at you like dead, black eyes"
+"Its walls are weatherbeaten and its empty windows glare at you like dead, black eyes","Its walls are weather-beaten and its empty windows glare at you like dead, black eyes"
 "Abandoned as it may seem, there is nevertheless some siren call that bids you venture inside… and below","Abandoned as it may seem, there is nevertheless some siren call that bids you venture inside… and below"
 The Eternity Gate,The Eternity Gate
 Forest,Forest
@@ -156,6 +160,7 @@ Shore,Shore
 Tundra,Tundra
 Ship's Deck,Ship's Deck
 Zephyr's Hold,Zephyr's Hold
+Low Hills,Low Hills
 Zephyr's Lower Deck,Zephyr's Lower Deck
 The Wreck,The Wreck
 Shrine of Agility,Shrine of Agility
@@ -182,7 +187,7 @@ Quartermaster,Quartermaster
 Welcome!,"Welcome, welcome!"
 Have a seat!,"Please, have a seat!"
 I'll be with you in a moment!,I'll be with you in a moment!
-Hi there!,Ello there!
+Hi there!,'Ello there!
 Hic,Hic
 I'm cold,so... cold
 Spare a coin?,A coin for the infirm?
@@ -192,6 +197,21 @@ Should you be here?,Should you be here?
 Don't tell me you've an audience?,Don't tell me you've an audience?
 "Charmed, I'm sure","Charmed, I'm sure"
 Hm?,Hm?
+Woof,Ruff-ruff
+You pet the dog,You pet the dog
+Ho!,Ho!
+Come here!,Come here!
+Come here whelp!,"Come here, whelp!"
+Do I hear chanting up ahead?,Do I hear chanting up ahead?
+Got work for me?,Got work for me?
+Come hither,Come hither
+I have no time for talk right now!,I have no time for talk right now!
+Talk to the chamberlain if you need something,Talk to the Chamberlain if you need something
+Bloody vermin!,Bloody vermin!
+Oh my poor boy,"Oh, my poor boy…"
+I've too much on my mind right now,I've too much on my mind right now
+Sigh,Sigh
+We have nothing more to talk about,We have nothing more to talk about
 There are mercenaries on the island that don't belong here,There are mercenaries on the island that don't belong here
 Rumors have it they are encamped on the Priory grounds,Rumours have it they are encamped on the Priory grounds
 I have no idea why they're here but they have to have something to do with what's happening,I have no idea why they're here but they have to have something to do with what's happening
@@ -252,8 +272,8 @@ I'm afraid!,I'm afraid!
 I want my mommy!,I want my mummy!
 I can't wait for Carnivale!,I can't wait for Carnivale!
 I'm so excited!,I'm so excited!
-I'm going to eat so much cake!,I'm going to eat cake 'till I pop!
-Tihi!,Tihi!
+I'm going to eat so much cake!,I'm going to eat cake till I pop!
+Tihi!,Teehee!
 Are you going to Carnivale?,Are you going to the Carnivale?
 Wanna play?,Hi! Wanna play?
 Is it Carnivale now?,Is it the Carnivale yet?
@@ -266,12 +286,12 @@ Wee!,Wee!
 Carnivale!,Carnivale!
 I want more cake!,I want more cake!
 Honey-cake is the best!,Honey-cake is the best!
-Greetings m'lord,Greetings m'lord
-Greetings m'lady,Greetings m'lady
-Hello,Ullo
+Greetings m'lord,"Greetings, m'lord"
+Greetings m'lady,"Greetings, m'lady"
+Hello,’Ullo
 I'm excited for the Carnivale,I'm excited for the Carnivale
 The Baron is a good man!,The Baron is a good man!
-Have you tried the local cider?,Have you tried the local cider?
+Have you tried the local cider,Have you tried the local cider
 Firgol is such a peaceful place,Firgol is such a peaceful place
 You saved us!,You saved us!
 What happened?,What happened?
@@ -302,12 +322,40 @@ No funny business!,No funny business!
 Hmm?,Hmm?
 It’s good to have the Captain back!,It’s good to have the Captain back!
 I wonder what happened to the Captain?,I wonder what happened to the Captain?
+Farewell and adieu to ye ladies of Vauul,Farewell and adieu to ye ladies of Vauul
 I can't wait to set sail!,My sea legs are getting restless!
-I could do with some rum!,I could do with some rum!
+I could do with some rum!,… and our saucy ship’s a beauty!
 How long do we have to stay here?,How long must we remain here?
 Burp,Burp
-You look like a landlubber!,"Hoi, how goes it, landlubber?"
-Farewell and adieu to ye ladies of Vauul,Farewell and adieu to ye ladies of Vauul
+You look like a landlubber!,"Hoi, how goes it, landlubber"
+What've we got here then?,"What've we got here, then?"
+Curses!!,Curses!
+Something smells rotten!,Something smells rotten!
+What've we got here then,What've we got here then
+Talk to the Queen if you want something!,Talk to the Queen if you want something!
+I have only the finest for sale!,I have only the finest for sale!
+Come here you little bastard,Come here you little bastard
+Come!,Come!
+See items most bizarre and mysterious!,See items most bizarre and mysterious!
+Looking for some steel,Looking for some steel
+Git yer sausages here!,Git yer sausages ‘ere!
+What a mess,What a mess
+Don't expect service!,Don't expect service!
+Give us a kiss!,Give us a kiss!
+A word!,A word!
+Looking for a bed,Looking for a bed
+Dum-di-dum,Dum-di-dum
+stranger still is,stranger still is
+Get your greens here!,Get your greens here!
+Get your cider here!,Get your cider here!
+Cluck,Cluck
+Bwak,Bwak
+I found an egg!,I found an egg!
+"Well, hello there!","Well, hello there!"
+I'd prefer to leave the hive alone!,I'd prefer to leave the hive alone!
+Ouch!,Ouch!
+Well now,"Well, now"
+The Baron and Baroness welcomes you,The Baron and Baroness welcome you
 "They say practice makes perfect, and maybe they’re right; it seems all those hours spent honing your skills are starting to pay off","They say practice makes perfect, and maybe they’re right; it seems all those hours spent honing your skills are starting to pay off"
 "Keep it up, and soon you’ll be well on your way to mastery!","Keep it up, and soon you’ll be well on your way to mastery!"
 Did this stuff used to be difficult?,Did this stuff used to be difficult?
@@ -337,7 +385,7 @@ You can feel yourself growing stronger with every trial you face,You can feel yo
 "Each adventure leaves you just a little faster, a little braver","Each adventure leaves you just a little faster, a little braver"
 What more are you capable of?,What more are you capable of?
 Adrenaline floods your veins,Adrenaline floods your veins
-"The tasks that once seemed so difficult now come naturally to you, leaving you with an insatiable urge to learn something new","Obstacles that once seemed insurmountable are now trampled underfoot, barely a hinderance, so far have you come. Yet each mountain climbed leaves only the sight of new, irresistible peaks, and an insatiable lust to conquer them"
+"The tasks that once seemed so difficult now come naturally to you, leaving you with an insatiable urge to learn something new","Obstacles that once seemed insurmountable are now trampled underfoot, barely a hindrance, so far have you come. Yet each mountain climbed leaves only the sight of new, irresistible peaks, and an insatiable lust to conquer them"
 The possibilities ahead of you seem as endless as your potential - who knows what adventures lay ahead?,The possibilities ahead of you seem as endless as your potential - who knows what adventures lay ahead?
 Who knew the human body was capable of such feats?,Who knew the human body was capable of such feats?
 "You can feel yourself changing, the layers of your old self shedding away into something new","You can feel yourself changing, the layers of your old self shedding away into something new"

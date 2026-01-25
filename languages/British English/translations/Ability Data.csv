@@ -1,7 +1,9 @@
 original,translate
-#Combat Manuevers,#Combat Manuevers
+#Combat Manuevers,#Combat Manoeuvres
 Wild Swing,Wild Swing
+Executes an Attack with +4 bonus to Damage,Executes an Attack with +4 bonus to Damage
 Critical Strike,Critical Strike
+Executes an Attack that automatically scores a Critical Hit if successful,Executes an Attack that automatically scores a Critical Hit if successful
 Defend Ally,Defend Ally
 Mark Target,Mark Target
 The Target gets the Marked Condition which confers a -2 penalty to Dodge for the rest of the encounter,"The Marked Condition is applied to the Target, which confers a -2 penalty to Dodge for the rest of the encounter"
@@ -58,7 +60,7 @@ Increased Light Armor Use,Increased Light Armour Use
 Increased Medium Armor Use,Increased Medium Armour Use
 Increased Athletics,Increased Athletics
 Increased Attunement,Increased Attunement
-Spell Aura Radius Increase,Spell Aura Radius Increase
+Spell Aura Radius Increase,Increased Aura Radius
 Increased Awareness,Increased Awareness
 Increased Backstab Damage,Increased Backstab Damage
 Pack Mule,Beast of Burden
@@ -185,14 +187,16 @@ Aura of Silence,Aura of Silence
 Searing Light,Searing Light
 Smothering Blanket,Smothering Blanket
 Sight to Behold,Sight to Behold
+EYE-SHINE,EYE-SHINE
 Eye-Shine,Eye-Shine
 Fire Sprite,Fire Sprite
 Fireworks,Fireworks
 Heroic Tune,Heroic Tune
-Now you See Me,Now you See Me...
+Now you See Me,Now You See Me
 Lambent Dance,Lambent Dance
 Lifting Tune,Lifting Tune
 Light Please,Light Please
+RAISE THE CURTAIN,RAISE THE CURTAIN
 Raise the Curtain,Raise the Curtain
 Shadow Step,Shadow Step
 Song of Soothing,Song of Soothing
@@ -204,7 +208,7 @@ Blessing Aura,Blessing Aura
 Blessing Touch,Blessing Touch
 Blink,Blink
 Mark of Blurring,Mark of Blurring
-Breath Glass,Breath Glass
+Breath Glass,Breathe Glass
 Blinding Bolt,Blinding Bolt
 Circle of Corporeal Restoration,Circle of Corporeal Restoration
 Circle of Healing,Circle of Healing
@@ -324,3 +328,7 @@ Smoke Bomb,Smoke Bomb
 "The first time you're Wounded each combat, you automatically hide","Each combat, the first time you're Wounded, you automatically become hidden"
 Not Today!,Not This Day!
 "The first time you take Wound Hit point Damage each combat, you automatically regain 12-18 Vitality Hit Points","Each combat, the first time Wound Hit point Damage is suffered, you regenerate 12-18 Vitality Hit Points"
+#Abilities Tab,#Abilities Tab
+Maneuver Abilities,Manoeuvre Abilities
+Triggered Abilities,Triggered Abilities
+Passive Bonus Abilities,Passive Bonus Abilities
