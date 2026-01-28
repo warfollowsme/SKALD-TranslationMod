@@ -8,7 +8,7 @@ Body Magic Expert,Body Magic Expert
 You may now cast Tier 2 spells of the Body School,You may now cast Tier 2 spells of the Body School
 Body Magic Master,Body Magic Master
 You may now cast Tier 3 spells of the Body School,You may now cast Tier 3 spells of the Body School
-Body Magic Grand Master,Body Magic Grand Master
+Body Magic Grand Master,Body Magic Grandmaster
 You may now cast Tier 4 spells of the Body School,You may now cast Tier 4 spells of the Body School
 Mind Magic Initiate,Mind Magic Initiate
 You may now cast Tier 1 spells of the Mind School,You may now cast Tier 1 spells of the Mind School
@@ -16,7 +16,7 @@ Mind Magic Expert,Mind Magic Expert
 You may now cast Tier 2 spells of the Mind School,You may now cast Tier 2 spells of the Mind School
 Mind Magic Master,Mind Magic Master
 You may now cast Tier 3 spells of the Mind School,You may now cast Tier 3 spells of the Mind School
-Mind Magic Grand Master,Mind Magic Grand Master
+Mind Magic Grand Master,Mind Magic Grandmaster
 You may now cast Tier 4 spells of the Mind School,You may now cast Tier 4 spells of the Mind School
 Religious Training,Religious Training
 Resilience Initiate,Resilience Initiate
@@ -29,21 +29,21 @@ Spirit Magic Expert,Spirit Magic Expert
 You may now cast Tier 2 spells of the Spirit School,You may now cast Tier 2 spells of the Spirit School
 Spirit Magic Master,Spirit Magic Master
 You may now cast Tier 3 spells of the Spirit School,You may now cast Tier 3 spells of the Spirit School
-Spirit Magic Grand Master,Spirit Magic Grand Master
+Spirit Magic Grand Master,Spirit Magic Grandmaster
 You may now cast Tier 4 spells of the Spirit School,You may now cast Tier 4 spells of the Spirit School
 Faithful Initiate,Faithful Initiate
 Faithful Expert,Faithful Expert
 Faithful Master,Faithful Master
-Faithful Grand Master,Faithful Grand Master
+Faithful Grand Master,Faithful Grandmaster
 Cleric Weapons Initate,Cleric Weapons Initiate
 Cleric Weapons Expert,Cleric Weapons Expert
 Cleric Weapons Master,Cleric Weapons Master
-Cleric Weapons Grand Master,Cleric Weapons Grand Master
+Cleric Weapons Grand Master,Cleric Weapons Grandmaster
 #Magos Feats,#Magos Feats
 Air Magic Initiate,Air Magic Initiate
 Air Magic Expert,Air Magic Expert
 Air Magic Master,Air Magic Master
-Air Magic Grand Master,Air Magic Grand Master
+Air Magic Grand Master,Air Magic Grandmaster
 Trickster Initiate,Trickster Initiate
 Trickster Expert,Trickster Expert
 Trickster Master,Trickster Master
@@ -58,11 +58,11 @@ Blade Initiate,Blade Initiate
 Earth Magic Initiate,Earth Magic Initiate
 Earth Magic Expert,Earth Magic Expert
 Earth Magic Master,Earth Magic Master
-Earth Magic Grand Master,Earth Magic Grand Master
+Earth Magic Grand Master,Earth Magic Grandmaster
 Fire Magic Initiate,Fire Magic Initiate
 Fire Magic Expert,Fire Magic Expert
 Fire Magic Master,Fire Magic Master
-Fire Magic Grand Master,Fire Magic Grand Master
+Fire Magic Grand Master,Fire Magic Grandmaster
 Light Weapons Initiate,Light Weapons Initiate
 Light Weapons Expert,Light Weapons Expert
 Touched by the Reticulum,Touched by the Reticulum
@@ -77,15 +77,15 @@ Bardic Spellcasting,Bardic Spellcasting
 Backstab Initiate,Backstab Initiate
 Backstab Expert,Backstab Expert
 Backstab Master,Backstab Master
-Backstab Grand Master,Backstab Grand Master
+Backstab Grand Master,Backstab Grandmaster
 Bard Initiate,Bard Initiate
 Bard Expert,Bard Expert
 Bard Master,Bard Master
 Tradecraft,Tradecraft
-Duelist Initiate,Duelist Initiate
-Duelist Expert,Duelist Expert
-Duelist Master,Duelist Master
-Duelist Grand-Master,Duelist Grand Master
+Duelist Initiate,Duellist Initiate
+Duelist Expert,Duellist Expert
+Duelist Master,Duellist Master
+Duelist Grand-Master,Duellist Grandmaster
 Mobility Initiate,Mobility Initiate
 Mobility Expert,Mobility Expert
 Mobility Master,Mobility Master
@@ -108,7 +108,7 @@ Nature Magic Expert,Nature Magic Expert
 You may now cast Tier 2 spells of the Nature School,You may now cast Tier 2 spells of the Nature School
 Nature Magic Master,Nature Magic Master
 You may now cast Tier 3 spells of the Nature School,You may now cast Tier 3 spells of the Nature School
-Nature Magic Grand Master,Nature Magic Grand Master
+Nature Magic Grand Master,Nature Magic Grandmaster
 You may now cast Tier 4 spells of the Nature School,You may now cast Tier 4 spells of the Nature School
 #Warrior Feats,#Warrior Feats
 Archery Initiate,Archery Initiate
@@ -132,7 +132,7 @@ Club Master,Club Master
 Leadership Initiate,Leadership Initiate
 Leadership Expert,Leadership Expert
 Leadership Master,Leadership Master
-Leadership Grand-Master,Leadership Grand Master
+Leadership Grand-Master,Leadership Grandmaster
 Ranger Initiate,Ranger Initiate
 Ranger Expert,Ranger Expert
 Ranger Master,Ranger Master

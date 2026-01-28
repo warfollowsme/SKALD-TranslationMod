@@ -1,5 +1,193 @@
 original,translate
-#Accessory,#Accessory
+#Weapons,#Weapons
+Crude Broadsword,Crude Broadsword
+Crude Club,Crude Club
+Crude Cutlass,Crude Cutlass
+Crude Dagger,Crude Dagger
+Crude Greataxe,Crude Greataxe
+Crude Greathammer,Crude Greathammer
+Crude Handaxe,Crude Hand axe
+Crude Longsword,Crude Longsword
+Crude Mace,Crude Mace
+Crude Rapier,Crude Rapier
+Crude Scimitar,Crude Scimitar
+Crude Shortsword,Crude Shortsword
+Crude Two-Hander,Crude Two-Hander
+Crude Waraxe,Crude War axe
+Crude Warhammer,Crude War hammer
+Broadsword,Broadsword
+Club,Club
+Cutlass,Cutlass
+Dagger,Dagger
+Greataxe,Greataxe
+Greathammer,Greathammer
+Handaxe,Hand axe
+Light Club,Light Club
+Longsword,Longsword
+Mace,Mace
+Rapier,Rapier
+Scimitar,Scimitar
+Shortsword,Shortsword
+Two-Hander,Two-Hander
+Waraxe,War axe
+Warhammer,War hammer
+Fine Broadsword,Fine Broadsword
+Fine Club,Fine Club
+Fine Cutlass,Fine Cutlass
+Fine Dagger,Fine Dagger
+Fine Greataxe,Fine Greataxe
+Fine Greathammer,Fine Greathammer
+Fine Handaxe,Fine Hand axe
+Fine Longsword,Fine Longsword
+Fine Mace,Fine Mace
+Fine Rapier,Fine Rapier
+Fine Scimitar,Fine Scimitar
+Fine Shortsword,Fine Shortsword
+Fine Two-Hander,Fine Two-Hander
+Fine Waraxe,Fine War axe
+Fine Warhammer,Fine War hammer
+Masterwork Broadsword,Masterwork Broadsword
+Masterwork Club,Masterwork Club
+Masterwork Cutlass,Masterwork Cutlass
+Masterwork Dagger,Masterwork Dagger
+Masterwork Greataxe,Masterwork Greataxe
+Masterwork Greathammer,Masterwork Greathammer
+Masterwork Handaxe,Masterwork Hand axe
+Masterwork Longsword,Masterwork Longsword
+Masterwork Mace,Masterwork Mace
+Masterwork Rapier,Masterwork Rapier
+Masterwork Scimitar,Masterwork Scimitar
+Masterwork Shortsword,Masterwork Shortsword
+Masterwork Two-Hander,Masterwork Two-Hander
+Masterwork Waraxe,Masterwork War axe
+Masterwork Warhammer,Masterwork War hammer
+The Sparrowhawk,The Sparrowhawk
+A legendary rapier of unrivaled quality,A legendary rapier of unrivalled quality
+It also adds +2 to the wielder’s initiative,It also adds +2 to the wielder’s initiative
+Ancient Dagger,Ancient Dagger
+"An ancient dagger, carved from a strange greenish stone","An ancient dagger, carved from a strange, greenish stone"
+It looks almost ritual and you suspect it might be of some value to someone with the right interest,It looks almost ritual and you suspect it might be of some value to someone with the right interest
+Mathias's Sword,Mathias' Sword
+A beautifully crafted bastard-sword,A beautifully crafted bastard sword
+The Lake Blade,The Lake Blade
+A stunningly wrought longsword of ancient design,A stunningly wrought longsword of ancient design
+The bluish sheen of its metal never seems to lose its luster; giving it its name,The bluish sheen of its metal never seems to lose its lustre; giving it its name
+You recovered this sword from the crypt under Horryn,You recovered this sword from the crypt under Horryn
+Two-Hander,Two-Hander
+A large sword that must be wielded two-handed,A large sword that must be wielded two-handed
+A cutlass is a curved sword favored by sailors and swordsmen of Yom-Baria,A cutlass is a curved sword favoured by sailors and swordsmen of Yom-Baria
+Crude Longbow,Crude Longbow
+Crude Shortbow,Crude Shortbow
+Crude Composite Bow,Crude Composite Bow
+Composite Longbow,Composite Longbow
+Longbow,Longbow
+Shortbow,Shortbow
+Fine Longbow,Fine Longbow
+Fine Shortbow,Fine Shortbow
+Fine Composite Bow,Fine Composite Bow
+Masterwork Longbow,Masterwork Longbow
+Masterwork Shortbow,Masterwork Shortbow
+Masterwork Composite Bow,Masterwork Composite Bow
+#Weapon Types,#Weapon Types
+Light Axe,Light Axe
+Medium Axe,Medium Axe
+Heavy Axe,Heavy Axe
+Light Blade,Light Blade
+Medium Blade,Medium Blade
+Heavy Blade,Heavy Blade
+Light Club,Light Club
+Medium Club,Medium Club
+Heavy Club,Heavy Club
+Light Bow,Light Bow
+Medium Bow,Medium Bow
+Heavy Bow,Heavy Bow
+#Weapons - Ammo,#Weapons - Ammo
+Bodkin Arrow,Bodkin Arrow
+Broadhead Arrow,Broadhead Arrow
+Fire Arrow,Fire Arrow
+Hunting Arrow,Hunting Arrow
+Poison Arrow,Poison Arrow
+Poor Arrow,Poor Arrow
+Ammo,Ammo
+#Armor,#Armour
+Poor Breastplate,Poor Breastplate
+Poor Chainmail,Poor Chainmail
+Poor Fullplate,Poor Full plate
+Poor Halfplate,Poor Half plate
+Poor Leather Armor,Poor Leather Armour
+Poor Padded Armor,Poor Padded Armour
+Poor Scalemail,Poor Scalemail
+Poor Studded Leather,Poor Studded Leather
+Ancient Halfplate,Ancient Half plate
+Fine Breastplate,Fine Breastplate
+Fine Chainmail,Fine Chainmail
+Fine Fullplate,Fine Full plate
+Fine Halfplate,Fine Half plate
+Fine Leather Armor,Fine Leather Armour
+Fine Padded Armor,Fine Padded Armour
+Fine Scalemail,Fine Scalemail
+Fine Studded Leather,Fine Studded Leather
+Masterwork Breastplate,Masterwork Breastplate
+Masterwork Chainmail,Masterwork Chainmail
+Masterwork Fullplate,Masterwork Full plate
+Masterwork Halfplate,Masterwork Half plate
+Masterwork Leather Armor,Masterwork Leather Armour
+Masterwork Padded Armor,Masterwork Padded Armour
+Masterwork Scalemail,Masterwork Scalemail
+Masterwork Studded Leather,Masterwork Studded Leather
+The Rat Queen's Armor,The Rat Queen's Armour
+Breastplate,Breastplate
+Chainmail,Chainmail
+Fullplate,Full plate
+Half plate,Half Plate
+Leather Armor,Leather Armour
+Padded Armor,Padded Armour
+Scalemail,Scalemail
+Studded Leather,Studded Leather
+The Second Chance,The Second Chance
+Adds the following triggered ability,Adds the following triggered ability
+"The first time you take Wound Damage each combat, you automatically regain 30-40 Vitality Hit Points","The first time you take Wound Damage each combat, you instantly regenerate 30-40 Vitality Hit Points"
+#Armor - Shields,#Armour - Shields
+Buckler,Buckler
+A small rounded shield to be worn on the forearm,"A small, rounded shield designed to be worn on the forearm"
+Large Shield,Large Shield
+A large shield,It is quite large
+Plank Shield,Plank Shield
+An improvised shield made from wooden planks,An improvised shield for the impoverished combatant. Constructed from wooden planks bound together
+Tower Shield,Tower Shield
+Shield,Shield
+A medium sized shield,A medium sized shield
+Tower Shield,Tower Shield
+#Clothing,#Clothing
+Dress,Dress
+Furs,Furs
+Noble's Outfit,Noble's Outfit
+Pants,Trousers
+Tribal Sash,Tribal Sash
+Apron,Apron
+Bravo's Outfit,Bravo's Outfit
+Checkered Tunic,Chequered Tunic
+Comfortable Outfit,Comfortable Outfit
+Commoner's Garb,Commoner's Garb
+Rough but functional woolen clothing that serves the hard-working commoners of the empire well,Rough but functional woollen clothing that serves the hard-working commoners of the empire well
+Doublet,Doublet
+Flashy Shirt,Flashy Shirt
+Rags,Rags
+Ranger's Outfit,Ranger's Outfit
+Robes,Robes
+Short Pants,Braies
+Tabard,Tabard
+Toga,Toga
+Traveler's Garb,Traveller's Garb
+Rough but functional woolen clothing,Rough but functional woollen clothing
+Well suited for travel and adventuring if you can learn to live with the itching,Well suited for travel and adventuring; if you can learn to live with the itching
+#Armor Types,#Armour Types
+Light Armor,Light Armour
+Medium Armor,Medium Armour
+Heavy Armor,Heavy Armour
+Shield,Shield
+Clothing,Clothing
+#Accessories,#Accessories
 Armored Boots,Armoured Boots
 Masterwork Armored Boots,Masterwork Armoured Boots
 Noble's Boots,Noble's Boots
@@ -7,7 +195,7 @@ Masterwork Noble's Boots,Masterwork Noble's Boots
 Leather Boots,Leather Boots
 Masterwork Leather Boots,Masterwork Leather Boots
 Travelers Boots,Traveller's Boots
-Masterwork Travelers Boots,Masterwork Travelers Boots
+Masterwork Travelers Boots,Masterwork Traveller’s Boots
 The Farstriders,The Farstriders
 These legendary boots increase the Carrying Capacity of the wearer by 30 lb as well as conferring a +1 bonus to their Fortitude,These legendary boots increase the Carrying Capacity of the wearer by 30lb as well as conferring a +1 bonus to their Fortitude
 The Tyrant,The Tyrant
@@ -31,7 +219,7 @@ Hood,Hood
 Antlers,Antlers
 Reaver Crown,Reaver Crown
 "A wide-brimmed, felt hat","A wide-brimmed, felt hat"
-It is quite stylish but offers little protection,It is quite stylish hat worn by fops that offers little protection
+It is quite stylish but offers little protection,"It is quite stylish hat worn by fops that offers little protection. Legends speak of a heroic outlaw from distant lands, whose ability to evade blows and capture was paradoxically tied to his wearing of a now-legendary wide-brimmed hat"
 Wreath,Wreath
 Mail Coif,Mail Coif
 Coif and Helmet,Coif and Helmet
@@ -44,10 +232,1840 @@ Steel Helmet,Steel Helmet
 Masterwork Steel Helmet,Masterwork Steel Helmet
 Plumed Helmet,Plumed Helmet
 Masterwork Plumed Helmet,Masterwork Plumed Helmet
-Round Helmet,Round Helmet
+Tower Helmet,Tower Helmet
 Soldier's Helmet,Soldier's Helmet
 Officer's Helmet,Officer's Helmet
 Jester's Cap,Jester's Cap
+#Accessories Jewelry,#Accessories Jewellery
+Amulet of Perfect Health,Amulet of Perfect Health
+Grants the wearer immunity to Disease,Grants the wearer immunity to Disease
+The Lunar Ring,The Lunar Ring
+The Lunar Ring increases the radius of Aura spells by,The Lunar Ring increases the radius of Aura spells by
+Skull Necklace,Skull Necklace
+An exquisitely crafted necklace that could be quite valuable,An exquisitely crafted necklace that could be quite valuable
+Diamond Necklace,Diamond Necklace
+Firegold Necklace,Firegold Necklace
+Coral Necklace,Coral Necklace
+Pagan Necklace,Pagan Necklace
+Beryl Necklace,Beryl Necklace
+Garnet Necklace,Garnet Necklace
+Profane Necklace,Profane Necklace
+Arcane Necklace,Arcane Necklace
+Ancient Necklace,Ancient Necklace
+Brass Necklace,Brass Necklace
+A necklace that can be sold for a few coins,A necklace that can be sold for a few coins
+Opal Necklace,Opal Necklace
+A necklace that will fetch a nice price,A necklace that will fetch a nice price
+Silver Necklace,Silver Necklace
+Gold Necklace,Gold Necklace
+Copper Necklace,Copper Necklace
+Copper Locket,Copper Locket
+Jade Necklace,Jade Necklace
+Ruby Necklace,Ruby Necklace
+Ancient Gold Necklace,Ancient Gold Necklace
+Ancient Jade Necklace,Ancient Jade Necklace
+The Guarded Heart,The Guarded Heart
+A beautifully crafted golden ring with a heart carved into it,"A resplendent and pure silver ring, beautifully crafted with a heart carved into it"
+The wearer of this ring will find their resolve strengthened,The wearer of this ring shall find his or her resolve strengthened
+Adds +1 to Will,Adds +1 to Will
+Skull Ring,Skull Ring
+An exquisitely crafted ring that could be quite valuable,An exquisitely crafted ring that could be quite valuable
+Topaz Ring,Topaz Ring
+Lapis Ring,Lapis Ring
+Frater's Ring,Frater's Ring
+Sepulchite's Ring,Sepulchite's Ring
+Flowgold Ring,Flowgold Ring
+Wavestrider Ring,Wavestrider Ring
+Tempest Ring,Tempest Ring
+Lupercal Ring,Lupercal Ring
+Arboreal Ring,Arboreal Ring
+Primordial Ring,Primordial Ring
+Ruby Ring,Ruby Ring
+Genesis Ring,Genesis Ring
+Fire Opal Ring,Fire Opal Ring
+Emerald Ring,Emerald Ring
+Amethyst Ring,Amethyst Ring
+Serpent Ring,Serpent Ring
+Aquamarine Ring,Aquamarine Ring
+Sunstone Ring,Sunstone Ring
+Green Sapphire Ring,Green Sapphire Ring
+Brass Ring,Brass Ring
+"A modest, but well crafted ring",A modest but well crafted ring
+Silver Ring,Silver Ring
+Gold Ring,Gold Ring
+"A modest, but well crafted golden ring",A modest but well crafted golden ring
+#Accessories - Types,#Accessories - Types
+Footwear,Footwear
+Glove,Glove
+Headwear,Headwear
+Necklace,Necklace
+Ring,Ring
+#Enchantments - Weapons,#Enchantments - Weapons
+Accurate Fine Broadsword,Accurate Fine Broadsword
+Fine Broadsword of Greater Accuracy,Fine Broadsword of Greater Accuracy
+Fine Broadsword of Defence,Fine Broadsword of Defence
+Keen Fine Broadsword,Keen Fine Broadsword
+Savage Fine Broadsword,Savage Fine Broadsword
+Accurate Fine Club,Accurate Fine Club
+Fine Club of Greater Accuracy,Fine Club of Greater Accuracy
+Fine Club of Defence,Fine Club of Defence
+Keen Fine Club,Keen Fine Club
+Savage Fine Club,Savage Fine Club
+Fine Cutlass of Celerity,Fine Cutlass of Celerity
+Accurate Fine Cutlass,Accurate Fine Cutlass
+Fine Cutlass of Greater Accuracy,Fine Cutlass of Greater Accuracy
+Fine Cutlass of Defence,Fine Cutlass of Defence
+Keen Fine Cutlass,Keen Fine Cutlass
+Savage Fine Cutlass,Savage Fine Cutlass
+Fine Dagger of Celerity,Fine Dagger of Celerity
+Accurate Fine Dagger,Accurate Fine Dagger
+Fine Dagger of Greater Accuracy,Fine Dagger of Greater Accuracy
+Fine Dagger of Defence,Fine Dagger of Defence
+Keen Fine Dagger,Keen Fine Dagger
+Savage Fine Dagger,Savage Fine Dagger
+Fine Greataxe of Celerity,Fine Greataxe of Celerity
+Accurate Fine Greataxe,Accurate Fine Greataxe
+Fine Greataxe of Greater Accuracy,Fine Greataxe of Greater Accuracy
+Fine Greataxe of Defence,Fine Greataxe of Defence
+Keen Fine Greataxe,Keen Fine Greataxe
+Savage Fine Greataxe,Savage Fine Greataxe
+Fine Greathammer of Celerity,Fine Greathammer of Celerity
+Accurate Fine Greathammer,Accurate Fine Greathammer
+Fine Greathammer of Greater Accuracy,Fine Greathammer of Greater Accuracy
+Fine Greathammer of Defence,Fine Greathammer of Defence
+Keen Fine Greathammer,Keen Fine Greathammer
+Savage Fine Greathammer,Savage Fine Greathammer
+Fine Handaxe of Celerity,Fine hand axe of Celerity
+Accurate Fine Handaxe,Accurate Fine hand axe
+Fine Handaxe of Greater Accuracy,Fine hand axe of Greater Accuracy
+Fine Handaxe of Defence,Fine hand axe of Defence
+Keen Fine Handaxe,Keen Fine hand axe
+Savage Fine Handaxe,Savage Fine hand axe
+Fine longsword of Celerity,Fine longsword of Celerity
+Accurate Fine longsword,Accurate Fine longsword
+Fine longsword of Greater Accuracy,Fine longsword of Greater Accuracy
+Fine longsword of Defence,Fine longsword of Defence
+Keen Fine longsword,Keen Fine longsword
+Savage Fine longsword,Savage Fine longsword
+Fine Mace of Celerity,Fine Mace of Celerity
+Accurate Fine Mace,Accurate Fine Mace
+Fine Mace of Greater Accuracy,Fine Mace of Greater Accuracy
+Fine Mace of Defence,Fine Mace of Defence
+Keen Fine Mace,Keen Fine Mace
+Savage Fine Mace,Savage Fine Mace
+Fine Rapier of Celerity,Fine Rapier of Celerity
+Accurate Fine Rapier,Accurate Fine Rapier
+Fine Rapier of Greater Accuracy,Fine Rapier of Greater Accuracy
+Fine Rapier of Defence,Fine Rapier of Defence
+Keen Fine Rapier,Keen Fine Rapier
+Savage Fine Rapier,Savage Fine Rapier
+Fine Scimitar of Celerity,Fine Scimitar of Celerity
+Accurate Fine Scimitar,Accurate Fine Scimitar
+Fine Scimitar of Greater Accuracy,Fine Scimitar of Greater Accuracy
+Fine Scimitar of Defence,Fine Scimitar of Defence
+Keen Fine Scimitar,Keen Fine Scimitar
+Savage Fine Scimitar,Savage Fine Scimitar
+Fine Shortsword of Celerity,Fine Shortsword of Celerity
+Accurate Fine Shortsword,Accurate Fine Shortsword
+Fine Shortsword of Greater Accuracy,Fine Shortsword of Greater Accuracy
+Fine Shortsword of Defence,Fine Shortsword of Defence
+Keen Fine Shortsword,Keen Fine Shortsword
+Savage Fine Shortsword,Savage Fine Shortsword
+Fine Two-hander of Celerity,Fine Two-hander of Celerity
+Accurate Fine Two-hander,Accurate Fine Two-hander
+Fine Two-hander of Greater Accuracy,Fine Two-hander of Greater Accuracy
+Fine Two-hander of Defence,Fine Two-hander of Defence
+Keen Fine Two-hander,Keen Fine Two-hander
+Savage Fine Two-hander,Savage Fine Two-hander
+Fine Waraxe of Celerity,Fine War axe of Celerity
+Accurate Fine Waraxe,Accurate Fine War axe
+Fine Waraxe of Greater Accuracy,Fine War axe of Greater Accuracy
+Fine Waraxe of Defence,Fine War axe of Defence
+Keen Fine Waraxe,Keen Fine War axe
+Savage Fine Waraxe,Savage Fine War axe
+Fine Warhammer of Celerity,Fine War hammer of Celerity
+Accurate Fine Warhammer,Accurate Fine War hammer
+Fine Warhammer of Greater Accuracy,Fine War hammer of Greater Accuracy
+Fine Warhammer of Defence,Fine War hammer of Defence
+Keen Fine Warhammer,Keen Fine War hammer
+Savage Fine Warhammer,Savage Fine War hammer
+Accurate Masterwork Broadsword,Accurate Masterwork Broadsword
+Masterwork Broadsword of Greater Accuracy,Masterwork Broadsword of Greater Accuracy
+Masterwork Broadsword of the Master,Masterwork Broadsword of the Master
+Masterwork Broadsword of Acid,Masterwork Broadsword of Acid
+Masterwork Broadsword of Defence,Masterwork Broadsword of Defence
+Masterwork Broadsword of Fire,Masterwork Broadsword of Fire
+Masterwork Broadsword of Frost,Masterwork Broadsword of Frost
+Masterwork Broadsword of the Grand-master,Masterwork Broadsword of the Grandmaster
+Keen Masterwork Broadsword,Keen Masterwork Broadsword
+Savage Masterwork Broadsword,Savage Masterwork Broadsword
+Masterwork Broadsword of Lightning,Masterwork Broadsword of Lightning
+Accurate Masterwork Club,Accurate Masterwork Club
+Masterwork Club of Greater Accuracy,Masterwork Club of Greater Accuracy
+Masterwork Club of the Master,Masterwork Club of the Master
+Masterwork Club of Acid,Masterwork Club of Acid
+Masterwork Club of Defence,Masterwork Club of Defence
+Masterwork Club of Fire,Masterwork Club of Fire
+Masterwork Club of Frost,Masterwork Club of Frost
+Masterwork Club of the Grand-master,Masterwork Club of the Grandmaster
+Keen Masterwork Club,Keen Masterwork Club
+Savage Masterwork Club,Savage Masterwork Club
+Masterwork Club of Lightning,Masterwork Club of Lightning
+Masterwork Cutlass of Celerity,Masterwork Cutlass of Celerity
+Masterwork Cutlass of Speed,Masterwork Cutlass of Speed
+Accurate Masterwork Cutlass,Accurate Masterwork Cutlass
+Masterwork Cutlass of Greater Accuracy,Masterwork Cutlass of Greater Accuracy
+Masterwork Cutlass of the Master,Masterwork Cutlass of the Master
+Masterwork Cutlass of Acid,Masterwork Cutlass of Acid
+Masterwork Cutlass of Defence,Masterwork Cutlass of Defence
+Masterwork Cutlass of Fire,Masterwork Cutlass of Fire
+Masterwork Cutlass of Frost,Masterwork Cutlass of Frost
+Masterwork Cutlass of the Grand-master,Masterwork Cutlass of the Grandmaster
+Keen Masterwork Cutlass,Keen Masterwork Cutlass
+Savage Masterwork Cutlass,Savage Masterwork Cutlass
+Masterwork Cutlass of Lightning,Masterwork Cutlass of Lightning
+Masterwork Dagger of Celerity,Masterwork Dagger of Celerity
+Masterwork Dagger of Speed,Masterwork Dagger of Speed
+Accurate Masterwork Dagger,Accurate Masterwork Dagger
+Masterwork Dagger of Greater Accuracy,Masterwork Dagger of Greater Accuracy
+Masterwork Dagger of the Master,Masterwork Dagger of the Master
+Masterwork Dagger of Acid,Masterwork Dagger of Acid
+Masterwork Dagger of Defence,Masterwork Dagger of Defence
+Masterwork Dagger of Fire,Masterwork Dagger of Fire
+Masterwork Dagger of Frost,Masterwork Dagger of Frost
+Masterwork Dagger of the Grand-master,Masterwork Dagger of the Grandmaster
+Keen Masterwork Dagger,Keen Masterwork Dagger
+Savage Masterwork Dagger,Savage Masterwork Dagger
+Masterwork Dagger of Lightning,Masterwork Dagger of Lightning
+Masterwork Greataxe of Celerity,Masterwork Greataxe of Celerity
+Masterwork Greataxe of Speed,Masterwork Greataxe of Speed
+Accurate Masterwork Greataxe,Accurate Masterwork Greataxe
+Masterwork Greataxe of Greater Accuracy,Masterwork Greataxe of Greater Accuracy
+Masterwork Greataxe of the Master,Masterwork Greataxe of the Master
+Masterwork Greataxe of Acid,Masterwork Greataxe of Acid
+Masterwork Greataxe of Defence,Masterwork Greataxe of Defence
+Masterwork Greataxe of Fire,Masterwork Greataxe of Fire
+Masterwork Greataxe of Frost,Masterwork Greataxe of Frost
+Masterwork Greataxe of the Grand-master,Masterwork Greataxe of the Grandmaster
+Keen Masterwork Greataxe,Keen Masterwork Greataxe
+Savage Masterwork Greataxe,Savage Masterwork Greataxe
+Masterwork Greataxe of Lightning,Masterwork Greataxe of Lightning
+Masterwork Greathammer of Celerity,Masterwork Greathammer of Celerity
+Masterwork Greathammer of Speed,Masterwork Greathammer of Speed
+Accurate Masterwork Greathammer,Accurate Masterwork Greathammer
+Masterwork Greathammer of Greater Accuracy,Masterwork Greathammer of Greater Accuracy
+Masterwork Greathammer of the Master,Masterwork Greathammer of the Master
+Masterwork Greathammer of Acid,Masterwork Greathammer of Acid
+Masterwork Greathammer of Defence,Masterwork Greathammer of Defence
+Masterwork Greathammer of Fire,Masterwork Greathammer of Fire
+Masterwork Greathammer of Frost,Masterwork Greathammer of Frost
+Masterwork Greathammer of the Grand-master,Masterwork Greathammer of the Grandmaster
+Keen Masterwork Greathammer,Keen Masterwork Greathammer
+Savage Masterwork Greathammer,Savage Masterwork Greathammer
+Masterwork Greathammer of Lightning,Masterwork Greathammer of Lightning
+Masterwork Handaxe of Celerity,Masterwork hand axe of Celerity
+Masterwork Handaxe of Speed,Masterwork hand axe of Speed
+Accurate Masterwork Handaxe,Accurate Masterwork hand axe
+Masterwork Handaxe of Greater Accuracy,Masterwork hand axe of Greater Accuracy
+Masterwork Handaxe of the Master,Masterwork hand axe of the Master
+Masterwork Handaxe of Acid,Masterwork hand axe of Acid
+Masterwork Handaxe of Defence,Masterwork hand axe of Defence
+Masterwork Handaxe of Fire,Masterwork hand axe of Fire
+Masterwork Handaxe of Frost,Masterwork hand axe of Frost
+Masterwork Handaxe of the Grand-master,Masterwork hand axe of the Grandmaster
+Keen Masterwork Handaxe,Keen Masterwork hand axe
+Savage Masterwork Handaxe,Savage Masterwork hand axe
+Masterwork Handaxe of Lightning,Masterwork hand axe of Lightning
+Masterwork Longsword of Celerity,Masterwork Longsword of Celerity
+Masterwork Longsword of Speed,Masterwork Longsword of Speed
+Accurate Masterwork Longsword,Accurate Masterwork Longsword
+Masterwork Longsword of Greater Accuracy,Masterwork Longsword of Greater Accuracy
+Masterwork Longsword of the Master,Masterwork Longsword of the Master
+Masterwork Longsword of Acid,Masterwork Longsword of Acid
+Masterwork Longsword of Defence,Masterwork Longsword of Defence
+Masterwork Longsword of Fire,Masterwork Longsword of Fire
+Masterwork Longsword of Frost,Masterwork Longsword of Frost
+Masterwork Longsword of the Grand-master,Masterwork Longsword of the Grandmaster
+Keen Masterwork Longsword,Keen Masterwork Longsword
+Savage Masterwork Longsword,Savage Masterwork Longsword
+Masterwork Longsword of Lightning,Masterwork Longsword of Lightning
+Masterwork Mace of Celerity,Masterwork Mace of Celerity
+Masterwork Mace of Speed,Masterwork Mace of Speed
+Accurate Masterwork Mace,Accurate Masterwork Mace
+Masterwork Mace of Greater Accuracy,Masterwork Mace of Greater Accuracy
+Masterwork Mace of the Master,Masterwork Mace of the Master
+Masterwork Mace of Acid,Masterwork Mace of Acid
+Masterwork Mace of Defence,Masterwork Mace of Defence
+Masterwork Mace of Fire,Masterwork Mace of Fire
+Masterwork Mace of Frost,Masterwork Mace of Frost
+Masterwork Mace of the Grand-Master,Masterwork Mace of the Grandmaster
+Keen Masterwork Mace,Keen Masterwork Mace
+Savage Masterwork Mace,Savage Masterwork Mace
+Masterwork Mace of Lightning,Masterwork Mace of Lightning
+Masterwork Rapier of Celerity,Masterwork Rapier of Celerity
+Masterwork Rapier of Speed,Masterwork Rapier of Speed
+Accurate Masterwork Rapier,Accurate Masterwork Rapier
+Masterwork Rapier of Greater Accuracy,Masterwork Rapier of Greater Accuracy
+Masterwork Rapier of the Master,Masterwork Rapier of the Master
+Masterwork Rapier of Acid,Masterwork Rapier of Acid
+Masterwork Rapier of Defence,Masterwork Rapier of Defence
+Masterwork Rapier of Fire,Masterwork Rapier of Fire
+Masterwork Rapier of Frost,Masterwork Rapier of Frost
+Masterwork Rapier of the Grand-master,Masterwork Rapier of the Grandmaster
+Keen Masterwork Rapier,Keen Masterwork Rapier
+Savage Masterwork Rapier,Savage Masterwork Rapier
+Masterwork Rapier of Lightning,Masterwork Rapier of Lightning
+Masterwork Scimitar of Celerity,Masterwork Scimitar of Celerity
+Masterwork Scimitar of Speed,Masterwork Scimitar of Speed
+Accurate Masterwork Scimitar,Accurate Masterwork Scimitar
+Masterwork Scimitar of Greater Accuracy,Masterwork Scimitar of Greater Accuracy
+Masterwork Scimitar of the Master,Masterwork Scimitar of the Master
+Masterwork Scimitar of Acid,Masterwork Scimitar of Acid
+Masterwork Scimitar of Defence,Masterwork Scimitar of Defence
+Masterwork Scimitar of Fire,Masterwork Scimitar of Fire
+Masterwork Scimitar of Frost,Masterwork Scimitar of Frost
+Masterwork Scimitar of the Grand-master,Masterwork Scimitar of the Grandmaster
+Keen Masterwork Scimitar,Keen Masterwork Scimitar
+Savage Masterwork Scimitar,Savage Masterwork Scimitar
+Masterwork Scimitar of Lightning,Masterwork Scimitar of Lightning
+Masterwork Shortsword of Celerity,Masterwork Shortsword of Celerity
+Masterwork Shortsword of Speed,Masterwork Shortsword of Speed
+Accurate Masterwork Shortsword,Accurate Masterwork Shortsword
+Masterwork Shortsword of Greater Accuracy,Masterwork Shortsword of Greater Accuracy
+Masterwork Shortsword of the Master,Masterwork Shortsword of the Master
+Masterwork Shortsword of Acid,Masterwork Shortsword of Acid
+Masterwork Shortsword of Defence,Masterwork Shortsword of Defence
+Masterwork Shortsword of Fire,Masterwork Shortsword of Fire
+Masterwork Shortsword of Frost,Masterwork Shortsword of Frost
+Masterwork Shortsword of the Grand-master,Masterwork Shortsword of the Grandmaster
+Keen Masterwork Shortsword,Keen Masterwork Shortsword
+Savage Masterwork Shortsword,Savage Masterwork Shortsword
+Masterwork Shortsword of Lightning,Masterwork Shortsword of Lightning
+Masterwork Two-Hander of Celerity,Masterwork Two-Hander of Celerity
+Masterwork Two-Hander of Speed,Masterwork Two-Hander of Speed
+Accurate Masterwork Two-Hander,Accurate Masterwork Two-Hander
+Masterwork Two-Hander of Greater Accuracy,Masterwork Two-Hander of Greater Accuracy
+Masterwork Two-Hander of the Master,Masterwork Two-Hander of the Master
+Masterwork Two-Hander of Acid,Masterwork Two-Hander of Acid
+Masterwork Two-Hander of Defence,Masterwork Two-Hander of Defence
+Masterwork Two-Hander of Fire,Masterwork Two-Hander of Fire
+Masterwork Two-Hander of Frost,Masterwork Two-Hander of Frost
+Masterwork Two-Hander of the Grand-master,Masterwork Two-Hander of the Grandmaster
+Keen Masterwork Two-Hander,Keen Masterwork Two-Hander
+Savage Masterwork Two-Hander,Savage Masterwork Two-Hander
+Masterwork Two-Hander of Lightning,Masterwork Two-Hander of Lightning
+Masterwork Waraxe of Celerity,Masterwork War axe of Celerity
+Masterwork Waraxe of Speed,Masterwork War axe of Speed
+Accurate Masterwork Waraxe,Accurate Masterwork War axe
+Masterwork Waraxe of Greater Accuracy,Masterwork War axe of Greater Accuracy
+Masterwork Waraxe of the Master,Masterwork War axe of the Master
+Masterwork Waraxe of Acid,Masterwork War axe of Acid
+Masterwork Waraxe of Defence,Masterwork War axe of Defence
+Masterwork Waraxe of Fire,Masterwork War axe of Fire
+Masterwork Waraxe of Frost,Masterwork War axe of Frost
+Masterwork Waraxe of the Grand-master,Masterwork War axe of the Grandmaster
+Keen Masterwork Waraxe,Keen Masterwork War axe
+Savage Masterwork Waraxe,Savage Masterwork War axe
+Masterwork Waraxe of Lightning,Masterwork War axe of Lightning
+Masterwork Warhammer of Celerity,Masterwork War hammer of Celerity
+Masterwork Warhammer of Speed,Masterwork War hammer of Speed
+Accurate Masterwork Warhammer,Accurate Masterwork War hammer
+Masterwork Warhammer of Greater Accuracy,Masterwork War hammer of Greater Accuracy
+Masterwork Warhammer of the Master,Masterwork War hammer of the Master
+Masterwork Warhammer of Acid,Masterwork War hammer of Acid
+Masterwork Warhammer of Defence,Masterwork War hammer of Defence
+Masterwork Warhammer of Fire,Masterwork War hammer of Fire
+Masterwork Warhammer of Frost,Masterwork War hammer of Frost
+Masterwork Warhammer of the Grand-master,Masterwork War hammer of the Grandmaster
+Keen Masterwork Warhammer,Keen Masterwork War hammer
+Savage Masterwork Warhammer,Savage Masterwork War hammer
+Masterwork Warhammer of Lightning,Masterwork War hammer of Lightning
+Fine Composite Bow of Celerity,Fine Composite Bow of Celerity
+Accurate Fine Composite Bow,Accurate Fine Composite Bow
+Fine Composite Bow of Greater Accuracy,Fine Composite Bow of Greater Accuracy
+Fine Composite Bow of Defence,Fine Composite Bow of Defence
+Keen Fine Composite Bow,Keen Fine Composite Bow
+Savage Fine Composite Bow,Savage Fine Composite Bow
+Fine Longbow of Celerity,Fine Longbow of Celerity
+Fine Longbow of Speed,Fine Longbow of Speed
+Accurate Fine Longbow,Accurate Fine Longbow
+Fine Longbow of Greater Accuracy,Fine Longbow of Greater Accuracy
+Fine Longbow of Defence,Fine Longbow of Defence
+Keen Fine Longbow,Keen Fine Longbow
+Savage Fine Longbow,Savage Fine Longbow
+Fine Shortbow of Celerity,Fine Shortbow of Celerity
+Accurate Fine Shortbow,Accurate Fine Shortbow
+Fine Shortbow of Greater Accuracy,Fine Shortbow of Greater Accuracy
+Fine Shortbow of Defence,Fine Shortbow of Defence
+Keen Fine Shortbow,Keen Fine Shortbow
+Savage Fine Shortbow,Savage Fine Shortbow
+Masterwork Composite Bow of Celerity,Masterwork Composite Bow of Celerity
+Masterwork Composite Bow of Speed,Masterwork Composite Bow of Speed
+Accurate Masterwork Composite Bow,Accurate Masterwork Composite Bow
+Masterwork Composite Bow of Greater Accuracy,Masterwork Composite Bow of Greater Accuracy
+Masterwork Composite Bow of the Master,Masterwork Composite Bow of the Master
+Masterwork Composite Bow of Acid,Masterwork Composite Bow of Acid
+Masterwork Composite Bow of Defence,Masterwork Composite Bow of Defence
+Masterwork Composite Bow of Fire,Masterwork Composite Bow of Fire
+Masterwork Composite Bow of Frost,Masterwork Composite Bow of Frost
+Masterwork Composite Bow of the Grand-master,Masterwork Composite Bow of the Grandmaster
+Keen Masterwork Composite Bow,Keen Masterwork Composite Bow
+Savage Masterwork Composite Bow,Savage Masterwork Composite Bow
+Masterwork Composite Bow of Lightning,Masterwork Composite Bow of Lightning
+Masterwork Longbow of Celerity,Masterwork Longbow of Celerity
+Masterwork Longbow of Speed,Masterwork Longbow of Speed
+Accurate Masterwork Longbow,Accurate Masterwork Longbow
+Masterwork Longbow of Greater Accuracy,Masterwork Longbow of Greater Accuracy
+Masterwork Longbow of the Master,Masterwork Longbow of the Master
+Masterwork Longbow of Acid,Masterwork Longbow of Acid
+Masterwork Longbow of Defence,Masterwork Longbow of Defence
+Masterwork Longbow of Fire,Masterwork Longbow of Fire
+Masterwork Longbow of Frost,Masterwork Longbow of Frost
+Masterwork Longbow of the Grand-master,Masterwork Longbow of the Grandmaster
+Keen Masterwork Longbow,Keen Masterwork Longbow
+Savage Masterwork Longbow,Savage Masterwork Longbow
+Masterwork Longbow of Lightning,Masterwork Longbow of Lightning
+Masterwork Shortbow of Celerity,Masterwork Shortbow of Celerity
+Masterwork Shortbow of Speed,Masterwork Shortbow of Speed
+Accurate Masterwork Shortbow,Accurate Masterwork Shortbow
+Masterwork Shortbow of Greater Accuracy,Masterwork Shortbow of Greater Accuracy
+Masterwork Shortbow of the Master,Masterwork Shortbow of the Master
+Masterwork Shortbow of Acid,Masterwork Shortbow of Acid
+Masterwork Shortbow of Defence,Masterwork Shortbow of Defence
+Masterwork Shortbow of Fire,Masterwork Shortbow of Fire
+Masterwork Shortbow of Frost,Masterwork Shortbow of Frost
+Masterwork Shortbow of the Grand-master,Masterwork Shortbow of the Grandmaster
+Keen Masterwork Shortbow,Keen Masterwork Shortbow
+Savage Masterwork Shortbow,Savage Masterwork Shortbow
+Masterwork Shortbow of Lightning,Masterwork Shortbow of Lightning
+#Enchantments - Armor,#Enchantments - Armour
+Fine Breastplate of Athletics,Fine Breastplate of Athletics
+Fine Breastplate of Awareness,Fine Breastplate of Awareness
+Fine Breastplate of Crafting,Fine Breastplate of Crafting
+Fine Breastplate of Defence,Fine Breastplate of Defence
+Fine Breastplate of Diplomacy,Fine Breastplate of Diplomacy
+Fine Breastplate of Healing,Fine Breastplate of Healing
+Fine Breastplate of Celerity,Fine Breastplate of Celerity
+Fine Breastplate of Lore,Fine Breastplate of Lore
+Fine Breastplate of Speed,Fine Breastplate of Speed
+Fine Breastplate of Stealth,Fine Breastplate of Stealth
+Fine Breastplate of Survival,Fine Breastplate of Survival
+Fine Breastplate of Thievery,Fine Breastplate of Thievery
+Fine Breastplate of Toughness,Fine Breastplate of Toughness
+Fine Breastplate of Willpower,Fine Breastplate of Willpower
+Fine Chainmail of Athletics,Fine Chainmail of Athletics
+Fine Chainmail of Awareness,Fine Chainmail of Awareness
+Fine Chainmail of Crafting,Fine Chainmail of Crafting
+Fine Chainmail of Defence,Fine Chainmail of Defence
+Fine Chainmail of Diplomacy,Fine Chainmail of Diplomacy
+Fine Chainmail of Healing,Fine Chainmail of Healing
+Fine Chainmail of Celerity,Fine Chainmail of Celerity
+Fine Chainmail of Lore,Fine Chainmail of Lore
+Fine Chainmail of Speed,Fine Chainmail of Speed
+Fine Chainmail of Stealth,Fine Chainmail of Stealth
+Fine Chainmail of Survival,Fine Chainmail of Survival
+Fine Chainmail of Thievery,Fine Chainmail of Thievery
+Fine Chainmail of Toughness,Fine Chainmail of Toughness
+Fine Chainmail of Willpower,Fine Chainmail of Willpower
+Fine Fullplate of Athletics,Fine Fullplate of Athletics
+Fine Fullplate of Awareness,Fine Fullplate of Awareness
+Fine Fullplate of Crafting,Fine Fullplate of Crafting
+Fine Fullplate of Defence,Fine Fullplate of Defence
+Fine Fullplate of Diplomacy,Fine Fullplate of Diplomacy
+Fine Fullplate of Healing,Fine Fullplate of Healing
+Fine Fullplate of Celerity,Fine Fullplate of Celerity
+Fine Fullplate of Lore,Fine Fullplate of Lore
+Fine Fullplate of Speed,Fine Fullplate of Speed
+Fine Fullplate of Stealth,Fine Fullplate of Stealth
+Fine Fullplate of Survival,Fine Fullplate of Survival
+Fine Fullplate of Thievery,Fine Fullplate of Thievery
+Fine Fullplate of Toughness,Fine Fullplate of Toughness
+Fine Fullplate of Willpower,Fine Fullplate of Willpower
+Fine Leather Armor of Athletics,Fine Leather Armor of Athletics
+Fine Leather Armor of Awareness,Fine Leather Armour of Awareness
+Fine Leather Armor of Crafting,Fine Leather Armour of Crafting
+Fine Leather Armor of Defence,Fine Leather Armour of Defence
+Fine Leather Armor of Diplomacy,Fine Leather Armour of Diplomacy
+Fine Leather Armor of Healing,Fine Leather Armour of Healing
+Fine Leather Armor of Celerity,Fine Leather Armour of Celerity
+Fine Leather Armor of Lore,Fine Leather Armour of Lore
+Fine Leather Armor of Speed,Fine Leather Armour of Speed
+Fine Leather Armor of Stealth,Fine Leather Armour of Stealth
+Fine Leather Armor of Survival,Fine Leather Armour of Survival
+Fine Leather Armor of Thievery,Fine Leather Armour of Thievery
+Fine Leather Armor of Toughness,Fine Leather Armour of Toughness
+Fine Leather Armor of Willpower,Fine Leather Armour of Willpower
+Fine Padded Armor of Athletics,Fine Padded Armour of Athletics
+Fine Padded Armor of Awareness,Fine Padded Armour of Awareness
+Fine Padded Armor of Crafting,Fine Padded Armour of Crafting
+Fine Padded Armor of Defence,Fine Padded Armour of Defence
+Fine Padded Armor of Diplomacy,Fine Padded Armour of Diplomacy
+Fine Padded Armor of Healing,Fine Padded Armour of Healing
+Fine Padded Armor of Celerity,Fine Padded Armour of Celerity
+Fine Padded Armor of Lore,Fine Padded Armour of Lore
+Fine Padded Armor of Speed,Fine Padded Armour of Speed
+Fine Padded Armor of Stealth,Fine Padded Armour of Stealth
+Fine Padded Armor of Survival,Fine Padded Armour of Survival
+Fine Padded Armor of Thievery,Fine Padded Armour of Thievery
+Fine Padded Armor of Toughness,Fine Padded Armour of Toughness
+Fine Padded Armor of Willpower,Fine Padded Armour of Willpower
+Fine Scalemail of Athletics,Fine Scalemail of Athletics
+Fine Scalemail of Awareness,Fine Scalemail of Awareness
+Fine Scalemail of Crafting,Fine Scalemail of Crafting
+Fine Scalemail of Defence,Fine Scalemail of Defence
+Fine Scalemail of Diplomacy,Fine Scalemail of Diplomacy
+Fine Scalemail of Healing,Fine Scalemail of Healing
+Fine Scalemail of Celerity,Fine Scalemail of Celerity
+Fine Scalemail of Lore,Fine Scalemail of Lore
+Fine Scalemail of Speed,Fine Scalemail of Speed
+Fine Scalemail of Stealth,Fine Scalemail of Stealth
+Fine Scalemail of Survival,Fine Scalemail of Survival
+Fine Scalemail of Thievery,Fine Scalemail of Thievery
+Fine Scalemail of Toughness,Fine Scalemail of Toughness
+Fine Scalemail of Willpower,Fine Scalemail of Willpower
+Fine Studded Leather of Agility,Fine Studded Leather of Agility
+Fine Studded Leather of Athletics,Fine Studded Leather of Athletics
+Fine Studded Leather of Awareness,Fine Studded Leather of Awareness
+Fine Studded Leather of Crafting,Fine Studded Leather of Crafting
+Fine Studded Leather of Defence,Fine Studded Leather of Defence
+Fine Studded Leather of Diplomacy,Fine Studded Leather of Diplomacy
+Fine Studded Leather of Healing,Fine Studded Leather of Healing
+Fine Studded Leather of Celerity,Fine Studded Leather of Celerity
+Fine Studded Leather of Lore,Fine Studded Leather of Lore
+Fine Studded Leather of Speed,Fine Studded Leather of Speed
+Fine Studded Leather of Stealth,Fine Studded Leather of Stealth
+Fine Studded Leather of Survival,Fine Studded Leather of Survival
+Fine Studded Leather of Thievery,Fine Studded Leather of Thievery
+Fine Studded Leather of Toughness,Fine Studded Leather of Toughness
+Fine Studded Leather of Willpower,Fine Studded Leather of Willpower
+Fine Halfplate of Athletics,Fine Halfplate of Athletics
+Fine Halfplate of Awareness,Fine Halfplate of Awareness
+Fine Halfplate of Crafting,Fine Halfplate of Crafting
+Fine Halfplate of Defence,Fine Halfplate of Defence
+Fine Halfplate of Diplomacy,Fine Halfplate of Diplomacy
+Fine Halfplate of Healing,Fine Halfplate of Healing
+Fine Halfplate of Celerity,Fine Halfplate of Celerity
+Fine Halfplate of Lore,Fine Halfplate of Lore
+Fine Halfplate of Speed,Fine Halfplate of Speed
+Fine Halfplate of Stealth,Fine Halfplate of Stealth
+Fine Halfplate of Survival,Fine Halfplate of Survival
+Fine Halfplate of Thievery,Fine Halfplate of Thievery
+Fine Halfplate of Toughness,Fine Halfplate of Toughness
+Fine Halfplate of Willpower,Fine Halfplate of Willpower
+Masterwork Breastplate of Agility,Masterwork Breastplate of Agility
+Masterwork Breastplate of Athletics,Masterwork Breastplate of Athletics
+Masterwork Breastplate of Awareness,Masterwork Breastplate of Awareness
+Masterwork Breastplate of Crafting,Masterwork Breastplate of Crafting
+Masterwork Breastplate of Defence,Masterwork Breastplate of Defence
+Masterwork Breastplate of Diplomacy,Masterwork Breastplate of Diplomacy
+Masterwork Breastplate of Fortitude,Masterwork Breastplate of Fortitude
+Masterwork Breastplate of Healing,Masterwork Breastplate of Healing
+Masterwork Breastplate of Celerity,Masterwork Breastplate of Celerity
+Masterwork Breastplate of Intellect,Masterwork Breastplate of Intellect
+Masterwork Breastplate of Lore,Masterwork Breastplate of Lore
+Masterwork Breastplate of Presence,Masterwork Breastplate of Presence
+Masterwork Breastplate of Speed,Masterwork Breastplate of Speed
+Masterwork Breastplate of Stealth,Masterwork Breastplate of Stealth
+Masterwork Breastplate of Strength,Masterwork Breastplate of Strength
+Masterwork Breastplate of Survival,Masterwork Breastplate of Survival
+Masterwork Breastplate of Thievery,Masterwork Breastplate of Thievery
+Masterwork Breastplate of Toughness,Masterwork Breastplate of Toughness
+Masterwork Breastplate of Willpower,Masterwork Breastplate of Willpower
+Masterwork Chainmail of Agility,Masterwork Chainmail of Agility
+Masterwork Chainmail of Athletics,Masterwork Chainmail of Athletics
+Masterwork Chainmail of Awareness,Masterwork Chainmail of Awareness
+Masterwork Chainmail of Crafting,Masterwork Chainmail of Crafting
+Masterwork Chainmail of Defence,Masterwork Chainmail of Defence
+Masterwork Chainmail of Diplomacy,Masterwork Chainmail of Diplomacy
+Masterwork Chainmail of Fortitude,Masterwork Chainmail of Fortitude
+Masterwork Chainmail of Healing,Masterwork Chainmail of Healing
+Masterwork Chainmail of Celerity,Masterwork Chainmail of Celerity
+Masterwork Chainmail of Intellect,Masterwork Chainmail of Intellect
+Masterwork Chainmail of Lore,Masterwork Chainmail of Lore
+Masterwork Chainmail of Presence,Masterwork Chainmail of Presence
+Masterwork Chainmail of Speed,Masterwork Chainmail of Speed
+Masterwork Chainmail of Stealth,Masterwork Chainmail of Stealth
+Masterwork Chainmail of Strength,Masterwork Chainmail of Strength
+Masterwork Chainmail of Survival,Masterwork Chainmail of Survival
+Masterwork Chainmail of Thievery,Masterwork Chainmail of Thievery
+Masterwork Chainmail of Toughness,Masterwork Chainmail of Toughness
+Masterwork Chainmail of Willpower,Masterwork Chainmail of Willpower
+Masterwork Fullplate of Agility,Masterwork Fullplate of Agility
+Masterwork Fullplate of Athletics,Masterwork Fullplate of Athletics
+Masterwork Fullplate of Awareness,Masterwork Fullplate of Awareness
+Masterwork Fullplate of Crafting,Masterwork Fullplate of Crafting
+Masterwork Fullplate of Defence,Masterwork Fullplate of Defence
+Masterwork Fullplate of Diplomacy,Masterwork Fullplate of Diplomacy
+Masterwork Fullplate of Fortitude,Masterwork Fullplate of Fortitude
+Masterwork Fullplate of Healing,Masterwork Fullplate of Healing
+Masterwork Fullplate of Celerity,Masterwork Fullplate of Celerity
+Masterwork Fullplate of Intellect,Masterwork Fullplate of Intellect
+Masterwork Fullplate of Lore,Masterwork Fullplate of Lore
+Masterwork Fullplate of Presence,Masterwork Fullplate of Presence
+Masterwork Fullplate of Speed,Masterwork Fullplate of Speed
+Masterwork Fullplate of Stealth,Masterwork Fullplate of Stealth
+Masterwork Fullplate of Strength,Masterwork Fullplate of Strength
+Masterwork Fullplate of Survival,Masterwork Fullplate of Survival
+Masterwork Fullplate of Thievery,Masterwork Fullplate of Thievery
+Masterwork Fullplate of Toughness,Masterwork Fullplate of Toughness
+Masterwork Fullplate of Willpower,Masterwork Fullplate of Willpower
+Masterwork Halfplate of Agility,Masterwork Halfplate of Agility
+Masterwork Halfplate of Athletics,Masterwork Halfplate of Athletics
+Masterwork Halfplate of Awareness,Masterwork Halfplate of Awareness
+Masterwork Halfplate of Crafting,Masterwork Halfplate of Crafting
+Masterwork Halfplate of Defence,Masterwork Halfplate of Defence
+Masterwork Halfplate of Diplomacy,Masterwork Halfplate of Diplomacy
+Masterwork Halfplate of Fortitude,Masterwork Halfplate of Fortitude
+Masterwork Halfplate of Healing,Masterwork Halfplate of Healing
+Masterwork Halfplate of Celerity,Masterwork Halfplate of Celerity
+Masterwork Halfplate of Intellect,Masterwork Halfplate of Intellect
+Masterwork Halfplate of Lore,Masterwork Halfplate of Lore
+Masterwork Halfplate of Presence,Masterwork Halfplate of Presence
+Masterwork Halfplate of Speed,Masterwork Halfplate of Speed
+Masterwork Halfplate of Stealth,Masterwork Halfplate of Stealth
+Masterwork Halfplate of Strength,Masterwork Halfplate of Strength
+Masterwork Halfplate of Survival,Masterwork Halfplate of Survival
+Masterwork Halfplate of Thievery,Masterwork Halfplate of Thievery
+Masterwork Halfplate of Toughness,Masterwork Halfplate of Toughness
+Masterwork Halfplate of Willpower,Masterwork Halfplate of Willpower
+Masterwork Leather Armor of Agility,Masterwork Leather Armour of Agility
+Masterwork Leather Armor of Athletics,Masterwork Leather Armour of Athletics
+Masterwork Leather Armor of Awareness,Masterwork Leather Armour of Awareness
+Masterwork Leather Armor of Crafting,Masterwork Leather Armour of Crafting
+Masterwork Leather Armor of Defence,Masterwork Leather Armour of Defence
+Masterwork Leather Armor of Diplomacy,Masterwork Leather Armour of Diplomacy
+Masterwork Leather Armor of Fortitude,Masterwork Leather Armour of Fortitude
+Masterwork Leather Armor of Healing,Masterwork Leather Armour of Healing
+Masterwork Leather Armor of Celerity,Masterwork Leather Armour of Celerity
+Masterwork Leather Armor of Intellect,Masterwork Leather Armour of Intellect
+Masterwork Leather Armor of Lore,Masterwork Leather Armour of Lore
+Masterwork Leather Armor of Presence,Masterwork Leather Armour of Presence
+Masterwork Leather Armor of Speed,Masterwork Leather Armour of Speed
+Masterwork Leather Armor of Stealth,Masterwork Leather Armour of Stealth
+Masterwork Leather Armor of Strength,Masterwork Leather Armour of Strength
+Masterwork Leather Armor of Survival,Masterwork Leather Armour of Survival
+Masterwork Leather Armor of Thievery,Masterwork Leather Armour of Thievery
+Masterwork Leather Armor of Toughness,Masterwork Leather Armour of Toughness
+Masterwork Leather Armor of Willpower,Masterwork Leather Armour of Willpower
+Masterwork Padded Armor of Agility,Masterwork Padded Armour of Agility
+Masterwork Padded Armor of Athletics,Masterwork Padded Armour of Athletics
+Masterwork Padded Armor of Awareness,Masterwork Padded Armour of Awareness
+Masterwork Padded Armor of Crafting,Masterwork Padded Armour of Crafting
+Masterwork Padded Armor of Defence,Masterwork Padded Armour of Defence
+Masterwork Padded Armor of Diplomacy,Masterwork Padded Armour of Diplomacy
+Masterwork Padded Armor of Fortitude,Masterwork Padded Armour of Fortitude
+Masterwork Padded Armor of Healing,Masterwork Padded Armour of Healing
+Masterwork Padded Armor of Celerity,Masterwork Padded Armour of Celerity
+Masterwork Padded Armor of Intellect,Masterwork Padded Armour of Intellect
+Masterwork Padded Armor of Lore,Masterwork Padded Armour of Lore
+Masterwork Padded Armor of Presence,Masterwork Padded Armour of Presence
+Masterwork Padded Armor of Speed,Masterwork Padded Armour of Speed
+Masterwork Padded Armor of Stealth,Masterwork Padded Armour of Stealth
+Masterwork Padded Armor of Strength,Masterwork Padded Armour of Strength
+Masterwork Padded Armor of Survival,Masterwork Padded Armour of Survival
+Masterwork Padded Armor of Thievery,Masterwork Padded Armour of Thievery
+Masterwork Padded Armor of Toughness,Masterwork Padded Armour of Toughness
+Masterwork Padded Armor of Willpower,Masterwork Padded Armour of Willpower
+Masterwork Scalemail of Agility,Masterwork Scalemail of Agility
+Masterwork Scalemail of Athletics,Masterwork Scalemail of Athletics
+Masterwork Scalemail of Awareness,Masterwork Scalemail of Awareness
+Masterwork Scalemail of Crafting,Masterwork Scalemail of Crafting
+Masterwork Scalemail of Defence,Masterwork Scalemail of Defence
+Masterwork Scalemail of Diplomacy,Masterwork Scalemail of Diplomacy
+Masterwork Scalemail of Fortitude,Masterwork Scalemail of Fortitude
+Masterwork Scalemail of Healing,Masterwork Scalemail of Healing
+Masterwork Scalemail of Celerity,Masterwork Scalemail of Celerity
+Masterwork Scalemail of Intellect,Masterwork Scalemail of Intellect
+Masterwork Scalemail of Lore,Masterwork Scalemail of Lore
+Masterwork Scalemail of Presence,Masterwork Scalemail of Presence
+Masterwork Scalemail of Speed,Masterwork Scalemail of Speed
+Masterwork Scalemail of Stealth,Masterwork Scalemail of Stealth
+Masterwork Scalemail of Strength,Masterwork Scalemail of Strength
+Masterwork Scalemail of Survival,Masterwork Scalemail of Survival
+Masterwork Scalemail of Thievery,Masterwork Scalemail of Thievery
+Masterwork Scalemail of Toughness,Masterwork Scalemail of Toughness
+Masterwork Scalemail of Willpower,Masterwork Scalemail of Willpower
+Masterwork Studded Leather of Agility,Masterwork Studded Leather of Agility
+Masterwork Studded Leather of Athletics,Masterwork Studded Leather of Athletics
+Masterwork Studded Leather of Awareness,Masterwork Studded Leather of Awareness
+Masterwork Studded Leather of Crafting,Masterwork Studded Leather of Crafting
+Masterwork Studded Leather of Defence,Masterwork Studded Leather of Defence
+Masterwork Studded Leather of Diplomacy,Masterwork Studded Leather of Diplomacy
+Masterwork Studded Leather of Fortitude,Masterwork Studded Leather of Fortitude
+Masterwork Studded Leather of Healing,Masterwork Studded Leather of Healing
+Masterwork Studded Leather of Celerity,Masterwork Studded Leather of Celerity
+Masterwork Studded Leather of Intellect,Masterwork Studded Leather of Intellect
+Masterwork Studded Leather of Lore,Masterwork Studded Leather of Lore
+Masterwork Studded Leather of Presence,Masterwork Studded Leather of Presence
+Masterwork Studded Leather of Speed,Masterwork Studded Leather of Speed
+Masterwork Studded Leather of Stealth,Masterwork Studded Leather of Stealth
+Masterwork Studded Leather of Strength,Masterwork Studded Leather of Strength
+Masterwork Studded Leather of Survival,Masterwork Studded Leather of Survival
+Masterwork Studded Leather of Thievery,Masterwork Studded Leather of Thievery
+Masterwork Studded Leather of Toughness,Masterwork Studded Leather of Toughness
+Masterwork Studded Leather of Willpower,Masterwork Studded Leather of Willpower
+The Rat Queen's Armor of Strength,The Rat Queen's Armour of Strength
+Buckler of Athletics,Buckler of Athletics
+Buckler of Awareness,Buckler of Awareness
+Buckler of Crafting,Buckler of Crafting
+Buckler of Defence,Buckler of Defence
+Buckler of Diplomacy,Buckler of Diplomacy
+Buckler of Healing,Buckler of Healing
+Buckler of Celerity,Buckler of Celerity
+Buckler of Lore,Buckler of Lore
+Buckler of Speed,Buckler of Speed
+Buckler of Stealth,Buckler of Stealth
+Buckler of Survival,Buckler of Survival
+Buckler of Thievery,Buckler of Thievery
+Buckler of Toughness,Buckler of Toughness
+Buckler of Willpower,Buckler of Willpower
+Large Shield of Athletics,Large Shield of Athletics
+Large Shield of Awareness,Large Shield of Awareness
+Large Shield of Crafting,Large Shield of Crafting
+Large Shield of Defence,Large Shield of Defence
+Large Shield of Diplomacy,Large Shield of Diplomacy
+Large Shield of Healing,Large Shield of Healing
+Large Shield of Celerity,Large Shield of Celerity
+Large Shield of Lore,Large Shield of Lore
+Large Shield of Speed,Large Shield of Speed
+Large Shield of Stealth,Large Shield of Stealth
+Large Shield of Survival,Large Shield of Survival
+Large Shield of Thievery,Large Shield of Thievery
+Large Shield of Toughness,Large Shield of Toughness
+Large Shield of Willpower,Large Shield of Willpower
+Round Shield of Athletics,Round Shield of Athletics
+Round Shield of Awareness,Round Shield of Awareness
+Round Shield of Crafting,Round Shield of Crafting
+Round Shield of Defence,Round Shield of Defence
+Round Shield of Diplomacy,Round Shield of Diplomacy
+Round Shield of Healing,Round Shield of Healing
+Round Shield of Celerity,Round Shield of Celerity
+Round Shield of Lore,Round Shield of Lore
+Round Shield of Speed,Round Shield of Speed
+Round Shield of Stealth,Round Shield of Stealth
+Round Shield of Survival,Round Shield of Survival
+Round Shield of Thievery,Round Shield of Thievery
+Round Shield of Toughness,Round Shield of Toughness
+Round Shield of Willpower,Round Shield of Willpower
+Shield of Athletics,Shield of Athletics
+Shield of Awareness,Shield of Awareness
+Shield of Crafting,Shield of Crafting
+Shield of Defence,Shield of Defence
+Shield of Diplomacy,Shield of Diplomacy
+Shield of Healing,Shield of Healing
+Shield of Celerity,Shield of Celerity
+Shield of Lore,Shield of Lore
+Shield of Speed,Shield of Speed
+Shield of Stealth,Shield of Stealth
+Shield of Survival,Shield of Survival
+Shield of Thievery,Shield of Thievery
+Shield of Toughness,Shield of Toughness
+Shield of Willpower,Shield of Willpower
+Tower Shield of Athletics,Tower Shield of Athletics
+Tower Shield of Awareness,Tower Shield of Awareness
+Tower Shield of Crafting,Tower Shield of Crafting
+Tower Shield of Defence,Tower Shield of Defence
+Tower Shield of Diplomacy,Tower Shield of Diplomacy
+Tower Shield of Healing,Tower Shield of Healing
+Tower Shield of Celerity,Tower Shield of Celerity
+Tower Shield of Lore,Tower Shield of Lore
+Tower Shield of Speed,Tower Shield of Speed
+Tower Shield of Stealth,Tower Shield of Stealth
+Tower Shield of Survival,Tower Shield of Survival
+Tower Shield of Thievery,Tower Shield of Thievery
+Tower Shield of Toughness,Tower Shield of Toughness
+Tower Shield of Willpower,Tower Shield of Willpower
+Masterwork Armored Boots of Agility,Masterwork Armoured Boots of Agility
+Masterwork Armored Boots of Athletics,Masterwork Armoured Boots of Athletics
+Masterwork Armored Boots of Awareness,Masterwork Armoured Boots of Awareness
+Masterwork Armored Boots of Crafting,Masterwork Armoured Boots of Crafting
+Masterwork Armored Boots of Defence,Masterwork Armoured Boots of Defence
+Masterwork Armored Boots of Diplomacy,Masterwork Armoured Boots of Diplomacy
+Masterwork Armored Boots of Fortitude,Masterwork Armoured Boots of Fortitude
+Masterwork Armored Boots of Healing,Masterwork Armoured Boots of Healing
+Masterwork Armored Boots of Celerity,Masterwork Armoured Boots of Celerity
+Masterwork Armored Boots of Intellect,Masterwork Armoured Boots of Intellect
+Masterwork Armored Boots of Lore,Masterwork Armoured Boots of Lore
+Masterwork Armored Boots of Presence,Masterwork Armoured Boots of Presence
+Masterwork Armored Boots of Speed,Masterwork Armoured Boots of Speed
+Masterwork Armored Boots of Stealth,Masterwork Armoured Boots of Stealth
+Masterwork Armored Boots of Strength,Masterwork Armoured Boots of Strength
+Masterwork Armored Boots of Survival,Masterwork Armoured Boots of Survival
+Masterwork Armored Boots of Thievery,Masterwork Armoured Boots of Thievery
+Masterwork Armored Boots of Toughness,Masterwork Armoured Boots of Toughness
+Masterwork Armored Boots of Willpower,Masterwork Armoured Boots of Willpower
+Masterwork Leather Boots of Agility,Masterwork Leather Boots of Agility
+Masterwork Leather Boots of Athletics,Masterwork Leather Boots of Athletics
+Masterwork Leather Boots of Awareness,Masterwork Leather Boots of Awareness
+Masterwork Leather Boots of Crafting,Masterwork Leather Boots of Crafting
+Masterwork Leather Boots of Defence,Masterwork Leather Boots of Defence
+Masterwork Leather Boots of Diplomacy,Masterwork Leather Boots of Diplomacy
+Masterwork Leather Boots of Fortitude,Masterwork Leather Boots of Fortitude
+Masterwork Leather Boots of Healing,Masterwork Leather Boots of Healing
+Masterwork Leather Boots of Celerity,Masterwork Leather Boots of Celerity
+Masterwork Leather Boots of Intellect,Masterwork Leather Boots of Intellect
+Masterwork Leather Boots of Lore,Masterwork Leather Boots of Lore
+Masterwork Leather Boots of Presence,Masterwork Leather Boots of Presence
+Masterwork Leather Boots of Speed,Masterwork Leather Boots of Speed
+Masterwork Leather Boots of Stealth,Masterwork Leather Boots of Stealth
+Masterwork Leather Boots of Strength,Masterwork Leather Boots of Strength
+Masterwork Leather Boots of Survival,Masterwork Leather Boots of Survival
+Masterwork Leather Boots of Thievery,Masterwork Leather Boots of Thievery
+Masterwork Leather Boots of Toughness,Masterwork Leather Boots of Toughness
+Masterwork Leather Boots of Willpower,Masterwork Leather Boots of Willpower
+Masterwork Noble's Boots of Agility,Masterwork Noble's Boots of Agility
+Masterwork Noble's Boots of Athletics,Masterwork Noble's Boots of Athletics
+Masterwork Noble's Boots of Awareness,Masterwork Noble's Boots of Awareness
+Masterwork Noble's Boots of Crafting,Masterwork Noble's Boots of Crafting
+Masterwork Noble's Boots of Defence,Masterwork Noble's Boots of Defence
+Masterwork Noble's Boots of Diplomacy,Masterwork Noble's Boots of Diplomacy
+Masterwork Noble's Boots of Fortitude,Masterwork Noble's Boots of Fortitude
+Masterwork Noble's Boots of Healing,Masterwork Noble's Boots of Healing
+Masterwork Noble's Boots of Celerity,Masterwork Noble's Boots of Celerity
+Masterwork Noble's Boots of Intellect,Masterwork Noble's Boots of Intellect
+Masterwork Noble's Boots of Lore,Masterwork Noble's Boots of Lore
+Masterwork Noble's Boots of Presence,Masterwork Noble's Boots of Presence
+Masterwork Noble's Boots of Speed,Masterwork Noble's Boots of Speed
+Masterwork Noble's Boots of Stealth,Masterwork Noble's Boots of Stealth
+Masterwork Noble's Boots of Strength,Masterwork Noble's Boots of Strength
+Masterwork Noble's Boots of Survival,Masterwork Noble's Boots of Survival
+Masterwork Noble's Boots of Thievery,Masterwork Noble's Boots of Thievery
+Masterwork Noble's Boots of Toughness,Masterwork Noble's Boots of Toughness
+Masterwork Noble's Boots of Willpower,Masterwork Noble's Boots of Willpower
+Masterwork Travelers Boots of Agility,Masterwork Traveller's Boots of Agility
+Masterwork Travelers Boots of Athletics,Masterwork Traveller's Boots of Athletics
+Masterwork Travelers Boots of Awareness,Masterwork Traveller's Boots of Awareness
+Masterwork Travelers Boots of Crafting,Masterwork Traveller's Boots of Crafting
+Masterwork Travelers Boots of Defence,Masterwork Traveller's Boots of Defence
+Masterwork Travelers Boots of Diplomacy,Masterwork Traveller's Boots of Diplomacy
+Masterwork Travelers Boots of Fortitude,Masterwork Traveller's Boots of Fortitude
+Masterwork Travelers Boots of Healing,Masterwork Traveller's Boots of Healing
+Masterwork Travelers Boots of Celerity,Masterwork Traveller's Boots of Celerity
+Masterwork Travelers Boots of Intellect,Masterwork Traveller's Boots of Intellect
+Masterwork Travelers Boots of Lore,Masterwork Traveller's Boots of Lore
+Masterwork Travelers Boots of Presence,Masterwork Traveller's Boots of Presence
+Masterwork Travelers Boots of Speed,Masterwork Traveller's Boots of Speed
+Masterwork Travelers Boots of Stealth,Masterwork Traveller's Boots of Stealth
+Masterwork Travelers Boots of Strength,Masterwork Traveller's Boots of Strength
+Masterwork Travelers Boots of Survival,Masterwork Traveller's Boots of Survival
+Masterwork Travelers Boots of Thievery,Masterwork Traveller's Boots of Thievery
+Masterwork Travelers Boots of Toughness,Masterwork Traveller's Boots of Toughness
+Masterwork Travelers Boots of Willpower,Masterwork Traveller's Boots of Willpower
+Masterwork Armored Gauntlets of Agility,Masterwork Armoured Gauntlets of Agility
+Masterwork Armored Gauntlets of Athletics,Masterwork Armoured Gauntlets of Athletics
+Masterwork Armored Gauntlets of Awareness,Masterwork Armoured Gauntlets of Awareness
+Masterwork Armored Gauntlets of Crafting,Masterwork Armoured Gauntlets of Crafting
+Masterwork Armored Gauntlets of Defence,Masterwork Armoured Gauntlets of Defence
+Masterwork Armored Gauntlets of Diplomacy,Masterwork Armoured Gauntlets of Diplomacy
+Masterwork Armored Gauntlets of Fortitude,Masterwork Armoured Gauntlets of Fortitude
+Masterwork Armored Gauntlets of Healing,Masterwork Armoured Gauntlets of Healing
+Masterwork Armored Gauntlets of Celerity,Masterwork Armoured Gauntlets of Celerity
+Masterwork Armored Gauntlets of Intellect,Masterwork Armoured Gauntlets of Intellect
+Masterwork Armored Gauntlets of Lore,Masterwork Armoured Gauntlets of Lore
+Masterwork Armored Gauntlets of Presence,Masterwork Armoured Gauntlets of Presence
+Masterwork Armored Gauntlets of Speed,Masterwork Armoured Gauntlets of Speed
+Masterwork Armored Gauntlets of Stealth,Masterwork Armoured Gauntlets of Stealth
+Masterwork Armored Gauntlets of Strength,Masterwork Armoured Gauntlets of Strength
+Masterwork Armored Gauntlets of Survival,Masterwork Armoured Gauntlets of Survival
+Masterwork Armored Gauntlets of Thievery,Masterwork Armoured Gauntlets of Thievery
+Masterwork Armored Gauntlets of Toughness,Masterwork Armoured Gauntlets of Toughness
+Masterwork Armored Gauntlets of Willpower,Masterwork Armoured Gauntlets of Willpower
+Masterwork Leather Gloves of Agility,Masterwork Leather Gloves of Agility
+Masterwork Leather Gloves of Athletics,Masterwork Leather Gloves of Athletics
+Masterwork Leather Gloves of Awareness,Masterwork Leather Gloves of Awareness
+Masterwork Leather Gloves of Crafting,Masterwork Leather Gloves of Crafting
+Masterwork Leather Gloves of Defence,Masterwork Leather Gloves of Defence
+Masterwork Leather Gloves of Diplomacy,Masterwork Leather Gloves of Diplomacy
+Masterwork Leather Gloves of Fortitude,Masterwork Leather Gloves of Fortitude
+Masterwork Leather Gloves of Healing,Masterwork Leather Gloves of Healing
+Masterwork Leather Gloves of Celerity,Masterwork Leather Gloves of Celerity
+Masterwork Leather Gloves of Intellect,Masterwork Leather Gloves of Intellect
+Masterwork Leather Gloves of Lore,Masterwork Leather Gloves of Lore
+Masterwork Leather Gloves of Presence,Masterwork Leather Gloves of Presence
+Masterwork Leather Gloves of Speed,Masterwork Leather Gloves of Speed
+Masterwork Leather Gloves of Stealth,Masterwork Leather Gloves of Stealth
+Masterwork Leather Gloves of Strength,Masterwork Leather Gloves of Strength
+Masterwork Leather Gloves of Survival,Masterwork Leather Gloves of Survival
+Masterwork Leather Gloves of Thievery,Masterwork Leather Gloves of Thievery
+Masterwork Leather Gloves of Toughness,Masterwork Leather Gloves of Toughness
+Masterwork Leather Gloves of Willpower,Masterwork Leather Gloves of Willpower
+Masterwork Mailed Gauntlets of Agility,Masterwork Mailed Gauntlets of Agility
+Masterwork Mailed Gauntlets of Athletics,Masterwork Mailed Gauntlets of Athletics
+Masterwork Mailed Gauntlets of Awareness,Masterwork Mailed Gauntlets of Awareness
+Masterwork Mailed Gauntlets of Crafting,Masterwork Mailed Gauntlets of Crafting
+Masterwork Mailed Gauntlets of Defence,Masterwork Mailed Gauntlets of Defence
+Masterwork Mailed Gauntlets of Diplomacy,Masterwork Mailed Gauntlets of Diplomacy
+Masterwork Mailed Gauntlets of Fortitude,Masterwork Mailed Gauntlets of Fortitude
+Masterwork Mailed Gauntlets of Healing,Masterwork Mailed Gauntlets of Healing
+Masterwork Mailed Gauntlets of Celerity,Masterwork Mailed Gauntlets of Celerity
+Masterwork Mailed Gauntlets of Intellect,Masterwork Mailed Gauntlets of Intellect
+Masterwork Mailed Gauntlets of Lore,Masterwork Mailed Gauntlets of Lore
+Masterwork Mailed Gauntlets of Presence,Masterwork Mailed Gauntlets of Presence
+Masterwork Mailed Gauntlets of Speed,Masterwork Mailed Gauntlets of Speed
+Masterwork Mailed Gauntlets of Stealth,Masterwork Mailed Gauntlets of Stealth
+Masterwork Mailed Gauntlets of Strength,Masterwork Mailed Gauntlets of Strength
+Masterwork Mailed Gauntlets of Survival,Masterwork Mailed Gauntlets of Survival
+Masterwork Mailed Gauntlets of Thievery,Masterwork Mailed Gauntlets of Thievery
+Masterwork Mailed Gauntlets of Toughness,Masterwork Mailed Gauntlets of Toughness
+Masterwork Mailed Gauntlets of Willpower,Masterwork Mailed Gauntlets of Willpower
+Masterwork Noble's Gloves of Agility,Masterwork Noble's Gloves of Agility
+Masterwork Noble's Gloves of Athletics,Masterwork Noble's Gloves of Athletics
+Masterwork Noble's Gloves of Awareness,Masterwork Noble's Gloves of Awareness
+Masterwork Noble's Gloves of Crafting,Masterwork Noble's Gloves of Crafting
+Masterwork Noble's Gloves of Defence,Masterwork Noble's Gloves of Defence
+Masterwork Noble's Gloves of Diplomacy,Masterwork Noble's Gloves of Diplomacy
+Masterwork Noble's Gloves of Fortitude,Masterwork Noble's Gloves of Fortitude
+Masterwork Noble's Gloves of Healing,Masterwork Noble's Gloves of Healing
+Masterwork Noble's Gloves of Celerity,Masterwork Noble's Gloves of Celerity
+Masterwork Noble's Gloves of Intellect,Masterwork Noble's Gloves of Intellect
+Masterwork Noble's Gloves of Lore,Masterwork Noble's Gloves of Lore
+Masterwork Noble's Gloves of Presence,Masterwork Noble's Gloves of Presence
+Masterwork Noble's Gloves of Speed,Masterwork Noble's Gloves of Speed
+Masterwork Noble's Gloves of Stealth,Masterwork Noble's Gloves of Stealth
+Masterwork Noble's Gloves of Strength,Masterwork Noble's Gloves of Strength
+Masterwork Noble's Gloves of Survival,Masterwork Noble's Gloves of Survival
+Masterwork Noble's Gloves of Thievery,Masterwork Noble's Gloves of Thievery
+Masterwork Noble's Gloves of Toughness,Masterwork Noble's Gloves of Toughness
+Masterwork Noble's Gloves of Willpower,Masterwork Noble's Gloves of Willpower
+Masterwork Travelers Gloves of Agility,Masterwork Traveller's Gloves of Agility
+Masterwork Travelers Gloves of Athletics,Masterwork Traveller's Gloves of Athletics
+Masterwork Travelers Gloves of Awareness,Masterwork Traveller's Gloves of Awareness
+Masterwork Travelers Gloves of Crafting,Masterwork Traveller's Gloves of Crafting
+Masterwork Travelers Gloves of Defence,Masterwork Traveller's Gloves of Defence
+Masterwork Travelers Gloves of Diplomacy,Masterwork Traveller's Gloves of Diplomacy
+Masterwork Travelers Gloves of Fortitude,Masterwork Traveller's Gloves of Fortitude
+Masterwork Travelers Gloves of Healing,Masterwork Traveller's Gloves of Healing
+Masterwork Travelers Gloves of Celerity,Masterwork Traveller's Gloves of Celerity
+Masterwork Travelers Gloves of Intellect,Masterwork Traveller's Gloves of Intellect
+Masterwork Travelers Gloves of Lore,Masterwork Traveller's Gloves of Lore
+Masterwork Travelers Gloves of Presence,Masterwork Traveller's Gloves of Presence
+Masterwork Travelers Gloves of Speed,Masterwork Traveller's Gloves of Speed
+Masterwork Travelers Gloves of Stealth,Masterwork Traveller's Gloves of Stealth
+Masterwork Travelers Gloves of Strength,Masterwork Traveller's Gloves of Strength
+Masterwork Travelers Gloves of Survival,Masterwork Traveller's Gloves of Survival
+Masterwork Travelers Gloves of Thievery,Masterwork Traveller's Gloves of Thievery
+Masterwork Travelers Gloves of Toughness,Masterwork Traveller's Gloves of Toughness
+Masterwork Travelers Gloves of Willpower,Masterwork Traveller's Gloves of Willpower
+Hat of Athletics,Hat of Athletics
+Hat of Awareness,Hat of Awareness
+Hat of Crafting,Hat of Crafting
+Hat of Defence,Hat of Defence
+Hat of Diplomacy,Hat of Diplomacy
+Hat of Healing,Hat of Healing
+Hat of Celerity,Hat of Celerity
+Hat of Lore,Hat of Lore
+Hat of Speed,Hat of Speed
+Hat of Stealth,Hat of Stealth
+Hat of Survival,Hat of Survival
+Hat of Thievery,Hat of Thievery
+Hat of Toughness,Hat of Toughness
+Hat of Willpower,Hat of Willpower
+Masterwork Full Helmet of Agility,Masterwork Full Helmet of Agility
+Masterwork Full Helmet of Athletics,Masterwork Full Helmet of Athletics
+Masterwork Full Helmet of Awareness,Masterwork Full Helmet of Awareness
+Masterwork Full Helmet of Crafting,Masterwork Full Helmet of Crafting
+Masterwork Full Helmet of Defence,Masterwork Full Helmet of Defence
+Masterwork Full Helmet of Diplomacy,Masterwork Full Helmet of Diplomacy
+Masterwork Full Helmet of Fortitude,Masterwork Full Helmet of Fortitude
+Masterwork Full Helmet of Healing,Masterwork Full Helmet of Healing
+Masterwork Full Helmet of Celerity,Masterwork Full Helmet of Celerity
+Masterwork Full Helmet of Intellect,Masterwork Full Helmet of Intellect
+Masterwork Full Helmet of Lore,Masterwork Full Helmet of Lore
+Masterwork Full Helmet of Presence,Masterwork Full Helmet of Presence
+Masterwork Full Helmet of Speed,Masterwork Full Helmet of Speed
+Masterwork Full Helmet of Stealth,Masterwork Full Helmet of Stealth
+Masterwork Full Helmet of Strength,Masterwork Full Helmet of Strength
+Masterwork Full Helmet of Survival,Masterwork Full Helmet of Survival
+Masterwork Full Helmet of Thievery,Masterwork Full Helmet of Thievery
+Masterwork Full Helmet of Toughness,Masterwork Full Helmet of Toughness
+Masterwork Full Helmet of Willpower,Masterwork Full Helmet of Willpower
+Masterwork Horned Helmet of Agility,Masterwork Horned Helmet of Agility
+Masterwork Horned Helmet of Athletics,Masterwork Horned Helmet of Athletics
+Masterwork Horned Helmet of Awareness,Masterwork Horned Helmet of Awareness
+Masterwork Horned Helmet of Crafting,Masterwork Horned Helmet of Crafting
+Masterwork Horned Helmet of Defence,Masterwork Horned Helmet of Defence
+Masterwork Horned Helmet of Diplomacy,Masterwork Horned Helmet of Diplomacy
+Masterwork Horned Helmet of Fortitude,Masterwork Horned Helmet of Fortitude
+Masterwork Horned Helmet of Healing,Masterwork Horned Helmet of Healing
+Masterwork Horned Helmet of Celerity,Masterwork Horned Helmet of Celerity
+Masterwork Horned Helmet of Intellect,Masterwork Horned Helmet of Intellect
+Masterwork Horned Helmet of Lore,Masterwork Horned Helmet of Lore
+Masterwork Horned Helmet of Presence,Masterwork Horned Helmet of Presence
+Masterwork Horned Helmet of Speed,Masterwork Horned Helmet of Speed
+Masterwork Horned Helmet of Stealth,Masterwork Horned Helmet of Stealth
+Masterwork Horned Helmet of Strength,Masterwork Horned Helmet of Strength
+Masterwork Horned Helmet of Survival,Masterwork Horned Helmet of Survival
+Masterwork Horned Helmet of Thievery,Masterwork Horned Helmet of Thievery
+Masterwork Horned Helmet of Toughness,Masterwork Horned Helmet of Toughness
+Masterwork Horned Helmet of Willpower,Masterwork Horned Helmet of Willpower
+Masterwork Mail Coif of Agility,Masterwork Mail Coif of Agility
+Masterwork Mail Coif of Athletics,Masterwork Mail Coif of Athletics
+Masterwork Mail Coif of Awareness,Masterwork Mail Coif of Awareness
+Masterwork Mail Coif of Crafting,Masterwork Mail Coif of Crafting
+Masterwork Mail Coif of Defence,Masterwork Mail Coif of Defence
+Masterwork Mail Coif of Diplomacy,Masterwork Mail Coif of Diplomacy
+Masterwork Mail Coif of Fortitude,Masterwork Mail Coif of Fortitude
+Masterwork Mail Coif of Healing,Masterwork Mail Coif of Healing
+Masterwork Mail Coif of Celerity,Masterwork Mail Coif of Celerity
+Masterwork Mail Coif of Intellect,Masterwork Mail Coif of Intellect
+Masterwork Mail Coif of Lore,Masterwork Mail Coif of Lore
+Masterwork Mail Coif of Presence,Masterwork Mail Coif of Presence
+Masterwork Mail Coif of Speed,Masterwork Mail Coif of Speed
+Masterwork Mail Coif of Stealth,Masterwork Mail Coif of Stealth
+Masterwork Mail Coif of Strength,Masterwork Mail Coif of Strength
+Masterwork Mail Coif of Survival,Masterwork Mail Coif of Survival
+Masterwork Mail Coif of Thievery,Masterwork Mail Coif of Thievery
+Masterwork Mail Coif of Toughness,Masterwork Mail Coif of Toughness
+Masterwork Mail Coif of Willpower,Masterwork Mail Coif of Willpower
+Masterwork Plumed Helmet of Agility,Masterwork Plumed Helmet of Agility
+Masterwork Plumed Helmet of Athletics,Masterwork Plumed Helmet of Athletics
+Masterwork Plumed Helmet of Awareness,Masterwork Plumed Helmet of Awareness
+Masterwork Plumed Helmet of Crafting,Masterwork Plumed Helmet of Crafting
+Masterwork Plumed Helmet of Defence,Masterwork Plumed Helmet of Defence
+Masterwork Plumed Helmet of Diplomacy,Masterwork Plumed Helmet of Diplomacy
+Masterwork Plumed Helmet of Fortitude,Masterwork Plumed Helmet of Fortitude
+Masterwork Plumed Helmet of Healing,Masterwork Plumed Helmet of Healing
+Masterwork Plumed Helmet of Celerity,Masterwork Plumed Helmet of Celerity
+Masterwork Plumed Helmet of Intellect,Masterwork Plumed Helmet of Intellect
+Masterwork Plumed Helmet of Lore,Masterwork Plumed Helmet of Lore
+Masterwork Plumed Helmet of Presence,Masterwork Plumed Helmet of Presence
+Masterwork Plumed Helmet of Speed,Masterwork Plumed Helmet of Speed
+Masterwork Plumed Helmet of Stealth,Masterwork Plumed Helmet of Stealth
+Masterwork Plumed Helmet of Strength,Masterwork Plumed Helmet of Strength
+Masterwork Plumed Helmet of Survival,Masterwork Plumed Helmet of Survival
+Masterwork Plumed Helmet of Thievery,Masterwork Plumed Helmet of Thievery
+Masterwork Plumed Helmet of Toughness,Masterwork Plumed Helmet of Toughness
+Masterwork Plumed Helmet of Willpower,Masterwork Plumed Helmet of Willpower
+Officer's Helmet of Agility,Officer's Helmet of Agility
+Officer's Helmet of Athletics,Officer's Helmet of Athletics
+Officer's Helmet of Awareness,Officer's Helmet of Awareness
+Officer's Helmet of Crafting,Officer's Helmet of Crafting
+Officer's Helmet of Defence,Officer's Helmet of Defence
+Officer's Helmet of Diplomacy,Officer's Helmet of Diplomacy
+Officer's Helmet of Fortitude,Officer's Helmet of Fortitude
+Officer's Helmet of Healing,Officer's Helmet of Healing
+Officer's Helmet of Celerity,Officer's Helmet of Celerity
+Officer's Helmet of Intellect,Officer's Helmet of Intellect
+Officer's Helmet of Lore,Officer's Helmet of Lore
+Officer's Helmet of Presence,Officer's Helmet of Presence
+Officer's Helmet of Speed,Officer's Helmet of Speed
+Officer's Helmet of Stealth,Officer's Helmet of Stealth
+Officer's Helmet of Strength,Officer's Helmet of Strength
+Officer's Helmet of Survival,Officer's Helmet of Survival
+Officer's Helmet of Thievery,Officer's Helmet of Thievery
+Officer's Helmet of Toughness,Officer's Helmet of Toughness
+Officer's Helmet of Willpower,Officer's Helmet of Willpower
+#Enchantments - Jewellery,#Enchantments - Jewellery
+Ancient Gold Necklace of Athletics,Ancient Gold Necklace of Athletics
+Ancient Gold Necklace of Awareness,Ancient Gold Necklace of Awareness
+Ancient Gold Necklace of Crafting,Ancient Gold Necklace of Crafting
+Ancient Gold Necklace of Defence,Ancient Gold Necklace of Defence
+Ancient Gold Necklace of Diplomacy,Ancient Gold Necklace of Diplomacy
+Ancient Gold Necklace of Fortitude,Ancient Gold Necklace of Fortitude
+Ancient Gold Necklace of Healing,Ancient Gold Necklace of Healing
+Ancient Gold Necklace of Celerity,Ancient Gold Necklace of Celerity
+Ancient Gold Necklace of Lore,Ancient Gold Necklace of Lore
+Ancient Gold Necklace of Stealth,Ancient Gold Necklace of Stealth
+Ancient Gold Necklace of Survival,Ancient Gold Necklace of Survival
+Ancient Gold Necklace of Thievery,Ancient Gold Necklace of Thievery
+Ancient Gold Necklace of Toughness,Ancient Gold Necklace of Toughness
+Ancient Gold Necklace of Willpower,Ancient Gold Necklace of Willpower
+Ancient Jade Necklace of Athletics,Ancient Jade Necklace of Athletics
+Ancient Jade Necklace of Awareness,Ancient Jade Necklace of Awareness
+Ancient Jade Necklace of Crafting,Ancient Jade Necklace of Crafting
+Ancient Jade Necklace of Defence,Ancient Jade Necklace of Defence
+Ancient Jade Necklace of Diplomacy,Ancient Jade Necklace of Diplomacy
+Ancient Jade Necklace of Fortitude,Ancient Jade Necklace of Fortitude
+Ancient Jade Necklace of Healing,Ancient Jade Necklace of Healing
+Ancient Jade Necklace of Celerity,Ancient Jade Necklace of Celerity
+Ancient Jade Necklace of Lore,Ancient Jade Necklace of Lore
+Ancient Jade Necklace of Stealth,Ancient Jade Necklace of Stealth
+Ancient Jade Necklace of Survival,Ancient Jade Necklace of Survival
+Ancient Jade Necklace of Thievery,Ancient Jade Necklace of Thievery
+Ancient Jade Necklace of Toughness,Ancient Jade Necklace of Toughness
+Ancient Jade Necklace of Willpower,Ancient Jade Necklace of Willpower
+Arcane Necklace of Athletics,Arcane Necklace of Athletics
+Arcane Necklace of Agility,Arcane Necklace of Agility
+Arcane Necklace of Awareness,Arcane Necklace of Awareness
+Arcane Necklace of Crafting,Arcane Necklace of Crafting
+Arcane Necklace of Defence,Arcane Necklace of Defence
+Arcane Necklace of Diplomacy,Arcane Necklace of Diplomacy
+Arcane Necklace of Fortitude,Arcane Necklace of Fortitude
+Arcane Necklace of Healing,Arcane Necklace of Healing
+Arcane Necklace of the Hero,Arcane Necklace of the Hero
+Arcane Necklace of Celerity,Arcane Necklace of Celerity
+Arcane Necklace of Intellect,Arcane Necklace of Intellect
+Arcane Necklace of Lore,Arcane Necklace of Lore
+Arcane Necklace of Presence,Arcane Necklace of Presence
+Arcane Necklace of Protection,Arcane Necklace of Protection
+Arcane Necklace of Speed,Arcane Necklace of Speed
+Arcane Necklace of Stealth,Arcane Necklace of Stealth
+Arcane Necklace of Strength,Arcane Necklace of Strength
+Arcane Necklace of Survival,Arcane Necklace of Survival
+Arcane Necklace of Thievery,Arcane Necklace of Thievery
+Arcane Necklace of Toughness,Arcane Necklace of Toughness
+Arcane Necklace of Willpower,Arcane Necklace of Willpower
+Beryl Necklace of Agility,Beryl Necklace of Agility
+Beryl Necklace of Athletics,Beryl Necklace of Athletics
+Beryl Necklace of Awareness,Beryl Necklace of Awareness
+Beryl Necklace of Crafting,Beryl Necklace of Crafting
+Beryl Necklace of Defence,Beryl Necklace of Defence
+Beryl Necklace of Diplomacy,Beryl Necklace of Diplomacy
+Beryl Necklace of Fortitude,Beryl Necklace of Fortitude
+Beryl Necklace of Healing,Beryl Necklace of Healing
+Beryl Necklace of Celerity,Beryl Necklace of Celerity
+Beryl Necklace of Intellect,Beryl Necklace of Intellect
+Beryl Necklace of Lore,Beryl Necklace of Lore
+Beryl Necklace of Presence,Beryl Necklace of Presence
+Beryl Necklace of Stealth,Beryl Necklace of Stealth
+Beryl Necklace of Strength,Beryl Necklace of Presence
+Beryl Necklace of Survival,Beryl Necklace of Survival
+Beryl Necklace of Thievery,Beryl Necklace of Thievery
+Beryl Necklace of Toughness,Beryl Necklace of Toughness
+Beryl Necklace of Willpower,Beryl Necklace of Willpower
+Copper Locket of Athletics,Copper Locket of Athletics
+Copper Locket of Awareness,Copper Locket of Awareness
+Copper Locket of Crafting,Copper Locket of Crafting
+Copper Locket of Defence,Copper Locket of Defence
+Copper Locket of Diplomacy,Copper Locket of Diplomacy
+Copper Locket of Fortitude,Copper Locket of Fortitude
+Copper Locket of Healing,Copper Locket of Healing
+Copper Locket of Celerity,Copper Locket of Celerity
+Copper Locket of Lore,Copper Locket of Lore
+Copper Locket of Stealth,Copper Locket of Stealth
+Copper Locket of Survival,Copper Locket of Survival
+Copper Locket of Thievery,Copper Locket of Thievery
+Copper Locket of Toughness,Copper Locket of Toughness
+Copper Locket of Willpower,Copper Locket of Willpower
+Coral Necklace of Agility,Coral Necklace of Agility
+Coral Necklace of Athletics,Coral Necklace of Athletics
+Coral Necklace of Awareness,Coral Necklace of Awareness
+Coral Necklace of Crafting,Coral Necklace of Crafting
+Coral Necklace of Defence,Coral Necklace of Defence
+Coral Necklace of Diplomacy,Coral Necklace of Diplomacy
+Coral Necklace of Fortitude,Coral Necklace of Fortitude
+Coral Necklace of Healing,Coral Necklace of Healing
+Coral Necklace of Celerity,Coral Necklace of Celerity
+Coral Necklace of Intellect,Coral Necklace of Intellect
+Coral Necklace of Lore,Coral Necklace of Lore
+Coral Necklace of Presence,Coral Necklace of Presence
+Coral Necklace of Stealth,Coral Necklace of Stealth
+Coral Necklace of Strength,Coral Necklace of Presence
+Coral Necklace of Survival,Coral Necklace of Survival
+Coral Necklace of Thievery,Coral Necklace of Thievery
+Coral Necklace of Toughness,Coral Necklace of Toughness
+Coral Necklace of Willpower,Coral Necklace of Willpower
+Diamond Necklace of Athletics,Diamond Necklace of Athletics
+Diamond Necklace of Agility,Diamond Necklace of Agility
+Diamond Necklace of Awareness,Diamond Necklace of Awareness
+Diamond Necklace of Crafting,Diamond Necklace of Crafting
+Diamond Necklace of Defence,Diamond Necklace of Defence
+Diamond Necklace of Diplomacy,Diamond Necklace of Diplomacy
+Diamond Necklace of Fortitude,Diamond Necklace of Fortitude
+Diamond Necklace of Healing,Diamond Necklace of Healing
+Diamond Necklace of the Hero,Diamond Necklace of the Hero
+Diamond Necklace of Celerity,Diamond Necklace of Celerity
+Diamond Necklace of Intellect,Diamond Necklace of Intellect
+Diamond Necklace of Lore,Diamond Necklace of Lore
+Diamond Necklace of Presence,Diamond Necklace of Presence
+Diamond Necklace of Protection,Diamond Necklace of Protection
+Diamond Necklace of Speed,Diamond Necklace of Speed
+Diamond Necklace of Stealth,Diamond Necklace of Stealth
+Diamond Necklace of Strength,Diamond Necklace of Strength
+Diamond Necklace of Survival,Diamond Necklace of Survival
+Diamond Necklace of Thievery,Diamond Necklace of Thievery
+Diamond Necklace of Toughness,Diamond Necklace of Toughness
+Diamond Necklace of Willpower,Diamond Necklace of Willpower
+Firegold Necklace of Agility,Firegold Necklace of Agility
+Firegold Necklace of Athletics,Firegold Necklace of Athletics
+Firegold Necklace of Awareness,Firegold Necklace of Awareness
+Firegold Necklace of Crafting,Firegold Necklace of Crafting
+Firegold Necklace of Defence,Firegold Necklace of Defence
+Firegold Necklace of Diplomacy,Firegold Necklace of Diplomacy
+Firegold Necklace of Fortitude,Firegold Necklace of Fortitude
+Firegold Necklace of Healing,Firegold Necklace of Healing
+Firegold Necklace of Celerity,Firegold Necklace of Celerity
+Firegold Necklace of Intellect,Firegold Necklace of Intellect
+Firegold Necklace of Lore,Firegold Necklace of Lore
+Firegold Necklace of Presence,Firegold Necklace of Presence
+Firegold Necklace of Stealth,Firegold Necklace of Stealth
+Firegold Necklace of Strength,Firegold Necklace of Presence
+Firegold Necklace of Survival,Firegold Necklace of Survival
+Firegold Necklace of Thievery,Firegold Necklace of Thievery
+Firegold Necklace of Toughness,Firegold Necklace of Toughness
+Firegold Necklace of Willpower,Firegold Necklace of Willpower
+Garnet Necklace of Athletics,Garnet Necklace of Athletics
+Garnet Necklace of Agility,Garnet Necklace of Agility
+Garnet Necklace of Awareness,Garnet Necklace of Awareness
+Garnet Necklace of Crafting,Garnet Necklace of Crafting
+Garnet Necklace of Defence,Garnet Necklace of Defence
+Garnet Necklace of Diplomacy,Garnet Necklace of Diplomacy
+Garnet Necklace of Fortitude,Garnet Necklace of Fortitude
+Garnet Necklace of Healing,Garnet Necklace of Healing
+Garnet Necklace of the Hero,Garnet Necklace of the Hero
+Garnet Necklace of Celerity,Garnet Necklace of Celerity
+Garnet Necklace of Intellect,Garnet Necklace of Intellect
+Garnet Necklace of Lore,Garnet Necklace of Lore
+Garnet Necklace of Presence,Garnet Necklace of Presence
+Garnet Necklace of Protection,Garnet Necklace of Protection
+Garnet Necklace of Speed,Garnet Necklace of Speed
+Garnet Necklace of Stealth,Garnet Necklace of Stealth
+Garnet Necklace of Strength,Garnet Necklace of Strength
+Garnet Necklace of Survival,Garnet Necklace of Survival
+Garnet Necklace of Thievery,Garnet Necklace of Thievery
+Garnet Necklace of Toughness,Garnet Necklace of Toughness
+Garnet Necklace of Willpower,Garnet Necklace of Willpower
+Jade Necklace of Athletics,Jade Necklace of Athletics
+Jade Necklace of Awareness,Jade Necklace of Awareness
+Jade Necklace of Crafting,Jade Necklace of Crafting
+Jade Necklace of Defence,Jade Necklace of Defence
+Jade Necklace of Diplomacy,Jade Necklace of Diplomacy
+Jade Necklace of Fortitude,Jade Necklace of Fortitude
+Jade Necklace of Healing,Jade Necklace of Healing
+Jade Necklace of Celerity,Jade Necklace of Celerity
+Jade Necklace of Lore,Jade Necklace of Lore
+Jade Necklace of Stealth,Jade Necklace of Stealth
+Jade Necklace of Survival,Jade Necklace of Survival
+Jade Necklace of Thievery,Jade Necklace of Thievery
+Jade Necklace of Toughness,Jade Necklace of Toughness
+Jade Necklace of Willpower,Jade Necklace of Willpower
+Pagan Necklace of Agility,Pagan Necklace of Agility
+Pagan Necklace of Athletics,Pagan Necklace of Athletics
+Pagan Necklace of Awareness,Pagan Necklace of Awareness
+Pagan Necklace of Crafting,Pagan Necklace of Crafting
+Pagan Necklace of Defence,Pagan Necklace of Defence
+Pagan Necklace of Diplomacy,Pagan Necklace of Diplomacy
+Pagan Necklace of Fortitude,Pagan Necklace of Fortitude
+Pagan Necklace of Healing,Pagan Necklace of Healing
+Pagan Necklace of Celerity,Pagan Necklace of Celerity
+Pagan Necklace of Intellect,Pagan Necklace of Intellect
+Pagan Necklace of Lore,Pagan Necklace of Lore
+Pagan Necklace of Presence,Pagan Necklace of Presence
+Pagan Necklace of Stealth,Pagan Necklace of Stealth
+Pagan Necklace of Strength,Pagan Necklace of Presence
+Pagan Necklace of Survival,Pagan Necklace of Survival
+Pagan Necklace of Thievery,Pagan Necklace of Thievery
+Pagan Necklace of Toughness,Pagan Necklace of Toughness
+Pagan Necklace of Willpower,Pagan Necklace of Willpower
+Profane Necklace of Athletics,Profane Necklace of Athletics
+Profane Necklace of Agility,Profane Necklace of Agility
+Profane Necklace of Awareness,Profane Necklace of Awareness
+Profane Necklace of Crafting,Profane Necklace of Crafting
+Profane Necklace of Defence,Profane Necklace of Defence
+Profane Necklace of Diplomacy,Profane Necklace of Diplomacy
+Profane Necklace of Fortitude,Profane Necklace of Fortitude
+Profane Necklace of Healing,Profane Necklace of Healing
+Profane Necklace of the Hero,Profane Necklace of the Hero
+Profane Necklace of Celerity,Profane Necklace of Celerity
+Profane Necklace of Intellect,Profane Necklace of Intellect
+Profane Necklace of Lore,Profane Necklace of Lore
+Profane Necklace of Presence,Profane Necklace of Presence
+Profane Necklace of Protection,Profane Necklace of Protection
+Profane Necklace of Speed,Profane Necklace of Speed
+Profane Necklace of Stealth,Profane Necklace of Stealth
+Profane Necklace of Strength,Profane Necklace of Strength
+Profane Necklace of Survival,Profane Necklace of Survival
+Profane Necklace of Thievery,Profane Necklace of Thievery
+Profane Necklace of Toughness,Profane Necklace of Toughness
+Profane Necklace of Willpower,Profane Necklace of Willpower
+Ruby Necklace of Athletics,Ruby Necklace of Athletics
+Ruby Necklace of Awareness,Ruby Necklace of Awareness
+Ruby Necklace of Crafting,Ruby Necklace of Crafting
+Ruby Necklace of Defence,Ruby Necklace of Defence
+Ruby Necklace of Diplomacy,Ruby Necklace of Diplomacy
+Ruby Necklace of Fortitude,Ruby Necklace of Fortitude
+Ruby Necklace of Healing,Ruby Necklace of Healing
+Ruby Necklace of Celerity,Ruby Necklace of Celerity
+Ruby Necklace of Lore,Ruby Necklace of Lore
+Ruby Necklace of Stealth,Ruby Necklace of Stealth
+Ruby Necklace of Survival,Ruby Necklace of Survival
+Ruby Necklace of Thievery,Ruby Necklace of Thievery
+Ruby Necklace of Toughness,Ruby Necklace of Toughness
+Ruby Necklace of Willpower,Ruby Necklace of Willpower
+Skull Necklace of Agility,Skull Necklace of Agility
+Skull Necklace of Athletics,Skull Necklace of Athletics
+Skull Necklace of Awareness,Skull Necklace of Awareness
+Skull Necklace of Crafting,Skull Necklace of Crafting
+Skull Necklace of Defence,Skull Necklace of Defence
+Skull Necklace of Diplomacy,Skull Necklace of Diplomacy
+Skull Necklace of Fortitude,Skull Necklace of Fortitude
+Skull Necklace of Healing,Skull Necklace of Healing
+Skull Necklace of Celerity,Skull Necklace of Celerity
+Skull Necklace of Intellect,Skull Necklace of Intellect
+Skull Necklace of Lore,Skull Necklace of Lore
+Skull Necklace of Presence,Skull Necklace of Presence
+Skull Necklace of Stealth,Skull Necklace of Stealth
+Skull Necklace of Strength,Skull Necklace of Presence
+Skull Necklace of Survival,Skull Necklace of Survival
+Skull Necklace of Thievery,Skull Necklace of Thievery
+Skull Necklace of Toughness,Skull Necklace of Toughness
+Skull Necklace of Willpower,Skull Necklace of Willpower
+Amethyst Ring of Agility,Amethyst Ring of Agility
+Amethyst Ring of Athletics,Amethyst Ring of Athletics
+Amethyst Ring of Awareness,Amethyst Ring of Awareness
+Amethyst Ring of Crafting,Amethyst Ring of Crafting
+Amethyst Ring of Defence,Amethyst Ring of Defence
+Amethyst Ring of Diplomacy,Amethyst Ring of Diplomacy
+Amethyst Ring of Fortitude,Amethyst Ring of Fortitude
+Amethyst Ring of Healing,Amethyst Ring of Healing
+Amethyst Ring of Celerity,Amethyst Ring of Celerity
+Amethyst Ring of Lore,Amethyst Ring of Lore
+Amethyst Ring of Presence,Amethyst Ring of Presence
+Amethyst Ring of Stealth,Amethyst Ring of Stealth
+Amethyst Ring of Strength,Amethyst Ring of Strength
+Amethyst Ring of Survival,Amethyst Ring of Survival
+Amethyst Ring of Thievery,Amethyst Ring of Thievery
+Amethyst Ring of Toughness,Amethyst Ring of Toughness
+Amethyst Ring of Willpower,Amethyst Ring of Willpower
+Aquamarine Ring of Agility,Aquamarine Ring of Agility
+Aquamarine Ring of Athletics,Aquamarine Ring of Athletics
+Aquamarine Ring of Awareness,Aquamarine Ring of Awareness
+Aquamarine Ring of Crafting,Aquamarine Ring of Crafting
+Aquamarine Ring of Defence,Aquamarine Ring of Defence
+Aquamarine Ring of Diplomacy,Aquamarine Ring of Diplomacy
+Aquamarine Ring of Fortitude,Aquamarine Ring of Fortitude
+Aquamarine Ring of Healing,Aquamarine Ring of Healing
+Aquamarine Ring of Celerity,Aquamarine Ring of Celerity
+Aquamarine Ring of Lore,Aquamarine Ring of Lore
+Aquamarine Ring of Presence,Aquamarine Ring of Presence
+Aquamarine Ring of Speed,Aquamarine Ring of Speed
+Aquamarine Ring of Stealth,Aquamarine Ring of Stealth
+Aquamarine Ring of Strength,Aquamarine Ring of Strength
+Aquamarine Ring of Survival,Aquamarine Ring of Survival
+Aquamarine Ring of Thievery,Aquamarine Ring of Thievery
+Aquamarine Ring of Toughness,Aquamarine Ring of Toughness
+Aquamarine Ring of Willpower,Aquamarine Ring of Willpower
+Arboreal Ring of Athletics,Arboreal Ring of Athletics
+Arboreal Ring of Agility,Arboreal Ring of Agility
+Arboreal Ring of Awareness,Arboreal Ring of Awareness
+Arboreal Ring of Crafting,Arboreal Ring of Crafting
+Arboreal Ring of Defence,Arboreal Ring of Defence
+Arboreal Ring of Diplomacy,Arboreal Ring of Diplomacy
+Arboreal Ring of Fortitude,Arboreal Ring of Fortitude
+Arboreal Ring of Healing,Arboreal Ring of Healing
+Arboreal Ring of the Hero,Arboreal Ring of the Hero
+Arboreal Ring of Celerity,Arboreal Ring of Celerity
+Arboreal Ring of Intellect,Arboreal Ring of Intellect
+Arboreal Ring of Lore,Arboreal Ring of Lore
+Arboreal Ring of Presence,Arboreal Ring of Presence
+Arboreal Ring of Protection,Arboreal Ring of Protection
+Arboreal Ring of Speed,Arboreal Ring of Speed
+Arboreal Ring of Stealth,Arboreal Ring of Stealth
+Arboreal Ring of Strength,Arboreal Ring of Strength
+Arboreal Ring of Survival,Arboreal Ring of Survival
+Arboreal Ring of Thievery,Arboreal Ring of Thievery
+Arboreal Ring of Toughness,Arboreal Ring of Toughness
+Arboreal Ring of Willpower,Arboreal Ring of Willpower
+Emerald Ring of Agility,Emerald Ring of Agility
+Emerald Ring of Athletics,Emerald Ring of Athletics
+Emerald Ring of Awareness,Emerald Ring of Awareness
+Emerald Ring of Crafting,Emerald Ring of Crafting
+Emerald Ring of Defence,Emerald Ring of Defence
+Emerald Ring of Diplomacy,Emerald Ring of Diplomacy
+Emerald Ring of Fortitude,Emerald Ring of Fortitude
+Emerald Ring of Healing,Emerald Ring of Healing
+Emerald Ring of Celerity,Emerald Ring of Celerity
+Emerald Ring of Lore,Emerald Ring of Lore
+Emerald Ring of Presence,Emerald Ring of Presence
+Emerald Ring of Stealth,Emerald Ring of Stealth
+Emerald Ring of Strength,Emerald Ring of Strength
+Emerald Ring of Survival,Emerald Ring of Survival
+Emerald Ring of Thievery,Emerald Ring of Thievery
+Emerald Ring of Toughness,Emerald Ring of Toughness
+Emerald Ring of Willpower,Emerald Ring of Willpower
+Fire Opal Ring of Agility,Fire Opal Ring of Agility
+Fire Opal Ring of Athletics,Fire Opal Ring of Athletics
+Fire Opal Ring of Awareness,Fire Opal Ring of Awareness
+Fire Opal Ring of Crafting,Fire Opal Ring of Crafting
+Fire Opal Ring of Defence,Fire Opal Ring of Defence
+Fire Opal Ring of Diplomacy,Fire Opal Ring of Diplomacy
+Fire Opal Ring of Fortitude,Fire Opal Ring of Fortitude
+Fire Opal Ring of Healing,Fire Opal Ring of Healing
+Fire Opal Ring of Celerity,Fire Opal Ring of Celerity
+Fire Opal Ring of Lore,Fire Opal Ring of Lore
+Fire Opal Ring of Presence,Fire Opal Ring of Presence
+Fire Opal Ring of Stealth,Fire Opal Ring of Stealth
+Fire Opal Ring of Strength,Fire Opal Ring of Strength
+Fire Opal Ring of Survival,Fire Opal Ring of Survival
+Fire Opal Ring of Thievery,Fire Opal Ring of Thievery
+Fire Opal Ring of Toughness,Fire Opal Ring of Toughness
+Fire Opal Ring of Willpower,Fire Opal Ring of Willpower
+Flowgold Ring of Agility,Flowgold Ring of Agility
+Flowgold Ring of Athletics,Flowgold Ring of Athletics
+Flowgold Ring of Awareness,Flowgold Ring of Awareness
+Flowgold Ring of Crafting,Flowgold Ring of Crafting
+Flowgold Ring of Defence,Flowgold Ring of Defence
+Flowgold Ring of Diplomacy,Flowgold Ring of Diplomacy
+Flowgold Ring of Fortitude,Flowgold Ring of Fortitude
+Flowgold Ring of Healing,Flowgold Ring of Healing
+Flowgold Ring of Celerity,Flowgold Ring of Celerity
+Flowgold Ring of Lore,Flowgold Ring of Lore
+Flowgold Ring of Presence,Flowgold Ring of Presence
+Flowgold Ring of Speed,Flowgold Ring of Speed
+Flowgold Ring of Stealth,Flowgold Ring of Stealth
+Flowgold Ring of Strength,Flowgold Ring of Strength
+Flowgold Ring of Survival,Flowgold Ring of Survival
+Flowgold Ring of Thievery,Flowgold Ring of Thievery
+Flowgold Ring of Toughness,Flowgold Ring of Toughness
+Flowgold Ring of Willpower,Flowgold Ring of Willpower
+Frater's Ring of Agility,Frater's Ring of Agility
+Frater's Ring of Athletics,Frater's Ring of Athletics
+Frater's Ring of Awareness,Frater's Ring of Awareness
+Frater's Ring of Crafting,Frater's Ring of Crafting
+Frater's Ring of Defence,Frater's Ring of Defence
+Frater's Ring of Diplomacy,Frater's Ring of Diplomacy
+Frater's Ring of Fortitude,Frater's Ring of Fortitude
+Frater's Ring of Healing,Frater's Ring of Healing
+Frater's Ring of Celerity,Frater's Ring of Celerity
+Frater's Ring of Lore,Frater's Ring of Lore
+Frater's Ring of Presence,Frater's Ring of Presence
+Frater's Ring of Speed,Frater's Ring of Speed
+Frater's Ring of Stealth,Frater's Ring of Stealth
+Frater's Ring of Strength,Frater's Ring of Strength
+Frater's Ring of Survival,Frater's Ring of Survival
+Frater's Ring of Thievery,Frater's Ring of Thievery
+Frater's Ring of Toughness,Frater's Ring of Toughness
+Frater's Ring of Willpower,Frater's Ring of Willpower
+Genesis Ring of Athletics,Genesis Ring of Athletics
+Genesis Ring of Agility,Genesis Ring of Agility
+Genesis Ring of Awareness,Genesis Ring of Awareness
+Genesis Ring of Crafting,Genesis Ring of Crafting
+Genesis Ring of Defence,Genesis Ring of Defence
+Genesis Ring of Diplomacy,Genesis Ring of Diplomacy
+Genesis Ring of Fortitude,Genesis Ring of Fortitude
+Genesis Ring of Healing,Genesis Ring of Healing
+Genesis Ring of the Hero,Genesis Ring of the Hero
+Genesis Ring of Celerity,Genesis Ring of Celerity
+Genesis Ring of Intellect,Genesis Ring of Intellect
+Genesis Ring of Lore,Genesis Ring of Lore
+Genesis Ring of Presence,Genesis Ring of Presence
+Genesis Ring of Protection,Genesis Ring of Protection
+Genesis Ring of Speed,Genesis Ring of Speed
+Genesis Ring of Stealth,Genesis Ring of Stealth
+Genesis Ring of Strength,Genesis Ring of Strength
+Genesis Ring of Survival,Genesis Ring of Survival
+Genesis Ring of Thievery,Genesis Ring of Thievery
+Genesis Ring of Toughness,Genesis Ring of Toughness
+Genesis Ring of Willpower,Genesis Ring of Willpower
+Green Sapphire Ring of Agility,Green Sapphire Ring of Agility
+Green Sapphire Ring of Athletics,Green Sapphire Ring of Athletics
+Green Sapphire Ring of Awareness,Green Sapphire Ring of Awareness
+Green Sapphire Ring of Crafting,Green Sapphire Ring of Crafting
+Green Sapphire Ring of Defence,Green Sapphire Ring of Defence
+Green Sapphire Ring of Diplomacy,Green Sapphire Ring of Diplomacy
+Green Sapphire Ring of Fortitude,Green Sapphire Ring of Fortitude
+Green Sapphire Ring of Healing,Green Sapphire Ring of Healing
+Green Sapphire Ring of Celerity,Green Sapphire Ring of Celerity
+Green Sapphire Ring of Lore,Green Sapphire Ring of Lore
+Green Sapphire Ring of Presence,Green Sapphire Ring of Presence
+Green Sapphire Ring of Speed,Green Sapphire Ring of Speed
+Green Sapphire Ring of Stealth,Green Sapphire Ring of Stealth
+Green Sapphire Ring of Strength,Green Sapphire Ring of Strength
+Green Sapphire Ring of Survival,Green Sapphire Ring of Survival
+Green Sapphire Ring of Thievery,Green Sapphire Ring of Thievery
+Green Sapphire Ring of Toughness,Green Sapphire Ring of Toughness
+Green Sapphire Ring of Willpower,Green Sapphire Ring of Willpower
+Lapis Ring of Agility,Lapis Ring of Agility
+Lapis Ring of Athletics,Lapis Ring of Athletics
+Lapis Ring of Awareness,Lapis Ring of Awareness
+Lapis Ring of Crafting,Lapis Ring of Crafting
+Lapis Ring of Defence,Lapis Ring of Defence
+Lapis Ring of Diplomacy,Lapis Ring of Diplomacy
+Lapis Ring of Fortitude,Lapis Ring of Fortitude
+Lapis Ring of Healing,Lapis Ring of Healing
+Lapis Ring of Celerity,Lapis Ring of Celerity
+Lapis Ring of Lore,Lapis Ring of Lore
+Lapis Ring of Presence,Lapis Ring of Presence
+Lapis Ring of Speed,Lapis Ring of Speed
+Lapis Ring of Stealth,Lapis Ring of Stealth
+Lapis Ring of Strength,Lapis Ring of Strength
+Lapis Ring of Survival,Lapis Ring of Survival
+Lapis Ring of Thievery,Lapis Ring of Thievery
+Lapis Ring of Toughness,Lapis Ring of Toughness
+Lapis Ring of Willpower,Lapis Ring of Willpower
+Lupercal Ring of Athletics,Lupercal Ring of Athletics
+Lupercal Ring of Agility,Lupercal Ring of Agility
+Lupercal Ring of Awareness,Lupercal Ring of Awareness
+Lupercal Ring of Crafting,Lupercal Ring of Crafting
+Lupercal Ring of Defence,Lupercal Ring of Defence
+Lupercal Ring of Diplomacy,Lupercal Ring of Diplomacy
+Lupercal Ring of Fortitude,Lupercal Ring of Fortitude
+Lupercal Ring of Healing,Lupercal Ring of Healing
+Lupercal Ring of the Hero,Lupercal Ring of the Hero
+Lupercal Ring of Celerity,Lupercal Ring of Celerity
+Lupercal Ring of Intellect,Lupercal Ring of Intellect
+Lupercal Ring of Lore,Lupercal Ring of Lore
+Lupercal Ring of Presence,Lupercal Ring of Presence
+Lupercal Ring of Protection,Lupercal Ring of Protection
+Lupercal Ring of Speed,Lupercal Ring of Speed
+Lupercal Ring of Stealth,Lupercal Ring of Stealth
+Lupercal Ring of Strength,Lupercal Ring of Strength
+Lupercal Ring of Survival,Lupercal Ring of Survival
+Lupercal Ring of Thievery,Lupercal Ring of Thievery
+Lupercal Ring of Toughness,Lupercal Ring of Toughness
+Lupercal Ring of Willpower,Lupercal Ring of Willpower
+Primordial Ring of Athletics,Primordial Ring of Athletics
+Primordial Ring of Agility,Primordial Ring of Agility
+Primordial Ring of Awareness,Primordial Ring of Awareness
+Primordial Ring of Crafting,Primordial Ring of Crafting
+Primordial Ring of Defence,Primordial Ring of Defence
+Primordial Ring of Diplomacy,Primordial Ring of Diplomacy
+Primordial Ring of Fortitude,Primordial Ring of Fortitude
+Primordial Ring of Healing,Primordial Ring of Healing
+Primordial Ring of the Hero,Primordial Ring of the Hero
+Primordial Ring of Celerity,Primordial Ring of Celerity
+Primordial Ring of Intellect,Primordial Ring of Intellect
+Primordial Ring of Lore,Primordial Ring of Lore
+Primordial Ring of Presence,Primordial Ring of Presence
+Primordial Ring of Protection,Primordial Ring of Protection
+Primordial Ring of Speed,Primordial Ring of Speed
+Primordial Ring of Stealth,Primordial Ring of Stealth
+Primordial Ring of Strength,Primordial Ring of Strength
+Primordial Ring of Survival,Primordial Ring of Survival
+Primordial Ring of Thievery,Primordial Ring of Thievery
+Primordial Ring of Toughness,Primordial Ring of Toughness
+Primordial Ring of Willpower,Primordial Ring of Willpower
+Ruby Ring of Agility,Ruby Ring of Agility
+Ruby Ring of Athletics,Ruby Ring of Athletics
+Ruby Ring of Awareness,Ruby Ring of Awareness
+Ruby Ring of Crafting,Ruby Ring of Crafting
+Ruby Ring of Defence,Ruby Ring of Defence
+Ruby Ring of Diplomacy,Ruby Ring of Diplomacy
+Ruby Ring of Fortitude,Ruby Ring of Fortitude
+Ruby Ring of Healing,Ruby Ring of Healing
+Ruby Ring of Celerity,Ruby Ring of Celerity
+Ruby Ring of Lore,Ruby Ring of Lore
+Ruby Ring of Presence,Ruby Ring of Presence
+Ruby Ring of Stealth,Ruby Ring of Stealth
+Ruby Ring of Strength,Ruby Ring of Strength
+Ruby Ring of Survival,Ruby Ring of Survival
+Ruby Ring of Thievery,Ruby Ring of Thievery
+Ruby Ring of Toughness,Ruby Ring of Toughness
+Ruby Ring of Willpower,Ruby Ring of Willpower
+Sepulchite's Ring of Agility,Sepulchite's Ring of Agility
+Sepulchite's Ring of Athletics,Sepulchite's Ring of Athletics
+Sepulchite's Ring of Awareness,Sepulchite's Ring of Awareness
+Sepulchite's Ring of Crafting,Sepulchite's Ring of Crafting
+Sepulchite's Ring of Defence,Sepulchite's Ring of Defence
+Sepulchite's Ring of Diplomacy,Sepulchite's Ring of Diplomacy
+Sepulchite's Ring of Fortitude,Sepulchite's Ring of Fortitude
+Sepulchite's Ring of Healing,Sepulchite's Ring of Healing
+Sepulchite's Ring of Celerity,Sepulchite's Ring of Celerity
+Sepulchite's Ring of Lore,Sepulchite's Ring of Lore
+Sepulchite's Ring of Presence,Sepulchite's Ring of Presence
+Sepulchite's Ring of Speed,Sepulchite's Ring of Speed
+Sepulchite's Ring of Stealth,Sepulchite's Ring of Stealth
+Sepulchite's Ring of Strength,Sepulchite's Ring of Strength
+Sepulchite's Ring of Survival,Sepulchite's Ring of Survival
+Sepulchite's Ring of Thievery,Sepulchite's Ring of Thievery
+Sepulchite's Ring of Toughness,Sepulchite's Ring of Toughness
+Sepulchite's Ring of Willpower,Sepulchite's Ring of Willpower
+Serpent Ring of Agility,Serpent Ring of Agility
+Serpent Ring of Athletics,Serpent Ring of Athletics
+Serpent Ring of Awareness,Serpent Ring of Awareness
+Serpent Ring of Crafting,Serpent Ring of Crafting
+Serpent Ring of Defence,Serpent Ring of Defence
+Serpent Ring of Diplomacy,Serpent Ring of Diplomacy
+Serpent Ring of Fortitude,Serpent Ring of Fortitude
+Serpent Ring of Healing,Serpent Ring of Healing
+Serpent Ring of Celerity,Serpent Ring of Celerity
+Serpent Ring of Lore,Serpent Ring of Lore
+Serpent Ring of Presence,Serpent Ring of Presence
+Serpent Ring of Stealth,Serpent Ring of Stealth
+Serpent Ring of Strength,Serpent Ring of Strength
+Serpent Ring of Survival,Serpent Ring of Survival
+Serpent Ring of Thievery,Serpent Ring of Thievery
+Serpent Ring of Toughness,Serpent Ring of Toughness
+Serpent Ring of Willpower,Serpent Ring of Willpower
+Skull Ring of Agility,Skull Ring of Agility
+Skull Ring of Athletics,Skull Ring of Athletics
+Skull Ring of Awareness,Skull Ring of Awareness
+Skull Ring of Crafting,Skull Ring of Crafting
+Skull Ring of Defence,Skull Ring of Defence
+Skull Ring of Diplomacy,Skull Ring of Diplomacy
+Skull Ring of Fortitude,Skull Ring of Fortitude
+Skull Ring of Healing,Skull Ring of Healing
+Skull Ring of Celerity,Skull Ring of Celerity
+Skull Ring of Lore,Skull Ring of Lore
+Skull Ring of Presence,Skull Ring of Presence
+Skull Ring of Stealth,Skull Ring of Stealth
+Skull Ring of Strength,Skull Ring of Strength
+Skull Ring of Survival,Skull Ring of Survival
+Skull Ring of Thievery,Skull Ring of Thievery
+Skull Ring of Toughness,Skull Ring of Toughness
+Skull Ring of Willpower,Skull Ring of Willpower
+Sunstone Ring of Agility,Sunstone Ring of Agility
+Sunstone Ring of Athletics,Sunstone Ring of Athletics
+Sunstone Ring of Awareness,Sunstone Ring of Awareness
+Sunstone Ring of Crafting,Sunstone Ring of Crafting
+Sunstone Ring of Defence,Sunstone Ring of Defence
+Sunstone Ring of Diplomacy,Sunstone Ring of Diplomacy
+Sunstone Ring of Fortitude,Sunstone Ring of Fortitude
+Sunstone Ring of Healing,Sunstone Ring of Healing
+Sunstone Ring of Celerity,Sunstone Ring of Celerity
+Sunstone Ring of Lore,Sunstone Ring of Lore
+Sunstone Ring of Presence,Sunstone Ring of Presence
+Sunstone Ring of Speed,Sunstone Ring of Speed
+Sunstone Ring of Stealth,Sunstone Ring of Stealth
+Sunstone Ring of Strength,Sunstone Ring of Strength
+Sunstone Ring of Survival,Sunstone Ring of Survival
+Sunstone Ring of Thievery,Sunstone Ring of Thievery
+Sunstone Ring of Toughness,Sunstone Ring of Toughness
+Sunstone Ring of Willpower,Sunstone Ring of Willpower
+Tempest Ring of Athletics,Tempest Ring of Athletics
+Tempest Ring of Agility,Tempest Ring of Agility
+Tempest Ring of Awareness,Tempest Ring of Awareness
+Tempest Ring of Crafting,Tempest Ring of Crafting
+Tempest Ring of Defence,Tempest Ring of Defence
+Tempest Ring of Diplomacy,Tempest Ring of Diplomacy
+Tempest Ring of Fortitude,Tempest Ring of Fortitude
+Tempest Ring of Healing,Tempest Ring of Healing
+Tempest Ring of the Hero,Tempest Ring of the Hero
+Tempest Ring of Celerity,Tempest Ring of Celerity
+Tempest Ring of Intellect,Tempest Ring of Intellect
+Tempest Ring of Lore,Tempest Ring of Lore
+Tempest Ring of Presence,Tempest Ring of Presence
+Tempest Ring of Protection,Tempest Ring of Protection
+Tempest Ring of Speed,Tempest Ring of Speed
+Tempest Ring of Stealth,Tempest Ring of Stealth
+Tempest Ring of Strength,Tempest Ring of Strength
+Tempest Ring of Survival,Tempest Ring of Survival
+Tempest Ring of Thievery,Tempest Ring of Thievery
+Tempest Ring of Toughness,Tempest Ring of Toughness
+Tempest Ring of Willpower,Tempest Ring of Willpower
+Topaz Ring of Agility,Topaz Ring of Agility
+Topaz Ring of Athletics,Topaz Ring of Athletics
+Topaz Ring of Awareness,Topaz Ring of Awareness
+Topaz Ring of Crafting,Topaz Ring of Crafting
+Topaz Ring of Defence,Topaz Ring of Defence
+Topaz Ring of Diplomacy,Topaz Ring of Diplomacy
+Topaz Ring of Fortitude,Topaz Ring of Fortitude
+Topaz Ring of Healing,Topaz Ring of Healing
+Topaz Ring of Celerity,Topaz Ring of Celerity
+Topaz Ring of Lore,Topaz Ring of Lore
+Topaz Ring of Presence,Topaz Ring of Presence
+Topaz Ring of Stealth,Topaz Ring of Stealth
+Topaz Ring of Strength,Topaz Ring of Strength
+Topaz Ring of Survival,Topaz Ring of Survival
+Topaz Ring of Thievery,Topaz Ring of Thievery
+Topaz Ring of Toughness,Topaz Ring of Toughness
+Topaz Ring of Willpower,Topaz Ring of Willpower
+Wavestrider Ring of Athletics,Wavestrider Ring of Athletics
+Wavestrider Ring of Agility,Wavestrider Ring of Agility
+Wavestrider Ring of Awareness,Wavestrider Ring of Awareness
+Wavestrider Ring of Crafting,Wavestrider Ring of Crafting
+Wavestrider Ring of Defence,Wavestrider Ring of Defence
+Wavestrider Ring of Diplomacy,Wavestrider Ring of Diplomacy
+Wavestrider Ring of Fortitude,Wavestrider Ring of Fortitude
+Wavestrider Ring of Healing,Wavestrider Ring of Healing
+Wavestrider Ring of the Hero,Wavestrider Ring of the Hero
+Wavestrider Ring of Celerity,Wavestrider Ring of Celerity
+Wavestrider Ring of Intellect,Wavestrider Ring of Intellect
+Wavestrider Ring of Lore,Wavestrider Ring of Lore
+Wavestrider Ring of Presence,Wavestrider Ring of Presence
+Wavestrider Ring of Protection,Wavestrider Ring of Protection
+Wavestrider Ring of Speed,Wavestrider Ring of Speed
+Wavestrider Ring of Stealth,Wavestrider Ring of Stealth
+Wavestrider Ring of Strength,Wavestrider Ring of Strength
+Wavestrider Ring of Survival,Wavestrider Ring of Survival
+Wavestrider Ring of Thievery,Wavestrider Ring of Thievery
+Wavestrider Ring of Toughness,Wavestrider Ring of Toughness
+Wavestrider Ring of Willpower,Wavestrider Ring of Willpower
+#Consumeables,#Consumables
+Consume,Consume
+Consumable,Consumable
+Brandy,Brandy
+A bottle of strong Gorremian brandy,A bottle of strong Gorremian brandy
+The tired old mercenary's best friend,Best friend to the tired old mercenary
+Potion of Cure Disease,Potion of Cure Disease
+Potion of Cure Poison,Potion of Cure Poison
+Firgol Cider,Firgol Cider
+"Sparkling and sweet, this cider comes from the slow-growing orchards of Firgol","Sparkling and sweet, this cider comes from the slow-growing orchards of Firgol"
+Many claim it’s the best in all of the Northern Empire whilst a handful of bad apples will complain it’s too sweet,"Many claim it’s the best in all of the Northern Empire, whilst a handful of bad apples will complain it's excessively sweet"
+Potion of Greater Restoration,Potion of Greater Restoration
+Greater Tonic of Vitality,Greater Tonic of Vitality
+Lesser Tonic of Vitality,Lesser Tonic of Vitality
+Moderate Tonic of Vitality,Moderate Tonic of Vitality
+Potion of Acid Immunity,Potion of Acid Immunity
+Potion of Electric Immunity,Potion of Electric Immunity
+Potion of Fire Immunity,Potion of Fire Immunity
+Potion of Panic Immunity,Potion of Panic Immunity
+Greater Attunement Tonic,Greater Attunement Tonic
+Lesser Attunement Tonic,Lesser Attunement Tonic
+Moderate Attunement Tonic,Moderate Attunement Tonic
+Mead,Mead
+A sweet alcoholic brew made from honey,A sweet alcoholic brew made from honey
+Widely enjoyed in all of the Northern Empire and the Outer Isles,Widely enjoyed in all of the Northern Empire and the Outer Isles
+Potion of Agility,Potion of Agility
+Potion of Bless,Potion of Bless
+Potion of Diamond Form,Potion of Diamond Form
+Potion of Fortify Will,Potion of Fortify Will
+Potion of Frenzy,Potion of Frenzy
+Potion of Heroism,Potion of Heroism
+Potion of Regeneration,Potion of Regeneration
+Potion of Speed,Potion of Speed
+Potion of Stone Skin,Potion of Stone Skin
+Potion of Strength,Potion of Strength
+Potion of Acid Resistance,Potion of Acid Resistance
+Potion of Electric Resistance,Potion of Electric Resistance
+Potion of Fire Resistance,Potion of Fire Resistance
+#Consumables - Tomes,#Consumables - Tomes
+Tome,Tome
+TOME,TOME
+Read to learn the spell,Read to learn the spell
+Requires ranks in one of the following schools,Requires ranks in one of the following schools
+Tier,Tier
+#Foods,#Foods
+Apple,Apple
+"Whilst its ability to keep the medicae away has yet to be proven, this common fruit can be found growing on trees in the summer months and is a staple in the pantry of peasants and noblemen alike","Whilst its ability to keep the medicae away has yet to be proven, this common fruit can be found growing on trees in the summer months and is a staple in the pantry of peasants and noblemen alike"
+Bacon,Bacon
+There is truly no better way to start the day than with a fresh chunk of this salted pork,There is truly no better way to start the day than with a fresh chunk of this salted pork
+Dark Bread,Dark Bread
+A piece of the traditional dark and heavy full-grain bread that is eaten throughout the region by farmers and laborers,A piece of the traditional dark and heavy full-grain bread that is eaten throughout the region by farmers and labourers
+Butter,Butter
+"Due to its affordability, the rich and creamy, salted butter from Heartlander cows is a popular source of nourishment amongst the lower classes of the Empire","Due to its affordability, the rich and creamy salted butter from Heartlander cows is a popular source of nourishment amongst the lower classes of the Empire"
+There’s nothing butter,There’s nothing butter
+Carrot,Carrot
+"Abundant and healthy, carrots are a staple in the soups and stews of the north","Abundant and healthy, carrots are a staple in the various soups and stews of the north"
+"Also, Hospitallers claim they improve your night-sight","Also, Hospitallers claim they improve your night-sight"
+Cheddar,Cheddar
+"Made from cow's milk, this cheese is common and beloved throughout the Imperial heartlands","Made from cow's milk, this cheese is common and beloved throughout the Imperial heartlands"
+Perfect for eating with bread and ham,Perfect for eating with bread and ham
+Sheep's Milk Cheese,Sheep's Milk Cheese
+As inexpensive and filling as it is smelly,As inexpensive and filling as it is smelly
+Sheep's milk cheese is a staple in the northern Hinterlands,Sheep's milk cheese is a staple in the northern Hinterlands
+Crab,Crab
+"Many of the Empire’s citizens will pay a pretty penny to get their hands on this soft, sweet meat","Many of the Empire’s citizens will pay a pretty penny to get their hands on this soft, sweet meat"
+"Boiled in salted water and served on white bread with melted butter and squeezed lemon, crab-meat is truly a feast","Boiled in salted water and served on white bread with melted butter and squeezed lemon, crab-meat is truly a delight"
+Cream,Cream
+Rich and creamy,Rich and creamy. But not butter
+Don’t let the cat have it,Don’t let the cat have it
+Dried Meat,Dried Meat
+"A favorite amongst adventures, this smoky, preserved meat can last longer than most people’s lives","A favourite amongst adventures, this smoky, preserved meat can often outlast the very adventures that carry it"
+Eel,Eel
+"Due to their abundance in both rivers and oceans, eels are one of the most popular seafoods in the Empire","Due to their abundance in both rivers and oceans, eels are one of the most popular seafoods in the Empire"
+"So popular, in fact, that some citizens have even been known to accept them as payment","So popular, in fact, that some citizens have even been known to accept them as payment"
+Eggs,Eggs
+Don't put them all in one basket,Don't put them all in one basket
+Perklin,Perklin
+The humble perklin makes up for its meager size with its abundance,The perennial perklin. A humble little fish that makes up for its meagre size with its abundance
+It's often perserved with salt and eaten year round,It's often preserved with salt and eaten all year round
+The smell is an acquired taste,The smell is an acquired taste
+Redman,Redman
+The tongue and eyes of the redman swells grotesquely once it's pulled from the depth in which it dwells,The tongue and eyes of the redman swell grotesquely once it's pulled from the depth in which it dwells
+"Despite its apperance, however, its flesh is considered a delicacy when served baked with lemons and vegetables","Despite its appearance, its flesh is considered a delicacy when served baked with lemons and vegetables"
+Steel-Fin,Steel-fin
+Dead fish eyes stare up at you,Dead fish eyes stare up at you
+Steel-Fin is a staple on dinner tables throughout the Outer Isles,Steel-fin is a staple on dinner tables throughout the Outer Isles
+It's commonly eaten in hearthy stews with vegetables,It's commonly eaten in hearty stews with vegetables
+Flour,Flour
+One of the greatest of the Gallian Miracles was the turning of deserts into the great rolling wheat fields that now constitute a large portion of the Heartland,One of the greatest of the Gallian Miracles was the turning of deserts into the great rolling wheat fields that now constitute a large portion of the Heartland
+From these flows countless tons of grain and rich white flour,From these flows countless tons of grain and rich white flour
+Garlic,Garlic
+"Pungent and full of flavor, this herb is most frequently used to enhance a variety of meals","Pungent and full of flavour, this herb is most frequently used to enhance a variety of meals"
+Cured Ham,Cured Ham
+"Tender, savory and long lasting","Tender, savoury and long lasting"
+Cured ham is found in the cellar of every well-to-do merchant and petty noble in the Empire,Cured ham is found in the cellar of every well-to-do merchant and petty noble in the Empire
+Honey,Honey
+"Sticky and sweet, this ingredient is often used by cooks to sweeten or preserve food, and is a staple in every mead-makers arsenal","Sticky and sweet, this ingredient is often used by cooks to sweeten or preserve food, and is a staple in every mead-makers arsenal"
+It is even said to have curative properties when applied to infected wounds,It is even said to have curative properties when applied to infected wounds
+Leeks,Leeks
+"Beyond just the taste, leeks go a long way towards adding some color to the drab cuisine of the poor","Beyond just the taste, leeks go a long way towards adding some colour to the drab cuisine of the poor"
+Lemons,Lemons
+"In the north, lemons are almost exclusively found on ships where they serve to protect the sailors from the terrible scurvy that prolonged idleness and sexual abstinence is known to cause","In the north, lemons are almost exclusively found on ships where they serve to protect the sailors from the terrible scurvy that prolonged idleness and sexual abstinence is known to cause. So associated with seafaring are they: with sailors, seafood, and trade; that crews of the Empire who transport them are affectionately referred to as ""lemon-eaters,"" or the shortened ""limony,"" and by extension, any seaman"
+Baked Crab,Baked Crab
+The crab flesh is coated in spiced butter before baking in the oven to perfection,The crab flesh is coated in spiced butter before baking in the oven to perfection
+Baked Mushrooms,Baked Mushrooms
+The nutty flavor of the wyrdloaf mixes wonderfully with the aromas of garlic to produce a meal fit for an emperor,The nutty flavour of the wyrdloaf mixes wonderfully with the aromas of garlic to produce a meal fit for an emperor
+Baked Onions,Baked Onions
+"Onions are easily grow, keep for long and go a long ways towards covering up the taste of half-spoiled fish or meat","Onions are easily grown, keep for a long while, and go a long ways towards covering up the taste of half-spoiled fish or meat"
+Baked Oysters,Baked Oysters
+Tender oysters coated in bread-crumbs and baked until just right,Tender oysters coated in breadcrumbs and baked until just right
+You just hope the oysters were fresh,You just hope the oysters were fresh
+Baked Potato,Baked Potato
+It is said that potatoes alone can nourish a man's body indefinitely,It is said that potatoes alone can nourish a man's body indefinitely
+The same cannot be said for his soul,The same cannot be said for his soul
+Beef Stew,Beef Stew
+"A thick, hearty stew of beef cooked in rich, Ombarian wine","A thick, hearty stew of beef cooked in rich, Ombarian wine"
+Cheese Plate,Cheese Plate
+"Ah, the understated elegance of a cheese and fruit plate","Ah, the understated elegance of a cheese and fruit plate"
+Eggs and Bacon,Bacon and Eggs
+The breakfast of titans,The breakfast of titans
+Baked Fish,Baked Fish
+"A delicious-looking plate of baked, white fish on a bed of vegetables seasoned with freshly squeezed lemon","A delicious-looking plate of baked, white fish on a bed of vegetables seasoned with freshly squeezed lemon"
+Salted Fish,Salted Fish
+The fisherman's best friend,The fisherman's best friend
+Preferably eaten with a mug of ale on the side,Preferably eaten with a mug of ale on the side
+Fish Stew,Fish Stew
+A steaming bowl of fish and vegetable stew,A steaming bowl of fish and vegetable stew
+This type of dish is eaten more or less daily by the coast-dwellers of the north,This type of dish is eaten more or less daily by the coast-dwellers of the north
+It could do with some salt,It could do with a little salt and a squeeze of lemon
+Grilled Leeks,Grilled Leeks
+Mashed Potatoes,Mashed Potatoes
+Just the way mothers all over the Empire would make it!,Just the way mothers all over the Empire would make it!
+Meat Skewers,Meat Skewers
+Richly spiced meat roasted on skewers,Richly spiced meat roasted on skewers
+A popular dish that the Empire imported from its overseas colonies,A popular dish that the Empire imported from its overseas colonies
+Farmer's Omelette,Farmer's Omelette
+"A nice farmer's omelette brings to mind the simple comforts of a quaint, rural life","A nice farmer's omelette brings to mind the simple comforts of a quaint, rural life"
+Mushroom Omelette,Mushroom Omelette
+The mushroom omelette tastes of the forest,The mushroom omelette tastes of the forest
+Apple Pie,Apple Pie
+Sweet and comforting,"Sweet and a little tart, but all comforting"
+Pumpkin Pie,Pumpkin Pie
+Nothing says autumn like a nice old slice of pumpkin pie,Nothing says autumn like a nice old slice of pumpkin pie
+Roasted Eel,Roasted Eel
+Crispy skin and tender meat,Crispy skin and tender meat
+The roasted eel is seasoned with garlic and served with potato chips,The roasted eel is seasoned with garlic and served with thickly-cut wedges of potato
+Cheese Sandwich,Cheese Sandwich
+"For a few short moments, whilst eating a melted cheese sandwich, all is well in the world","For a few short moments, whilst eating a melted cheese sandwich, all is well in the world"
+Mushroom Soup,Mushroom Soup
+Fried Steak,Fried Steak
+A meal to put hair on your chest!,A meal to put hair on your chest!
+Vegetable Soup,Vegetable Soup
+"A farmer’s feast, often eaten in the fall when root vegetables are abundant","A farmer’s feast, often eaten in the autumn time when root vegetables are abundant"
+Morel,Morel
+Morels are mushrooms that make for excellent eating,Morels are mushrooms that make for excellent eating
+Penny Buns,Penny Buns
+Penny Buns are mushrooms that make for excellent eating,Penny Buns are mushrooms that make for excellent eating
+Wyrdloaf,Wyrdloaf
+Wyrdloaf are mushrooms that make for excellent eating,Wyrdloaf are mushrooms that make for excellent eating
+Nuts,Nuts
+"Often added to meat dishes to boost nutrition, these tasty treats can be found growing on various trees and bushes throughout the Empire","Often added to meat dishes to make them more nourishing, these tasty treats can be found growing on various trees and bushes throughout the Empire"
+Onions,Onions
+Oysters,Oysters
+This earthy flavored molluscs has been known to increase a person’s desire and sexual stamina,These earthy flavoured molluscs have been known to increase a person’s desire and sexual stamina
+No wonder then that the courtiers and lay nobility of the Heartlands gorge themselves on this delicacy,"It's no wonder then, that the courtiers and lay-nobility of the Heartlands gorge themselves on this delicacy"
+Just remember to smell them before you eat them,Just remember to smell them before consumption
+Pear,Pear
+"A freshly picked, juicy pear","A freshly picked, juicy pear. A versatile fruit with many variants of different flavours. Eat it straight off the tree, bake it in a pie or crumble, turn it into a fool with cream, or, best of all, make brandy out of it"
+"Eat it fresh, bake it in a pie or make brandy from it!","The wood itself is prized for its properties among musicians, who can often be found playing in the taverns of villages with pear orchards."
+Potatoes,Potatoes
+Pumpkin,Pumpkin
+A bit watery and tasteless but might work well in a soup or a pie,"A bit watery and tasteless, but might work well in a soup or a pie"
+Ration,Ration
+"A trail ration of dried meats, fruits and grains","A trail ration of dried meats, fruits, and grains"
+As sure to filling as it is boring,As filling as it is boring
+Salt,Salt
+An empire runs on salt,An empire runs on salt
+"As the Gallian Empire's preservative and seasoning of choice, it is no wonder that the Salt Merchant's Guild is both rich and very powerful","As the Gallian Empire's preservative and seasoning of choice, it is no wonder that the Salt Merchant's Guild is both rich and very powerful"
+Snails,Snails
+"Despite their slimy appearance, these small creatures are a delicacy amongst nobles and commoners alike and are often eaten with garlic butter or as part of hearty casseroles","Despite their slimy appearance, these small creatures are a delicacy amongst nobles and commoners alike and are often eaten with garlic butter or as part of hearty casseroles"
+Spices,Spices
+"Imported from far away lands at great cost and risk, spices are worth their weight in gold","Imported from far away lands at great cost and risk, spices are worth more than their weight in gold"
+"Aromatic and delicious, they are a precious commodity used by the upper classes to enhance their meals","Aromatic and delicious, they are a precious commodity used by the upper classes to enhance their meals"
+Squid,Squid
+"If they’re not filling the bellies of the upper-class, these slippery sea-creatures are being harvested for their ebony coloured ink","If they’re not filling the bellies of the upper-class, these slippery sea-creatures are being harvested for their ebony coloured ink"
+Sugar,Sugar
+"Due to its rarity, this sweet ingredient is usually only found in the kitchens of noble and middle-class households where it is typically used to make glorious pastries and confections","Due to the intensive and costly procedure involved its purification, fine sugar is a rarity, its sweetness reserved only for the kitchens of noble and middle-class households where it is typically used as an ingredient in glorious pastries and confections"
+Beef,Beef
+"A favorite on many a noble’s table, this thick cut of meat is as rich in iron as it is in flavor","A favourite on the table of many a nobleman, this thick cut of meat is as rich in iron as it is in flavour"
+Warberries,Warberries
+Rich harvests from the warberry bush is said to portend war,Rich harvests from the warberry bush is said to portend war
+These tart berries are often used to make jams or other preserves in case food should become scarce,These tart berries are often used to make jams or other preserves in case food should become scarce
+Ombarian Wine,Ombarian Wine
+Fine wine imported from the vinyards of the Ombaria,Fine wine imported from the vineyards of the Ombaria
+Rumors abound of grape harvests failing due to drought in the Heartlands and wine is currently hard to come by,"Rumours abound of grape harvests failing due to drought in the Heartlands, making wine currently hard to come by"
 #Adventuring Items,#Adventuring Items
 Crowbar,Crowbar
 An iron crowbar,An iron crowbar
@@ -56,67 +2074,19 @@ Lantern,Lantern
 A small lantern,A small lantern
 Press 'T' to equip it whilst exploring,Press 'T' to equip it whilst exploring
 Thieves' Tools,Thieves' Tools
-Tools used for lockpicking,Tools used for lockpicking
+Tools used for lockpicking,Tools used for lock-picking
 You lose a few each time you pick a lock so take care to gather a supply,"They tend to break in locks when picking them, so having a reserve supply might be worthwhile"
 Pickaxe,Pickaxe
 A pickeaxe used for mining,A pickaxe used for mining
 In the right hands it could be used as a weapon,"In the right hands, it could be used as a weapon"
-Rope,Rope
+Rope,A coil of rope
 A 20-foot coil of hemp rope,A 20-foot coil of hemp rope
 Indispensable for spelunkers and mountaineers,Indispensable for spelunkers and mountaineers
 Sewer Map,Sewer Map
 A hand-drawn map depicting the sewers underneath Horryn,A hand-drawn map depicting the sewers underneath Horryn
-Shovel,Shovel
+Shovel,A shovel
 Used for digging in the ground!,Used for digging in the ground!
-#Ammo,#Ammo
-Bodkin Arrow,Bodkin Arrow
-Broadhead Arrow,Broadhead Arrow
-Fire Arrow,Fire Arrow
-Hunting Arrow,Hunting Arrow
-Poison Arrow,Poison Arrow
-Poor Arrow,Poor Arrow
-#Armors,#Armours
-Light Armor,Light Armour
-Medium Armor,Medium Armour
-Heavy Armor,Heavy Armour
-Breastplate,Breastplate
-Fine Breastplate,Fine Breastplate
-Masterwork Breastplate,Masterwork Breastplate
-Poor Breastplate,Poor Breastplate
-Chainmail,Chainmail
-Fine Chainmail,Fine Chainmail
-Masterwork Chainmail,Masterwork Chainmail
-Poor Chainmail,Poor Chainmail
-The Second Chance,The Second Chance
-Adds the following triggered ability,Adds the following triggered ability
-"The first time you take Wound Damage each combat, you automatically regain 30-40 Vitality Hit Points","The first time you take Wound Damage each combat, you instantly regenerate 30-40 Vitality Hit Points"
-Full Plate,Full Plate
-Fine Fullplate,Fine Fullplate
-Masterwork Fullplate,Masterwork Fullplate
-Poor Fullplate,Poor Fullplate
-Half Plate,Half Plate
-Ancient Halfplate,Ancient Halfplate
-Fine Halfplate,Fine Halfplate
-Masterwork Halfplate,Masterwork Halfplate
-Poor Halfplate,Poor Halfplate
-The Rat Queen's Armor,The Rat Queen's Armour
-Leather Armor,Leather Armor
-Fine Leather Armor,Fine Leather Armour
-Masterwork Leather Armor,Masterwork Leather Armour
-Poor Leather Armor,Poor Leather Armour
-Padded Armor,Padded Armour
-Fine Padded Armor,Fine Padded Armour
-Masterwork Padded Armor,Masterwork Padded Armour
-Poor Padded Armor,Poor Padded Armour
-Scalemail,Scalemail
-Fine Scalemail,Fine Scalemail
-Masterwork Scalemail,Masterwork Scalemail
-Poor Scalemail,Poor Scalemail
-Studded Leather,Studded Leather
-Fine Studded Leather,Fine Studded Leather
-Masterwork Studded Leather,Masterwork Studded Leather
-Poor Studded Leather,Poor Studded Leather
-#Books,#Books
+#Adventuring - Books,#Adventuring - Books
 Astronomer's Journal,Astronomer's Journal
 "A small, well-used journal","A small, well-used journal"
 The journal contains a large amount of tabulated data that appears to be astrological in nature interspersed with notes,"The journal contains a large amount of tabulated data, interspersed with notes, that appears to be astrological in nature"
@@ -129,16 +2099,16 @@ Somewhere between a deep wail and singing,"somewhere between a deep, plaintive w
 Could not perform observations tonight,Could not perform observations tonight
 Charts or instruments are off and I cannot make sense of the sky,"Charts or instruments are off, and I cannot make sense of the sky"
 There are bodies there,There are bodies there
-Bodies that are alien to me,Bodies that are alien to me
+Bodies that are alien to me,bodies that are alien to me
 It must be some form of comet storm or some other extraordinary astronomical event that has not been predicted in the Imperial Charts,"It must be a comet storm of sorts, or some other extraordinary astronomical event that has not been predicted in the Imperial Charts"
 They are wrong!,They are wrong!
-I have done the calculations over and over and I come to the same conclusion,I have double-checked the calculations repeatedly and  still come to the same conclusion
+I have done the calculations over and over and I come to the same conclusion,I have double-checked the calculations repeatedly and still come to the same conclusion
 The stars are wrong - in so many ways!,the stars are wrong - in so many ways!
-"As I observed an alien cluster in the southeastern quadrant, it dawned on me with absolute certainty","As I observed an alien cluster in the southeastern quadrant, it dawned on me with absolute certainty"
+"As I observed an alien cluster in the southeastern quadrant, it dawned on me with absolute certainty","As I observed an alien cluster in the south-eastern quadrant, it dawned on me with absolute certainty"
 I am not watching them - they are watching me,I am not watching them - they are watching me
 I dread to look again yet I feel compelled to do so,"I dread to look again, yet I feel compelled to do so"
 They beckon me,They beckon me
-I am certain that if I look again into that dreadful cluster in the southeastern quadrant I shall be undone,"I am certain that if I peer once more into that dreadful, southeastern cluster I shall be undone"
+I am certain that if I look again into that dreadful cluster in the southeastern quadrant I shall be undone,"I am certain that if I peer once more into that dreadful, south-eastern cluster I shall be undone"
 Yet there are answers there,Yet there are answers there
 Deeper and more profound than any mortal mind can comprehend,Deeper and more profound than any mortal mind can comprehend
 I believe I shall look again,I believe I shall look again
@@ -210,23 +2180,23 @@ This bright fauna was first discovered in the province of Gorremia following one
 "Breaths held, the villagers watched as that sliver of sunlight thawed the icy ground, unveiling the beginnings of a single, yellow bud","Breaths held, the villagers watched as that sliver of sunlight thawed the icy ground, unveiling the beginnings of a single, yellow bud"
 "A bud that, to this day, has only ever been found to grow in areas of direct sunlight","A bud that, to this day, has only ever been found to grow in areas of direct sunlight"
 Monk's Journal,Monk's Journal
-We’re working long hours into the night to deal with the recent influx of corpses,We’re working long hours into the night to deal with the recent influx of corpses
+We’re working long hours into the night to deal with the recent influx of corpses,We’re burning the candle at both ends to deal with the recent influx of corpses
 What compels these people to act so cruelly?,What compels these people to act so cruelly?
 Yesterday we had the corpse of a young boy of no more than 12 years come in,Yesterday we had the corpse of a young boy of no more than twelve winters come in
 He had been beaten to death by the looks of it,The marks on his body indicate he was bludgeoned to death
 "Sacred dead preserve me - were it not for the calling, I’m not sure I would have persevered",May the Sacred Dead preserve me and give me the strength to persevere
 A glimmer of light,A glimmer of light
 "Brother Aruun came running up from the crypt, so frightened he had pissed his robes","Brother Aruun came running up from the crypt, so frightened he had pissed his robes"
-He claimed he saw something move down in the crypt,"He claimed he saw something move down in the crypt,"
-Something “unnatural,something unnatural.
-"We laughed till we fell over and by the end, so did he","We laughed 'till we fell over; and by the end, so did he"
+He claimed he saw something move down in the crypt,He claimed he saw something move down in the crypt
+Something “unnatural,something “unnatural
+"We laughed till we fell over and by the end, so did he","We laughed till we fell over; and by the end, so did he"
 No doubt he saw one of the rats but it’s funny where the mind wanders when sleep becomes scarce,"No doubt he saw one of the rats, but it’s funny where the mind wanders when sleep becomes scarce"
 Something is wrong in the village!,Something is wrong in the village!
 They say some kind of riot has broken out,They say some kind of riot has broken out
 Hierophant Leios said Driina has gone to investigate and that we monks should stay in the crypt for our own safety,"Hierophant Leios said Driina has gone to investigate, and that we monks should stay in the crypt for our own safety"
 We try to pass the time with work but I wish we knew what was happening,"We try to pass the time with work, but I wish we knew what was happening"
 They came from the lower crypts!,They came from the lower crypts!
-All are dead save me and brother Aruun!,"All are dead, save me and brother Aruun!"
+All are dead save me and brother Aruun!,"All are dead, bar me and brother Aruun!"
 We have locked ourselves in the storage room,We have locked ourselves in the storage room
 How can this be?,How can this be?
 How can such abominations walk?,How can such abominations walk?
@@ -275,7 +2245,7 @@ I suspect he intends to inform our passengers that he refuses to land on the isl
 If this is my last,If this is my last
 The entry trails off,The entry trails off
 Caspar's Journal,Caspar's Journal
-"A small, leather-bound journal filled with neat handwritten notes","A small, leather-bound journal filled with neat handwritten notes"
+"A small, leather-bound journal filled with neat handwritten notes","A small, leather-bound journal filled with neat, handwritten notes"
 Noted on the inside cover is the name “Caspar of Loral,Noted on the inside cover is the name “Caspar of Loral
 About a year ago,About a year ago
 Arrived today and was met by the man who is to be my overseer,Arrived today and was met by the man who is to be my overseer
@@ -314,23 +2284,21 @@ I told him as much and he got agitated,I told him as much and he got agitated
 Yelled something about dreaming of an ancient relic,Yelled something about dreaming of an ancient relic
 I have no idea what he’s on about,I have no idea what he’s on about
 Golden dead!,Golden dead!
-Bryn got attacked by a crab the size of a warhound today!,Bryn got attacked by a crab the size of a warhound today!
+Bryn got attacked by a crab the size of a warhound today!,"Bryn got attacked by a crab the size of a war hound, today!"
 Nearly took his leg off!,Nearly took his leg off!
 Neither of us have seen anything like it before and we can only pray it was alone!,Neither of us have seen anything like it before and we can only pray it was alone!
 Hope the ship won't be delayed much longer,Hope the ship won't be delayed much longer
 Bryn is gone,Bryn is gone
 I know in my heart he’s gone to the underwater tunnel,I know in my heart he’s gone to the underwater tunnel
 Madness!,Madness!
-Shapes are moving in the dark now,Shapes are moving in the dark now
+Shapes are moving in the dark now,"Shapes are moving in the dark, now"
 No way out and no one is coming for me!,No way out and no one is coming for me!
 Light is failing,Light is failing
 Mother,Mother
 Marita's Cookbook,Marita's Cookbook
 A humble cookbook,A humble cookbook
-VEGETABLE SOUP,VEGETABLE SOUP
 Potatoes - Carrots - Leeks,Potatoes - Carrots - Leeks
 All of the above can be found growing in our field,All of the above can be found growing in our field
-FARMER'S OMELETTE,FARMER'S OMELETTE
 x Eggs - Potatoes - Onions,x Eggs - Potatoes - Onions
 Sea bird eggs will do just fine,Sea bird eggs will do just fine
 Onions grow wild in abundance,Onions grow wild in abundance
@@ -348,7 +2316,7 @@ As is the fate of the Priory’s original occupants,As is the fate of the priory
 Still no success in finding the door to the catacombs,Still no success in finding the door to the catacombs
 I can only conclude it’s somehow concealed,I can only conclude it’s somehow concealed
 "We did, however, make an interesting discovery","We did, however, make an interesting discovery"
-The four statues on the “pilgrim’s road” can be rotated,The four statues on the “pilgrim’s road” can be rotated
+The four statues on the “pilgrim’s road” can be rotated,the four statues on the “pilgrim’s road” can be rotated
 I’m certain this is somehow significant!,I’m certain this is somehow significant!
 Some form of disease is spreading amongst the men,Some form of disease is spreading amongst the men
 Abdominal pain and swelling combined with fevers,"Abdominal pain and swelling, combined with fevers"
@@ -396,400 +2364,111 @@ The writing becomes rushed,The writing becomes rushed
 Hear screams below,Hear screams below
 Something is wrong,Something is wrong
 Save us!,Save us!
-#Clothing,#Clothing
-Clothing,Clothing
-Apron,Apron
-Dress,Dress
-Commoner's Garb,Commoner's Garb
-Rough but functional woolen clothing that serves the hard-working commoners of the empire well,Rough but functional woolen clothing that serves the hard-working commoners of the empire well
-Bravo's Outfit,Bravo's Outfit
-Checkered Tunic,Checkered Tunic
-Doublet,Doublet
-Noble's Outfit,Noble's Outfit
-Pants,Trousers
-Rags,Rags
-Ranger's Outfit,Ranger's Outfit
-Robes,Robes
-Flashy Shirt,Flashy Shirt
-Short Pants,Braies
-Comfortable Outfit,Comfortable Outfit
-Tabard,Tabard
-Toga,Toga
-Traveler's Garb,Traveller's Garb
-Rough but functional woolen clothing,Rough but functional woolen clothing
-Well suited for travel and adventuring if you can learn to live with the itching,Well suited for travel and adventuring; if you can learn to live with the itching
-Tribal Sash,Tribal Sash
-Furs,Furs
-#Consumeables,#Consumables
-Consume,Consume
-Consumable,Consumable
-Brandy,Brandy
-A bottle of strong Gorremian brandy,A bottle of strong Gorremian brandy
-The tired old mercenary's best friend,Best friend to the tired old mercenary
-Potion of Cure Disease,Potion of Cure Disease
-Potion of Cure Poison,Potion of Cure Poison
-Firgol Cider,Firgol Cider
-"Sparkling and sweet, this cider comes from the slow-growing orchards of Firgol","Sparkling and sweet, this cider comes from the slow-growing orchards of Firgol"
-Many claim it’s the best in all of the Northern Empire whilst a handful of bad apples will complain it’s too sweet,"Many claim it’s the best in all of the Northern Empire, whilst a handful of bad apples will complain it's excessively sweet"
-Potion of Greater Restoration,Potion of Greater Restoration
-Greater Tonic of Vitality,Greater Tonic of Vitality
-Lesser Tonic of Vitality,Lesser Tonic of Vitality
-Moderate Tonic of Vitality,Moderate Tonic of Vitality
-Potion of Acid Immunity,Potion of Acid Immunity
-Potion of Electric Immunity,Potion of Electric Immunity
-Potion of Fire Immunity,Potion of Fire Immunity
-Potion of Panic Immunity,Potion of Panic Immunity
-Greater Attunement Tonic,Greater Attunement Tonic
-Lesser Attunement Tonic,Lesser Attunement Tonic
-Moderate Attunement Tonic,Moderate Attunement Tonic
-Mead,Mead
-A sweet alcoholic brew made from honey,A sweet alcoholic brew made from honey
-Widely enjoyed in all of the Northern Empire and the Outer Isles,Widely enjoyed in all of the Northern Empire and the Outer Isles
-Potion of Agility,Potion of Agility
-Potion of Bless,Potion of Bless
-Potion of Diamond Form,Potion of Diamond Form
-Potion of Fortify Will,Potion of Fortify Will
-Potion of Frenzy,Potion of Frenzy
-Potion of Heroism,Potion of Heroism
-Potion of Regeneration,Potion of Regeneration
-Potion of Speed,Potion of Speed
-Potion of Stone Skin,Potion of Stone Skin
-Potion of Strength,Potion of Strength
-Potion of Acid Resistance,Potion of Acid Resistance
-Potion of Electric Resistance,Potion of Electric Resistance
-Potion of Fire Resistance,Potion of Fire Resistance
-#Foods,#Foods
-Apple,Apple
-"Whilst its ability to keep the medicae away has yet to be proven, this common fruit can be found growing on trees in the summer months and is a staple in the pantry of peasants and noblemen alike","Whilst its ability to keep the medicae away has yet to be proven, this common fruit can be found growing on trees in the summer months and is a staple in the pantry of peasants and noblemen alike"
-Bacon,Bacon
-There is truly no better way to start the day than with a fresh chunk of this salted pork,There is truly no better way to start the day than with a fresh chunk of this salted pork
-Dark Bread,Dark Bread
-A piece of the traditional dark and heavy full-grain bread that is eaten throughout the region by farmers and laborers,A piece of the traditional dark and heavy full-grain bread that is eaten throughout the region by farmers and labourers
-Butter,Butter
-"Due to its affordability, the rich and creamy, salted butter from Heartlander cows is a popular source of nourishment amongst the lower classes of the Empire","Due to its affordability, the rich and creamy salted butter from Heartlander cows is a popular source of nourishment amongst the lower classes of the Empire"
-There’s nothing butter,There’s nothing butter
-Carrot,Carrot
-"Abundant and healthy, carrots are a staple in the soups and stews of the north","Abundant and healthy, carrots are a staple in the various soups and stews of the north"
-"Also, Hospitallers claim they improve your night-sight","Also, Hospitallers claim they improve your night-sight"
-Cheddar,Cheddar
-"Made from cow's milk, this cheese is common and beloved throughout the Imperial heartlands","Made from cow's milk, this cheese is common and beloved throughout the Imperial heartlands"
-Perfect for eating with bread and ham,Perfect for eating with bread and ham
-Sheep's Milk Cheese,Sheep's Milk Cheese
-As inexpensive and filling as it is smelly,As inexpensive and filling as it is smelly
-Sheep's milk cheese is a staple in the northern Hinterlands,Sheep's milk cheese is a staple in the northern Hinterlands
-Crab,Crab
-"Many of the Empire’s citizens will pay a pretty penny to get their hands on this soft, sweet meat","Many of the Empire’s citizens will pay a pretty penny to get their hands on this soft, sweet meat"
-"Boiled in salted water and served on white bread with melted butter and squeezed lemon, crab-meat is truly a feast","Boiled in salted water and served on white bread with melted butter and squeezed lemon, crab-meat is truly a delight"
-Cream,Cream
-Rich and creamy,Rich and creamy. But not butter
-Don’t let the cat have it,Don’t let the cat have it
-Dried Meat,Dried Meat
-"A favorite amongst adventures, this smoky, preserved meat can last longer than most people’s lives","A favourite amongst adventures, this smoky, preserved meat can often outlast the very adventures that carry it."
-Eel,Eel
-"Due to their abundance in both rivers and oceans, eels are one of the most popular seafoods in the Empire","Due to their abundance in both rivers and oceans, eels are one of the most popular seafoods in the Empire"
-"So popular, in fact, that some citizens have even been known to accept them as payment","So popular, in fact, that some citizens have even been known to accept them as payment"
-Eggs,Eggs
-Don't put them all in one basket,Don't put them all in one basket
-Perklin,Perklin
-The humble perklin makes up for its meager size with its abundance,The perennial perklin. A humble little fish that makes up for its meager size with its abundance
-It's often perserved with salt and eaten year round,It's often preserved with salt and eaten all year round
-The smell is an acquired taste,The smell is an acquired taste
-Redman,Redman
-The tongue and eyes of the redman swells grotesquely once it's pulled from the depth in which it dwells,The tongue and eyes of the redman swell grotesquely once it's pulled from the depth in which it dwells
-"Despite its apperance, however, its flesh is considered a delicacy when served baked with lemons and vegetables","Despite its appearance however, its flesh is considered a delicacy when served baked with lemons and vegetables"
-Steel-Fin,Steel-Fin
-Dead fish eyes stare up at you,Dead fish eyes stare up at you
-Steel-Fin is a staple on dinner tables throughout the Outer Isles,Steel-Fin is a staple on dinner tables throughout the Outer Isles
-It's commonly eaten in hearthy stews with vegetables,It's commonly eaten in hearty stews with vegetables
-Flour,Flour
-One of the greatest of the Gallian Miracles was the turning of deserts into the great rolling wheat fields that now constitute a large portion of the Heartland,One of the greatest of the Gallian Miracles was the turning of deserts into the great rolling wheat fields that now constitute a large portion of the Heartland
-From these flows countless tons of grain and rich white flour,From these flows countless tons of grain and rich white flour
-Garlic,Garlic
-"Pungent and full of flavor, this herb is most frequently used to enhance a variety of meals","Pungent and full of flavour, this herb is most frequently used to enhance a variety of meals"
-Cured Ham,Cured Ham
-"Tender, savory and long lasting","Tender, savoury and long lasting"
-Cured ham is found in the cellar of every well-to-do merchant and petty noble in the Empire,Cured ham is found in the cellar of every well-to-do merchant and petty noble in the Empire
-Honey,Honey
-"Sticky and sweet, this ingredient is often used by cooks to sweeten or preserve food, and is a staple in every mead-makers arsenal","Sticky and sweet, this ingredient is often used by cooks to sweeten or preserve food, and is a staple in every mead-makers arsenal"
-It is even said to have curative properties when applied to infected wounds,It is even said to have curative properties when applied to infected wounds
-Leeks,Leeks
-"Beyond just the taste, leeks go a long way towards adding some color to the drab cuisine of the poor","Beyond just the taste, leeks go a long way towards adding some colour to the drab cuisine of the poor"
-Lemons,Lemons
-"In the north, lemons are almost exclusively found on ships where they serve to protect the sailors from the terrible scurvy that prolonged idleness and sexual abstinence is known to cause","In the north, lemons are almost exclusively found on ships where they serve to protect the sailors from the terrible scurvy that prolonged idleness and sexual abstinence is known to cause. So associated with seafaring are they: with sailors, seafood, and trade; that crews of the Empire who transport them are affectionately referred to as ""lemon-eaters,"" or the shortened ""limony,"" and by extension, any seaman"
-Baked Crab,Baked Crab
-The crab flesh is coated in spiced butter before baking in the oven to perfection,The crab flesh is coated in spiced butter before baking in the oven to perfection
-Baked Mushrooms,Baked Mushrooms
-The nutty flavor of the wyrdloaf mixes wonderfully with the aromas of garlic to produce a meal fit for an emperor,The nutty flavour of the wyrdloaf mixes wonderfully with the aromas of garlic to produce a meal fit for an emperor
-Baked Onions,Baked Onions
-"Onions are easily grow, keep for long and go a long ways towards covering up the taste of half-spoiled fish or meat","Onions are easily grown, keep for a long while, and go a long ways towards covering up the taste of half-spoiled fish or meat"
-Baked Oysters,Baked Oysters
-Tender oysters coated in bread-crumbs and baked until just right,Tender oysters coated in breadcrumbs and baked until just right
-You just hope the oysters were fresh,You just hope the oysters were fresh
-Baked Potato,Baked Potato
-It is said that potatoes alone can nourish a man's body indefinitely,It is said that potatoes alone can nourish a man's body indefinitely
-The same cannot be said for his soul,The same cannot be said for his soul
-Beef Stew,Beef Stew
-"A thick, hearty stew of beef cooked in rich, Ombarian wine","A thick, hearty stew of beef cooked in rich, Ombarian wine"
-Cheese Plate,Cheese Plate
-"Ah, the understated elegance of a cheese and fruit plate","Ah, the understated elegance of a cheese and fruit plate"
-Eggs and Bacon,Bacon and Eggs
-The breakfast of titans,The breakfast of titans
-Baked Fish,Baked Fish
-"A delicious-looking plate of baked, white fish on a bed of vegetables seasoned with freshly squeezed lemon","A delicious-looking plate of baked, white fish on a bed of vegetables seasoned with freshly squeezed lemon"
-Salted Fish,Salted Fish
-The fisherman's best friend,The fisherman's best friend
-Preferably eaten with a mug of ale on the side,Preferably eaten with a mug of ale on the side
-Fish Stew,Fish Stew
-A steaming bowl of fish and vegetable stew,A steaming bowl of fish and vegetable stew
-This type of dish is eaten more or less daily by the coast-dwellers of the north,This type of dish is eaten more or less daily by the coast-dwellers of the north
-It could do with some salt,It could do with a little salt and a squeeze of lemon
-Grilled Leeks,Grilled Leeks
-Mashed Potatoes,Mashed Potatoes
-Just the way mothers all over the Empire would make it!,Just the way mothers all over the Empire would make it!
-Meat Skewers,Meat Skewers
-Richly spiced meat roasted on skewers,Richly spiced meat roasted on skewers
-A popular dish that the Empire imported from its overseas colonies,A popular dish that the Empire imported from its overseas colonies
-Farmer's Omelette,Farmer's Omelette
-"A nice farmer's omelette brings to mind the simple comforts of a quaint, rural life","A nice farmer's omelette brings to mind the simple comforts of a quaint, rural life"
-Mushroom Omelette,Mushroom Omelette
-The mushroom omelette tastes of the forest,The mushroom omelette tastes of the forest
-Apple Pie,Apple Pie
-Sweet and comforting,"Sweet and a litte tart, but all comforting"
-Pumpkin Pie,Pumpkin Pie
-Nothing says autumn like a nice old slice of pumpkin pie,Nothing says autumn like a nice old slice of pumpkin pie
-Roasted Eel,Roasted Eel
-Crispy skin and tender meat,Crispy skin and tender meat
-The roasted eel is seasoned with garlic and served with potato chips,The roasted eel is seasoned with garlic and served with thickly-cut wedges of potato
-Cheese Sandwich,Cheese Sandwich
-"For a few short moments, whilst eating a melted cheese sandwich, all is well in the world","For a few short moments, whilst eating a melted cheese sandwich, all is well in the world"
-Mushroom Soup,Mushroom Soup
-Fried Steak,Fried Steak
-A meal to put hair on your chest!,A meal to put hair on your chest!
-Vegetable Soup,Vegetable Soup
-"A farmer’s feast, often eaten in the fall when root vegetables are abundant","A farmer’s feast, often eaten in the autumn time when root vegetables are abundant"
-Morel,Morel
-Morels are mushrooms that make for excellent eating,Morels are mushrooms that make for excellent eating
-Penny Buns,Penny Buns
-Penny Buns are mushrooms that make for excellent eating,Penny Buns are mushrooms that make for excellent eating
-Wyrdloaf,Wyrdloaf
-Wyrdloaf are mushrooms that make for excellent eating,Wyrdloaf are mushrooms that make for excellent eating
-Nuts,Nuts
-"Often added to meat dishes to boost nutrition, these tasty treats can be found growing on various trees and bushes throughout the Empire","Often added to meat dishes to make them more nourishing, these tasty treats can be found growing on various trees and bushes throughout the Empire"
-Onions,Onions
-Oysters,Oysters
-This earthy flavored molluscs has been known to increase a person’s desire and sexual stamina,These earthy flavoured molluscs have been known to increase a person’s desire and sexual stamina
-No wonder then that the courtiers and lay nobility of the Heartlands gorge themselves on this delicacy,"It's no wonder then, that the courtiers and lay-nobility of the Heartlands gorge themselves on this delicacy"
-Just remember to smell them before you eat them,Just remember to smell them before consumption
-Pear,Pear
-"A freshly picked, juicy pear","A freshly picked, juicy pear. A versatile fruit with many variants of different flavours. Eat it straight off the tree, bake it in a pie or crumble, turn it into a fool with cream, or, best of all, make brandy out of it"
-"Eat it fresh, bake it in a pie or make brandy from it!","The wood itself is prized for its properties among musicians, who can often be found playing in the taverns of villages with pear orchards."
-Potatoes,Potatoes
-Pumpkin,Pumpkin
-A bit watery and tasteless but might work well in a soup or a pie,"A bit watery and tasteless, but might work well in a soup or a pie"
-Ration,Ration
-"A trail ration of dried meats, fruits and grains","A trail ration of dried meats, fruits, and grains"
-As sure to filling as it is boring,As filling as it is boring
-Salt,Salt
-An empire runs on salt,An empire runs on salt
-"As the Gallian Empire's preservative and seasoning of choice, it is no wonder that the Salt Merchant's Guild is both rich and very powerful","As the Gallian Empire's preservative and seasoning of choice, it is no wonder that the Salt Merchant's Guild is both rich and very powerful"
-Snails,Snails
-"Despite their slimy appearance, these small creatures are a delicacy amongst nobles and commoners alike and are often eaten with garlic butter or as part of hearty casseroles","Despite their slimy appearance, these small creatures are a delicacy amongst nobles and commoners alike and are often eaten with garlic butter or as part of hearty casseroles"
-Spices,Spices
-"Imported from far away lands at great cost and risk, spices are worth their weight in gold","Imported from far away lands at great cost and risk, spices are worth their weight in gold"
-"Aromatic and delicious, they are a precious commodity used by the upper classes to enhance their meals","Aromatic and delicious, they are a precious commodity used by the upper classes to enhance their meals"
-Squid,Squid
-"If they’re not filling the bellies of the upper-class, these slippery sea-creatures are being harvested for their ebony coloured ink","If they’re not filling the bellies of the upper-class, these slippery sea-creatures are being harvested for their ebony coloured ink"
-Sugar,Sugar
-"Due to its rarity, this sweet ingredient is usually only found in the kitchens of noble and middle-class households where it is typically used to make glorious pastries and confections","Due to the intensive and costly procedure involved its purification, fine sugar is a rarity, its sweetness reserved only for the kitchens of noble and middle-class households where it is typically used as an ingredient in glorious pastries and confections"
-Beef,Beef
-"A favorite on many a noble’s table, this thick cut of meat is as rich in iron as it is in flavor","A favourite on the table of many a nobleman, this thick cut of meat is as rich in iron as it is in flavour"
-Warberries,Warberries
-Rich harvests from the warberry bush is said to portend war,Rich harvests from the warberry bush is said to portend war
-These tart berries are often used to make jams or other preserves in case food should become scarce,These tart berries are often used to make jams or other preserves in case food should become scarce
-Ombarian Wine,Ombarian Wine
-Fine wine imported from the vinyards of the Ombaria,Fine wine imported from the vineyards of the Ombaria
-Rumors abound of grape harvests failing due to drought in the Heartlands and wine is currently hard to come by,"Rumours abound of grape harvests failing due to drought in the Heartlands, making wine currently hard to come by"
-#Gems,#Gems
-Amethyst,Amethyst
-"A common variety of quartz often believed to offer enlightenment, this gemstone is often found in the mountains of Gorremia","A common variety of quartz often believed to offer enlightenment, this gemstone is often found in the mountains of Gorremia"
-Archon's Eye,Archon's Eye
-A common gemstone across the Empire,A common gemstone across the Empire
-Crones will tell you it protects the user from bad luck,Crones will tell you it protects the user from bad luck
-Diamond,Diamond
-The “Empress” of gemstones,"The ""Empress"" of gemstones"
-Emerald,Emerald
-A highly coveted semi-precious stone often worn by members of the lay-nobility,A highly coveted semi-precious stone often worn by members of the lay-nobility
-Moonstone,Moonstone
-"This adularescent gem is believed by some to have fallen from the moon itself, but its low cost suggests otherwise","This adularescent gem is believed by some to have fallen from the moon itself, but its low cost suggests otherwise"
-Opal,Opal
-This semi-precious stone is found in far Arassha and is often inset in items of power,This semi-precious stone is found in far Arassha and is often inset in items of power
-Painite,Painite
-"A rare mineral often misidentified as a ruby, this gemstone is often called “The Jewler’s Best Friend","A rare mineral often misidentified as a ruby, this gemstone is often called ""The Jeweller’s Best Friend."
-Pearl,Pearl
-"A spherical stone, typically white or bluish-gray, the pearl is a favorite of rich sea-merchants","A spherical stone, typically white or bluish-grey, the pearl is a favourite of rich sea merchants"
-Red Beryl,Red Beryl
-An extremely rare and coveted gemstone that can sometimes be found inset in the regalia of the Empire’s most powerful,An extremely rare and coveted gemstone that can sometimes be found inset in the regalia of the Empire’s most powerful
-Ruby,Ruby
-"A coveted, durable gemstone often worn by Magi of high rank","A coveted, durable gemstone often worn by Magi of high rank"
-Topaz,Topaz
-Topaz is commonly traded by Ombarian merchants,Topaz is commonly traded by Ombarian merchants
-"Usually light blue in color, the gem can be traded at a low cost","Usually light blue in colour, the gem can be traded at a low cost"
-#Idle Items,#Idle Items
-Banner,Banner
-Helbard,Helbard
-Pitchfork,Pitchfork
-Rake,Rake
-Scythe,Scythe
-Spear,Spear
-#Jewelry,#Jewellery
-Amulet of Perfect Health,Amulet of Perfect Health
-Grants the wearer immunity to Disease,Grants the wearer immunity to Disease
-The Lunar Ring,The Lunar Ring
-The Lunar Ring increases the radius of Aura spells by,The Lunar Ring increases the radius of Aura spells by
-Skull Necklace,Skull Necklace
-An exquisitely crafted necklace that could be quite valuable,An exquisitely crafted necklace that could be quite valuable
-Diamond Necklace,Diamond Necklace
-Firegold Necklace,Firegold Necklace
-Coral Necklace,Coral Necklace
-Pagan Necklace,Pagan Necklace
-Beryl Necklace,Beryl Necklace
-Garnet Necklace,Garnet Necklace
-Profane Necklace,Profane Necklace
-Arcane Necklace,Arcane Necklace
-Ancient Necklace,Ancient Necklace
-Brass Necklace,Brass Necklace
-A necklace that can be sold for a few coins,A necklace that can be sold for a few coins
-Opal Necklace,Opal Necklace
-A necklace that will fetch a nice price,A necklace that will fetch a nice price
-Silver Necklace,Silver Necklace
-Gold Necklace,Gold Necklace
-Copper Necklace,Copper Necklace
-Copper Locket,Copper Locket
-Jade Necklace,Jade Necklace
-Ruby Necklace,Ruby Necklace
-Ancient Gold Necklace,Ancient Gold Necklace
-Ancient Jade Necklace,Ancient Jade Necklace
-The Guarded Heart,The Guarded Heart
-A beautifully crafted golden ring with a heart carved into it,"A resplendent and pure silver ring, beautifully crafted with a heart carved into it"
-The wearer of this ring will find their resolve strengthened,The wearer of this ring shall find his resolve strengthened
-Adds +1 to Will,Adds +1 to Will
-Skull Ring,Skull Ring
-An exquisitely crafted ring that could be quite valuable,An exquisitely crafted ring that could be quite valuable
-Topaz Ring,Topaz Ring
-Lapis Ring,Lapis Ring
-Frater's Ring,Frater's Ring
-Sepulchite's Ring,Sepulchite's Ring
-Flowgold Ring,Flowgold Ring
-Wavestrider Ring,Wavestrider Ring
-Tempest Ring,Tempest Ring
-Lupercal Ring,Lupercal Ring
-Arboreal Ring,Arboreal Ring
-Primordial Ring,Primordial Ring
-Ruby Ring,Ruby Ring
-Genesis Ring,Genesis Ring
-Fire Opal Ring,Fire Opal Ring
-Emerald Ring,Emerald Ring
-Amethyst Ring,Amethyst Ring
-Serpent Ring,Serpent Ring
-Aquamarine Ring,Aquamarine Ring
-Sunstone Ring,Sunstone Ring
-Green Sapphire Ring,Green Sapphire Ring
-Brass Ring,Brass Ring
-"A modest, but well crafted ring","A modest, but well crafted ring"
-Silver Ring,Silver Ring
-Gold Ring,Gold Ring
-"A modest, but well crafted golden ring","A modest, but well crafted golden ring"
-#Keys,#Keys
-Crypt Key,Crypt Key
-A bloodied bronze key that opens something in the crypt under the temple in Horryn,A bloodied bronze key that opens something in the crypt under the temple in Horryn
-Surgery Door Key,Surgery Door Key
-"A small key that unlocks the door to the surgery on the ""Zephyr",Below the Zephyr's decks lies the surgeon quarters; and this is the small key which unlocks it
-Armory Key,Armoury Key
-A key that was discovered inside the keep in Horryn,A key that was discovered inside the keep in Horryn
-Black Key,Black Key
-A large black key that unlocks something inside the Black Priory,A large black key that unlocks something inside the Black Priory
-Smugglers Key,Smugglers Key
-A large rusty key that seems like it would open a chest or some other container,A large rusty key that seems like it would open a chest or some other container
-You found it on a drowned corpse beneath the lighthouse,You found it on a drowned corpse beneath the lighthouse
-#Melee Weapons,#Melee Weapons
-Light Blade,Light Blade
-Medium Blade,Medium Blade
-Heavy Blade,Heavy Blade
-Masterwork Dagger,Masterwork Dagger
-Broadsword,Broadsword
-Fine Broadsword,Fine Broadsword
-Masterwork Broadsword,Masterwork Broadsword
-Crude Broadsword,Crude Broadsword
-Light Club,Light Club
-Fine Club,Fine Club
-Masterwork Club,Masterwork Club
-Crude Club,Crude Club
-Cutlass,Cutlass
-A cutlass is a curved sword favored by sailors and swordsmen of Yom-Baria,A cutlass is a curved sword favoured by sailors and swordsmen of Yom-Baria
-Fine Cutlass,Fine Cutlass
-Masterwork Cutlass,Masterwork Cutlass
-Crude Cutlass,Crude Cutlass
-Dagger,Dagger
-Ancient Dagger,Ancient Dagger
-"An ancient dagger, carved from a strange greenish stone","An ancient dagger, carved from a strange greenish stone"
-It looks almost ritual and you suspect it might be of some value to someone with the right interest,It looks almost ritual and you suspect it might be of some value to someone with the right interest
-Fine Dagger,Fine Dagger
-Crude Dagger,Crude Dagger
-The Sparrowhawk,The Sparrowhawk
-A legendary rapier of unrivaled quality,A legendary rapier of unrivaled quality
-It also adds +2 to the wielder’s initiative,It also adds +2 to the wielder’s initiative
-Greataxe,Greataxe
-Fine Greataxe,Fine Greataxe
-Masterwork Greataxe,Masterwork Greataxe
-Crude Greataxe,Crude Greataxe
-Greathammer,Greathammer
-Fine Greathammer,Fine Greathammer
-Masterwork Greathammer,Masterwork Greathammer
-Crude Greathammer,Crude Greathammer
-Handaxe,Handaxe
-Fine Handaxe,Fine Handaxe
-Masterwork Handaxe,Masterwork Handaxe
-Crude Handaxe,Crude Handaxe
-Longsword,Longsword
-Fine Longsword,Fine Longsword
-Masterwork Longsword,Masterwork Longsword
-Crude Longsword,Crude Longsword
-Mace,Mace
-Fine Mace,Fine Mace
-Masterwork Mace,Masterwork Mace
-Crude Mace,Crude Mace
-Mathias's Sword,Mathias's Sword
-A beautifully crafted bastard-sword,A beautifully crafted bastard sword
-Rapier,Rapier
-Fine Rapier,Fine Rapier
-Masterwork Rapier,Masterwork Rapier
-Crude Rapier,Crude Rapier
-Scimitar,Scimitar
-Fine Scimitar,Fine Scimitar
-Masterwork Scimitar,Masterwork Scimitar
-Crude Scimitar,Crude Scimitar
-Shortsword,Shortsword
-Fine Shortsword,Fine Shortsword
-Masterwork Shortsword,Masterwork Shortsword
-Crude Shortsword,Crude Shortsword
-The Lake Blade,The Lake Blade
-A stunningly wrought longsword of ancient design,A stunningly wrought longsword of ancient design
-The bluish sheen of its metal never seems to lose its luster; giving it its name,The bluish sheen of its metal never seems to lose its luster; giving it its name
-You recovered this sword from the crypt under Horryn,You recovered this sword from the crypt under Horryn
-Two-Hander,Two-Hander
-A large sword that must be wielded two-handed,A large sword that must be wielded two-handed
-Fine Two-Hander,Fine Two-Hander
-Masterwork Two-Hander,Masterwork Two-Hander
-Crude Two-Hander,Crude Two-Hander
-Waraxe,Waraxe
-Fine Waraxe,Fine Waraxe
-Masterwork Waraxe,Masterwork Waraxe
-Crude Waraxe,Crude Waraxe
-Warhammer,Warhammer
-Fine Warhammer,Fine Warhammer
-Masterwork Warhammer,Masterwork Warhammer
-Crude Warhammer,Crude Warhammer
-#Misc Items,#Misc Items
+#Adventuring - Recipes,#Adventuring - Recipes
+This recipe requires the following ingredients,This recipe requires the following ingredients
+You have now learned how to make this recipe,You have now learned how to make this recipe
+APPLE PIE,APPLE PIE
+BAKED CRAB,BAKED CRAB
+BAKED FISH,BAKED FISH
+BAKED MUSHROOMS,BAKED MUSHROOMS
+BAKED ONIONS,BAKED ONIONS
+BAKED OYSTERS,BAKED OYSTERS
+BAKED POTATO,BAKED POTATO
+BEEF STEW,BEEF STEW
+CHEESE PLATE,CHEESE PLATE
+CHEESE SANDWICH,CHEESE SANDWICH
+EGGS AND BACON,EGGS AND BACON
+FARMER'S OMELETTE,FARMER'S OMELETTE
+FISH STEW,FISH STEW
+FRIED STEAK,FRIED STEAK
+GRILLED LEEKS,GRILLED LEEKS
+MASHED POTATOES,MASHED POTATOES
+MEAT SKEWERS,MEAT SKEWERS
+MUSHROOM OMELETTE,MUSHROOM OMELETTE
+MUSHROOM SOUP,MUSHROOM SOUP
+PUMPKIN PIE,PUMPKIN PIE
+RATION,RATION
+ROASTED EEL,ROASTED EEL
+SALTED FISH,SALTED FISH
+VEGETABLE SOUP,VEGETABLE SOUP
+x Apple,x Apple
+x Bacon,x Bacon
+x Beef,x Beef
+x Butter,x Butter
+x Carrot,x Carrot
+x Cheddar,x Cheddar
+x Cream,x Cream
+x Cured Ham,x Cured Ham
+x Dark Bread,x Dark Bread
+x Dried Meat,x Dried Meat
+x Eel,x Eel
+x Eggs,x Eggs
+x Flour,x Flour
+x Garlic,x Garlic
+x Honey,x Honey
+x Leeks,x Leeks
+x Lemons,x Lemons
+x Morel,x Morel
+x Nuts,x Nuts
+x Ombarian Wine,x Ombarian Wine
+x Onions,x Onions
+x Oysters,x Oysters
+x Penny Buns,x Penny Buns
+x Perklin,x Perklin
+x Potatoes,x Potatoes
+x Pumpkin,x Pumpkin
+x Redman,x Redman
+x Salt,x Salt
+x Snails,x Snails
+x Spices,x Spices
+x Steel-Fin,x Steel-fin
+x Sugar,x Sugar
+x Wyrdloaf,x Wyrdloaf
+LESSER ATTUNEMENT TONIC,LESSER ATTUNEMENT TONIC
+LESSER TONIC OF VITALITY,LESSER TONIC OF VITALITY
+POTION OF ACID RESISTANCE,POTION OF ACID RESISTANCE
+POTION OF AGILITY,POTION OF AGILITY
+POTION OF BLESS,POTION OF BLESS
+POTION OF CURE DISEASE,POTION OF CURE DISEASE
+POTION OF CURE POISON,POTION OF CURE POISON
+POTION OF ELECTRIC RESISTANCE,POTION OF ELECTRIC RESISTANCE
+POTION OF FIRE RESISTANCE,POTION OF FIRE RESISTANCE
+POTION OF FORTIFY WILL,POTION OF FORTIFY WILL
+POTION OF FRENZY,POTION OF FRENZY
+POTION OF REGENERATION,POTION OF REGENERATION
+POTION OF SPEED,POTION OF SPEED
+POTION OF STONE SKIN,POTION OF STONE SKIN
+POTION OF STRENGTH,POTION OF STRENGTH
+x Cavechild,x Cavechild
+x Chitin,x Chitin
+x Cruel Fang,x Cruel Fang
+x Egg Cluster,x Egg Cluster
+x Emerald King (insect,x Emerald King (insect
+x Fellbell,x Fellbell
+x Firewing (insect,x Firewing (insect
+x Glowman,x Glowman
+x Graveroot,x Graveroot
+x Gullyfern,x Gullyfern
+x Hound Ear,x Hound Ear
+x Laughtercap,x Laughtercap
+x Legionnaire’s Rest,x Legionnaire’s Rest
+x Lizard's Eye,x Lizard's Eye
+x Mercury,x Mercury
+x Protoplasma,x Protoplasma
+x Rat Tail,x Rat’s Tail
+x Rotcrawler (insect,x Rotcrawler (insect
+x Rotmold,x Rotmould
+x Scale,x Scale
+x Sorrow-Eater,x Sorrow-Eater
+x Spider Silk,x Spider Silk
+x Starspawn,x Starspawn
+x Sulfur,x Sulphur
+x Sunmouth,x Sunmouth
+x Tusk,x Tusk
+x Venom Gland,x Venom Gland
+x Withered Hand,x Withered Hand
+#Adventuring - Misc,#Adventuring - Misc
+Misc,Misc
 Vomit Cups,Vomit Cups
 "A bag of highly toxic fungi for Esteban, the alchemist in the Underhalls","A bag of highly toxic fungi for Esteban, the alchemist in the Underhalls"
 Bee Smoker,Bee Smoker
@@ -806,11 +2485,11 @@ It has a spectacular shade of yellow,It has a spectacular shade of yellow
 Vessel,Vessel
 A strange vessel that could hold liquid,A strange vessel that could hold liquid
 Full Vessel,Full Vessel
-A strange vessel containing liquid,A strange vessel now holding liquid
+A strange vessel containing liquid,A strange vessel now holding an equally strange liquid
 Stuffed Animal,Stuffed Animal
 "A small, ragged stuffed animal",A scruffy looking stuffed animal
-No doubt it should be returned to its owner with all due haste,Clearly muchloved and likely sorely missed. I'm sure the original owner would be glad to be reunited with it.
-Giant Lizard Egg,Giant Lizard Egg
+No doubt it should be returned to its owner with all due haste,Clearly much-loved and likely sorely missed. I'm sure the original owner would be glad to be reunited with it
+Giant Lizard Egg,Giant Lizard Eggs
 Large eggs,Taken from the clutch of a large lizard
 Something appears to be moving inside,Something is making noises and appears to be moving inside
 Mallet,Mallet
@@ -821,7 +2500,7 @@ Lighthouse Oil,Lighthouse Oil
 A pitcher full of oil,An amphora full of oil
 The kind that might be used for a lighthouse beacon,The kind that might be used for a lighthouse beacon
 Nautical Guild Seal,Nautical Guild Seal
-"A strange octagonal amulet, richly filegreed and with the navigational roset of the Nautical Guild carved on it","A strange octagonal amulet, richly filigreed with the navigational roset of the Nautical Guild"
+"A strange octagonal amulet, richly filegreed and with the navigational roset of the Nautical Guild carved on it","A strange octagonal amulet, richly filigreed with the navigational rosette of the Nautical Guild"
 This is apparently an item that the guild will pay handsomely to have returned to them,"This is apparently an item that a suitable buyer will pay handsomely for; be it the guild, a wealthy merchant, or curio collector"
 Ledger,Ledger
 A ledger containing incriminating information,A ledger containing incriminating information
@@ -830,10 +2509,10 @@ A pair of weathered stone tablets covered in indecipherable writing and grotesqu
 The tablet’s condition seems to indicate that it has rested under the sea for a long time,The tablet’s condition seems to indicate that it has rested under the sea for a long time
 Did you just hear a whisper?,Did you just hear a whisper?
 Rotted Horse Flesh,Rotted Horse Flesh
-A large quantity of rotted horse flesh,A large quantity of rotted horse flesh
-Utterly inedible to humans but perhaps a treat for some other beastie?,Utterly inedible to humans but perhaps a treat for some other beastie?
+A large quantity of rotted horse flesh,A large quantity of horse flesh
+Utterly inedible to humans but perhaps a treat for some other beastie?,"It’s rancid, foul - completely putrid. It’s utterly inedible for any human, and that’s without the consideration of having to overcome eating one’s companion animal. But… perhaps it’s a treat for some other beastie?"
 A Strange Idol,A Strange Idol
-A grotesque looking black Idol found in the 'Santa Fury' treasure hoard,A grotesque looking black Idol found in the 'Santa Fury' treasure hoard
+A grotesque looking black Idol found in the 'Santa Fury' treasure hoard,"Grotesque” is term you think befitting of the unsettling figure carved into green-black rock: an idol of many mouths, many eyes, and many tentacles. It was found in the treasure hoard of the “Santa Fury"
 Sewerjack's Badge,Sewerjack's Badge
 A small brass badge belonging to a member of the glorious Imperial Sewer-patrol,A small brass badge belonging to a member of the glorious Imperial Sewer Patrol
 It's covered in filth,It's covered in filth
@@ -842,28 +2521,26 @@ A small silver flute that can be used to drain the mercury-pool in the Tower of 
 Telescope,Telescope
 A collapsed field-telescope used for stargazing,A collapsed field telescope used for gazing up into the wonders of the night sky
 Lotus Petals,Lotus Petals
-One of the ingredients needed to craft the ‘Salts of Elthanyr’,Components required to craft the 'Salts of Elthanyr.' One of three
+One of the ingredients needed to craft the ‘Salts of Elthanyr’,Components required to craft the “Salts of Elthanyr”. One of three
 Salamander's Horn,Salamander's Horn
 Sylversalt,Sylversalt
 Salts of Elthanyr,Salts of Elthanyr
-A special salt that can apparently be used to unsummon conjured creatures,A luminous and brightly coloured sal that can apparently be used to unsummon conjured creatures
+A special salt that can apparently be used to unsummon conjured creatures,A luminous and brightly coloured sal that can apparently be used to dismiss conjured creatures
 Bring it to Calipero the Magos underneath the Tower of Ash,Bring it to Calipero the Magos underneath the Tower of Ash
-#Ranged Weapons,#Ranged Weapons
-Ranged,Ranged
-Light Bow,Light Bow
-Composite Longbow,Composite Longbow
-Fine Composite Bow,Fine Composite Bow
-Masterwork Composite Bow,Masterwork Composite Bow
-Poor Composite Bow,Poor Composite Bow
-Longbow,Longbow
-Fine Longbow,Fine Longbow
-Masterwork Longbow,Masterwork Longbow
-Crude Longbow,Crude Longbow
-Shortbow,Shortbow
-Fine Shortbow,Fine Shortbow
-Masterwork Shortbow,Masterwork Shortbow
-Crude Shortbow,Crude Shortbow
-#Reagents,#Reagents
+#Adventuring - Keys,#Adventuring - Keys
+Crypt Key,Crypt Key
+A bloodied bronze key that opens something in the crypt under the temple in Horryn,A bloodied bronze key that opens something in the crypt under the temple in Horryn
+Surgery Door Key,Surgery Door Key
+"A small key that unlocks the door to the surgery on the ""Zephyr",Below the Zephyr's decks lies the surgeon quarters; and this is the small key which unlocks it
+Armory Key,Armoury Key
+A key that was discovered inside the keep in Horryn,A key that was discovered inside the keep in Horryn.
+Black Key,Black Key
+A large black key that unlocks something inside the Black Priory,A large black key that unlocks something inside the Black Priory
+Smugglers Key,Smugglers Key
+A large rusty key that seems like it would open a chest or some other container,A large rusty key that seems like it would open a chest or some other container
+You found it on a drowned corpse beneath the lighthouse,You found it on a drowned corpse beneath the lighthouse
+#Adventuring - Reagents,#Adventuring - Reagents
+Reagent,Reagent
 Chitin,Chitin
 A thick piece of chitin taken from the exo-skeleton of an unnaturally large creature,A thick piece of chitin taken from the exoskeleton of an unnaturally large creature
 "As chitin dries it can be ground into powder, providing a potent alchemical ingredient","As chitin dries it can be ground into powder, providing a potent alchemical ingredient"
@@ -874,7 +2551,7 @@ Egg Cluster,Egg Cluster
 Not to be mistaken for their smaller and more edible counterparts,"Not to be mistaken for smaller and more edible eggs, as ingesting them can have... undesirable effects upon one's bowel movements"
 "Whilst these eggs make for a potent alchemical ingredient, ingesting them in any other way can have…unpleasant effects","In the right hands, however, they can be carefully prepared to form a potent alchemical ingredient"
 Emerald King (insect,Emerald King (insect
-Called “the King of insects” due to its shimmering emerald scales,"Called the ""King of insects,” due to its shimmering emerald scales"
+Called “the King of insects” due to its shimmering emerald scales,"Called the ""King of insects”, due to its shimmering emerald scales"
 "Its royal title, however, does not keep it safe from the alchemists and artificers who consider it a prized reagent","Its royal title, however, does not keep it safe from the alchemists and artificers who consider it a prized reagent"
 Firewing (insect,Firewing (insect
 "Whilst this small insect is a popular alchemical ingredient, its fire-like sting makes it one of the Empire’s most hated pests","Whilst this small insect is a popular alchemical ingredient, its fire-like sting makes it one of the Empire’s most hated pests"
@@ -899,12 +2576,12 @@ Glowman,Glowman
 The Glowman is so called for its faint bioluminescence,The Glowman is so called for its faint bioluminescence
 It grows naturally in damp cave-systems and it a commonly used alchemical ingredient,It grows naturally in damp cave systems and it a commonly used alchemical ingredient
 Laughtercap,Laughtercap
-"Easily recognizable with its red cap and white spots, the Laughtercap is not to be ingested as it is said to cause hysterical laughter and odd visions","Easily recognizable with its red cap and white spots, the Laughtercap is not to be ingested as it is said to cause hysterical laughter and odd visions"
+"Easily recognizable with its red cap and white spots, the Laughtercap is not to be ingested as it is said to cause hysterical laughter and odd visions","Easily recognisable with its red cap and white spots, the Laughtercap is not to be ingested as it is said to cause hysterical laughter and odd visions"
 Many an apprentice alchemist has ignored this warning through the ages,Many an apprentice alchemist has ignored this warning through the ages
 Protoplasma,Protoplasma
 "Whilst this jelly-like substance may look harmless, its properties have been known to create potions just as acidic as the creature it comes from","Whilst this jelly-like substance may look harmless, its properties have been known to create potions just as acidic as the creature it comes from"
 "Do not, under any circumstances, ingest","Do not, under any circumstances, ingest"
-Rat Tail,Rat Tail
+Rat Tail,Rat’s Tail
 Rats are so ubiquitously despised throughout the Empire that certain merchants will pay a bounty for their tails,Rats are so ubiquitously despised throughout the Empire that certain merchants will pay a bounty for their tails
 As will certain alchemists,As will certain alchemists
 Rotcrawler (insect,Rotcrawler (insect
@@ -934,29 +2611,42 @@ A rather foul smelling sack removed from some kind of venomous animal,A rather f
 The liquid inside does not look much better than it smells,The liquid inside does not look much better than it smells
 Do not ingest,Do not ingest
 Withered Hand,Withered Hand
-"Judging by the rotten scent emitting from this shriveled hand, it was likely cut from the wrist of a freshly risen ghoul","Judging by the rotten scent emitting from this shriveled hand, it was likely cut from the wrist of a freshly risen ghoul"
+"Judging by the rotten scent emitting from this shriveled hand, it was likely cut from the wrist of a freshly risen ghoul","Judging by the rotten scent emitting from this shrivelled hand, it was likely cut from the wrist of a freshly risen ghoul"
 "Though desecration of the dead is taboo in Imperial society, the many uses for a ghoul’s flesh nonetheless causes it to fetch a hefty price on the black markets","Though desecration of the dead is highly taboo in Imperial society, the many uses for a ghoul’s flesh nonetheless causes it to fetch a hefty price on the black markets"
 Fellbell,Fellbell
 "Fellbells emit a soft, mesmerizing chime that seems to attract mushroom-pickers and animals alike","Fellbells emit a soft, mesmerising chime that seems to attract mushroom-pickers and animals alike"
-Unfortunately it is also highly poisonous,Unfortunately it is also highly poisonous
-#Shields,#Shields
-Buckler,Buckler
-A small rounded shield to be worn on the forearm,"A small, rounded shield designed to be worn on the forearm"
-Large Shield,Large Shield
-A large shield,It is quite large
-Plank Shield,Plank Shield
-An improvised shield made from wooden planks,An improvised shield for the impoverished combatant. Constructed from wooden planks bound together
-Tower Shield,Tower Shield
-Shield,Shield
-A medium sized shield,A medium sized shield
-Round Shield,Round Shield
+Unfortunately it is also highly poisonous,"Unfortunately, it is also highly poisonous"
 #Trinkets,#Trinkets
+Amethyst,Amethyst
+"A common variety of quartz often believed to offer enlightenment, this gemstone is often found in the mountains of Gorremia","A common variety of quartz often believed to offer enlightenment, this gemstone is often found in the mountains of Gorremia"
+Archon's Eye,Archon's Eye
+A common gemstone across the Empire,A common gemstone across the Empire
+Crones will tell you it protects the user from bad luck,Crones will tell you it protects the user from bad luck
+Diamond,Diamond
+The “Empress” of gemstones,"The ""Empress"" of gemstones"
+Emerald,Emerald
+A highly coveted semi-precious stone often worn by members of the lay-nobility,A highly coveted semi-precious stone often worn by members of the lay-nobility
+Moonstone,Moonstone
+"This adularescent gem is believed by some to have fallen from the moon itself, but its low cost suggests otherwise","This adularescent gem is believed by some to have fallen from the moon itself, but its low cost suggests otherwise"
+Opal,Opal
+This semi-precious stone is found in far Arassha and is often inset in items of power,This semi-precious stone is found in far Arassha and is often inset in items of power
+Painite,Painite
+"A rare mineral often misidentified as a ruby, this gemstone is often called “The Jewler’s Best Friend","A rare mineral often misidentified as a ruby, this gemstone is often called ""The Jeweller’s Best Friend."
+Pearl,Pearl
+"A spherical stone, typically white or bluish-gray, the pearl is a favorite of rich sea-merchants","A spherical stone, typically white or bluish-grey, the pearl is a favourite of rich sea merchants"
+Red Beryl,Red Beryl
+An extremely rare and coveted gemstone that can sometimes be found inset in the regalia of the Empire’s most powerful,An extremely rare and coveted gemstone that can sometimes be found inset in the regalia of the Empire’s most powerful
+Ruby,Ruby
+"A coveted, durable gemstone often worn by Magi of high rank","A coveted, durable gemstone often worn by Magi of high rank"
+Topaz,Topaz
+Topaz is commonly traded by Ombarian merchants,Topaz is commonly traded by Ombarian merchants
+"Usually light blue in color, the gem can be traded at a low cost","Usually light blue in colour, the gem can be traded at a low cost"
 Bone Comb,Bone Comb
 "Finely carved from whale-bone, these combs provide a small modicum of luxury to the women and long-haired men of the Outer Isles","Finely carved from whalebone, these combs provide a small modicum of luxury to the women and long-haired men of the Outer Isles"
 Buttons,Buttons
-A small collection of mismatched buttons,A small collection of mismatched buttons. Mothers keep a stash of these just in case.
+A small collection of mismatched buttons,A small collection of mismatched buttons. Mothers keep a stash of these just in case
 Conch Shell,Conch Shell
-You can hear the sea in them,You can hear and see into the– Here! You can sea into the– You can hear the sea in them
+You can hear the sea in them,You can hear and see into the-- Here! You can sea into the-- You can hear the sea in them
 Cracked Wine Jug,Cracked Wine Jug
 A clay vessel commonly used to hold wine,A clay vessel commonly used to hold wine
 It does its job poorly,It does its job poorly
@@ -970,7 +2660,7 @@ Flute,Flute
 A small bone or wood instrument,A small bone or wood instrument
 Fork,Fork
 A two pronged fork,A two pronged fork
-"Though a good knife and fingers will suffice for most of the Empire's citizens, it simply will not do for a small select elite","Though a good knife and fingers will suffice for most of the Empire's citizens, it simply will not do for a small select elite"
+"Though a good knife and fingers will suffice for most of the Empire's citizens, it simply will not do for a small select elite","Though a good knife and fingers will suffice for most of the Empire's citizens, it simply will not do for a small, select elite"
 Glass Bead,Glass Bead
 A spherical piece of glass sometimes used by islanders/locals to create jewelry or fool children,A spherical piece of glass sometimes used by islanders and locals to create jewellery or fool children
 Goblet,Goblet
@@ -982,7 +2672,7 @@ A roughly made mug,A roughly made mug
 Likely used for the Empire's drink of choice,Likely used for a citizen of the Empire's drink of choice
 Ale,ale
 Old Shears,Old Shears
-A cutting tool commonly used by local farmers to shear their meager flocks,A cutting tool commonly used by local farmers to shear their meager flocks
+A cutting tool commonly used by local farmers to shear their meager flocks,A cutting tool commonly used by local farmers to shear their meagre flocks
 Ornate Gamepiece,Ornate Game Piece
 A piece from a set of pieces belonging to the game “Lancers,"A piece from a set of pieces belonging to the game ""Lancers"
 Ornate Hand Mirror,Ornate Hand Mirror
@@ -992,7 +2682,7 @@ A stack of writing paper,A stack of writing paper
 Pitcher,Flagon
 A pitcher used for serving drinks,A large flagon used for serving drinks
 Plate,Plate
-A tin plate used for serving meals,A tin plate used for serving meals
+A tin plate used for serving meals,A tin plate used for serving meals on
 Ream of Fine Cloth,Ream of Fine Cloth
 Finely spun cloth is difficult to produce and highly coveted among the tailors of the Heartlands,Finely spun cloth is difficult to produce and highly coveted among the tailors of the Heartlands
 Ream of Routhspun Cloth,Ream of Routhspun Cloth
@@ -1022,3 +2712,14 @@ A popular writing tool made from the feather of a large bird,A popular writing t
 This one appears to need sharpening,This one appears to need sharpening
 Yarn,Yarn
 A yarn of wool spun from the shag of the sturdy breed of goats that roam the hills in the Outer Isles,A yarn of wool spun from the shag of the sturdy breed of goats that roam the hills in the Outer Isles
+Gold,Gold
+A pile of gold,Some standard Imperial gold coins. Lovely money
+#Idle Items,#Idle Items
+Banner,Banner
+Helbard,Halberd
+Pitchfork,Pitchfork
+Rake,Rake
+Scythe,Scythe
+Spear,Spear
+Enchanted,Enchanted
+Ranged,Ranged

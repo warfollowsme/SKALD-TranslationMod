@@ -58,10 +58,10 @@ Intoxicated,Intoxicated
 Nauseous,Nauseous
 Panicked,Panicked
 Paralyzed,Paralysed
-Moderate Poison,Moderate Poison
-Strong Poison,Strong Poison
+Moderate Poison,Moderately Poisoned
+Strong Poison,Strongly Poisoned
 Poison causes the character to lose 10% of their max Vitality at the start of each turn,Poison causes the character to lose 10% of their max Vitality at the start of each turn
-Weak Poison,Weak Poison
+Weak Poison,Weakly Poisoned
 Mute,Mute
 Stunned,Stunned
 #Tactical Conditions,#Tactical Conditions

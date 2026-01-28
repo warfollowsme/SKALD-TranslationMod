@@ -8,7 +8,7 @@ Background,Background
 Attributes,Attributes
 Appearance,Appearance
 Welcome to character creation!,Welcome to character creation!
-Start by picking a DIFFICULTY for your playthrough,Start by picking a DIFFICULTY for your playthrough
+Start by picking a DIFFICULTY for your playthrough,Start by picking a DIFFICULTY for your play-through
 Are you sure you want to abort?,Are you sure you wish to abort?
 Difficulty can be changed during play,The Difficulty can be adjusted during play
 Bard,Bard
@@ -21,7 +21,7 @@ Ranger,Ranger
 Thief,Thief
 Select a Class,Select a Class
 ARMSMASTER,ARMSMASTER
-Archetype,Archetype
+Archetype,Archetype:
 Warrior,Warrior
 The Main Attribute for this Class is Strength,The Main Attribute for this Class is Strength
 Start,Start
@@ -46,7 +46,7 @@ VITALITY PER LEVEL,VITALITY PER LEVEL
 "Indicates how much of the game’s Hitpoint resource, Vitality, is gained every time the character levels up","Indicates how much of the game’s Hitpoint resource, Vitality, is gained every time the character levels up"
 BARD,BARD
 Rogue,Rogue
-The Bard mixes the Rogue’s decent combat skills and high maneuverability with the use of arcane magic,The Bard mixes the Rogue’s combat skills and high manoeuvrability with the use of arcane magics
+The Bard mixes the Rogue’s decent combat skills and high maneuverability with the use of arcane magic,The Bard mixes the Rogue’s combat skills and high manoeuvrability with the use of arcane magicks
 The Main Attribute for this Class is Presence,The Main Attribute for this Class is Presence
 May wear Light armor,May wear Light armour
 "May use Light and Medium weapons of type Blade, Axe, Club and Bow","May use Light and Medium weapons of the types Blade, Axe, Club, and Bow"
@@ -55,7 +55,7 @@ The Rogue combines important non-combat skills with a large damage output agains
 BATTLEMAGOS,BATTLEMAGOS
 "Unlike other Magi, they also get access to a few basic combat-related Feats and may wear light armor","Unlike other Magi, they also get access to a few basic combat-related Feats and may wear light armour"
 The Main Attribute for this Class is Intellect,The Main Attribute for this Class is Intellect
-"May use Light weapons of type Blade, Club and Bow","May use Light weapons of the types Blade, Club and Bow"
+"May use Light weapons of type Blade, Club and Bow","May use Light weapons of the types Blade, Club, and Bow"
 CHAMPION,CHAMPION
 Cleric,Cleric
 The Champion is a Cleric who excels in the use of blades and armor whilst still having limited divine spell-casting abilities,The Champion is a Cleric who excels in the use of blades and armour whilst still having limited divine spell-casting abilities
@@ -71,9 +71,9 @@ The Hospitaller is a Cleric who serves as a front line healer,The Hospitaller is
 "Well armed and armored, they can stand their ground against overwhelming foes whilst also getting access to the highest tiers of the Body Magic School","Well-armed and well-armoured, they can stand their ground against overwhelming foes whilst also getting access to the highest tiers of the Body Magic School"
 OFFICER,OFFICER
 The Officer is a skilled warrior who serves as a force multiplier through their tactical skills,The Officer is a skilled warrior who serves as a force multiplier through their tactical skills
-"Issuing orders across the battlefield, they vastly improve the performance of their fellow party-members","Issuing orders across the battlefield, they vastly improve the performance of their fellow party-members"
+"Issuing orders across the battlefield, they vastly improve the performance of their fellow party-members","Issuing orders across the battlefield, they vastly improve the performance of their fellow party members"
 RANGER,RANGER
-The Ranger is a Warrior specializing in ranged combat and with access to limited nature magic,The Ranger is a Warrior specializing in ranged combat and with access to limited nature magic
+The Ranger is a Warrior specializing in ranged combat and with access to limited nature magic,The Ranger is a Warrior specialising in ranged combat and with access to limited nature magic
 THIEF,THIEF
 The Thief is a Rogue who uses Stealth to set up devestating Backstab attacks,The Thief is a Rogue who uses Stealth to set up devastating Backstab attacks
 The Main Attribute for this Class is Agility,The Main Attribute for this Class is Agility
@@ -144,21 +144,21 @@ NOBLE,NOBLE
 +1 Lore,+1 Lore
 DIPLOMACY,DIPLOMACY
 "Diplomacy is used to lie, bargain or sway others in negotiations","Diplomacy is used in negotiations, bargaining, duplicity, and to generally convince others"
-It influences prices at merchants,It influences prices at merchants
+It influences prices at merchants,It influences prices at merchants.
 LORE,LORE
 A general knowledge skill,The skill of general knowledge
 AWARENESS,AWARENESS
 The ability to notice small details and hidden things,The ability to notice small details and otherwise hidden things
-You are an esteemed member of the Empire’s teeming underworld with a special knack for getting in and out of places you shouldn’t be,You are an esteemed member of the Empire’s teeming underworld with a special knack for getting in and out of places you shouldn’t be
+You are an esteemed member of the Empire’s teeming underworld with a special knack for getting in and out of places you shouldn’t be,"You are an esteemed member of the Empire’s teeming underworld, with a special knack for getting in and out of places you shouldn’t be"
 +1 Stealth,+1 Stealth
 +1 Thievery,+1 Thievery
 THIEVERY,THIEVERY
 Used to pick locks and pockets as well as to steal from shops,"Used to pick locks, lift pockets, and steal from shops"
 ENTERTAINER,ENTERTAINER
-"In equal parts despised and adored by the wealthy of the Empire, the traveling entertainer can make a pretty penny off their blinding charisma and nimble fingers","In equal parts despised and adored by the wealthy of the Empire, the travelling entertainer can make a pretty penny off their blinding charisma and– versatile prestidigitation"
-FORMER LEGIONNAIRE,FORMER LEGIONNAIRE
-A member of the ‘old breed’; forged and tempered by the hardships of soldiering,A member of the ‘old breed’; forged and tempered by the hardships of soldiering
-You now belong to the ever-growing fraternity of fellow men and women with scarred bodies and broken minds who roam the Empire in search for a quiet piece of land to call home,You now belong to the ever-growing fraternity of fellow men and women with scarred bodies and broken minds who roam the Empire in search for a quiet piece of land to call home
+"In equal parts despised and adored by the wealthy of the Empire, the traveling entertainer can make a pretty penny off their blinding charisma and nimble fingers","In equal parts despised and adored by the wealthy of the Empire, the travelling entertainer can make a pretty penny off their blinding charisma and-- versatile prestidigitation"
+EX-LEGIONARY,FORMER LEGIONNAIRE
+A member of the ‘old breed’; forged and tempered by the hardships of soldiering,A member of the “old breed”; forged and tempered by the hardships of soldiering
+You now belong to the ever-growing fraternity of fellow men and women with scarred bodies and broken minds who roam the Empire in search for a quiet piece of land to call home,"To access a Spellcasting ability, you must purchase all ranks in the relevant (cyan"
 +30lbs Carrying Bonus,+30lbs Carrying Bonus
 CARRYING BONUS,CARRYING BONUS
 Attribute - Misc,Attribute - Misc
@@ -170,7 +170,7 @@ GUILDER,GUILDER
 CRAFTING,CRAFTING
 Crafting is used when creating items at crafting stations,Crafting is used when creating items at crafting stations
 LABORER,LABOURER
-You’ve spent years toiling under the oppressive yoke of hard labor,You’ve spent years toiling under the oppressive yoke of hard labor
+You’ve spent years toiling under the oppressive yoke of hard labor,You’ve spent years toiling under the oppressive yoke of hard labour
 "Though it may not have left you with much coin in your pocket, it has given you an unnatural resistance to hardship","Though it may not have left you with much coin in your pocket, it has given you an unnatural resistance to hardship"
 +1 Toughness,+1 Toughness
 TOUGHNESS,TOUGHNESS
@@ -188,7 +188,7 @@ Vitality describes the amount of damage a character can take before becoming ser
 Vitality is fairly easily regained through the use of consumable items and spells,Vitality may be regained through the use of consumable items and spells
 NOMAD,NOMAD
 "You’ve spent years across the seas, living with the desert nomads","Seas of water, seas of sand; you've wandered each for many winters"
-"Though ever the outsider, the nomads deemed you trust-worthy enough to become an initiate in the mysteries of their pagan fire-worship","Though ever the outsider, the nomads deemed you trust-worthy enough to become an initiate in the mysteries of their pagan fire-worship"
+"Though ever the outsider, the nomads deemed you trust-worthy enough to become an initiate in the mysteries of their pagan fire-worship","Though ever the outsider, the nomads deemed you trustworthy enough to become an initiate in the mysteries of their pagan fire-worship"
 +25% Fire Damage Resistance,+25% Fire Damage Resistance
 FIRE DAMAGE RESISTANCE,FIRE DAMAGE RESISTANCE
 Attribute - Resistance,Attribute - Resistance
@@ -198,16 +198,16 @@ A negative value means a vulnerability to the damage type,A negative value resul
 "If this is the case, incoming Damage will be increased","If this is the case, incoming Damage will be increased"
 SAILOR,SAILOR
 You’ve heard the call of the Mother of Maelstroms and salt water now runs in your veins,You’ve heard the call of the Mother of Maelstroms and saltwater now runs in your veins
-"Whether on the deck of a Guilder caravel or manning the sails of a meager fishing sloop, you feel most at home when you’re at sea","Whether on the deck of a Guilder caravel or manning the sails of a meager fishing sloop, you feel most at home when you’re at sea"
+"Whether on the deck of a Guilder caravel or manning the sails of a meager fishing sloop, you feel most at home when you’re at sea","Whether on the deck of a Guilder caravel or manning the sails of a meagre fishing sloop, you feel most at home when you’re at sea"
 +1 Athletics,+1 Athletics
 ATHLETICS,ATHLETICS
 SALT,SALT
 Food,Food
 Food Val,Food Val
 Value,Value
-Weight,H
+Weight,Weight
 Used in,Used in
-"With the once-mighty legions of the Empire in decline, this is an age of sellswords and mercenaries","With the once-mighty legions of the Empire in decline, this is an age of sellswords and mercenaries"
+"With the once-mighty legions of the Empire in decline, this is an age of sellswords and mercenaries","With the once-mighty legions of the Empire in decline, this is an age of sell-swords and mercenaries"
 There is no shortage of those willing to pay professionals to wreak violence on others and you are very good at your job,There is no shortage of those willing to pay professionals to wreak violence on others; professionals such as yourself
 +3 Vitality,+3 Vitality
 SNAKE-CULTIST,SNAKE-CULTIST
@@ -229,8 +229,8 @@ You have perfected the noble art of solving problems with brute force,In club fo
 CLUB DAMAGE BONUS,CLUB DAMAGE BONUS
 Weapon Damage bonuses increase the Damage dealt when using the indicated Weapon type,Weapon Damage bonuses increase the Damage dealt when using the indicated Weapon type
 VAGABOND,VAGABOND
-"Having spent most of your teenage years’ on the road, you are a free spirit with no allegiance to any one person or place","Having spent most of your teenage years on the road, you are a free spirit with no allegiance to any one person or place"
-"Drifting from place to place, you go where there is work, food and a warm bed to be had","Drifting from place to place, you go where there is work, food and a warm bed to be had"
+"Having spent most of your teenage years’ on the road, you are a free spirit with no allegiance to any one person or place","Having spent most of your teenage years on the road, you are a free spirit with no particular allegiance to any one person or location"
+"Drifting from place to place, you go where there is work, food and a warm bed to be had","Drifting from place to place, you go where there is work, food, and a warm bed to be had"
 +1 Survival,+1 Survival
 SURVIVAL,SURVIVAL
 "Survival is used to forage for food, navigate difficult overland terrain and also determines a character's general knowledge of nature","Survival is used when foraging, navigating difficult overland terrain; and represents the insight a character has in the ways of nature"
@@ -358,13 +358,13 @@ Hair Color,Hair Colour
 Skin Tone,Skin Tone
 Main Color,Primary Colour
 Secondary Color,Secondary Colour
-Tertiary Color,Tertiary Color
+Tertiary Color,Tertiary Colour
 Randomize,Randomise
 Customize Appearance,Customise Appearance
 You can use this screen to customize your characters physical appearance,You can use this screen to customise your character's physical appearance
 Note that changes made here are purely cosmetic,Note that changes made here are purely cosmetic
 Finalize your character by editing their appearance,Finalise your character by editing his or her appearance
 Female,Female
-Type a name and press 'Continue'!,Type a name and press 'Continue'!
+Type a name and press 'Continue'!,Type a name and press “Continue”!
 Name must be between 3 and 10 characters long and may only contain standard English letters (A-Z,Names must be between 3 and 10 characters long and may only contain characters from the standard Latin alphabet used in English (A-Z
 You must destribute all your attribute points before you can proceed!,You must distribute all your attribute points before proceeding!

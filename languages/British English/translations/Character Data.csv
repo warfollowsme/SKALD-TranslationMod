@@ -7,9 +7,6 @@ Goat,Goat
 #Common Humanoids,#Common Humanoids
 Commoner,Commoner
 Guard,Guard
-A guardsman dressed in the livery of the noble house Berryn scowls at you,A guardsman dressed in the livery of the noble house Berryn scowls at you
-Armsmaster Lyra awaits you at the main entrance,Armsmaster Lyra awaits you at the main entrance
-You best talk to her if you've not already done so,You'd best talk to her if you've not already done so
 Guest,Guest
 Scullion,Scullion
 Good evening m'lord,"Good evening, m'lord"
@@ -24,6 +21,7 @@ Child,Child
 Jester,Jester
 Farmer,Farmer
 Fruit-Picker,Fruit-Picker
+FRUIT-PICKER,FRUIT-PICKER
 Handmaid,Handmaid
 Crewmember,Crewmember
 Refugee,Refugee
@@ -32,7 +30,7 @@ Treasure Hunter,Treasure Hunter
 Fire-Spitter,Fire-Spitter
 Mercenary,Mercenary
 "The mercenary looks at you, menacingly","The mercenary looks at you, menacingly"
-Armorer,Armorer
+Armorer,Armourer
 Arms Merchant,Arms Merchant
 Food Merchant,Food Merchant
 Potion Merchant,Potion Merchant
@@ -93,7 +91,7 @@ Fell Lizard,Fell Lizard
 Alpha Lizard,Alpha Lizard
 Giant Lizard,Giant Lizard
 Ice Salamander,Ice Salamander
-Mold Child,Mold Child
+Mold Child,Mould Child
 Ooze,Ooze
 Flesh Ooze,Flesh Ooze
 Medusa Jelly,Medusa Jelly
@@ -137,6 +135,7 @@ Embla,Embla
 Bernard,Bernard
 Barmaid,Barmaid
 Baroness of Firgol,Baroness of Firgol
+PERT THE BEEKEEPER,PERT THE BEEKEEPER
 Pert the Beekeeper,Pert the Beekeeper
 Ari,Ari
 Cass,Cass
@@ -159,12 +158,14 @@ Ylia,Ylia
 Martha,Martha
 Frantzo,Frantzo
 Captain Vivian,Captain Vivian
+BOBBERT THE RECRUIT,BOBBERT THE RECRUIT
 Bobbert the Recruit,Bobbert the Recruit
 Rat Queen,Rat Queen
 Esteban,Esteban
 Armand,Armand
 Art Peddler,Art Peddler
 Merchant,Merchant
+BOR THE SEWERJACK,BOR THE SEWERJACK
 Bor the Sewerjack,Bor the Sewerjack
 Cora,Cora
 Natia,Natia
@@ -201,6 +202,7 @@ Mother Katak,Mother Katak
 "An old, silver-haired crone","An old, silver-haired crone"
 Thomas,Thomas
 Oleg the Gray,Oleg the Grey
+OLEG THE GRAY,OLEG THE GREY
 Red Kala,Red Kala
 The Butcher,The Butcher
 Roland,Roland
@@ -221,3 +223,6 @@ Carylla,Carylla
 Tycho,Tycho
 The Ancient King,The Ancient King
 Joran the Usurper,Joran the Usurper
+,
+Laborer (Human,Labourer
+CHITTERS-IN-DARKNESS,CHITTERS-IN-DARKNESS
