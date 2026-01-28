@@ -1,0 +1,147 @@
+original,translate
+#Cleric Feats,#성직자 재주
+Medium Armor Expert,평갑 숙련
+Heavy Armor Expert,중갑 숙련
+Body Magic Initiate,신체 마법 입문
+You may now cast Tier 1 spells of the Body School,이제 신체 학파의 1티어 주문을 시전할 수 있습니다
+Body Magic Expert,신체 마법 숙련
+You may now cast Tier 2 spells of the Body School,이제 신체 학파의 2티어 주문을 시전할 수 있습니다
+Body Magic Master,신체 마법 달인
+You may now cast Tier 3 spells of the Body School,이제 신체 학파의 3티어 주문을 시전할 수 있습니다
+Body Magic Grand Master,신체 마법 대가
+You may now cast Tier 4 spells of the Body School,이제 신체 학파의 4티어 주문을 시전할 수 있습니다
+Mind Magic Initiate,정신 마법 입문
+You may now cast Tier 1 spells of the Mind School,이제 정신 학파의 1티어 주문을 시전할 수 있습니다
+Mind Magic Expert,정신 마법 숙련
+You may now cast Tier 2 spells of the Mind School,이제 정신 학파의 2티어 주문을 시전할 수 있습니다
+Mind Magic Master,정신 마법 달인
+You may now cast Tier 3 spells of the Mind School,이제 정신 학파의 3티어 주문을 시전할 수 있습니다
+Mind Magic Grand Master,정신 마법 대가
+You may now cast Tier 4 spells of the Mind School,이제 정신 학파의 4티어 주문을 시전할 수 있습니다
+Religious Training,종교 훈련
+Resilience Initiate,회복력 입문
+Resilience Expert,회복력 숙련
+Divine Spellcasting,신성 주문 시전
+"You gain the ability to learn spells from the Mind, Body and Spirit School","정신, 신체, 영혼 학파의 주문을 배울 수 있는 능력을 얻습니다"
+Spirit Magic Initiate,영혼 마법 입문
+You may now cast Tier 1 spells of the Spirit School,이제 영혼 학파의 1티어 주문을 시전할 수 있습니다
+Spirit Magic Expert,영혼 마법 숙련
+You may now cast Tier 2 spells of the Spirit School,이제 영혼 학파의 2티어 주문을 시전할 수 있습니다
+Spirit Magic Master,영혼 마법 달인
+You may now cast Tier 3 spells of the Spirit School,이제 영혼 학파의 3티어 주문을 시전할 수 있습니다
+Spirit Magic Grand Master,영혼 마법 대가
+You may now cast Tier 4 spells of the Spirit School,이제 영혼 학파의 4티어 주문을 시전할 수 있습니다
+Faithful Initiate,신앙 입문
+Faithful Expert,신앙 숙련
+Faithful Master,신앙 달인
+Faithful Grand Master,신앙 대가
+Cleric Weapons Initate,성직자 무기 입문
+Cleric Weapons Expert,성직자 무기 숙련
+Cleric Weapons Master,성직자 무기 달인
+Cleric Weapons Grand Master,성직자 무기 대가
+#Magos Feats,#마법사 재주
+Air Magic Initiate,대기 마법 입문
+Air Magic Expert,대기 마법 숙련
+Air Magic Master,대기 마법 달인
+Air Magic Grand Master,대기 마법 대가
+Trickster Initiate,요술사 입문
+Trickster Expert,요술사 숙련
+Trickster Master,요술사 달인
+Arcane Font Initiate,비전의 원천 입문
+Arcane Font Expert,비전의 원천 숙련
+Arcane Font Master,비전의 원천 달인
+Arcane Spellcasting,비전 주문 시전
+Sorcerous Initiate,마도 입문
+Sorcerous Expert,마도 숙련
+Sorcerous Master,마도 달인
+Blade Initiate,검술 입문
+Earth Magic Initiate,대지 마법 입문
+Earth Magic Expert,대지 마법 숙련
+Earth Magic Master,대지 마법 달인
+Earth Magic Grand Master,대지 마법 대가
+Fire Magic Initiate,화염 마법 입문
+Fire Magic Expert,화염 마법 숙련
+Fire Magic Master,화염 마법 달인
+Fire Magic Grand Master,화염 마법 대가
+Light Weapons Initiate,소형 무기 입문
+Light Weapons Expert,소형 무기 숙련
+Touched by the Reticulum,레티큘럼의 손길
+Ranged Weapons Initiate,원거리 무기 입문
+#NPC Feats,#NPC 재주
+Warrior,전사
+#Rogue Feats,#도적 재주
+Bardic Magic Initiate,음유시인 마법 입문
+Bardic Magic Expert,음유시인 마법 숙련
+Bardic Magic Master,음유시인 마법 달인
+Bardic Spellcasting,음유시인 주문 시전
+Backstab Initiate,기습 입문
+Backstab Expert,기습 숙련
+Backstab Master,기습 달인
+Backstab Grand Master,기습 대가
+Bard Initiate,음유시인 입문
+Bard Expert,음유시인 숙련
+Bard Master,음유시인 달인
+Tradecraft,첩보 기술
+Duelist Initiate,결투가 입문
+Duelist Expert,결투가 숙련
+Duelist Master,결투가 달인
+Duelist Grand-Master,결투가 대가
+Mobility Initiate,기동성 입문
+Mobility Expert,기동성 숙련
+Mobility Master,기동성 달인
+Rogue Blade Initiate,도적 검술 입문
+Rogue Blade Expert,도적 검술 숙련
+Rogue Ranged Initiate,도적 사격 입문
+Rogue Ranged Expert,도적 사격 숙련
+Survivor Initiate,생존가 입문
+Survivor Expert,생존가 숙련
+Survivor Master,생존가 달인
+Thievery Initiate,도적질 입문
+Thievery Expert,도적질 숙련
+Thievery Master,도적질 달인
+#Wanderer Feats,#방랑자 재주
+Nature Spellcasting,자연 주문 시전
+You gain the ability to learn spells from the Nature School,자연 학파의 주문을 배울 수 있는 능력을 얻습니다
+Nature Magic Initiate,자연 마법 입문
+You may now cast Tier 1 spells of the Nature School,이제 자연 학파의 1티어 주문을 시전할 수 있습니다
+Nature Magic Expert,자연 마법 숙련
+You may now cast Tier 2 spells of the Nature School,이제 자연 학파의 2티어 주문을 시전할 수 있습니다
+Nature Magic Master,자연 마법 달인
+You may now cast Tier 3 spells of the Nature School,이제 자연 학파의 3티어 주문을 시전할 수 있습니다
+Nature Magic Grand Master,자연 마법 대가
+You may now cast Tier 4 spells of the Nature School,이제 자연 학파의 4티어 주문을 시전할 수 있습니다
+#Warrior Feats,#전사 재주
+Archery Initiate,궁술 입문
+Archery Expert,궁술 숙련
+Archery Master,궁술 달인
+Arms Mastery,무기 통달
+Axe Initiate,도끼 입문
+Axe Expert,도끼 숙련
+Axe Master,도끼 달인
+Bred for War,전쟁의 혈통
+Tough as Nails,강철같은 강인함
+Light Armor Mastery,경갑 숙련
+Medium Armor Mastery,평갑 숙련
+Heavy Armor Mastery,중갑 숙련
+Calloused Hands,단련된 손
+Brutality,잔혹성
+Bloodthirsty,피의 갈망
+Club Initiate,곤봉 입문
+Club Expert,곤봉 숙련
+Club Master,곤봉 달인
+Leadership Initiate,통솔력 입문
+Leadership Expert,통솔력 숙련
+Leadership Master,통솔력 달인
+Leadership Grand-Master,통솔력 대가
+Ranger Initiate,순찰자 입문
+Ranger Expert,순찰자 숙련
+Ranger Master,순찰자 달인
+Shield Initiate,방패 입문
+Shield Expert,방패 숙련
+Shield Master,방패 달인
+Sword Initiate,검술 입문
+Sword Expert,검술 숙련
+Sword Master,검술 달인
+Two-Handed Initiate,양손 무기 입문
+Two-Handed Expert,양손 무기 숙련
+Two-Handed Master,양손 무기 달인

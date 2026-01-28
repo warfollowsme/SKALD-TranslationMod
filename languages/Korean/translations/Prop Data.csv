@@ -1,0 +1,324 @@
+original,translate
+#Beds,#침대
+Bed,침대
+Bedroll,침낭
+#Containers,#보관함
+Armor Stand,방어구 거치대
+Armor Stands,방어구 거치대
+Backpack,배낭
+Arrows,화살
+A Barrel,평범한 통입니다. 참 투박하군요!
+"A barrel of standard Imperial measurements, used to carry cargo on Guild ships","길드 선박의 화물 운송에 사용되는 제국 표준 규격의 통입니다"
+Barrels,통
+Bookshelf,책장
+Box,상자
+A solid box,단단한 상자입니다
+Brandy Crates,브랜디 상자
+Cabinet,캐비닛
+A Chest,상자
+A sturdy wooden chest,튼튼한 나무 상자입니다
+A shoddy wooden chest,조잡한 나무 상자입니다
+Cocoon,고치
+The Butcher,도살자
+Corpse,시체
+Sailor's Corpse,선원의 시체
+Kala,칼라
+Oleg,올렉
+Mauled Corpses,훼손된 시체들
+A Crate,나무 상자
+A well made wooden crate that carries the brand of the Nautical Guild,항해 길드의 인장이 찍힌 잘 만들어진 나무 상자입니다
+Crates,나무 상자들
+Small wooden crates,작은 나무 상자들
+Alcove,벽감
+Shelves,선반
+Desk,책상
+Apothecary's Desk,약제사의 책상
+Flower,꽃
+Secret Compartment,비밀 공간
+Your Luggage,당신의 짐
+A very sturdy wooden chest,매우 튼튼한 나무 상자입니다
+A sturdy chest,튼튼한 상자입니다
+Table of Notes,메모가 있는 탁자
+Sacks,자루 몇 개
+Sarcophagus,석관
+Reagent Shelf,시약 선반
+Smuggler's Corpse,밀수업자의 시체
+Table,탁자
+Surgical Tools,수술 도구 세트
+#Decoratives,#장식물
+Cave-In,함몰
+Aquarium,수족관
+Cauldron,가마솥
+An empty cauldron,빈 가마솥입니다
+Eyes,눈!
+Fountain,분수
+Glowstaff,발광 지팡이
+Reefs,암초
+Empty Grave,빈 무덤
+Pile of Straw,짚더미
+Infestation,감염
+Ancient Pottery,고대 도자기
+"Ancient clay pottery covered in strange, ornate circular patterns","기이하고 화려한 원형 패턴으로 뒤덮인 고대 점토 도자기입니다"
+Hole,구멍
+Scarecrow,허수아비
+#Doors,#문
+Barred Gate,빗장 걸린 문
+Door,문
+Gate,관문
+A Door,문
+A double wooden door,양쪽 여닫이 나무문입니다
+A simple wooden door,평범한 나무문입니다
+A flimsy wooden door,부실한 나무문입니다
+A Hidden Door,숨겨진 문
+Stone Slab,석판
+"A massive, reinforced door","거대하고 강화된 문입니다"
+This door appears to be barricaded from the other side,이 문은 반대편에서 막혀 있는 것 같습니다
+It cannot be opened from this side,이쪽에서는 열 수 없습니다
+Barred Door,빗장 걸린 문
+Inn Door,여관 문
+Portal,차원문
+Web,거미줄
+The web of some giant arachnid,거대 거미의 거미줄입니다
+#Inspectables,#조사 가능 물체
+The piece of paper seems to contain a work order,이 종이는 작업 지시서로 보입니다
+"and as can clearly be observed, the tunnel’s support pillar is close to giving in","...명백히 관찰되듯이, 터널의 지지 기둥이 거의 무너지기 직전입니다"
+"If this last piece of support was to be removed, it is highly likely that the tunnel would collapse completely","이 마지막 지지대를 제거한다면, 터널이 완전히 붕괴될 가능성이 매우 높습니다"
+continue the previous day’s work of expanding the tunnel eastwards,전날의 터널 동쪽 확장 작업을 계속하십시오
+I believe you should be very close to breaking through,거의 관통하기 직전이라고 생각합니다
+Doing so will allow us to create a short-cut to the mine’s entrance and I don’t need to tell you how much this would improve logistics,그렇게 하면 광산 입구로 가는 지름길을 만들 수 있게 되며, 이것이 물류를 얼마나 개선할지는 굳이 말하지 않아도 알 것입니다
+Barricade,바리케이드
+A barricade constructed from debris blocks this path,잔해로 만든 바리케이드가 길을 막고 있습니다
+It is too large to dismantle before retaking the city and for now you must find some way around it,도시를 탈환하기 전에 해체하기에는 너무 크므로 지금은 우회로를 찾아야 합니다
+Cave In,동굴 붕괴
+A portion of the cave has collapsed behind you,뒤쪽 동굴의 일부가 무너져 내렸습니다
+There is no going back this way,이 길로 되돌아갈 수는 없습니다
+Spider Corpse,거미 시체
+The mauled corpse of a giant spider,난도질당한 거대 거미의 시체입니다
+Grave,무덤
+A fresh grave with a simple marker made of sticks,나뭇가지로 만든 소박한 표식이 있는 갓 만든 무덤입니다
+No name can be found upon it,이름은 찾아볼 수 없습니다
+The corpse belongs to a graying old man,시체는 머리가 희끗해진 노인입니다
+His face is serene and there is nothing to indicate he did not die of natural causes,그의 얼굴은 평온하며 자연사가 아님을 암시하는 흔적은 없습니다
+"Leaning over the body however, you spot thin strands of some bizarre purplish fungal growth protruding from the man's mouth and nose","하지만 시체 위로 몸을 숙이자, 남자의 입과 코에서 삐져나온 기이한 보랏빛 곰팡이의 가느다란 가닥들이 보입니다"
+"Strange vines of some unknown, purplish growth bursts forth from the masonry","알 수 없는 보랏빛 생장물의 기이한 덩굴이 석조물 틈에서 뿜어져 나옵니다"
+"As you lean in, fine strands reach greedily towards you","가까이 다가가자, 미세한 가닥들이 당신을 향해 탐욕스럽게 뻗어옵니다"
+You recoil in disgust and decide it’s best to not touch the growths,당신은 역겨움에 뒤로 물러나며, 이 생장물을 건드리지 않는 편이 낫겠다고 판단합니다
+Dead Body,시체
+A body lies broken upon the ground,바닥에 부서진 시체가 놓여 있습니다
+"Though it has been gnawed by hounds, it seems clear that this person fell or jumped from the cliffs above","사냥개들이 뜯어먹은 흔적이 있지만, 이 사람은 위쪽 절벽에서 떨어졌거나 뛰어내린 것이 분명해 보입니다"
+Old Crates,오래된 상자들
+Old and ruined shipping crates litter this part of the cave,오래되고 망가진 선적용 상자들이 동굴의 이 부분에 흩어져 있습니다
+Only smugglers would use a place like this to store their goods,이런 곳을 물품 보관소로 이용하는 건 밀수업자들뿐일 겁니다
+"Perhaps there are other, similar caches to be found on the Outer Isles?","어쩌면 외곽 제도에 이와 비슷한 다른 은닉처들이 더 있을지도 모릅니다"
+A Note,쪽지
+A note is scrawled in crude letters,조잡한 글씨로 휘갈겨 쓴 쪽지입니다
+Kook!,요리사!
+I cannot stand another meal of Salted Fish!,절인 생선은 이제 더 이상 못 먹겠어!
+Armour stands,소금에 절인 감자와 소금에 절인 퍼클린만 먹고사는 것도 한계가 있다고
+"Take head, or git a dagger in the eye ye cheap basterd","명심해, 안 그러면 눈알에 단검을 박아버릴 테니까 이 구두쇠 자식아"
+Strange Jar,이상한 항아리
+An oddly shaped container of some unknown design,알 수 없는 디자인의 기묘한 모양을 한 용기입니다
+"The surface is smooth and metallic, but not of a material you recognize","표면은 매끄럽고 금속성 느낌이지만, 당신이 아는 재질은 아닙니다"
+"Though the artifact is without a scratch, it still somehow conveys impossible age","흠집 하나 없지만, 어쩐지 믿을 수 없을 만큼 오래된 세월이 느껴집니다"
+Librarian’s Journal,사서의 일지
+A book lies open on the librarian’s desk,사서의 책상 위에 책 한 권이 펼쳐져 있습니다
+"Brother Auran has once again made off with the key to the forbidden section, claiming it is ‘much more convenient for both me and him’ that he keeps it for the duration of his studies","아우란 형제가 연구 기간 동안 자신이 열쇠를 보관하는 것이 '너와 나 모두에게 훨씬 편리하다'고 주장하며 또다시 금서 구역 열쇠를 가져가 버렸다"
+He’s assured me it’s well hidden in his study in the eastern tower whilst not in use,그는 사용하지 않을 때는 동쪽 탑에 있는 자신의 서재에 잘 숨겨둔다고 확언했다
+Bloody fool,멍청한 녀석
+I’ll need to send lay-brother Theo to recover it next time Auran is sleeping,다음에 아우란이 잠들면 평신도 테오 형제를 보내 회수해 와야겠다
+Sea-Caves,해식 동굴
+The sea-caves lie abandoned and closed off,해식 동굴은 버려진 채 폐쇄되어 있습니다
+Scribbled in a shaky hand on ancient parchment is the following verse,오래된 양피지에 떨리는 손으로 다음과 같은 시구가 휘갈겨져 있습니다
+Walk the path in humble fate Contemplate the hidden gate,겸허한 운명으로 길을 걷고 숨겨진 문을 고찰하라
+Let the watchers show the way Like time flows ‘round the wheel of day,시간이 하루의 수레바퀴를 돌 듯 감시자들이 길을 보이게 하라
+To heed the silent sleepers call And enter into the Dreaming Hall,침묵하는 잠든 자의 부름에 귀 기울여 꿈꾸는 전당으로 들어가라
+Ink and Paper,잉크와 종이
+Ink and paper that appears to have been abandoned mid-use,쓰다 만 채로 버려진 듯한 잉크병과 종이 한 장입니다
+It seems someone was copying the mosaic on the floor,누군가 바닥의 모자이크를 베끼고 있었던 것 같습니다
+Grotesque Relief,기괴한 부조
+The sarcophagus has the following description,석관에는 다음과 같은 설명이 적혀 있습니다
+Carroleth the Manyfaced - First Grandmaster of the Order of the Crystal Eye,천의 얼굴을 가진 카롤레스 - 수정 눈 기사단의 초대 그랜드마스터
+Rothrax the Gray - Second Grandmaster of the Order of the Crystal Eye,회색의 로트락스 - 수정 눈 기사단의 2대 그랜드마스터
+Kalamar the Wise - Third Grandmaster of the Order of the Crystal Eye,현자 칼라마르 - 수정 눈 기사단의 3대 그랜드마스터
+Secret Passage,비밀 통로
+The relief of this altarpiece seems to shift and squirm in the dancing light,제단화의 부조가 춤추는 빛 속에서 움직이고 꿈틀거리는 것 같습니다
+"What’s more, there appears to be a hidden passage behind it","게다가, 그 뒤에 비밀 통로가 있는 것 같습니다"
+No way of opening it can be seen nearby,근처에서는 열 방법을 찾을 수 없습니다
+Pile of Ash,재 더미
+This cave opens up into the sheer cliff wall beneath the tower,이 동굴은 탑 아래 가파른 절벽 벽면으로 트여 있습니다
+Piled on the ledge is a great heap of ash that the wind occasionally carries away in great wisps,난간에는 거대한 재 더미가 쌓여 있고, 가끔 바람이 불 때마다 크게 흩날려 사라집니다
+Carefully you prod the pile only to find a small handful of scorched human bones and teeth,"조심스럽게 더미를 찔러보자, 불에 그을린 사람의 뼈와 치아 몇 개가 나옵니다"
+"Looking around, you see a great in the ceiling above from which the ash appears to have been dumped","주위를 둘러보니, 천장에 재를 쏟아버린 것으로 보이는 격자창이 보입니다"
+"A large square slab with small holes carved in it appears to be placed over some sort of shaft, sealing it shut","작은 구멍들이 뚫린 커다란 사각형 석판이 어떤 수직 통로 위에 놓여 입구를 봉하고 있는 것 같습니다"
+You attempt to look through one of the holes but are knocked back by an unbearable stench emitting from below,구멍 중 하나를 통해 안을 들여다보려 했지만 아래에서 올라오는 참을 수 없는 악취에 뒤로 물러납니다
+But wait?,잠깐?
+Was there something else?,뭔가 다른 게 있었나?
+Movement?,움직임?
+The slab seems too heavy to lift and just as well,석판은 들어 올리기에는 너무 무거워 보입니다. 차라리 다행입니다!
+You have an overwhelming feeling that what is trapped in the shaft below was not meant for mortal eyes to see and is best left in the dark,통로 아래 갇혀 있는 것은 필멸자의 눈으로 봐서는 안 될 것이며, 그곳의 칠흑 같은 어둠 속에 내버려 두는 것이 최선이라는 압도적인 느낌이 듭니다
+A Desk,책상
+A desk with a maritime navigation map,항해 지도가 놓인 책상입니다
+The map is labled 'The Outer Isles' and a course is drawn towards an island named 'Idra',"지도에는 '외곽 제도'라는 라벨이 붙어 있고, '이드라'라는 섬을 향해 항로가 그려져 있습니다"
+A Grisly Scene,소름 끼치는 현장
+You recognize the corpse of one of the crew-mates,당신은 선원 동료 중 한 명의 시체임을 알아봅니다
+A young man of barely 16 years called Sullum,술탄이라고 불리던 고작 16살의 젊은이입니다
+The youth has been mauled to death by what you assume are the grotesquely altered rats you encounterd just minutes ago,그 불행한 젊은이는 당신이 불과 몇 분 전에 마주쳤던 기괴하게 변이된 쥐들에게 물어뜯겨 죽은 것으로 추정됩니다
+The corpse is still warm,시체는 아직 따뜻합니다
+#Interactables,#상호작용 가능 물체
+A Cat,고양이
+A cat watches you intently,고양이가 당신을 빤히 쳐다봅니다
+Chain,사슬
+Beehive,벌통
+Benches,벤치
+Drinks,음료
+Food,음식
+A King in Yellow,노란 옷을 입은 왕
+Stage,무대
+Stairways,계단
+Mine Entrance,광산 입구
+Grindstone,숫돌
+A grindstone used for sharpening weapons,무기를 가는 데 사용하는 숫돌입니다
+Entrance to Tunnels,터널 입구
+The Fishermen's Gate,어부의 문
+A Prisoner,불쌍한 죄수
+Dead Horse,죽은 말
+Scraps of Meat,고기 조각
+Jakub and Ella,야쿱과 엘라
+The Ganglion,신경절
+A Well,"저런, 우물이군요. 잘(Well) 팠네요. 글쎄(Well)? 뭘 더 원하죠?"
+Dessicated Corpse,바짝 마른 시체
+Ladder,사다리
+Telescope,망원경
+Cato's Study,카토의 서재
+Prisoner,죄수
+A Map,지도
+Faulty Support,결함 있는 지지대
+Weakened Wall,약해진 벽
+Mole Burrow,두더지 굴
+A Monolith,비석
+Portcullis,내리닫이 쇠창살문
+Ancient Monolith,고대 비석
+Golden Tomb,황금 무덤
+Gong,징
+A Statue,동상
+Rope,다용도 밧줄
+A Painting,그림
+Helm,조타륜
+Shrine of Agility,민첩의 성소
+Shrine of Fortitude,인내의 성소
+Shrine of Intellect,지능의 성소
+Shrine of Presence,존재감의 성소
+Shrine of Strength,힘의 성소
+Driina,드리나
+Pool,웅덩이
+A Stange Statue,기이한 조각상
+Console,제어판
+Strange Basins,이상한 대야
+Vomit Cap cluster,구토 버섯 군락
+Waterfall,폭포
+Winch,윈치
+Drainage,배수구
+Elevator,승강기
+A Strange Machine,기이한 기계
+Protoplasmic Catalyzer,원형질 촉매 장치... 물론이죠
+Book,책
+Reflecting Pool,반사 웅덩이
+#LightSources,#광원
+Bees,벌들!
+Brazier,화로
+Camp Fire,모닥불
+Candles,양초들
+Candle,양초
+Flies,파리들. 저리 가!
+Fire,불
+Fireflies,반딧불이 몇 마리
+Glow Globe,발광 구체
+Model,모형
+Lightcaster,빛 투사기
+Stake,말뚝
+Torch,횃불
+A torch hangs on the wall,벽에 횃불이 걸려 있습니다
+Light,"무거운(Heavy)- 아 아니, 빛(Light)이군요"
+#Pickups,#습득물
+Carrots,당근
+Cheese Wheel,치즈 휠
+Fish,물고기
+Gullyfern,개울고사리
+Legionnaire’s Rest,군단병의 안식처
+Sorrow-Eater,슬픔을 먹는 자
+Starspawn,별의 자손
+Sunmouth,태양의 입
+Apples,사과
+Pears,배
+Eggs,달걀
+Cured Hams,숙성 햄
+Lantern,랜턴
+Leeks,대파
+Patch of Cavechild,동굴아이 군락
+Patch of Glowmen,광대버섯 군락
+Fellbell,펠벨
+Laughtercap,웃음모자
+Morel,곰보버섯
+Punny Bun,그물버섯
+Wyrdloaf,위드로프
+Bird's Nest,새 둥지
+Onions,양파
+Pick-Axe,곡괭이
+Potatos,감자
+Ripe Pumpkin,잘 익은 호박
+Recipe,조리법
+Rotten Log,썩은 통나무
+A Badge,배지
+Shovel,삽
+Vessels,용기들
+Lotus Pool,연꽃 연못
+#TestProps,#테스트 소품
+Broken Bridge,끊어진 다리
+The bridge ahead is broken,앞의 다리가 끊어져 있습니다
+Perhaps you can jump the gap?,틈을 뛰어넘을 수 있을까요?
+Climbing Holds,등반용 손잡이
+You can climb down this wall,이 벽을 타고 내려갈 수 있습니다
+You can climb the wall ahead,앞의 벽을 타고 오를 수 있습니다
+"Using the rope, you can descend the wall","밧줄을 이용하여 벽을 내려갈 수 있습니다"
+Stack of Boxes,상자 더미
+Using the stack of boxes you can reach the rope and try to climb the wall,상자 더미를 밟고 밧줄에 닿아 벽을 오를 수 있습니다
+#Triggers,#트리거
+{notHasJournalEntry|JOU_CrabCaveEntrance},{notHasJournalEntry|JOU_CrabCaveEntrance}
+A Survivor,생존자
+#Warps,#이동 지점
+Entrance,입구
+Stairs,계단
+A set of stairs leading to the deck above,위쪽 갑판으로 이어지는 계단입니다
+Stairs Up,위로 가는 계단
+Cave Entrance,동굴 입구
+Exit,출구
+A set of stairs leading to the deck below,아래쪽 갑판으로 이어지는 계단입니다
+Stairs Down,아래로 가는 계단
+Trapdoor,다락문
+Castle Entrance,성 입구
+Castle Exit,성 출구
+Catacomb Entrance,지하 묘지 입구
+Exit to Temple,사원 출구
+Grate,쇠창살
+Secret Door,비밀 문
+Firgol,피르골
+Adler's Helm,아들러의 투구
+Horryn,호린
+A Hidden Glen,숨겨진 협곡
+Abandoned Farm,버려진 농장
+A Refugee Camp,난민 캠프
+A Forest Glade,숲속의 빈터
+The Wreck of the Zephyr,제퍼 호의 잔해
+A Lighthouse,등대
+The Black Priory,검은 수도원
+Sea Caves,해식 동굴
+A Tower,탑
+Rope and Bucket,밧줄과 양동이
+Ladders,사다리
+#WorkBenches,#작업대
+Alchemist's Tools,연금술 도구
+A cauldron for cooking,요리용 가마솥
+Pot,냄비
+An pot that can be used for cooking,요리용 냄비
+Oven,오븐
+An oven that can be used for cooking,음식 조리용 오븐

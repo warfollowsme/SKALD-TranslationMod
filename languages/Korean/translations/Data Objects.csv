@@ -1,0 +1,375 @@
+original,translate
+#Apperances,#외형
+Carylla,카릴라
+#Difficulties,#난이도
+Narrative,스토리
+Narrative mode is the difficulty for players who would like to experience the game’s story and setting with a minimum of focus on combat and grinding,스토리 모드는 전투는 이야기에 풍미를 더하는 부차적인 요소로 두고, 주로 게임의 스토리를 경험하고 싶은 플레이어에게 가장 적합합니다
+Easy,쉬움
+Easy mode is a great way for players who are new to this style of roleplaying game to experience Skald,쉬움 모드는 이런 스타일의 롤플레잉 게임이 처음인 플레이어가 스칼드(Skald)의 개념을 가볍게 익히는 데 가장 적합합니다
+Combat is forgiving and there should be little need to optimize character builds,"전투가 비교적 관대하므로, 캐릭터 빌드나 장비를 최적화할 필요가 거의 없습니다"
+Dice rolls are weighted in the player’s favor,주사위 굴림 또한 플레이어에게 유리하도록 보정됩니다
+Normal,보통
+Normal mode is the game’s intended difficulty setting,"보통 모드는 기본 난이도이며, 스칼드를 경험하는 의도된 방식입니다"
+There is only very limited artificial smoothing of certain dice rolls,"경험을 개선하기 위해 특정 주사위 굴림에만 약간의 인위적인 보정이 들어갑니다"
+Hard,어려움
+Hard mode is intended to offer the player a challenge without feeling unfair,"어려움 모드는 숙련된 플레이어에게 적합하며, 불합리하지 않으면서도 합당한 도전을 제공합니다"
+Dice rolls are slightly weighted in the opponent's favor making them more deadly,"주사위 굴림이 적에게 약간 유리하게 작용하여 더 위협적이며, 플레이어의 준비와 일관성을 더욱 중요하게 만듭니다"
+#Encounters,#조우
+Brigands,산적
+You’ve been beset by brigands!,산적들에게 포위되었습니다!
+Stand and deliver!,꼼짝 마라, 가진 걸 다 내놔!
+Abandoned Cargo,버려진 화물
+There is some abandoned cargo strewn on the road ahead of you,전방 도로에 버려진 화물이 흩어져 있습니다
+Horrors from the deep,심연의 공포
+You're being attacked by enormous fell-crabs!,거대한 흉포한 게들의 공격을 받고 있습니다!
+Crawlers,벌레
+Foul creatures swarm from holes in the ground!,더러운 생명체들이 땅굴에서 쏟아져 나옵니다!
+Devolved,퇴화한 자들
+"More beast than man, devolved troglodytes charge towards you!","인간이라기보다는 짐승에 가까운, 퇴화한 혈거인들이 당신을 향해 돌진합니다!"
+Flotsam,표류물
+You come across some flotsam,표류물을 발견했습니다
+Giant Insects,거대 곤충
+Giant insects scurry towards you!,거대 곤충들이 당신을 향해 기어옵니다!
+Giant insects swarm you!,거대 곤충들이 떼 지어 몰려옵니다!
+White Hounds,흰 사냥개
+Foul slavering beasts barrel towards you!,침을 흘리는 더러운 짐승들이 당신을 향해 질주합니다!
+Crabs,게
+You're being swarmed by monsterously over-grown crabs!,기괴하게 거대해진 게들이 떼 지어 몰려옵니다!
+Rot Crabs,부패 게
+Horribly changes crustaceans shamble towards you!,끔찍하게 변이된 갑각류들이 비틀거하며 다가옵니다!
+Spider Crabs,거미 게
+You're being charged by Spider-Crabs!,거미 게들이 돌진해 옵니다!
+Fell Hounds,흉포한 사냥개
+You've been beset by prowling Fell-Hounds!,배회하던 흉포한 사냥개들에게 포위되었습니다!
+Fell Hogs,흉포한 멧돼지
+Fell hogs have caught your scent!,흉포한 멧돼지들이 당신의 냄새를 맡았습니다!
+Rats!,쥐!
+You're being swarmed by monsterously over-grown rats!,기괴하게 거대해진 쥐들이 떼 지어 몰려옵니다!
+Reavers,약탈자
+You've been waylaid by Reavers!,약탈자들에게 매복 공격을 당했습니다!
+Reaver Patrol,약탈자 순찰대
+Reaver Raiding-Party,약탈자 습격대
+Giant Lizards,거대 도마뱀
+The lizards' jaws snap greedily as reptilian eyes fix you,도마뱀들의 파충류 눈이 당신에게 고정되자 탐욕스러운 턱이 딱딱거립니다
+Wandering Merchant,떠돌이 상인
+A wandering armorer approaches!,떠돌이 방어구 상인이 다가옵니다!
+A wandering arms merchant approaches!,떠돌이 무기 상인이 다가옵니다!
+A wandering food merchant approaches!,떠돌이 식료품 상인이 다가옵니다!
+A wandering potion merchant approaches!,떠돌이 물약 상인이 다가옵니다!
+A wandering reagent merchant approaches!,떠돌이 시약 상인이 다가옵니다!
+A wandering spell merchant approaches!,떠돌이 주문 상인이 다가옵니다!
+A wandering trinket merchant approaches!,떠돌이 장신구 상인이 다가옵니다!
+Shades,망령
+"Darker than night, these creatures are pure malice","밤보다 더 어두운 이 생명체들은 순수한 악의 덩어리입니다"
+Snakes,뱀
+There are snakes in the grass!,풀숲에 뱀이 있습니다!
+Serpents,뱀
+Overgrown serpents slither towards you!,거대해진 뱀들이 당신을 향해 스르르 다가옵니다!
+Slithering Horrors,기어 다니는 공포
+Snow-Lizards,설원 도마뱀
+"Large, horned lizards leap from the snow to ambush you!","뿔 달린 거대한 도마뱀들이 눈 속에서 튀어나와 당신을 기습합니다!"
+Creatures From Beyond,저편의 존재들
+The Dragon is awakening!,용이 잠에서 깨어나고 있습니다!
+Giant Spiders,거대 거미
+Venom drips from snapping jaws as monstrous spiders swarm towards you,괴물 같은 거미들이 턱에서 독을 뚝뚝 흘리며 떼 지어 몰려옵니다
+Enormous Spiders,초거대 거미
+Venom drips from snapping jaws as monstrously huge spiders swarm towards you,괴물같이 거대한 거미들이 턱에서 독을 뚝뚝 흘리며 떼 지어 몰려옵니다
+The Frozen Dead,얼어붙은 망자
+The restless corpses of those claimed by the frozen wastes shamble towards you,얼어붙은 황무지에 희생된 자들의 안식 없는 시체가 비틀거리며 다가옵니다
+#Factions,#세력
+Village of Firgol,피르골 마을
+Nautical Guild,항해 길드
+House Berryn,베린 가문
+Iago's Crew,이아고 선원
+Idran Refugees,이드라 난민
+The Hundred Sons,백 명의 아들들
+Zephyr Crew,제퍼 선원
+The Rat Queen's Court,쥐 여왕의 궁정
+Oleg the Gray,회색의 올렉
+Queen Kala,칼라 여왕
+The Butcher,도살자
+Reavers of Idra,이드라의 약탈자
+Zephyr Survivors,제퍼 생존자
+#Map Meta-Data,#지도 메타 데이터
+Firgol,피르골
+Before you lies a small village surrounded by fields and orchards,"당신 앞에 푸른 아마밭과 풍성한 과수원으로 둘러싸인 작은 마을이 펼쳐져 있습니다"
+The air is laden with the scent of fruit and the laughter of children and the pastoral bliss stands in stark contrast to the rest of the Outer Isles,"아이들의 웃음소리와 갓 딴 과일 향기가 공기 중에 가득합니다. 이 평화롭고 목가적인 낙원은 외곽 제도의 나머지 부분과 극명한 대조를 이룹니다"
+The Manor,저택
+The Mines,광산
+Adler's Helm,아들러의 투구
+Before you lies what appears to be closer to a fortified mining-camp than a town,당신 앞에 마을이라기보다는 요새화된 광산 캠프에 가까운 곳이 펼쳐져 있습니다
+The most striking detail are the wrecks of abandoned ships that lie just outside the town’s harbor,가장 눈에 띄는 것은 마을 항구 바로 밖에 놓인 버려진 난파선들입니다
+Horryn,호린
+The Underhalls,지하 전당
+Horryn Castle,호린 성
+The Crypt,지하 묘지
+Horryn Sewers,호린 하수구
+The Womb,자궁
+Walls of Horryn,호린의 성벽
+"At the end of the rugged peninsula lies the small, walled fishing village of Horryn","험준한 반도 끝에 작은 성벽으로 둘러싸인 어촌 마을 호린이 있습니다"
+"Once home to hundreds, the town now lies seemingly deserted","한때 수백 명이 살던 곳이었지만, 지금은 텅 비어 버린 마을의 고요함이 불안하게 느껴집니다"
+"Whatever fate has befallen this place, you must be on you guard if you choose to enter it",이곳에 무슨 불길한 일이 닥쳤든 간에... 경계를 늦추지 않는 것이 좋을 것 같습니다
+The Coastal Pass,해안 산길
+The Deep Forest,깊은 숲
+"Besides the buzzing of insects and croaking of toads, the forest is disconcertingly quiet","벌레 우는 소리와 두꺼비 울음소리 외에는 숲이 당혹스러울 정도로 조용합니다"
+The foliage seems to thin slightly in this area and to the north-east you can make out a faint wisp of smoke rising from a chimney,이 지역에서는 숲이 약간 얇아지는 것 같으며 북동쪽 굴뚝 하나에서 희미한 연기가 피어오르는 것을 볼 수 있습니다
+"The foliage does however, seem to thin slightly in this area and to the north-east you can make out a faint wisp of smoke rising from a chimney","하지만 이 지역에서는 숲이 약간 얇아지는 것 같으며, 북동쪽 굴뚝 하나에서 희미한 연기가 피어오르는 것을 볼 수 있습니다"
+Forest Caves,숲 동굴
+The Hidden Glen,숨겨진 협곡
+A hidden glen nestled between two mountains,두 산 사이에 자리 잡은 숨겨진 협곡입니다
+"Had you not known to look for it, you would have easily missed it","어디를 봐야 할지 몰랐다면, 쉽게 지나쳤을 것입니다"
+Shores of Idra,이드라 해안
+Ahead of you lies the windswept shore where you landed on Idra and the abandoned farmsteam,"당신 앞에는 이드라에 상륙했던 바람이 몰아치는 해안과 버려진 농가가 있습니다"
+The Foul Caves,더러운 동굴
+Lighthouse Exterior,등대 외부
+An ancient lighthouse rises steeply from the bluffs ahead of you,고대 등대가 당신 앞 절벽에서 가파르게 솟아 있습니다
+"The beacon is still lit, though it flickers weakly","불빛은 여전히 켜져 있지만, 희미하게 깜박입니다"
+Under the Lighthouse,등대 지하
+Lighthouse,등대
+Refugee Camp,난민 캠프
+"Before you, the unmistakable mess, squalor and desperation of a refugee camp sprawls around a small farmstead like a festering wound","당신 앞에, 난민 캠프의 확실한 혼란과 불결함, 절망이 곪아 터진 상처처럼 작은 농가 주변으로 퍼져 있습니다"
+Coastal Road,해안 도로
+Sea-Caves,해식 동굴
+"A huge sea-cave, created by eons of the sea’s relentless attack on the rock, gapes in the cliffs ahead","오랜 세월 동안 바위 깎아낸 거대한 해식 동굴이 앞쪽 절벽에 입을 벌리고 있습니다"
+"If you take great care, a narrow trail allows you to enter it","조심한다면 좁은 길을 통해 안으로 들어갈 수 있습니다"
+Wreck Site,난파 현장
+Broken bodies and debris litter the rocky shores of Idra,부서진 시체와 잔해가 이드라의 바위 해안에 널려 있습니다
+"In the distance, you can make out what appears to be the remains of the Zephyr's hull","저 멀리, 제퍼 호 선체의 잔해로 보이는 것이 희미하게 보입니다"
+Wreckage,잔해
+The Berryn Estate,베린 영지
+The Cellar,지하실
+The Outer Isles,외곽 제도
+Outer Isles,외곽 제도
+Excavation Site,발굴 현장
+Priory Crypt,수도원 지하 묘지
+The Black Priory,검은 수도원
+A grim edifice rises from the wastelands,황무지 위로 암울한 건물이 솟아 있습니다
+"Its walls are weatherbeaten and its empty windows glare at you like dead, black eyes","벽은 비바람에 시달렸고, 텅 빈 창문은 죽은 검은 눈처럼 당신을 노려봅니다"
+"Abandoned as it may seem, there is nevertheless some siren call that bids you venture inside… and below","버려진 것처럼 보이지만, 안으로... 그리고 아래로 모험을 떠나라고 유혹하는 무언가가 있습니다"
+The Eternity Gate,영원의 문
+Forest,숲
+A Twisted Forest,뒤틀린 숲
+A Field,들판
+Hills,언덕
+Road,도로
+Shore,해안
+Tundra,툰드라
+Ship's Deck,배 갑판
+Zephyr's Hold,제퍼 호 선창
+Zephyr's Lower Deck,제퍼 호 하부 갑판
+The Wreck,난파선
+Shrine of Agility,민첩의 성소
+Shrine of Fortitude,인내의 성소
+Shrine of Intellect,지능의 성소
+Shrine of Presence,존재감의 성소
+Shrine of Strength,힘의 성소
+Lorem Ipsum,Lorem Ipsum
+The Weathermaiden,날씨의 처녀
+Tower Dungeon,탑 던전
+Lower Dungeon,하부 던전
+Tower of Ash,재의 탑
+A lone tower pierces the skies as it rises above you,홀로 서 있는 탑이 하늘을 찌를 듯이 솟아 있습니다
+"From some unseen aperture in the cliffs upon which it stands, the wind carries a cloud of fine gray ash","탑이 서 있는 절벽의 보이지 않는 틈새에서, 바람을 타고 고운 회색 재 구름이 날아옵니다"
+"Bitter and unwelcome, the residue sticks in your mouth and eyes","쓰고 달갑지 않은 잔여물이 입과 눈에 달라붙습니다"
+#Stores,#상점
+Arra's Goods,아라의 잡화점
+Esteban's Concoction,에스테반의 조제약
+The Narwhale,일각고래
+Martha's Flophouse,마사의 싸구려 여관
+Maija's Goods,마이야의 잡화점
+Quartermaster,병참 장교
+#String Lists,#문자열 목록
+Welcome!,"어서 오세요, 환영합니다!"
+Have a seat!,"자, 앉으세요!"
+I'll be with you in a moment!,잠시만 기다려 주세요!
+Hi there!,안녕하신가!
+Hic,딸꾹
+I'm cold,너무... 추워
+Spare a coin?,불쌍한 사람에게 동전 한 닢만...
+So hungry,너무 배고파
+My insides hurt,속이 아파
+Should you be here?,당신 여기 있어도 되는 거야?
+Don't tell me you've an audience?,설마 구경꾼이라도 데려온 건 아니겠지?
+"Charmed, I'm sure","반갑소, 정말로"
+Hm?,음?
+There are mercenaries on the island that don't belong here,이 섬에 어울리지 않는 용병들이 있어
+Rumors have it they are encamped on the Priory grounds,소문에는 그들이 수도원 부지에 진을 쳤다고 하더군
+I have no idea why they're here but they have to have something to do with what's happening,왜 여기 있는지는 모르겠지만 지금 일어나는 일과 뭔가 관련이 있는 게 분명해
+I don't believe the farmer's goats are dead!,농부의 염소들이 죽었다는 건 믿을 수가 없어!
+I heard someone say she saw the famer's son drive the animals into the mountains when Horryn fell,누군가 그러는데 호린이 함락될 때 농부의 아들이 동물들을 산으로 몰고 가는 걸 봤대
+How can he hide away food while we starve?,우리는 굶주리고 있는데 어떻게 식량을 숨길 수 있지?
+"Governor spent more time out at his estate, east of here than at his offices in Horryn!","총독은 호린의 집무실보다 여기서 동쪽에 있는 자기 영지에서 더 많은 시간을 보냈어!"
+"He's probably dead now though, and good riddance to him!","지금쯤 아마 죽었겠지만, 속이 다 시원하군!"
+They say smugglers use the caves in the mountains to the west,밀수업자들이 서쪽 산에 있는 동굴을 이용한다고 하더군
+Maybe they have food?,어쩌면 그들에게 식량이 있을지도 몰라?
+Ships came to the island a few weeks ago,몇 주 전에 배들이 섬에 들어왔어
+"They didn't dock in Horryn, but sailed up towards the Priory","호린에 정박하지 않고 수도원 쪽으로 항해해 갔지"
+Maybe they managed to land there?,거기 정박하긴 한 건가?
+Though I don't know how,어떻게 했는지는 모르겠지만 말이야
+The northern coast is all steep cliffs and rocks,북쪽 해안은 온통 가파른 절벽과 바위뿐이거든
+The fishermen began seeing 'something' in the oceans a few weeks ago,몇 주 전부터 어부들이 바다에서 '무언가'를 보기 시작했어
+Then the boats started disappearing!,그러더니 배들이 사라지기 시작했지!
+Now we're trapped here!,이제 우린 여기에 갇혔어!
+Just waiting to die!,그저 죽기만을 기다릴 뿐이야!
+When is the Empire coming for us?,제국은 언제 우릴 구하러 오는 거야?
+How can they even know something is wrong?,뭔가 잘못됐다는 걸 알기나 할까?
+"And if they did, they say a horror stalks the seas around Horryn!","안다고 해도, 호린 주변 바다에 공포가 도사리고 있다잖아!"
+I'm not sleeping well,잠이 잘 안 와
+My dreams,꿈자리가 뒤숭숭해
+They are,그들이
+"Ugh, why am I telling you this?","으, 내가 왜 이런 얘길 하고 있지?"
+We're defenceless sitting here!,우린 여기서 무방비 상태로 앉아만 있어!
+And where is the governor and the guards?,총독과 경비병들은 어디 있는 거야?
+Dead I suppose,죽었겠지 뭐
+People have started to get sick,사람들이 아프기 시작했어
+Just look at poor Hannah's boy,불쌍한 한나의 아들 좀 봐
+Thank you for finding food,식량을 구해줘서 정말 고마워
+I'm so hungry,너무 배가 고파
+All those people lost,그 많은 사람이 죽다니
+What's happening to us?,우리에게 무슨 일이 일어나고 있는 거지?
+Do you have any food?,먹을 것 좀 나눠줄 수 있어?
+I feel better,좀 나아진 것 같아
+Ugh,으윽
+Feels like the world's ending!,하늘이 무너지는 것 같아!
+Leave me alone,나 좀 내버려 둬
+Please help us!,"제발, 우리 좀 도와줘요!"
+These caves are beginning to wear on me,이 동굴 생활도 지치기 시작하는군
+I wish we could get out of here soon,빨리 여기서 나갈 수 있으면 좋겠어
+Hold on... did you hear something?,잠깐... 무슨 소리 못 들었어?
+Have you been to see the queen yet?,여왕님은 뵙고 왔어?
+Freythens or Imperials,프레이든 놈들이든 제국 놈들이든
+I don't care 's long as the coin is good!,돈만 제대로 주면 상관없어!
+Sitting on a cargo like this is making me nervous,이렇게 화물 위에 앉아 있으려니 불안해 죽겠네
+Hope we get out to sea again soon!,빨리 다시 바다로 나갔으면 좋겠어!
+They say the world's ending out there,밖에서는 세상이 망해간다고 하더군
+I don't care - I just want to get out of here!,알 게 뭐야. 난 그냥 여기서 나가고 싶을 뿐이야!
+"In our line of work, strangers are bad news","우리 같은 일을 하는 사람들에게 낯선 사람은 골치 아픈 존재지"
+Keep away from me or we'll have words,가까이 오지 마. 안 그러면 험한 꼴 볼 줄 알아
+Mommy!,엄마!
+I want to go home!,집에 가고 싶어!
+I don't want to be here!,여기 있기 싫어!
+I'm afraid!,무서워!
+I want my mommy!,엄마 보고 싶어!
+I can't wait for Carnivale!,축제가 너무 기대돼!
+I'm so excited!,너무 신나!
+I'm going to eat so much cake!,케이크 배 터지게 먹을 거야!
+Tihi!,히히!
+Are you going to Carnivale?,축제에 갈 거야?
+Wanna play?,안녕! 나랑 놀래?
+Is it Carnivale now?,이제 축제야?
+My head hurts,머리가 아파
+I'm afraid of the dark,어두운 건 무서워
+Gahhh!,꺄아악!
+Cough,콜록
+I have bad dreams,나쁜 꿈을 꿨어
+Wee!,와아!
+Carnivale!,축제다!
+I want more cake!,케이크 더 줘!
+Honey-cake is the best!,꿀 케이크가 최고야!
+Greetings m'lord,"반갑습니다, 나리"
+Greetings m'lady,"반갑습니다, 아가씨"
+Hello,안녕하슈
+I'm excited for the Carnivale,축제가 정말 기대되는군요
+The Baron is a good man!,남작님은 좋은 분이시지!
+Have you tried the local cider?,이 지역 사과주는 드셔 보셨나요?
+Firgol is such a peaceful place,피르골은 정말 평화로운 곳이에요
+You saved us!,우릴 구해주셨군요!
+What happened?,무슨 일이죠?
+"Thank the Golden, the children are safe!","황금의 신이시여 감사합니다, 아이들이 무사하군요!"
+I don't really sleep anymore,더 이상 잠이 오질 않아
+Nightmares are back,악몽이 다시 시작됐어
+My head hurts!,머리가 깨질 것 같아!
+I feel sick!,토할 것 같아!
+Hi,안녕
+I'm not supposed to talk to strangers,아빠가 낯선 사람이랑 얘기하지 말랬어
+You look strange,옷차림이 참 이상하네!
+My stomach hurts,배가 아파
+Do you have nightmares too?,"너도 악몽을 꾸니?"
+Good to be back,돌아오니 좋구만
+Hello there m'lord,"안녕하십니까, 나리"
+Hello there m'lady,"안녕하십니까, 아가씨"
+M'lord,나리
+M'lady,아가씨
+How could this happen?,어떻게 이런 일이?
+What's next?,다음은 뭐지?
+The stench,악취가 진동을 하는군
+"Ugh, I'm hungry","으, 배고파"
+What?,뭐야?
+My knee,내 무릎
+I used to be an adventurer,나도 한때는 모험가였지
+I’ve got my eye on you!,지켜보고 있다!
+No funny business!,허튼수작 부리지 마!
+Hmm?,흠?
+It’s good to have the Captain back!,선장님이 돌아오셔서 다행이야!
+I wonder what happened to the Captain?,선장님께 무슨 일이 있었던 걸까?
+I can't wait to set sail!,몸이 근질거리는군!
+I could do with some rum!,럼주 한잔하고 싶군!
+How long do we have to stay here?,여기 얼마나 더 있어야 하는 거야?
+Burp,꺼억
+You look like a landlubber!,"어이, 안녕하신가, 육지 촌놈?"
+Farewell and adieu to ye ladies of Vauul,잘 있거라 바울의 아가씨들아
+"They say practice makes perfect, and maybe they’re right; it seems all those hours spent honing your skills are starting to pay off","연습이 완벽을 만든다더니 그 말이 맞나 봅니다. 기술을 연마하며 보낸 시간들이 드디어 빛을 발하기 시작하는 것 같습니다"
+"Keep it up, and soon you’ll be well on your way to mastery!","계속 정진하십시오. 곧 통달의 경지에 이르게 될 것입니다!"
+Did this stuff used to be difficult?,이게 예전엔 어려웠던가?
+"You cannot remember, for right now, you are quickly becoming one of the best in your field","기억나지 않습니다. 지금 당신은 해당 분야 최고의 실력자 중 한 명으로 빠르게 성장하고 있으니까요"
+Your progress seems to have slowed to a frustrating crawl,성장이 답답할 정도로 더뎌진 것 같습니다
+"Alas, shuffling forward is always better than standing still","하지만, 제자리걸음보다는 느리게라도 나아가는 것이 낫습니다"
+"How foolish you were, to think yourself at the top of your game","자신이 최고라고 생각했다니, 얼마나 어리석었습니까"
+"If your journey so far has taught you anything, it is that there is always someone better, someone stronger","지금까지의 여정이 가르쳐준 것이 있다면, 세상엔 항상 더 뛰어나고 더 강한 자가 있다는 사실입니다"
+"The question is not if you are strong enough to beat them, but if you are strong enough to try","문제는 그들을 이길 만큼 강한가가 아니라, 도전할 만큼 강한가입니다"
+Giving up has never been an option,포기란 있을 수 없습니다
+But perhaps a long bath and a good meal wouldn’t go amiss,하지만 따뜻한 목욕과 맛있는 식사 정도는 괜찮겠죠
+"Your latest trials have left you exhausted, yet the perseverance it has taken to push on has left you stronger than ever","최근의 시련들로 지쳤지만, 계속 나아가게 해준 인내심 덕분에 그 어느 때보다 강해졌습니다"
+"But despite this victory, a single thought plagues you: how much more can you push until there is nothing left?","하지만 승리에도 불구하고 한 가지 생각이 당신을 괴롭힙니다. 아무것도 남지 않을 때까지 얼마나 더 버틸 수 있을까요?"
+"No one can make it through this world alone, and lately you find yourself thinking of those who have helped you on your journey","이 세상을 홀로 헤쳐나갈 수는 없습니다. 최근 당신은 여정에서 도움을 준 이들을 떠올리게 됩니다"
+"Perhaps one day, when this is all over, you can find a way to repay them","언젠가 이 모든 것이 끝나면, 그들에게 보답할 방법을 찾을 수 있을지도 모릅니다"
+The person you were when you began this journey is now nothing but a distant memory,이 여정을 시작할 때의 당신은 이제 먼 기억에 불과합니다
+"You are irrevocably changed, and no matter what comes next, you will never be who you once were","당신은 돌이킬 수 없이 변했고, 앞으로 무슨 일이 닥치든 결코 예전으로 돌아갈 수 없습니다"
+You’ve spent countless hours forging yourself into the person you are today,오늘의 당신이 되기 위해 수많은 시간을 스스로를 단련하는 데 쏟았습니다
+Now all that’s left to do is the hardest thing of all: trust in yourself,이제 남은 것은 가장 어려운 일뿐입니다. 바로 자신을 믿는 것입니다
+"Soon your journey will be at its end, and though victory is nigh, you cannot help but wonder: what will it cost?","곧 여정이 끝날 것이고 승리가 눈앞에 있지만, 당신은 묻지 않을 수 없습니다. 그 대가는 무엇일까?"
+"For the first time in your life, you are overcome with a sense of purpose","생전 처음으로, 당신은 사명감에 휩싸입니다"
+"The path ahead will undoubtedly be difficult, but you are certain it is the one you are supposed to take","앞으로의 길은 의심할 여지 없이 험난하겠지만, 이것이 당신이 가야 할 길임을 확신합니다"
+"You have mastered all that you have set your mind to, yet the sweetness of your victory is tainted by the knowledge that once you have reached the top, there is nowhere else to go but down","마음먹은 모든 것을 통달했지만, 정상에 오르면 내려갈 길밖에 없다는 사실에 승리의 달콤함이 퇴색됩니다"
+"Every step forward is worth celebrating, no matter how small","그 대가가 얼마나 크든, 작은 발전 하나하나가 축하할 일입니다"
+"Keep going, and soon the path behind you will be longer than the path ahead","계속 나아가십시오. 머지않아 지나온 길이 앞으로 갈 길보다 더 길어질 것입니다"
+You can feel yourself growing stronger with every trial you face,시련을 겪을 때마다 자신이 더 강해지는 것을 느낄 수 있습니다
+"Each adventure leaves you just a little faster, a little braver","모험을 겪을 때마다 조금 더 빨라지고, 조금 더 용감해집니다"
+What more are you capable of?,당신은 어디까지 할 수 있을까요?
+Adrenaline floods your veins,아드레날린이 혈관을 타고 솟구칩니다
+"The tasks that once seemed so difficult now come naturally to you, leaving you with an insatiable urge to learn something new","한때 극복할 수 없어 보였던 장애물들이 이제는 발아래 짓밟힐 뿐, 거의 방해가 되지 않습니다. 당신은 그만큼 멀리 왔습니다. 하지만 산을 오를 때마다 새롭고 거부할 수 없는 봉우리가 보이고, 그것을 정복하고 싶은 끝없는 욕망이 생겨납니다"
+The possibilities ahead of you seem as endless as your potential - who knows what adventures lay ahead?,당신 앞의 가능성은 당신의 잠재력만큼이나 끝이 없어 보입니다. 어떤 모험이 기다리고 있을지 누가 알겠습니까?
+Who knew the human body was capable of such feats?,인간의 몸이 이런 위업을 달성할 수 있을 줄 누가 알았겠습니까?
+"You can feel yourself changing, the layers of your old self shedding away into something new","자신이 변해가는 것을 느낍니다. 낡은 자아의 껍질을 벗고 새로운 무언가로 다시 태어나는 것입니다"
+Something better,더 나은 무언가로 말이죠
+"It amazes you how each adventure manages to present you with a new challenge, reminding you that there is always something more to learn","각각의 모험이 새로운 도전을 제시하며 배울 것이 항상 남아 있다는 사실을 상기시켜 주는 것이 놀라울 따름입니다"
+Each dawn is a new chance to perfect your skills,매일 아침은 기술을 완벽하게 다듬을 새로운 기회입니다
+"You’re not sure you’ve ever worked this hard for anything before, and you’re not about to give up now","무언가를 위해 이렇게 열심히 노력해 본 적이 있는지 확신할 수 없지만, 지금 포기할 생각은 없습니다"
+Greeting brother!,"반갑네, 형제여!"
+Greeting sister!,"반갑네, 자매여!"
+Do you think we'll get off this island?,우리가 이 섬을 빠져나갈 수 있을까?
+I really wanted to see the shrines,성소를 정말 보고 싶었는데
+Haven't we been tested enough?,이 정도면 시험은 충분하지 않아?
+A blessing upon you!,당신에게 축복을!
+Huh?,어?
+We have the word from the deep!,심연으로부터 전갈을 받았다!
+Bow your head before before our chieftain!,우리 족장님 앞에 머리를 조아려라!
+The fuck you want?,뭐가 불만이야?
+Look at me funny and I'll gut you!,이상하게 쳐다보면 배를 갈라버릴 거야!
+Hhhh,흐으으
+Ahhh,아아아
+Gahhh,갸아악
+Mhhhh,으으음
+Steel Thyself!,마음을 다잡아라!
+Draw Steel!,무기를 들어라!
+Make Ready!,준비해!
+Death or Glory!,죽음 아니면 영광을!
+To the Last!,최후의 순간까지!
+Blood Will Flow!,피가 흐르리라!
+It’s good to be sailing again!,다시 넓은 바다로 나오니 좋군!
+Aye?,응?
+Seasick?,뱃멀미?
+Found your sea legs?,이제 배 타는 데 좀 적응했나?
+#Variables,#변수
+None,없음
+Faction has turned HOSTILE,해당 세력이 [적대적]으로 변했습니다

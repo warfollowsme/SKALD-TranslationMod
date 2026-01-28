@@ -1,0 +1,107 @@
+﻿original,translate
+Game Loaded!,게임이 로드되었습니다!
+Press TAB to exit or ESC to clear console,TAB을 눌러 종료하거나 ESC를 눌러 콘솔을 지우십시오
+Some helpful commands,유용한 명령어
+heals the party fully - adds 1000 gold. - Wins any combat,파티 완전 치유 - 금화 1000 추가 - 전투 승리
+Time,시간
+X Pos,X 좌표
+Y Pos,Y 좌표
+Items Worn,착용 아이템
+Party Inventory,파티 인벤토리
+To Hit,명중률
+Damage,피해
+Encumb,중량
+Gold,금화
+GP,GP
+Equip,장착
+Drop / Pick Up,버리기 / 줍기
+Character,캐릭터
+lbs,lbs
+Vs,Vs
+lb,lb
+GOLD,골드
+Misc,기타
+A pile of gold,금화 더미
+This item cannot be used like this,이 아이템은 이렇게 사용할 수 없습니다
+A simple wooden door. (,평범한 나무 문. (
+HP,HP
+Alerted,경계
+Can't reach target!,대상에게 닿을 수 없습니다!
+Select Ability!,능력을 선택하십시오!
+Rabid Rat begun,광견 쥐 시작
+Blunt Damage,타격 피해
+Saved,저항함
+Immune,면역
+Gained,획득
+XP!,XP!
+Ammo,탄약
+Reagent,시약
+potatoes,감자
+salt,소금
+There is a limet to how long a man can live on salt, potatoes and perklin,"소금과 감자, 퍼클린만으로 살 수 있는 데도 한계가 있습니다"
+Workbench,작업대
+DIPLOMACY vs,화술 Vs
+Diplomacy (3) + 2d6 (7) =,화술 (3) + 2d6 (7) =
+A flimsy wooden door. (,허술한 나무 문. (
+vs Difficulty,Vs 난이도
+Damage,피해
++5XP!,+5XP!
+Athletics (4) + 2d6 (6) =,운동 (4) + 2d6 (6) =
+A shoddy wooden chest. (,조잡한 나무 상자. (
++10XP!,+10XP!
+Thievery (2) + 2d6 (11) =,절도 (2) + 2d6 (11) =
+TWO-HANDER,양손 무기
+Vs: +0,Vs: +0
+Vs: +1,Vs: +1
+Soak: -3,흡수: -3
+Soak: -1,흡수: -1
+Soak: -5,흡수: -5
+Roland Defends,롤랜드 방어
+Disengages,이탈
+Roland Disengages,롤랜드 이탈
+Soak: -6,흡수: -6
+Soak: -4,흡수: -4
+Miss,빗나감
+Fire-Spitter is occupied!,파이어 스피터는 바쁩니다!
+Gold,금화
+You can't go that way!,그쪽으로는 갈 수 없습니다!
+Berryn,베린
+Come here whelp!,이리 오거라, 애송아!
+Woof,멍멍
+You pet the dog,당신은 강아지를 쓰다듬는다
+Sub-Quest Started,서브 퀘스트 시작
+MAIN QUESTS,메인 퀘스트
+SIDE QUESTS,사이드 퀘스트
+~ An Evening Meal,~ 저녁 식사 ~
+COMPLETED,완료됨
+Factions,세력
+Hostile,적대적
+You can't make camp on this map,이 지역에서는 야영할 수 없습니다
+Have a good evening m'Lord,좋은 저녁 보내십시오, 나리
+May I help you m'Lord?,무엇을 도와드릴까요, 나리?
+brandy,브랜디
+noble,귀족
+x Perklin 1 x Potatoes 1 x Salt,x 퍼클린 1 x 감자 1 x 소금
+2d6 +,2d6 +
+crafting,제작
+2d6,2d6
+I am chef Armand and my humble kitchen is at your disposal m'Lord,저는 셰프 아르망입니다. 제 누추한 주방을 마음껏 이용하십시오, 나리
+x Dark Bread,x 흑빵
+x Cheddar,x 체다 치즈
+x Cured Ham,x 숙성 햄
+cheese sandwich,치즈 샌드위치
+Sub-Quest Completed,서브 퀘스트 완료
+Armand whafts the scent of the grilled sandwich towards his nose,아르망이 구운 샌드위치의 향기를 코 쪽으로 부채질합니다
+Perfection!,완벽해!
+You shall indeed never again go hungry in the night,이제 밤에 배고플 일은 절대 없을 겁니다
+Save Game,게임 저장
+OVERWRITE,덮어쓰기
+Auto_Save,자동_저장
+Type a name and press 'Save'!,이름을 입력하고 '저장'을 누르십시오!
+Name must be between 3 and 60 characters long and must be a valid file-name,이름은 3~60자 사이여야 하며 유효한 파일명이어야 합니다
+Are you sure you want to overwrite the following save,다음 저장 파일을 덮어쓰시겠습니까
+Korean,한국어
+stealth,은신
+"Note that a turn does not progress until all the character’s pop-up text is gone, so adjusting this number will also adjust how quickly combat turns pass","캐릭터의 팝업 텍스트가 모두 사라지기 전까지는 턴이 진행되지 않습니다. 따라서 이 수치를 조정하면 전투 턴 진행 속도도 조절됩니다"
+On,켜기
+This is what a quote looks like,인용구는 이렇게 표시됩니다

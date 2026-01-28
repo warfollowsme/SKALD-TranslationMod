@@ -1,0 +1,61 @@
+original,translate
+#Archetype Classes,#원형 직업
+Cleric,성직자
+The Cleric offers close-range support to their party through close ranged buffs and restorative spells,성직자는 근거리 강화 효과와 회복 주문을 통해 파티에 근접 지원을 제공합니다
+Magos,마법사
+"The Magos is a ranged strikers that can cast powerful, and often destructive, spells",마법사는 원거리에서 강력하고 종종 파괴적인 주문을 시전하는 공격 담당입니다
+Rogue,도적
+The Rogue combines important non-combat skills with a large damage output against single targets,도적은 중요한 비전투 기술과 단일 대상에 대한 높은 피해량을 겸비하고 있습니다
+Wanderer,방랑자
+Warrior,전사
+A Warrior is a front-line fighter who can take and deal large amounts of damage,전사는 최전선에서 싸우며 큰 피해를 견디고 입힐 수 있는 투사입니다
+#Classes,#직업
+Armsmaster,무기 전문가
+The Armsmaster is a Warrior that does not have a specialized Feat Tree,무기 전문가는 특화된 재주(Feat) 트리가 없는 전사입니다
+Instead the Armsmaster has access to all the combat-centered Feat Trees and they start with extra Development Points to represent their martial expertise,"대신, 무기 전문가는 모든 전투 중심 재주 트리에 접근할 수 있으며, 그들의 무술적 전문성을 나타내기 위해 추가 개발 점수를 가지고 시작합니다"
+Bard,음유시인
+The Bard mixes the Rogue’s decent combat skills and high maneuverability with the use of arcane magic,음유시인은 도적의 준수한 전투 기술 및 높은 기동성을 비전 마법과 혼합하여 사용합니다
+Battlemagos,전투 마법사
+The Battlemagos is a Magos specializing in the destructive spells of the Fire Magic School,전투 마법사는 화염 마법 학파의 파괴적인 주문에 특화된 마법사입니다
+"Unlike other Magi, they also get access to a few basic combat-related Feats and may wear light armor","다른 마법사들과 달리, 이들은 몇 가지 기초적인 전투 관련 재주를 사용할 수 있으며 경갑을 착용할 수 있습니다"
+Berserker,광전사
+Champion,챔피언
+The Champion is a Cleric who excels in the use of blades and armor whilst still having limited divine spell-casting abilities,챔피언은 검과 방어구 사용에 뛰어나면서도 제한적인 신성 주문 시전 능력을 갖춘 성직자입니다
+Duelist,결투가
+Guild-Magos,길드 마법사
+A Guild-Magos is a spellcaster who can develop all the different Arcane Spell Schools fully,길드 마법사는 모든 다양한 비전 마법 학파를 완전히 개발할 수 있는 주문 시전자입니다
+This comes at the cost of having absolutely no combat related Feats,이는 전투 관련 재주를 전혀 가질 수 없다는 대가를 치릅니다
+Hierophant,대사제
+A Hierophant is a Cleric who can develop all the different Divine Spell Schools fully,대사제는 모든 다양한 신성 마법 학파를 완전히 개발할 수 있는 성직자입니다
+Hospitaller,구호 기사
+The Hospitaller is a Cleric who serves as a front line healer,구호 기사는 최전선 치유사 역할을 하는 성직자입니다
+"Well armed and armored, they can stand their ground against overwhelming foes whilst also getting access to the highest tiers of the Body Magic School","잘 무장하고 갑옷을 갖춰 입었으며 신체 마법 학파의 최상위 티어에 접근할 수 있어, 압도적인 적들에 맞서 자리를 지킬 수 있습니다"
+Inquisitor,심문관
+Officer,지휘관
+The Officer is a skilled warrior who serves as a force multiplier through their tactical skills,지휘관은 전술적 기술을 통해 아군의 전력을 증강시키는 숙련된 전사입니다
+"Issuing orders across the battlefield, they vastly improve the performance of their fellow party-members","전장에 명령을 내려 동료 파티원들의 성능을 크게 향상시킵니다"
+Ranger,순찰자
+The Ranger is a Warrior specializing in ranged combat and with access to limited nature magic,순찰자는 원거리 전투에 특화되어 있으며 제한적인 자연 마법을 사용할 수 있는 전사입니다
+Skald,스칼드
+Sorcerer,소서러
+Thief,도둑
+The Thief is a Rogue who uses Stealth to set up devestating Backstab attacks,도둑은 은신을 사용하여 파괴적인 기습(Backstab) 공격을 준비하는 도적입니다
+#NPC Classes,#NPC 직업
+Archer,궁수
+Beast,짐승
+Agile Beast,날렵한 짐승
+Savage Beast,흉포한 짐승
+Common Beast,일반 짐승
+Lesser Vermin,하급 해충
+Tough Beast,강인한 짐승
+Vermin,해충
+Resolute Beast,굳건한 짐승
+Bravo,무법자
+Brute,투사
+"Magi are ranged strikers that can cast powerful, destructive ranged spells",마법사는 원거리에서 강력하고 파괴적인 주문을 시전하는 공격 담당입니다
+Commoner,평민
+Laborer,노동자
+Noble,귀족
+Tough Warrior,강인한 전사
+Fighter,싸움꾼
+Wretch,비참한 자
