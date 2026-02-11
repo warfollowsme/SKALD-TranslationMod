@@ -2,7 +2,7 @@
   "languageCode": "ko",
   "name": "Korean",
   "description": "한글 언어팩",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "fontFilesPath": "fonts",
   "translationFilesPath": "translations",
   "characterChart": {

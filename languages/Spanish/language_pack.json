@@ -2,16 +2,16 @@
   "languageCode": "es",
   "name": "Spanish",
   "description": "Spanish language pack for the game",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "fontFilesPath": "fonts",
   "translationFilesPath": "translations",
-  "characterChart": {    
+  "characterChart": {
     "ú": 136,
     "Ñ": 145,
     "U": 146,
     "Ó": 147,
     "Í": 149,
-    "É": 152,	
+    "É": 152,
     "Á": 153,
     "á": 154,
     "é": 155,
@@ -27,4 +27,4 @@
     "(": 74,
     ")": 75
   }
-} 
+}

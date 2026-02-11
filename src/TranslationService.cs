@@ -82,8 +82,33 @@ namespace TranslationMod
             
             try
             {
+                // Обработка стихотворного текста: если input содержит переносы строк
+                // и при разбивке получается ровно 4 непустые строки — считаем это стихом.
+                // Переводим каждую строку отдельно, не пропуская через GameTextParser,
+                // который склеивает \n в пробелы и ломает структуру стиха.
+                var verseResult = TryTranslateAsVerse(input);
+                if (verseResult != null)
+                {
+                    lock (_lockObject)
+                    {
+                        if (!_translationCache.ContainsKey(input))
+                        {
+                            _translationCache[input] = verseResult;
+                        }
+                    }
+                    return verseResult;
+                }
+
                 // Use GameTextParser to split text into parts
                 var sentences = GameTextParser.Parse(input);
+                
+#if DEBUG
+                TranslationMod.Logger?.LogInfo($"[TranslationService] INPUT: '{input}'");
+                for (int i = 0; i < sentences.Count; i++)
+                {
+                    TranslationMod.Logger?.LogInfo($"[TranslationService] SENTENCE[{i}]: '{sentences[i]}'");
+                }
+#endif
                 
                 // Create template from original input
                 var template = CreateTemplate(input, sentences);
@@ -97,6 +122,42 @@ namespace TranslationMod
 
                 // Apply translated sentences to template
                 var result = ApplyTemplate(template, translatedSentences);
+                
+                // Если шаблон не изменился (предложения не были найдены в оригинальном тексте),
+                // но предложения были переведены — значит GameTextParser сильно изменил текст
+                // (убрал \n, числа и т.д.), и шаблонный подход не сработал.
+                // В этом случае возвращаем перевод напрямую.
+                if (string.Equals(result, input, StringComparison.Ordinal))
+                {
+                    bool anyTranslated = false;
+                    for (int i = 0; i < sentences.Count; i++)
+                    {
+                        if (!string.Equals(sentences[i], translatedSentences[i], StringComparison.Ordinal))
+                        {
+                            anyTranslated = true;
+                            break;
+                        }
+                    }
+                    
+                    if (anyTranslated)
+                    {
+                        // Если парсер выдал одно предложение — перевод уже содержит
+                        // всю нужную структуру (включая \n), возвращаем его как есть
+                        if (translatedSentences.Count == 1)
+                        {
+                            result = translatedSentences[0];
+                        }
+                        else
+                        {
+                            // Несколько предложений — соединяем через перенос строки,
+                            // чтобы сохранить многострочное форматирование
+                            result = string.Join("\n", translatedSentences);
+                        }
+#if DEBUG
+                        TranslationMod.Logger?.LogInfo($"[TranslationService] Template fallback: {translatedSentences.Count} translated sentences, result='{result}'");
+#endif
+                    }
+                }
 
                 // Сохраняем результат в буферный словарь
                 lock (_lockObject)
@@ -125,6 +186,57 @@ namespace TranslationMod
                 
                 return input;
             }
+        }
+
+        /// <summary>
+        /// Пытается перевести текст как стихотворение (4 строки, разделённые \n).
+        /// Если input содержит \n и при разбивке получается ровно 4 непустые строки,
+        /// каждая строка переводится отдельно через словарь.
+        /// Возвращает переведённый текст с \n или null, если это не стих или перевод не найден.
+        /// </summary>
+        private string TryTranslateAsVerse(string input)
+        {
+            if (!input.Contains("\n"))
+                return null;
+
+            var lines = input.Split(new[] { "\r\n", "\n" }, StringSplitOptions.None);
+
+            var nonEmptyLines = new List<string>();
+            foreach (var line in lines)
+            {
+                string trimmed = line.Trim();
+                // Пропускаем пустые строки и строки без букв (одиночные кавычки, скобки и т.д.)
+                if (trimmed.Length > 0 && Regex.IsMatch(trimmed, @"\p{L}"))
+                    nonEmptyLines.Add(trimmed);
+            }
+
+            if (nonEmptyLines.Count != 4)
+                return null;
+
+            var translatedLines = new List<string>();
+            int translatedCount = 0;
+
+            foreach (var line in nonEmptyLines)
+            {
+                string translated = TranslateSentence(line);
+                bool wasTranslated = !string.Equals(line, translated, StringComparison.Ordinal);
+
+                if (wasTranslated)
+                    translatedCount++;
+
+                translatedLines.Add(translated);
+
+                TranslationMod.Logger?.LogInfo($"[Verse] '{line}' -> '{translated}' [found={wasTranslated}]");
+            }
+
+            if (translatedCount > 0)
+            {
+                string result = string.Join("\n", translatedLines);
+                TranslationMod.Logger?.LogInfo($"[Verse] Result ({translatedCount}/4): '{result}'");
+                return result;
+            }
+
+            return null;
         }
 
         /// <summary>
@@ -1034,6 +1146,14 @@ namespace TranslationMod
 
                     string original = columns[0];
                     string translation = columns[1];
+
+                    // Поддержка маркера \n в переводах — заменяем на реальный перенос строки.
+                    // Это позволяет задавать многострочные переводы (напр. стихи) в однострочном CSV.
+                    // В CSV пишем: "оригинал","строка1\nстрока2\nстрока3"
+                    if (translation.Contains("\\n"))
+                    {
+                        translation = translation.Replace("\\n", "\n");
+                    }
 
                     // Первый встретившийся перевод выигрывает
                     if (!dict.ContainsKey(original))
