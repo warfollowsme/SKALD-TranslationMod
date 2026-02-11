@@ -2,7 +2,7 @@
   "languageCode": "br",
   "name": "British English",
   "description": "British English and general corrections langauge pack",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "fontFilesPath": "fonts",
   "translationFilesPath": "translations",
   "characterChart": {

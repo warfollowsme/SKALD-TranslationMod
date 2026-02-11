@@ -2,7 +2,7 @@
   "languageCode": "ru",
   "name": "Russian",
   "description": "Russian language pack for the game",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "fontFilesPath": "fonts",
   "translationFilesPath": "translations",
   "characterChart": {
