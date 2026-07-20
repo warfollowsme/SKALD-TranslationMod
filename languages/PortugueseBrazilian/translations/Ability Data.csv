@@ -1,0 +1,326 @@
+original,translate
+#Combat Manuevers,#Combat Manuevers
+Wild Swing,Golpe Selvagem
+Critical Strike,Golpe Crítico
+Defend Ally,Defender Aliado
+Mark Target,Marcar Alvo
+The Target gets the Marked Condition which confers a -2 penalty to Dodge for the rest of the encounter,O Alvo recebe a Condição Marcado que confere uma penalidade de -2 à Esquiva pelo restante do encontro
+Radiate Fear,Irradiar Medo
+Blizzard Aura,Aura de Nevasca
+Aura of Fire,Aura de Fogo
+Fire Lance,Lança de Fogo
+Howl of Terror,Uivo do Terror
+Lightning Lash,Chicote de Raio
+Spit Acid,Cuspir Ácido
+Spit Poison,Cuspir Veneno
+Spray Acid,Borrifar Ácido
+Attack!,Atacar!
+Forwards!,Avançar!
+Regroup!,Reagrupar!
+Stand Your Ground!,Segure Posição!
+Precise Strike,Golpe Preciso
+Rapid Shot,Disparo Rápido
+The character makes a ranged attack,O personagem realiza um ataque à distância
+"If that attack is successful, they may make another, free attack","Se esse ataque for bem-sucedido, eles podem realizar outro ataque gratuito"
+Pierce Armor,Perfurar Armadura
+Vein Strike,Golpe na Veia
+Savage Strike,Golpe Selvagem
+Shake the Earth,Sacudir a Terra
+Shield Rush,Investida com Escudo
+Perform an attack that pushes your opponent back one square if successfull,Realize um ataque que empurra seu oponente uma casa para trás se bem-sucedido
+Deals normal damage,Causa dano normal
+Spellburn,Queima Mágica
+Storm of Steel,Tempestade de Aço
+Stunning Blow,Golpe Atordoante
+Thrust And Parry,Empurrar e Aparar
+Dash,Investida
+Hide in Combat,Esconder-se no Combate
+You gain the ability to hide whilst in Combat,Você ganha a habilidade de se esconder durante o Combate
+Attacking whilst hidden triggers the Backstab attack,Atacar enquanto escondido dispara o ataque Pelas Costas
+Infect,Infectar
+Ice Breath,Sopro de Gelo
+Imperial Litany,Ladainha Imperial
+Hamstring,Cortar Tendão
+Second Wind,Segundo Fôlego
+#Passive Abilitiy,#Passive Abilitiy
+Backstabber,Golpeador pelas Costas
+Allows the character to perform Backstab Attacks against voulnerable targets,Permite ao personagem realizar Ataques pelas Costas contra alvos vulneráveis
+Evasive,Evasivo
+Disengaging from Melee does not cause your turn to end,Sair do Corpo a Corpo não causa o fim do seu turno
+Fancy Footwork,Passos Elegantes
+Swapping Places with allies not longer causes your Turn to end,Trocar de lugar com aliados não causa mais o fim do seu Turno
+Activate Spellcasting,Ativar Conjuração de Magias
+Allows the character to begin studying schools of spellcasting,Permite ao personagem começar a estudar escolas de conjuração de magias
+"To learn spells, pick and invest in one or more such schools","Para aprender magias, escolha e invista em uma ou mais dessas escolas"
+Increased Agiliy,Agilidade Aumentada
+Increased Heavy Armor Use,Uso de Armadura Pesada Aumentado
+Increased Light Armor Use,Uso de Armadura Leve Aumentado
+Increased Medium Armor Use,Uso de Armadura Média Aumentado
+Increased Athletics,Atletismo Aumentado
+Increased Attunement,Sintonização Aumentada
+Spell Aura Radius Increase,Aumento de Raio de Aura de Magia
+Increased Awareness,Percepção Aumentada
+Increased Backstab Damage,Dano de Golpe pelas Costas Aumentado
+Pack Mule,Mula de Carga
+Increased Crafting,Artesanato Aumentado
+Critical Resistance,Resistência a Críticos
+Increased Diplomacy,Diplomacia Aumentada
+Increased Dodge,Esquiva Aumentada
+Fletching,Empennagem
+Doubles the chance of recovering a spent arrow after combat,Dobra a chance de recuperar uma flecha usada após o combate
+Increased Fortitude,Fortitude Aumentada
+Increased Gold Drops,Drops de Ouro Aumentados
+Increased Healing,Cura Aumentada
+Increased Initiative,Iniciativa Aumentada
+Increased Intellect,Intelecto Aumentado
+Increased Lore,Conhecimento Aumentado
+Increased Max Cascade,Cascata Máxima Aumentada
+Increased Movement,Movimento Aumentado
+Increased Presence,Presença Aumentada
+Increased Spell Aptitude,Aptidão Mágica Aumentada
+Increased Stealth,Furtividade Aumentada
+Increased Strength,Força Aumentada
+You are powerfully built,Você é fisicamente poderoso
+to Strength Primary Attribute,ao Atributo Primário Força
+Survival Increase,Sobrevivência Aumentada
+Increased Thievery,Ladroagem Aumentada
+Increased Toughness,Dureza Aumentada
+Increased Vitality,Vitalidade Aumentada
+Increased Will,Vontade Aumentada
+Charger,Carregador
+Axe Finesse,Finesse com Machado
+Blade Finesse,Finesse com Lâmina
+Bow Finesse,Finesse com Arco
+Club Finesse,Finesse com Maça
+Light Weapon Finesse,Finesse com Arma Leve
+Vicious,Vicioso
+Axe Damage,Dano com Machado
+Blade Damage,Dano com Lâmina
+Bow Damage,Dano com Arco
+Club Damage,Dano com Maça
+Brutal,Brutal
+Heavy Weapon Damage,Dano com Arma Pesada
+Light Weapon Damage,Dano com Arma Leve
+Piercing Damage,Dano Perfurante
+Phalanx,Falange
+"While wielding a shield, get a dodge bonus for adjacent allies","Enquanto empunha um escudo, receba um bônus de esquiva para aliados adjacentes"
+Bonus is +1 per ally up to a maximum of the Phalanx Bonus attribute value (typically,O bônus é +1 por aliado até um máximo do valor do atributo Bônus de Falange (tipicamente
+Shield Training,Treinamento com Escudo
+Acid Immunity,Imunidade a Ácido
+Blindness Immunity,Imunidade à Cegueira
+Cold Immunity,Imunidade ao Frio
+Critical Immunity,Imunidade a Críticos
+Deafness Immunity,Imunidade à Surdez
+Disease Immunity,Imunidade à Doença
+Lightning Immunity,Imunidade ao Raio
+Fire Immunity,Imunidade ao Fogo
+Non Magical Damage Immunity,Imunidade a Dano Não-Mágico
+Panic Immunity,Imunidade ao Pânico
+Paralysis Immunity,Imunidade à Paralisia
+Poison Immunity,Imunidade ao Veneno
+Sleep Immunity,Imunidade ao Sono
+Fell Illumination,Iluminação Sinistra
+Multi Attack,Ataque Múltiplo
+Gain 1 extra Attack per Turn,Ganhe 1 Ataque extra por Turno
+Greater Increased Attunement,Sintonização Muito Aumentada
+Major Natural Armor,Armadura Natural Maior
+Medium Natural Armor,Armadura Natural Média
+Minor Natural Armor,Armadura Natural Menor
+Greater Natural Weapons,Armas Naturais Maiores
+Natural Weapons,Armas Naturais
+Point Blank Shot,Disparo à Queima-Roupa
+You can use Ranged Weapons even when in Melee,Você pode usar Armas à Distância mesmo quando em combate corpo a corpo
+Resistance,Resistência
+Slashing,Cortante
+Blunt,Contundente
+Piercing,Perfurante
+Magical,Mágico
+Cold,Frio
+Acid,Ácido
+Kinetic,Cinético
+Sublime,Sublime
+Electric,Elétrico
+Fire,Fogo
+Psychic,Psíquico
+Minor Resistance,Resistência Menor
+Lightning,Raio
+Physical,Físico
+Increased Aura Radius,Raio de Aura Aumentado
+Increased Line Effects,Efeitos de Linha Aumentados
+Increased Sphere Effects,Efeitos de Esfera Aumentados
+Air Magic Focus,Foco em Magia do Ar
+Bardic Magic Focus,Foco em Magia Bárdica
+Body Magic Focus,Foco em Magia Corporal
+Earth Magic Focus,Foco em Magia da Terra
+Fire Magic Focus,Foco em Magia do Fogo
+Mind Magic Focus,Foco em Magia Mental
+Nature Magic Focus,Foco em Magia Natural
+Spirit Magic Focus,Foco em Magia Espiritual
+Axe Accuracy,Precisão com Machado
+Blade Accuracy,Precisão com Lâmina
+Bow Accuracy,Precisão com Arco
+Club Accuracy,Precisão com Maça
+General Accuracy,Precisão Geral
+Heavy Weapon Accuracy,Precisão com Arma Pesada
+Light Weapon Accuracy,Precisão com Arma Leve
+Melee Accuracy,Precisão Corpo a Corpo
+Ranged Accuracy,Precisão à Distância
+Vulnerability,Vulnerabilidade
+Cold,Frio
+Sublime,Sublime
+Bonus XP Percentage,Porcentagem de XP Bônus
+Blessing of Agility,Bênção da Agilidade
+Blessing of Fortitude,Bênção da Fortitude
+Blessing of Intellect,Bênção do Intelecto
+Blessing of Presence,Bênção da Presença
+Blessing of Strength,Bênção da Força
+#Spells,#Spells
+Spells,Magias
+Armor of Thorns,Armadura de Espinhos
+Heroic Aura,Aura Heroica
+Aura of Condemnation,Aura de Condenação
+Aura of Fear,Aura do Medo
+Miasma,Miasma
+Aura of Silence,Aura do Silêncio
+Searing Light,Luz Escaldante
+Smothering Blanket,Manto Sufocante
+Sight to Behold,Visão Impressionante
+Eye-Shine,Brilho Ocular
+Fire Sprite,Espírito do Fogo
+Fireworks,Fogos de Artifício
+Heroic Tune,Melodia Heroica
+Now you See Me,Agora Você Me Vê
+Lambent Dance,Dança Luminosa
+Lifting Tune,Melodia Elevante
+Light Please,Luz Por Favor
+Raise the Curtain,Levantar a Cortina
+Shadow Step,Passo Sombrio
+Song of Soothing,Canção Acalmante
+Sparkledust,Poeira Cintilante
+Whisper of Confusion,Sussurro de Confusão
+Barkskin,Pele de Casca
+Bear's Strength,Força do Urso
+Blessing Aura,Aura de Bênção
+Blessing Touch,Toque de Bênção
+Blink,Piscar
+Mark of Blurring,Marca de Desfoque
+Breath Glass,Sopro de Vidro
+Blinding Bolt,Raio Cegante
+Circle of Corporeal Restoration,Círculo de Restauração Corporal
+Circle of Healing,Círculo de Cura
+Circle of Mental Restoration,Círculo de Restauração Mental
+Clear Senses,Sentidos Claros
+Command of Paralyzation,Comando de Paralisação
+Cure Moderate Disease,Curar Doença Moderada
+Heal Mind,Curar Mente
+Fleet of Foot,Pés Velozes
+Cure Moderate Poison,Curar Veneno Moderado
+Diamond Form,Forma de Diamante
+Dispel Magic,Dissipar Magia
+Distort Mass,Distorcer Massa
+Divine Intervention,Intervenção Divina
+Aura of Flame,Aura de Chamas
+Fireball,Bola de Fogo
+Breath of the Ancients,Sopro dos Ancestrais
+Flaming Fists,Punhos Flamejantes
+Fire Frenzy,Frenesi de Fogo
+Inferno,Inferno
+Searing Lash,Chicote Escaldante
+Aura of Fire Resistance,Aura de Resistência ao Fogo
+Fire Warrior,Guerreiro do Fogo
+Force of Nature,Força da Natureza
+Fortify Awareness,Fortalecer Percepção
+Fortify Will,Fortalecer Vontade
+Mark of Haste,Marca de Pressa
+Mark of Heroism,Marca de Heroísmo
+Hammer of Light,Martelo de Luz
+Holy Judgement,Julgamento Sagrado
+Holy Lance,Lança Sagrada
+Hysterical Blindness,Cegueira Histérica
+Curse of Ensnarement,Maldição do Enredamento
+Instil Courage,Inspirar Coragem
+Mark of Invisibility,Marca de Invisibilidade
+Greater Lay on Hands,Imposição de Mãos Maior
+Minor Lay on Hands,Imposição de Mãos Menor
+Moderate Lay on Hands,Imposição de Mãos Moderada
+Lesser Regeneration,Regeneração Menor
+Mark of Illumination,Marca de Iluminação
+Holy Light,Luz Sagrada
+Lightning Strike,Golpe de Raio
+Magic Missile,Míssil Mágico
+Web of Roots,Teia de Raízes
+Sublime Projection,Projeção Sublime
+Pestilence,Pestilência
+Poisoned Globe,Globo Envenenado
+Purge Invisibility,Purgar Invisibilidade
+Purge Magic,Purgar Magia
+Greater Regeneration,Regeneração Maior
+Corporeal Restoration,Restauração Corporal
+Mental Restoration,Restauração Mental
+Serpent's Grace,Graça da Serpente
+Arcane Shockwave,Onda de Choque Arcana
+Steal Breath,Roubar Respiração
+Mark of Lethargy,Marca de Letargia
+Mass Lethargy,Letargia em Massa
+Stoneskin,Pele de Pedra
+Stunning Aura,Aura Atordoante
+Stunning Touch,Toque Atordoante
+Summon Giant Insect,Convocar Inseto Gigante
+Summon Magmite,Convocar Magmito
+Summon Ooze,Convocar Gosma
+Summon Vermin,Convocar Verme
+Swarm of Gnats,Enxame de Mosquitos
+Thunderclap,Trovão
+Touch of Condemnation,Toque de Condenação
+Touch of Confusion,Toque de Confusão
+Touch of Weakness,Toque de Fraqueza
+#Triggered Abilities,#Triggered Abilities
+Arcane Rush,Ímpeto Arcano
+"The first time you take Wound Hit point Damage each combat, you automatically regain 30-40 Attunement Points","A primeira vez que você recebe Dano de Ferimento em cada combate, você recupera automaticamente 30-40 Pontos de Sintonização"
+Crippling Finesse,Finesse Mutilante
+"When scoring a Backstab hit using a Light Weapon, the targets gets a random injury Condition","Ao acertar um Golpe pelas Costas usando uma Arma Leve, o alvo recebe uma Condição de ferimento aleatória"
+Rending Blow,Golpe Rasgante
+Critical Hits with an Axe causes Injury Conditions,Acertos Críticos com um Machado causam Condições de Ferimento
+Deep Cut,Corte Profundo
+Your Critical Hits using Blades cause Bleeding on your target,Seus Acertos Críticos usando Lâminas causam Sangramento no seu alvo
+Red Arcs,Arcos Vermelhos
+Scoring a Critical Hit with a Light Blade causes you to restore 1 Attack,Acertar um Crítico com uma Lâmina Leve faz você recuperar 1 Ataque
+Rapid Reload,Recarga Rápida
+"If you score a Critical Hit with a Bow, you immediately regain 1 attack","Se você acertar um Crítico com um Arco, você recupera imediatamente 1 ataque"
+Kneecap,Joelhada
+Critical Hits with a Club causes The Injured Leg condition,Acertos Críticos com uma Maça causam a condição Perna Ferida
+Weaving Blade,Lâmina Entrelaçada
+Dodging a Melee Attack whilst armed causes you to deal a small amont of Slashing Damage to your attacker,Esquivar de um Ataque Corpo a Corpo enquanto armado faz você causar uma pequena quantidade de Dano Cortante ao seu atacante
+Felling Strike,Golpe Derrubante
+Weakly Infections,Infecções Fracas
+Your unarmed attack may cause disease in the target,Seu ataque desarmado pode causar doença no alvo
+Decapitation,Decapitação
+The gruesomeness of your Axe-Kill causes the Fear condition in all opponents who can see it,A brutalidade de sua Morte-por-Machado causa a condição de Medo em todos os oponentes que podem ver
+Cleave,Cortar
+Killing an opponent using a Heavy Melee Weapon restores 1 Attack,Matar um oponente usando uma Arma Pesada Corpo a Corpo restaura 1 Ataque
+Inspiring Kill,Morte Inspiradora
+"When killing an Opponent in Armed or Unarmed Melee combat, all Allies who witness the kill get the Inspired Condition for 1 Turn","Ao matar um Oponente em combate Corpo a Corpo Armado ou Desarmado, todos os Aliados que testemunham a morte recebem a Condição Inspirado por 1 Turno"
+Replenishing Takedown,Derrubada Restauradora
+"Killing a Marked Target, heals the party a small amount","Matar um Alvo Marcado, cura o grupo por uma pequena quantidade"
+Magnificent Takedown,Derrubada Magnífica
+"When killing a Marked target, all Allies who witness the kill get the Inspired Condition for 1 Turn","Ao matar um alvo Marcado, todos os Aliados que testemunham a morte recebem a Condição Inspirado por 1 Turno"
+Bleeding Strike,Golpe Sangrento
+Greater Bleeding Strike,Golpe Sangrento Maior
+Lesser Bleeding Strike,Golpe Sangrento Menor
+Acid Burst,Explosão Ácida
+Sommon Abomination,Convocar Abominação
+Lesser Poison Attack,Ataque de Veneno Menor
+Moderate Poison Attack,Ataque de Veneno Moderado
+Strong Poison Attack,Ataque de Veneno Forte
+Stunning Strike,Golpe Atordoante
+Steal Life,Roubar Vida
+Shield Slam,Golpe com Escudo
+"Whilst wielding a shield, dodging a melee attack causes you to deal 1-4 Blunt damage to your attacker","Enquanto empunha um escudo, esquivar de um ataque corpo a corpo faz você causar 1-4 de Dano Contundente ao seu atacante"
+Smashing Charge,Carga Esmagadora
+Your Charges cause 1-3 additional Blunt Damage,Suas Cargas causam 1-3 Dano Contundente adicional
+Hidden Deployment,Implantação Oculta
+You start combat Hidden,Você começa o combate Escondido
+Smoke Bomb,Bomba de Fumaça
+"The first time you're Wounded each combat, you automatically hide","A primeira vez que você for Ferido em cada combate, você se esconde automaticamente"
+Not Today!,Hoje Não!
+"The first time you take Wound Hit point Damage each combat, you automatically regain 12-18 Vitality Hit Points","A primeira vez que você recebe Dano de Ferimento em cada combate, você recupera automaticamente 12-18 Pontos de Vitalidade"

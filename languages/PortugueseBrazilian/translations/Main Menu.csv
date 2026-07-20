@@ -1,0 +1,299 @@
+original,translate
+Core 1.0.7e,Núcleo 1.0.7e
+Continue Game,Continuar Jogo
+New Game,Novo Jogo
+Load,Carregar
+Save,Salvar
+Start Module,Iniciar Módulo
+Settings,Configurações
+Credits,Créditos
+Quit,Sair
+Exit,Sair
+Reset,Redefinir
+Gameplay,Jogabilidade
+Difficulty,Dificuldade
+Display,Vídeo
+Audio,Áudio
+Controls,Controles
+Fonts,Fontes
+Enter Map Auto Save,Salvar ao Entrar no Mapa
+Rest Auto Save,Salvar ao Descansar
+Tactical Icons Always On,Ícones Táticos Sempre Visíveis
+Tactical Grid,Grade Tática
+Show Stealth Info,Mostrar Info de Furtividade
+Combat Pop-Up Length,Duração dos Balões de Combate
+Tutorials,Tutoriais
+Controller Sensitivity,Sensibilidade do Controle
+Language,Idioma
+Enabled,Ativado
+Disabled,Desativado
+DISABLED,DESATIVADO
+ENABLED,ATIVADO
+Normal,Normais
+Extensive,Extenso
+DELUXE,DELUXE
+Nostalgia Mode,Modo Nostalgia
+Dice Animation,Animação de Dados
+White - Pips,Branco - Pintas
+Russian,Russo
+Gameplay Settings,Configurações de Jogabilidade
+ENTER MAP AUTO SAVE,SALVAR AO ENTRAR NO MAPA
+The game will auto save whenever you enter a new map,O jogo salvará automaticamente sempre que você entrar em um novo mapa
+REST AUTO SAVE,SALVAR AO DESCANSAR
+The game will auto save whenever you make camp,O jogo salvará automaticamente sempre que você acampar
+TACTICAL ICONS ALWAYS ON,ÍCONES TÁTICOS SEMPRE VISÍVEIS
+The degree to which the game shows tactical symbols and a grid during combat,O grau em que o jogo exibe símbolos táticos e uma grade durante o combate
+"If set to true, the game will automatically show tactical icons during the planning state","Se ativado, o jogo mostrará automaticamente os ícones táticos durante a fase de planejamento"
+"If set to false, the tactical icons will only show when holding down SHIFT","Se desativado, os ícones táticos aparecerão apenas ao segurar SHIFT"
+TACTICAL GRID,GRADE TÁTICA
+Whether or not the game shows a grid along with the tactical icons when activated during combat,Se o jogo exibe ou não uma grade junto com os ícones táticos quando ativados durante o combate
+SHOW STEALTH INFO,MOSTRAR INFO DE FURTIVIDADE
+Setting this to Enabled will show a tooltip box containing info on light levels and stealth modifiers for tiles when you right click them,Ativar esta opção exibirá uma caixa de dica com informações sobre níveis de luz e modificadores de furtividade dos tiles ao clicar com o botão direito
+COMBAT POP-UP LENGTH,DURAÇÃO DOS BALÕES DE COMBATE
+This adjusts how long the on-screen combat pop-up text lingers,Ajusta por quanto tempo o texto dos balões de combate fica visível na tela
+"Note that a turn does not progress until all the character�s pop-up text is gone, so adjusting this number will also adjust how quickly combat turns pass","Note que o turno não avança até que todo o texto de balão do personagem desapareça, portanto ajustar este valor também afeta a velocidade dos turnos de combate"
+TUTORIALS,TUTORIAIS
+The degree to which you want the game to offer gameplay tutorials during play,O grau em que você deseja que o jogo ofereça tutoriais de jogabilidade durante a partida
+CONTROLLER SENSITIVITY,SENSIBILIDADE DO CONTROLE
+The sensitivity of the joystick used for moving the cursor when using a controller,A sensibilidade do analógico usado para mover o cursor ao usar um controle
+LANGUAGE,IDIOMA
+Select the display language for the game,Selecione o idioma de exibição do jogo
+English,Inglês
+None,Nenhum
+Some,Alguns
+Slow,Lento
+Very Slow,Muito Lento
+Fast,Rápido
+Attribute Rerolls,Rerolagens de Atributo
+Player Rerolls,Rerolagens do Jogador
+P. Dmg. Rerolls,Rerolagens de Dano (J.)
+Enemy Rerolls,Rerolagens do Inimigo
+E. Dmg. Rerolls,Rerolagens de Dano (I.)
+Miss Smoothening,Suavização de Erros
+Combat Heal,Cura Pós-Combate
+No Encumb,Sem Encumbramento
+Cannot Die,Não Pode Morrer
+XP For KO Char,XP Para Personagem Nocauteado
+Easy,Fácil
+Difficulty Settings,Configurações de Dificuldade
+DIFFICULTY,DIFICULDADE
+The current difficulty of the game,A dificuldade atual do jogo
+Easy mode is a great way for players who are new to this style of roleplaying game to experience Skald,O modo Fácil é ideal para jogadores que estão começando neste estilo de RPG e desejam vivenciar Skald
+Combat is forgiving and there should be little need to optimize character builds,O combate é tolerante e há pouca necessidade de otimizar as construções de personagens
+Dice rolls are weighted in the player’s favor,As rolagens de dados são ponderadas a favor do jogador
+Normal mode is the game’s intended difficulty setting,O modo Normal é a dificuldade pretendida pelo jogo
+There is only very limited artificial smoothing of certain dice rolls,Há apenas uma suavização artificial muito limitada de certas rolagens de dados
+Dice rolls are slightly weighted in the opponent's favor making them more deadly,As rolagens de dados são levemente ponderadas a favor do oponente tornando-o mais letal
+CUSTOM,PERSONALIZADO
+Custom difficulty,Dificuldade personalizada
+Narrative,Narrativo
+Narrative mode is the difficulty for players who would like to experience the game’s story and setting with a minimum of focus on combat and grinding,O modo Narrativo é para jogadores que desejam vivenciar a história e o cenário do jogo com foco mínimo em combate e grinding
+ATTRIBUTE REROLLS,REROLAGENS DE ATRIBUTO
+"If this number is greater than zero, the system will reroll any of the player's Attribute Check (Skill Checks for instance) dice rolls that many times and pick the most favorable one to the player","Se este número for maior que zero, o sistema rerolará as rolagens de Verificação de Atributo do jogador (como Verificações de Habilidade) essa quantidade de vezes e escolherá a mais favorável ao jogador"
+PLAYER REROLLS,REROLAGENS DO JOGADOR
+"If this number is greater than zero, the system will reroll any of the player's Combat dice rolls (such as Attack Rolls or Defence Rolls) that many times and pick the most favorable one to the player","Se este número for maior que zero, o sistema rerolará as rolagens de Combate do jogador (como Rolagens de Ataque ou Defesa) essa quantidade de vezes e escolherá a mais favorável ao jogador"
+P. DMG. REROLLS,REROLAGENS DE DANO (J.)
+"If this number is greater than zero, the system will reroll any of the player's damage dice rolls that many times and pick the most favorable one to the player","Se este número for maior que zero, o sistema rerolará as rolagens de dano do jogador essa quantidade de vezes e escolherá a mais favorável ao jogador"
+ENEMY REROLLS,REROLAGENS DO INIMIGO
+"If this number is greater than zero, the system will reroll any of the enemy's Combat dice rolls (such as Attack Rolls or Defence Rolls) that many times and pick the most favorable one to the enemy","Se este número for maior que zero, o sistema rerolará as rolagens de Combate do inimigo (como Rolagens de Ataque ou Defesa) essa quantidade de vezes e escolherá a mais favorável ao inimigo"
+E. DMG. REROLLS,REROLAGENS DE DANO (I.)
+"If this number is greater than zero, the system will reroll any of the enemy's damage dice rolls that many times and pick the most favorable one to the enemy","Se este número for maior que zero, o sistema rerolará as rolagens de dano do inimigo essa quantidade de vezes e escolherá a mais favorável ao inimigo"
+MISS SMOOTHENING,SUAVIZAÇÃO DE ERROS
+The degree to which the engine compensates player miss streaks by increasing To-Hit chances,O grau em que o motor compensa sequências de erros do jogador aumentando as chances de Acerto
+Ignore Food,Ignorar Comida
+COMBAT HEAL,CURA PÓS-COMBATE
+"If Enabled, the party will heal fully after each combat","Se ativado, o grupo se curará completamente após cada combate"
+No Trash Mobs,Sem Inimigos Fracos
+NO ENCUMB,SEM ENCUMBRAMENTO
+"If Enabled, the party has no limit to carrying capacity","Se ativado, o grupo não tem limite de capacidade de carga"
+CANNOT DIE,NÃO PODE MORRER
+"If Enabled, the main PC can never die in combat","Se ativado, o personagem principal nunca pode morrer em combate"
+XP FOR KO CHAR,XP PARA PERSONAGEM NOCAUTEADO
+"If Enabled, XP will also be given to downed characters after combat","Se ativado, XP também será concedido a personagens nocauteados após o combate"
+IGNORE FOOD,IGNORAR COMIDA
+"If Enabled, the party does not need to consume food","Se ativado, o grupo não precisa consumir comida"
+NO TRASH MOBS,SEM INIMIGOS FRACOS
+"If Enabled, the party will not encounter 'trash mob' encounters on the overland map","Se ativado, o grupo não encontrará encontros com inimigos fracos no mapa geral"
+TO-HIT ROLL,ROLAGEM DE ACERTO
+Concept,Conceito
+The To-Hit roll is made by comparing the Attacker's Attack Roll to the Defender's Defence Roll,A Rolagem de Acerto é feita comparando a Rolagem de Ataque do Atacante com a Rolagem de Defesa do Defensor
+If the Attacker rolls equal to or higher than the Defence Roll the attack is a hit,Se o Atacante rolar igual ou maior que a Rolagem de Defesa o ataque acerta
+ATTACK ROLL,ROLAGEM DE ATAQUE
+The Attack Roll is calulated in the following way,A Rolagem de Ataque é calculada da seguinte forma
+2d6 + Melee To Hit / Ranged To Hit + Misc,2d6 + Acerto Corpo a Corpo / Acerto à Distância + Misc.
+Bonuses + Accuracy Bonuses,Bônus + Bônus de Precisão
+2D6,2D6
+Simulates rolling and adding up two six-sided dice,Simula a rolagem e soma de dois dados de seis faces
+In other words a 2d6 roll generates a number between 2 and,Em outras palavras uma rolagem 2d6 gera um número entre 2 e
+DEFENCE ROLL,ROLAGEM DE DEFESA
+The Defence Roll is,A Rolagem de Defesa é
+2d6 + Misc Bonuses + Dodge,2d6 + Bônus Misc. + Esquiva
+Attribute - Defence,Atributo - Defesa
+The ability to avoid incoming attacks and other reflex-based dangers,A habilidade de evitar ataques recebidos e outros perigos baseados em reflexo
+"In other words, this determines how hard a character is to hit","Em outras palavras, isso determina o quão difícil é acertar um personagem"
+MELEE TO HIT,ACERTO CORPO A CORPO
+Attribute - Combat,Atributo - Combate
+The character's skill at attacking with melee weapons,A habilidade do personagem em atacar com armas corpo a corpo
+Determines hit chance,Determina a chance de acerto
+RANGED TO HIT,ACERTO À DISTÂNCIA
+The characters skill at attacking with ranged weapons,A habilidade do personagem em atacar com armas à distância
+ACCURACY,PRECISÃO
+Accuracy is added to an attacker's Attack Roll when trying to hit an opponent,A Precisão é adicionada à Rolagem de Ataque de um atacante ao tentar acertar um oponente
+Accuracy is typically derived from a weapon's quality,A Precisão tipicamente deriva da qualidade de uma arma
+CRT Filter,Filtro CRT
+Screen Mode,Modo de Tela
+Windowed Mode Scale,Escala do Modo Janela
+VSync,VSync
+Classic Console,Console Clássico
+Fancy Lighting,Iluminação Avançada
+Weather Effects,Efeitos Climáticos
+Screen Shaking,Trepidação de Tela
+Full,Completo
+Off,Desligado
+Display Settings,Configurações de Vídeo
+CRT FILTER,FILTRO CRT
+Activating this filter gives the game a fuzzy retro look,Ativar este filtro dá ao jogo uma aparência retrô desfocada
+Soft,Suave
+Classic,Clássico
+High-End,Alto padrão
+Arcade,Arcada
+Kitchen TV,TV de Cozinha
+Mini CRT,Mini-CRT
+Old TV,TV Antiga
+Broken B/W,P&B Quebrado
+SCREEN MODE,MODO DE TELA
+Allows the game to be played in full screen or windowed mode,Permite que o jogo seja jogado em tela cheia ou no modo janela
+WINDOWED MODE SCALE,ESCALA DO MODO JANELA
+The scale of the window when run in Window mode,A escala da janela quando executado no modo Janela
+VSYNC,VSYNC
+VSync prevents artifacts such as screen tearing,VSync previne artefatos como o screen tearing
+CLASSIC CONSOLE,CONSOLE CLÁSSICO
+The console uses the classic C64 color theme,O console usa o tema de cores clássico do C64
+FANCY LIGHTING,ILUMINAÇÃO AVANÇADA
+If enabled it will use the game�s blended lighting system,Se ativado usará o sistema de iluminação combinada do jogo
+This is the intended experience,Esta é a experiência pretendida
+This feature should only be disabled if you experience performance issues,Este recurso deve ser desativado apenas se você tiver problemas de desempenho
+WEATHER EFFECTS,EFEITOS CLIMÁTICOS
+If enabled the game will render weather effects like fog and rain,Se ativado o jogo renderizará efeitos climáticos como névoa e chuva
+Disabling this option may increase performance,Desativar esta opção pode aumentar o desempenho
+SCREEN SHAKING,TREPIDAÇÃO DE TELA
+Whether or not to allow the screen-shake visual effect,Se deve ou não permitir o efeito visual de trepidação de tela
+Windowed,Janela
+Music Volume,Volume da Música
+Sound FX Volume,Volume dos Efeitos Sonoros
+Audio Settings,Configurações de Áudio
+MUSIC VOLUME,VOLUME DA MÚSICA
+The volume of the soundtrack,O volume da trilha sonora
+SOUND FX VOLUME,VOLUME DOS EFEITOS SONOROS
+The volume of the sound effects,O volume dos efeitos sonoros
+Re-Assign,Reatribuir
+Key Bindings,Atalhos de Teclado
+Spellbook,Grimório
+SPELLBOOK,GRIMÓRIO
+This binding can be changed,Este atalho pode ser alterado
+Character Sheet,Ficha do Personagem
+Console,Consola
+Tab,Guia
+Feats,Proezas
+Feedback,Comentários
+Hide,Ocultar
+LeftCont,CtrlEsq
+Highlight,Destacar
+LeftShif,ShiftEsq
+Inventory,Inventário
+Level Up,Subir de Nível
+Light Torch,Acender Tocha
+Move E,Mover L
+RightArr,SetaDir
+Move N,Mover N
+UpArrow,SetaCima
+Move S,Mover S
+DownArro,SetaBaixo
+Move W,Mover O
+LeftArro,SetaEsq
+Next Character,Próximo Personagem
+Quests,Missões
+Quick Load,Carregar Rápido
+Quick Save,Salvar Rápido
+QUICK SAVE,SALVAR RÁPIDO
+QUICK LOAD,CARREGAR RÁPIDO
+QUESTS,MISSÕES
+MOVE W,MOVER O
+LEFTARRO,SETAESQ
+NEXT CHARACTER,PRÓXIMO PERSONAGEM
+MOVE S,MOVER S
+DOWNARRO,SETABAIXO
+MOVE N,MOVER N
+UPARROW,SETACIMA
+MOVE E,MOVER L
+RIGHTARR,SETADIR
+LIGHT TORCH,ACENDER TOCHA
+LEVEL UP,SUBIR DE NÍVEL
+INVENTORY,INVENTÁRIO
+HIGHLIGHT,DESTACAR
+LEFTSHIF,SHIFTESQ
+HIDE,OCULTAR
+LEFTCONT,CTRLÉSQ
+FEEDBACK,FEEDBACK
+FEATS,PROEZAS
+CONSOLE,CONSOLE
+TAB,TAB
+CHARACTER SHEET,FICHA DO PERSONAGEM
+Assigning key,Atribuindo tecla
+"Press ENTER or ""Re-Assign"" when done!","Pressione ENTER ou ""Reatribuir"" quando terminar!"
+Enter new key,Digite nova tecla
+Components,Componentes
+Description Font,Fonte de Descrição
+Description Color,Cor da Descrição
+Quote Color,Cor da Citação
+Description Shadow,Sombra da Descrição
+Draw Outline,Desenhar Contorno
+Text Background Color,Cor de Fundo do Texto
+Font,Fonte
+Color,Cor
+Font Settings,Configurações de Fonte
+DESCRIPTION FONT,FONTE DE DESCRIÇÃO
+The font used for most descriptions,A fonte usada para a maioria das descrições
+�This is what a quote looks like.�,É assim que uma citação aparece.
+DESCRIPTION COLOR,COR DA DESCRIÇÃO
+The color of the main descriptive text,A cor do texto descritivo principal
+QUOTE COLOR,COR DA CITAÇÃO
+The color of the main descriptive text that is displayed in quotation marks,A cor do texto descritivo principal exibido entre aspas
+DESCRIPTION SHADOW,SOMBRA DA DESCRIÇÃO
+The color of the main descriptive text's drop-down shadow,A cor da sombra projetada do texto descritivo principal
+DRAW OUTLINE,DESENHAR CONTORNO
+Draws an outline around the letters instead of a drop-down shadow,Desenha um contorno ao redor das letras em vez de uma sombra projetada
+TEXT BACKGROUND COLOR,COR DE FUNDO DO TEXTO
+The color of certain UI-elements behind text,A cor de certos elementos de interface por trás do texto
+Adjust this to increase the contrast between text and background,Ajuste para aumentar o contraste entre o texto e o fundo
+Dark,Escuro
+Black,Preto
+Launch,Iniciar
+Get More Content,Obter Mais Conteúdo
+Back,Voltar
+empty,vazio
+Load Module,Carregar Módulo
+LOAD,CARREGAR
+Copy,Copiar
+Rename,Renomear
+Delete,Excluir
+Load Game,Carregar Jogo
+AUTO_SAVE,AUTO_SAVE
+Save Date,Data do Save
+Save Time,Hora do Save
+Main Char,Pers. Principal
+Rigurt,Rigurte
+Level,Nível
+Map,Mapa
+Game Date,Data do Jogo
+Day,Dia
+Version,Versão
+Module,Módulo
+Against the Black Priory,Contra o Priorado Negro
+Do you really want to quit the game?,Você realmente deseja sair do jogo?
+Unsaved progress will be lost,O progresso não salvo será perdido
+Choose a visual style,Escolha um estilo visual
+DEFAULT is recommended,DEFAULT é recomendado
+This can also be customized in the SETTINGS menu,Isso também pode ser personalizado no menu CONFIGURAÇÕES
+Default,Padrão
+To-Hit,Acerto
