@@ -1,0 +1,61 @@
+original,translate
+#Archetype Classes,#Archetype Classes
+Cleric,Clérigo
+The Cleric offers close-range support to their party through close ranged buffs and restorative spells,O Clérigo oferece suporte próximo ao grupo através de melhorias de curto alcance e magias restauradoras
+Magos,Magos
+"The Magos is a ranged strikers that can cast powerful, and often destructive, spells","O Magos é um atacante à distância que pode lançar magias poderosas, e muitas vezes destrutivas"
+Rogue,Ladino
+The Rogue combines important non-combat skills with a large damage output against single targets,O Ladino combina habilidades importantes fora do combate com grande capacidade de dano contra alvos únicos
+Wanderer,Andarilho
+Warrior,Guerreiro
+A Warrior is a front-line fighter who can take and deal large amounts of damage,Um Guerreiro é um combatente de linha de frente que pode receber e causar grandes quantidades de dano
+#Classes,#Classes
+Armsmaster,Mestre de Armas
+The Armsmaster is a Warrior that does not have a specialized Feat Tree,O Mestre de Armas é um Guerreiro que não possui uma Árvore de Proezas especializada
+Instead the Armsmaster has access to all the combat-centered Feat Trees and they start with extra Development Points to represent their martial expertise,Em vez disso o Mestre de Armas tem acesso a todas as Árvores de Proezas voltadas ao combate e começa com Pontos de Desenvolvimento extras para representar sua expertise marcial
+Bard,Bardo
+The Bard mixes the Rogue’s decent combat skills and high maneuverability with the use of arcane magic,O Bardo mescla as boas habilidades de combate e alta mobilidade do Ladino com o uso de magia arcana
+Battlemagos,Magos de Batalha
+The Battlemagos is a Magos specializing in the destructive spells of the Fire Magic School,O Magos de Batalha é um Magos especializado nas magias destrutivas da Escola de Magia do Fogo
+"Unlike other Magi, they also get access to a few basic combat-related Feats and may wear light armor","Diferente de outros Magi, eles também têm acesso a algumas Proezas básicas de combate e podem usar armadura leve"
+Berserker,Berserker
+Champion,Campeão
+The Champion is a Cleric who excels in the use of blades and armor whilst still having limited divine spell-casting abilities,O Campeão é um Clérigo que se destaca no uso de lâminas e armaduras enquanto ainda possui capacidades limitadas de conjuração de magias divinas
+Duelist,Duelista
+Guild-Magos,Magos da Guilda
+A Guild-Magos is a spellcaster who can develop all the different Arcane Spell Schools fully,Um Magos da Guilda é um conjurador que pode desenvolver completamente todas as diferentes Escolas de Magias Arcanas
+This comes at the cost of having absolutely no combat related Feats,Isso vem ao custo de não ter absolutamente nenhuma Proeza relacionada ao combate
+Hierophant,Hierofante
+A Hierophant is a Cleric who can develop all the different Divine Spell Schools fully,Um Hierofante é um Clérigo que pode desenvolver completamente todas as diferentes Escolas de Magias Divinas
+Hospitaller,Hospitalário
+The Hospitaller is a Cleric who serves as a front line healer,O Hospitalário é um Clérigo que serve como curador de linha de frente
+"Well armed and armored, they can stand their ground against overwhelming foes whilst also getting access to the highest tiers of the Body Magic School","Bem armados e protegidos, podem manter sua posição contra inimigos avassaladores enquanto têm acesso aos níveis mais altos da Escola de Magia Corporal"
+Inquisitor,Inquisidor
+Officer,Oficial
+The Officer is a skilled warrior who serves as a force multiplier through their tactical skills,O Oficial é um guerreiro habilidoso que serve como multiplicador de força através de suas habilidades táticas
+"Issuing orders across the battlefield, they vastly improve the performance of their fellow party-members","Emitindo ordens pelo campo de batalha, eles melhoram enormemente o desempenho dos companheiros de grupo"
+Ranger,Patrulheiro
+The Ranger is a Warrior specializing in ranged combat and with access to limited nature magic,O Patrulheiro é um Guerreiro especializado em combate à distância e com acesso limitado à magia natural
+Skald,Escaldo
+Sorcerer,Feiticeiro
+Thief,Ladrão
+The Thief is a Rogue who uses Stealth to set up devestating Backstab attacks,O Ladrão é um Ladino que usa Furtividade para preparar ataques devastadores pelas costas
+#NPC Classes,#NPC Classes
+Archer,Arqueiro
+Beast,Besta
+Agile Beast,Besta Ágil
+Savage Beast,Besta Selvagem
+Common Beast,Besta Comum
+Lesser Vermin,Verme Menor
+Tough Beast,Besta Resistente
+Vermin,Verme
+Resolute Beast,Besta Resoluta
+Bravo,Valentão
+Brute,Brutamontes
+"Magi are ranged strikers that can cast powerful, destructive ranged spells",Magi são atacantes à distância que podem lançar magias poderosas e destrutivas à distância
+Commoner,Plebeu
+Laborer,Trabalhador
+Noble,Nobre
+Tough Warrior,Guerreiro Resistente
+Fighter,Lutador
+Wretch,Miserável

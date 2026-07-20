@@ -1,0 +1,238 @@
+original,translate
+#Armor,#Armor
+Heavy Armor Use,Uso de Armadura Pesada
+Reduced the encumberance of the armor when using this type of armor,Reduz o encumbramento da armadura ao usar este tipo de armadura
+Light Armor Use,Uso de Armadura Leve
+Mage Armor Use,Uso de Armadura de Mago
+Medium Armor Use,Uso de Armadura Média
+Shield Use,Uso de Escudo
+Added to Dodge when using a shield,Adicionado à Esquiva ao usar um escudo
+Unarmored Mastery,Maestria sem Armadura
+Added to Dodge when unarmored,Adicionado à Esquiva quando desarmado
+#Combat Attributes,#Combat Attributes
+Crit Chance,Chance de Crítico
+Describes the percentage of Hits that are upgraded to Critical Hits,Descreve a porcentagem de Acertos que são promovidos a Acertos Críticos
+Melee Dmg,Dano Corpo a Corpo
+A bonus that is added to the melee damage range based on the characters strength,Um bônus adicionado ao alcance de dano corpo a corpo baseado na força do personagem
+This is added to the current weapon's damage range for a total damage range,Isso é adicionado ao alcance de dano da arma atual para um alcance de dano total
+Initiative,Iniciativa
+Initiative determines who goes first in combat,A Iniciativa determina quem age primeiro no combate
+Melee To Hit,Acerto Corpo a Corpo
+The character's skill at attacking with melee weapons,A habilidade do personagem em atacar com armas corpo a corpo
+Determines hit chance,Determina a chance de acerto
+Ranged To Hit,Acerto à Distância
+The characters skill at attacking with ranged weapons,A habilidade do personagem em atacar com armas à distância
+#ConditionResistances,#ConditionResistances
+Blindness Resistance,Resistência à Cegueira
+Resistance to a condition represents the percentage chance to avoid contracting the condition,A resistência a uma condição representa a chance percentual de evitar contrair a condição
+An attribute value of 100% or above means immunity to the condition in question,Um valor de atributo de 100% ou acima significa imunidade à condição em questão
+Charm Resistance,Resistência ao Encanto
+Confusion Resistance,Resistência à Confusão
+Crit,Crítico
+Hits Resistance,Resistência a Críticos
+Deafness Resistance,Resistência à Surdez
+Disease Resistance,Resistência à Doença
+Immobilization Resistance,Resistência à Imobilização
+Insanity Resistance,Resistência à Insanidade
+Panic Resistance,Resistência ao Pânico
+Paralysis Resistance,Resistência à Paralisia
+Poison Resistance,Resistência ao Veneno
+Silence Resistance,Resistência ao Silêncio
+Sleep Resistance,Resistência ao Sono
+#DamageBonuses,#DamageBonuses
+Damage Bonus vs,Bônus de Dano contra
+Abominations,Abominações
+Creature Damage bonuses increase the Damage dealt against certain types of creatures,Bônus de Dano de criatura aumentam o Dano causado contra certos tipos de criaturas
+Animals,Animais
+Undead,Mortos-Vivos
+Vermin,Vermes
+Magic Damage Bonus,Bônus de Dano Mágico
+Damage bonuses increase the Damage dealt when using the indicated attack type,Bônus de Dano aumentam o Dano causado ao usar o tipo de ataque indicado
+Melee Damage Bonus,Bônus de Dano Corpo a Corpo
+Ranged Damage Bonus,Bônus de Dano à Distância
+Unarmed Damage Bonus,Bônus de Dano Desarmado
+Acid Damage Bonus,Bônus de Dano Ácido
+Damage Type bonuses increase the Damage dealt when the Damage is of the indicated type,Bônus de Tipo de Dano aumentam o Dano causado quando o Dano é do tipo indicado
+Blunt Damage Bonus,Bônus de Dano Contundente
+Cold Damage Bonus,Bônus de Dano de Frio
+Corruption Damage Bonus,Bônus de Dano de Corrupção
+Fire Damage Bonus,Bônus de Dano de Fogo
+Kinetic Damage Bonus,Bônus de Dano Cinético
+Piercing Damage Bonus,Bônus de Dano Perfurante
+Slashing Damage Bonus,Bônus de Dano Cortante
+Sublime Damage Bonus,Bônus de Dano Sublime
+Axe Damage Bonus,Bônus de Dano com Machado
+Weapon Damage bonuses increase the Damage dealt when using the indicated Weapon type,Bônus de Dano de arma aumentam o Dano causado ao usar o tipo de Arma indicado
+Bow Damage Bonus,Bônus de Dano com Arco
+Club Damage Bonus,Bônus de Dano com Maça
+Heavy Weapon Damage Bonus,Bônus de Dano com Arma Pesada
+Light Weapon Damage Bonus,Bônus de Dano com Arma Leve
+Medium Weapon Damage Bonus,Bônus de Dano com Arma Média
+Polearm Damage Bonus,Bônus de Dano com Arma de Haste
+Sword Damage Bonus,Bônus de Dano com Espada
+#DamageResistances,#DamageResistances
+Energy Damage Resistance,Resistência a Dano de Energia
+Damage Resistance reduces incoming Damage of the indicated type by a percentage amount equal to the attribute value,A Resistência a Dano reduz o Dano recebido do tipo indicado por uma quantidade percentual igual ao valor do atributo
+A value of 100% or higher means immunity to this damage type,Um valor de 100% ou superior significa imunidade a este tipo de dano
+A negative value means a vulnerability to the damage type,Um valor negativo significa vulnerabilidade ao tipo de dano
+"If this is the case, incoming Damage will be increased","Se for este o caso, o Dano recebido será aumentado"
+Magical Damage Resistance,Resistência a Dano Mágico
+Non-Magical Damage Resistance,Resistência a Dano Não-Mágico
+Physical Damage Resistance,Resistência a Dano Físico
+Acid Damage Resistance,Resistência a Dano Ácido
+Cold Damage Resistance,Resistência a Dano de Frio
+Corruption Damage Resistance,Resistência a Dano de Corrupção
+Electric Damage Resistance,Resistência a Dano Elétrico
+Fire Damage Resistance,Resistência a Dano de Fogo
+Kinetic Damage Resistance,Resistência a Dano Cinético
+Sublime Damage Resistance,Resistência a Dano Sublime
+Blunt Damage Resistance,Resistência a Dano Contundente
+Piercing Damage Resistance,Resistência a Dano Perfurante
+Slashing Damage Resistance,Resistência a Dano Cortante
+Psychic Damage Resistance,Resistência a Dano Psíquico
+#Defences,#Defences
+Dodge,Esquiva
+DODGE,ESQUIVA
+The ability to avoid incoming attacks and other reflex-based dangers,A habilidade de evitar ataques recebidos e outros perigos baseados em reflexo
+"In other words, this determines how hard a character is to hit","Em outras palavras, isso determina o quão difícil é acertar um personagem"
+Toughness,Dureza
+The character’s ability to withstand adverse physical effects such as disease and poison,A habilidade do personagem de resistir a efeitos físicos adversos como doença e veneno
+Willpower,Força de Vontade
+Willpower describes a character’s ability to withstand mind-affecting conditions such as those caused by spells,A Força de Vontade descreve a habilidade do personagem de resistir a condições que afetam a mente como as causadas por magias
+#HitBonuses,#HitBonuses
+Bonus - Axes,Bônus - Machados
+Critical bonuses increase your critical chance for the indicated weapon type,Bônus críticos aumentam sua chance de crítico para o tipo de arma indicado
+Bonus - Bows,Bônus - Arcos
+Bonus - Clubs,Bônus - Maças
+Bonus Light,Bônus Leve
+This bonus applies to Light Weapons,Este bônus se aplica a Armas Leves
+Bonus - Blades,Bônus - Lâminas
+Bonus - Unarmed,Bônus - Desarmado
+Hit Bonus - Maneuvers,Bônus de Acerto - Manobras
+Maneuver Hit Bonuses are added to the To Hit roll when performing Combat Maneuvers,Bônus de Acerto de Manobra são adicionados ao rolar Para Acertar ao realizar Manobras de Combate
+Hit Bonus - Abominations,Bônus de Acerto - Abominações
+Creature Hit Bonuses are added to the To Hit roll when attacking the indicated creature type,Bônus de Acerto de criatura são adicionados ao rolar Para Acertar ao atacar o tipo de criatura indicado
+Hit Bonus - Animals,Bônus de Acerto - Animais
+Hit Bonus - Undead,Bônus de Acerto - Mortos-Vivos
+Hit Bonus - Vermin,Bônus de Acerto - Vermes
+Hit Bonus - Axes,Bônus de Acerto - Machados
+Weapon Hit Bonuses are added to the To Hit roll when using weapons of the indicated type,Bônus de Acerto de arma são adicionados ao rolar Para Acertar ao usar armas do tipo indicado
+Hit Bonus - Bows,Bônus de Acerto - Arcos
+Hit Bonus - Clubs,Bônus de Acerto - Maças
+Hit Bonus - Heavy Weap,Bônus de Acerto - Arm. Pesada
+Hit Bonus - Light Weap,Bônus de Acerto - Arm. Leve
+Hit Bonus - Medium Weap,Bônus de Acerto - Arm. Média
+Hit Bonus - Polearms,Bônus de Acerto - Armas de Haste
+Hit Bonus - Blades,Bônus de Acerto - Lâminas
+Hit Bonus - Unarmed,Bônus de Acerto - Desarmado
+#MagicAttributes,#MagicAttributes
+Magical Attributes,Atributos Mágicos
+MAGICAL ATTRIBUTES,ATRIBUTOS MÁGICOS
+Attributes involved in spell-casting,Atributos envolvidos na conjuração de magias
+Attunement,Sintonização
+Describes a character's magical energy and determines how many spells can be cast,Descreve a energia mágica de um personagem e determina quantas magias podem ser lançadas
+Attunement refills fully when the character rests in a camp,A Sintonização é totalmente reabastecida quando o personagem descansa num acampamento
+Note that different classes use different root abilities for Attunement,Observe que diferentes classes usam diferentes habilidades base para Sintonização
+Magical Aptitude,Aptidão Mágica
+MAGICAL APTITUDE,APTIDÃO MÁGICA
+The Magical Aptitude score is added to the numerical value of spells such as the amount of damage dealt or vitality healed,A pontuação de Aptidão Mágica é adicionada ao valor numérico de magias como a quantidade de dano causado ou vitalidade curada
+Max Cascade,Cascata Máxima
+MAX CASCADE,CASCATA MÁXIMA
+The maximum numbers of spells a spellcaster can cast in a single turn due to Cascade effects,O número máximo de magias que um conjurador pode lançar em um único turno devido aos efeitos de Cascata
+Magic Schools,Escolas de Magia
+The Schools of Magic,As Escolas de Magia
+The value of this attribute indicates the maximum tier of spell from that school the character may cast,O valor deste atributo indica o nível máximo de magia dessa escola que o personagem pode lançar
+Aura Radius,Raio de Aura
+"If non-zero, this number is added to the radius of your spells with Aura-shaped area of effects","Se não for zero, este número é adicionado ao raio de suas magias com áreas de efeito em forma de Aura"
+Line Range,Alcance de Linha
+"If non-zero, this number is added to the width and length of your spells with Line- and Cone-shaped areas of effects","Se não for zero, este número é adicionado à largura e comprimento de suas magias com áreas de efeito em forma de Linha e Cone"
+Sphere Radius,Raio de Esfera
+"If non-zero, this number is added to the radius of your spells with Sphere-shaped area of effects","Se não for zero, este número é adicionado ao raio de suas magias com áreas de efeito em forma de Esfera"
+#MagicSchools,#MagicSchools
+Air Magic School,Escola de Magia do Ar
+The value of this attribute indicates the highest Spell Tier of Air magic spells you may cast,O valor deste atributo indica o Nível de Magia mais alto de magias de Ar que você pode lançar
+Bardic Magic School,Escola de Magia Bárdica
+The value of this attribute indicates the highest Spell Tier of Bardic magic spells you may cast,O valor deste atributo indica o Nível de Magia mais alto de magias Bárdicas que você pode lançar
+Body Magic School,Escola de Magia Corporal
+The value of this attribute indicates the highest Spell Tier of Body magic spells you may cast,O valor deste atributo indica o Nível de Magia mais alto de magias Corporais que você pode lançar
+Earth Magic School,Escola de Magia da Terra
+The value of this attribute indicates the highest Spell Tier of Earth magic spells you may cast,O valor deste atributo indica o Nível de Magia mais alto de magias da Terra que você pode lançar
+Fire Magic School,Escola de Magia do Fogo
+The value of this attribute indicates the highest Spell Tier of Fire magic spells you may cast,O valor deste atributo indica o Nível de Magia mais alto de magias do Fogo que você pode lançar
+Mind Magic School,Escola de Magia Mental
+The value of this attribute indicates the highest Spell Tier of Mind magic spells you may cast,O valor deste atributo indica o Nível de Magia mais alto de magias Mentais que você pode lançar
+Nature Magic School,Escola de Magia Natural
+The value of this attribute indicates the highest Spell Tier of Nature magic spells you may cast,O valor deste atributo indica o Nível de Magia mais alto de magias Naturais que você pode lançar
+Spirit Magic School,Escola de Magia Espiritual
+The value of this attribute indicates the highest Spell Tier of Spirit magic spells you may cast,O valor deste atributo indica o Nível de Magia mais alto de magias Espirituais que você pode lançar
+#PrimaryAttributes,#PrimaryAttributes
+Agility,Agilidade
+"A measure of hand-eye coordination, nimbleness and dexterity","Uma medida de coordenação olho-mão, agilidade e destreza"
+Describes how tough and resilient a character is,Descreve o quão resistente e resiliente um personagem é
+Intellect,Intelecto
+"Mental acuity, recall and analytical skill","Acuidade mental, memória e habilidade analítica"
+Presence,Presença
+A character's ability to read and react to the surrounding environment and people,A habilidade do personagem de ler e reagir ao ambiente e pessoas ao redor
+Strength,Força
+A measure of a character's brawn and physical power,Uma medida da musculatura e poder físico do personagem
+#SecCombatAttributes,#SecCombatAttributes
+Arrow Recovery,Recuperação de Flechas
+The percentage chance that an arrow fired by the character in combat can be recovered and reused,A chance percentual de que uma flecha disparada pelo personagem em combate possa ser recuperada e reutilizada
+Attack Count,Contagem de Ataques
+The number of Attacks the character can potentially perform in a full round of combat,O número de Ataques que o personagem pode potencialmente realizar em uma rodada completa de combate
+"Typically a character cannot perform multiple Attacks if they also move, or perform move-equivalent actions the same turn","Normalmente um personagem não pode realizar múltiplos Ataques se também se mover, ou realizar ações equivalentes a movimento no mesmo turno"
+Backstab Bonus,Bônus de Golpe pelas Costas
+"If a successful Backstab Attack is performed, this Attribute is multiplied by the Weapon’s Crit multiplier and added to the total Damage","Se um Ataque pelas Costas bem-sucedido for realizado, este Atributo é multiplicado pelo multiplicador Crítico da Arma e adicionado ao Dano total"
+Carrying Bonus,Bônus de Carga
+A bonus in pounds added to the character’s Carrying Capacity,Um bônus em libras adicionado à Capacidade de Carga do personagem
+Charge Bonus,Bônus de Carga
+"If a character is charging, this bonus is added on top of the base charge bonus","Se um personagem está carregando, este bônus é adicionado sobre o bônus de carga base"
+The charge bonus is added to the following attack’s To Hit and Damage roll,O bônus de carga é adicionado ao rolar Para Acertar e Dano do ataque seguinte
+Defend Bonus,Bônus de Defesa
+The bonus that is added to a character’s Dodge value when performing the Defend action,O bônus que é adicionado ao valor de Esquiva do personagem ao realizar a ação Defender
+Flanking Bonus,Bônus de Flanqueamento
+The bonus that is added to a character’s To Hit roll when attacking a Flanked opponent,O bônus que é adicionado ao rolar Para Acertar do personagem ao atacar um oponente Flanqueado
+Loot Bonus,Bônus de Saque
+This attribute provides a percentage bonus increase of the amount of gold you find by looting corpses after combat,Este atributo fornece um aumento percentual bônus da quantidade de ouro que você encontra saqueando cadáveres após o combate
+Movement,Movimento
+The number of tiles a character can move during a single combat turn and still attack,O número de casas que um personagem pode mover durante um único turno de combate e ainda atacar
+Phalanx Bonus,Bônus de Falange
+"If wielding a shield, you get a bonus to Dodge for each adjacent ally up to your Phalanx value","Se empunhando um escudo, você recebe um bônus à Esquiva para cada aliado adjacente até o seu valor de Falange"
+This means that you do not get any such bonus if your bonus is,Isso significa que você não recebe tal bônus se seu bônus é
+Regeneration,Regeneração
+"If above 0, you regain a number of Vitality points at the beginning of each combat turn equal to your Regeneration score","Se acima de 0, você recupera um número de pontos de Vitalidade no início de cada turno de combate igual à sua pontuação de Regeneração"
+Retribution,Retribuição
+"If above 0, you deal damage equal to your retribution score to any opponents that score a melee attack hit against you","Se acima de 0, você causa dano igual à sua pontuação de retribuição a quaisquer oponentes que acertem um ataque corpo a corpo contra você"
+Natural Soak,Absorção Natural
+Natural soak represents soak derived from a thick skin or unnaturally high resistance to physical damage,A absorção natural representa a absorção derivada de uma pele grossa ou resistência sobrenatural alta a dano físico
+XP Percentage Bonus,Bônus Percentual de XP
+"If above 0, this attribute provides a percentage bonus to all XP gained for this character","Se acima de 0, este atributo fornece um bônus percentual a todo XP ganho por este personagem"
+#Secondary Attributes,#Secondary Attributes
+Vitality,Vitalidade
+Vitality describes the amount of damage a character can take before becoming seriously wounded,A Vitalidade descreve a quantidade de dano que um personagem pode receber antes de ficar gravemente ferido
+Vitality is fairly easily regained through the use of consumable items and spells,A Vitalidade é bastante facilmente recuperada através do uso de itens consumíveis e magias
+Wounds,Ferimentos
+Wounds represent serious injury to the character,Os Ferimentos representam lesões graves ao personagem
+"Wounds are much harder to recover for characters, typically requiring bed rest","Os Ferimentos são muito mais difíceis de recuperar para os personagens, geralmente exigindo repouso"
+#Skills,#Skills
+Athletics,Atletismo
+"Athletics are used to jump, climb, swim or sprint","O Atletismo é usado para pular, escalar, nadar ou correr"
+Awareness,Percepção
+The ability to notice small details and hidden things,A habilidade de notar pequenos detalhes e coisas ocultas
+Crafting,Artesanato
+Crafting is used when creating items at crafting stations,O Artesanato é usado ao criar itens em estações de criação
+Diplomacy,Diplomacia
+"Diplomacy is used to lie, bargain or sway others in negotiations","A Diplomacia é usada para mentir, barganhar ou persuadir outros em negociações"
+It influences prices at merchants,Influencia os preços em mercadores
+Healing,Cura
+Healing is used in camp to increase the rate of wound recovery for wounded characters,A Cura é usada no acampamento para aumentar a taxa de recuperação de ferimentos em personagens feridos
+It also influences the amount of vitality regained from healing potions and is used in dialogue tests when dealing with medical issues and such,Também influencia a quantidade de vitalidade recuperada de poções de cura e é usada em testes de diálogo ao lidar com questões médicas e similares
+Lore,Conhecimento
+A general knowledge skill,Uma habilidade de conhecimento geral
+Stealth,Furtividade
+Stealth is used during adventuring,A Furtividade é usada durante a aventura
+In particular it determines if NPCs notice the party as it moves around,Em particular determina se os NPCs percebem o grupo enquanto ele se move
+Survival,Sobrevivência
+"Survival is used to forage for food, navigate difficult overland terrain and also determines a character's general knowledge of nature","A Sobrevivência é usada para forragear por comida, navegar por terrenos difíceis e também determina o conhecimento geral da natureza do personagem"
+Thievery,Ladroagem
+Used to pick locks and pockets as well as to steal from shops,Usada para forçar fechaduras e bolsos além de roubar de lojas
