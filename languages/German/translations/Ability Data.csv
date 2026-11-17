@@ -1,0 +1,324 @@
+Original,Translation
+#Combat Manuevers,#Combat Manuevers
+Wild Swing,Wilder Schwung
+Critical Strike,Kritischer Schlag
+Defend Ally,Verbündeten schützen
+Mark Target,Ziel markieren
+The Target gets the Marked Condition which confers a -2 penalty to Dodge for the rest of the encounter,"Das Ziel erhält den Zustand Markiert, der für den Rest der Begegnung einen Malus von -2 auf Ausweichen verursacht"
+Radiate Fear,Furcht verbreiten
+Blizzard Aura,Blizzard-Aura
+Aura of Fire,Feueraura
+Fire Lance,Feuerlanze
+Howl of Terror,Schreckensgeheul
+Lightning Lash,Blitzpeitsche
+Spit Acid,Säure spucken
+Spit Poison,Gift spucken
+Spray Acid,Säure versprühen
+Attack!,Angriff!
+Forwards!,Vorwärts!
+Regroup!,Sammeln!
+Stand Your Ground!,Haltet die Stellung!
+Precise Strike,Präziser Schlag
+Rapid Shot,Schnellschuss
+The character makes a ranged attack,Der Charakter führt einen Fernkampfangriff aus
+"If that attack is successful, they may make another, free attack","Ist dieser Angriff erfolgreich, darf ein weiterer, freier Angriff folgen"
+Pierce Armor,Rüstung durchbohren
+Vein Strike,Aderschlag
+Savage Strike,Wilder Hieb
+Shake the Earth,Erdbeben
+Shield Rush,Schildansturm
+Perform an attack that pushes your opponent back one square if successfull,"Ein Angriff, der den Gegner bei Erfolg ein Feld zurückstösst"
+Deals normal damage,Verursacht normalen Schaden
+Spellburn,Zauberbrand
+Storm of Steel,Stahlgewitter
+Stunning Blow,Betäubender Hieb
+Thrust And Parry,Stoss und Parade
+Dash,Spurt
+Hide in Combat,Im Kampf verstecken
+You gain the ability to hide whilst in Combat,Du kannst dich auch im Kampf verstecken
+Attacking whilst hidden triggers the Backstab attack,Ein Angriff aus dem Versteck löst einen Meuchelangriff aus
+Infect,Infizieren
+Ice Breath,Eisatem
+Imperial Litany,Kaiserliche Litanei
+Hamstring,Sehnenschnitt
+Second Wind,Zweiter Atem
+#Passive Abilitiy,#Passive Abilitiy
+Backstabber,Meuchler
+Allows the character to perform Backstab Attacks against voulnerable targets,Erlaubt dem Charakter Meuchelangriffe gegen verwundbare Ziele
+Evasive,Ausweichend
+Disengaging from Melee does not cause your turn to end,Das Lösen aus dem Nahkampf beendet deinen Zug nicht
+Fancy Footwork,Flinke Füsse
+Swapping Places with allies not longer causes your Turn to end,Das Tauschen der Plätze mit Verbündeten beendet deinen Zug nicht mehr
+Activate Spellcasting,Zauberwirken aktivieren
+Allows the character to begin studying schools of spellcasting,"Erlaubt dem Charakter, Schulen des Zauberwirkens zu studieren"
+"To learn spells, pick and invest in one or more such schools","Um Zauber zu lernen, wähle eine oder mehrere solcher Schulen und investiere in sie"
+Increased Agiliy,Erhöhtes Geschick
+Increased Heavy Armor Use,Bessere Schwere Rüstung
+Increased Light Armor Use,Bessere Leichte Rüstung
+Increased Medium Armor Use,Bessere Mittlere Rüstung
+Increased Athletics,Erhöhte Athletik
+Increased Attunement,Erhöhte Einstimmung
+Spell Aura Radius Increase,Grösserer Aura-Radius
+Increased Awareness,Erhöhte Wahrnehmung
+Increased Backstab Damage,Erhöhter Meuchelschaden
+Pack Mule,Packesel
+Increased Crafting,Erhöhtes Handwerk
+Critical Resistance,Kritresistenz
+Increased Diplomacy,Erhöhte Diplomatie
+Increased Dodge,Erhöhtes Ausweichen
+Fletching,Pfeilmacherei
+Doubles the chance of recovering a spent arrow after combat,"Verdoppelt die Chance, verschossene Pfeile nach dem Kampf zurückzugewinnen"
+Increased Fortitude,Erhöhte Konstitution
+Increased Gold Drops,Mehr Goldbeute
+Increased Healing,Erhöhte Heilkunde
+Increased Initiative,Erhöhte Initiative
+Increased Intellect,Erhöhter Intellekt
+Increased Lore,Erhöhtes Wissen
+Increased Max Cascade,Erhöhte Max. Kaskade
+Increased Movement,Erhöhte Bewegung
+Increased Presence,Erhöhte Ausstrahlung
+Increased Spell Aptitude,Erhöhte Magiebegabung
+Increased Stealth,Erhöhte Heimlichkeit
+Increased Strength,Erhöhte Stärke
+You are powerfully built,Du bist kräftig gebaut
+to Strength Primary Attribute,auf das Primärattribut Stärke
+Survival Increase,Erhöhtes Überleben
+Increased Thievery,Erhöhte Diebeskunst
+Increased Toughness,Erhöhte Zähigkeit
+Increased Vitality,Erhöhte Vitalität
+Increased Will,Erhöhte Willenskraft
+Charger,Stürmer
+Axe Finesse,Axt-Finesse
+Blade Finesse,Klingen-Finesse
+Bow Finesse,Bogen-Finesse
+Club Finesse,Keulen-Finesse
+Light Weapon Finesse,Leichtwaffen-Finesse
+Vicious,Bösartig
+Axe Damage,Axtschaden
+Blade Damage,Klingenschaden
+Bow Damage,Bogenschaden
+Club Damage,Keulenschaden
+Brutal,Brutal
+Heavy Weapon Damage,Schwerwaffenschaden
+Light Weapon Damage,Leichtwaffenschaden
+Piercing Damage,Stichschaden
+Phalanx,Phalanx
+"While wielding a shield, get a dodge bonus for adjacent allies",Mit einem Schild erhältst du einen Ausweichbonus für angrenzende Verbündete
+Bonus is +1 per ally up to a maximum of the Phalanx Bonus attribute value (typically,"Der Bonus beträgt +1 pro Verbündetem, bis maximal zum Wert des Attributs Phalanx-Bonus (normalerweise"
+Shield Training,Schildausbildung
+Acid Immunity,Säureimmunität
+Blindness Immunity,Blindheitsimmunität
+Cold Immunity,Kälteimmunität
+Critical Immunity,Kritimmunität
+Deafness Immunity,Taubheitsimmunität
+Disease Immunity,Krankheitsimmunität
+Lightning Immunity,Blitzimmunität
+Fire Immunity,Feuerimmunität
+Non Magical Damage Immunity,Immunität gg. nichtmagischen Schaden
+Panic Immunity,Panikimmunität
+Paralysis Immunity,Lähmungsimmunität
+Poison Immunity,Giftimmunität
+Sleep Immunity,Schlafimmunität
+Fell Illumination,Unheilvolles Leuchten
+Multi Attack,Mehrfachangriff
+Gain 1 extra Attack per Turn,Erhalte 1 zusätzlichen Angriff pro Zug
+Greater Increased Attunement,Stark erhöhte Einstimmung
+Major Natural Armor,Grosse natürliche Rüstung
+Medium Natural Armor,Mittlere natürliche Rüstung
+Minor Natural Armor,Kleine natürliche Rüstung
+Greater Natural Weapons,Grosse natürliche Waffen
+Natural Weapons,Natürliche Waffen
+Point Blank Shot,Nahschuss
+You can use Ranged Weapons even when in Melee,Du kannst Fernkampfwaffen auch im Nahkampf einsetzen
+Resistance,Resistenz
+Slashing,Hieb
+Blunt,Wucht
+Piercing,Stich
+Magical,Magisch
+Cold,Kälte
+Acid,Säure
+Kinetic,Kinetisch
+Sublime,Erhaben
+Electric,Elektrizität
+Fire,Feuer
+Psychic,Psychisch
+Minor Resistance,Geringe Resistenz
+Lightning,Blitz
+Physical,Physisch
+Increased Aura Radius,Grösserer Aura-Radius
+Increased Line Effects,Verstärkte Linieneffekte
+Increased Sphere Effects,Verstärkte Sphäreneffekte
+Air Magic Focus,Luftmagie-Fokus
+Bardic Magic Focus,Bardenmagie-Fokus
+Body Magic Focus,Körpermagie-Fokus
+Earth Magic Focus,Erdmagie-Fokus
+Fire Magic Focus,Feuermagie-Fokus
+Mind Magic Focus,Geistmagie-Fokus
+Nature Magic Focus,Naturmagie-Fokus
+Spirit Magic Focus,Seelenmagie-Fokus
+Axe Accuracy,Axt-Präzision
+Blade Accuracy,Klingen-Präzision
+Bow Accuracy,Bogen-Präzision
+Club Accuracy,Keulen-Präzision
+General Accuracy,Allgemeine Präzision
+Heavy Weapon Accuracy,Schwerwaffen-Präzision
+Light Weapon Accuracy,Leichtwaffen-Präzision
+Melee Accuracy,Nahkampf-Präzision
+Ranged Accuracy,Fernkampf-Präzision
+Vulnerability,Verwundbarkeit
+Bonus XP Percentage,EP-Bonus in Prozent
+Blessing of Agility,Segen des Geschicks
+Blessing of Fortitude,Segen der Konstitution
+Blessing of Intellect,Segen des Intellekts
+Blessing of Presence,Segen der Ausstrahlung
+Blessing of Strength,Segen der Stärke
+#Spells,#Spells
+Spells,Zauber
+Armor of Thorns,Dornenrüstung
+Heroic Aura,Heldenaura
+Aura of Condemnation,Aura der Verdammnis
+Aura of Fear,Aura der Furcht
+Miasma,Miasma
+Aura of Silence,Aura der Stille
+Searing Light,Sengendes Licht
+Smothering Blanket,Erstickende Decke
+Sight to Behold,Ein Anblick zum Staunen
+Eye-Shine,Augenglanz
+Fire Sprite,Feuergeist
+Fireworks,Feuerwerk
+Heroic Tune,Heldenweise
+Now you See Me,Jetzt siehst du mich
+Lambent Dance,Lodernder Tanz
+Lifting Tune,Beschwingte Weise
+Light Please,"Licht, bitte"
+Raise the Curtain,Vorhang auf
+Shadow Step,Schattenschritt
+Song of Soothing,Lied der Linderung
+Sparkledust,Glitzerstaub
+Whisper of Confusion,Flüstern der Verwirrung
+Barkskin,Borkenhaut
+Bear's Strength,Bärenstärke
+Blessing Aura,Segensaura
+Blessing Touch,Segnende Berührung
+Blink,Blinzeln
+Mark of Blurring,Mal der Verschwommenheit
+Breath Glass,Atemglas
+Blinding Bolt,Blendender Strahl
+Circle of Corporeal Restoration,Kreis der körperlichen Wiederherstellung
+Circle of Healing,Kreis der Heilung
+Circle of Mental Restoration,Kreis der geistigen Wiederherstellung
+Clear Senses,Klare Sinne
+Command of Paralyzation,Befehl der Lähmung
+Cure Moderate Disease,Mittlere Krankheit heilen
+Heal Mind,Geist heilen
+Fleet of Foot,Leichtfüssigkeit
+Cure Moderate Poison,Mittlere Vergiftung heilen
+Diamond Form,Diamantgestalt
+Dispel Magic,Magie bannen
+Distort Mass,Masse verzerren
+Divine Intervention,Göttliches Eingreifen
+Aura of Flame,Flammenaura
+Fireball,Feuerball
+Breath of the Ancients,Atem der Alten
+Flaming Fists,Flammenfäuste
+Fire Frenzy,Feuerraserei
+Inferno,Inferno
+Searing Lash,Sengende Peitsche
+Aura of Fire Resistance,Aura der Feuerresistenz
+Fire Warrior,Feuerkrieger
+Force of Nature,Naturgewalt
+Fortify Awareness,Wahrnehmung stärken
+Fortify Will,Willen stärken
+Mark of Haste,Mal der Eile
+Mark of Heroism,Mal des Heldenmuts
+Hammer of Light,Hammer des Lichts
+Holy Judgement,Heiliges Urteil
+Holy Lance,Heilige Lanze
+Hysterical Blindness,Hysterische Blindheit
+Curse of Ensnarement,Fluch der Verstrickung
+Instil Courage,Mut einflössen
+Mark of Invisibility,Mal der Unsichtbarkeit
+Greater Lay on Hands,Grosse Handauflegung
+Minor Lay on Hands,Kleine Handauflegung
+Moderate Lay on Hands,Mittlere Handauflegung
+Lesser Regeneration,Geringe Regeneration
+Mark of Illumination,Mal der Erleuchtung
+Holy Light,Heiliges Licht
+Lightning Strike,Blitzschlag
+Magic Missile,Magisches Geschoss
+Web of Roots,Wurzelnetz
+Sublime Projection,Erhabene Projektion
+Pestilence,Pestilenz
+Poisoned Globe,Giftkugel
+Purge Invisibility,Unsichtbarkeit tilgen
+Purge Magic,Magie tilgen
+Greater Regeneration,Grosse Regeneration
+Corporeal Restoration,Körperliche Wiederherstellung
+Mental Restoration,Geistige Wiederherstellung
+Serpent's Grace,Anmut der Schlange
+Arcane Shockwave,Arkane Schockwelle
+Steal Breath,Atem rauben
+Mark of Lethargy,Mal der Lethargie
+Mass Lethargy,Massenlethargie
+Stoneskin,Steinhaut
+Stunning Aura,Betäubende Aura
+Stunning Touch,Betäubende Berührung
+Summon Giant Insect,Rieseninsekt beschwören
+Summon Magmite,Magmit beschwören
+Summon Ooze,Schleim beschwören
+Summon Vermin,Ungeziefer beschwören
+Swarm of Gnats,Mückenschwarm
+Thunderclap,Donnerschlag
+Touch of Condemnation,Berührung der Verdammnis
+Touch of Confusion,Berührung der Verwirrung
+Touch of Weakness,Berührung der Schwäche
+#Triggered Abilities,#Triggered Abilities
+Arcane Rush,Arkaner Ansturm
+"The first time you take Wound Hit point Damage each combat, you automatically regain 30-40 Attunement Points","Wenn du zum ersten Mal in einem Kampf Schaden an deinen Wunden-Lebenspunkten erleidest, erhältst du automatisch 30-40 Einstimmungspunkte zurück"
+Crippling Finesse,Verkrüppelnde Finesse
+"When scoring a Backstab hit using a Light Weapon, the targets gets a random injury Condition","Landest du mit einer leichten Waffe einen Meuchelangriff, erhält das Ziel einen zufälligen Verletzungszustand"
+Rending Blow,Reissender Hieb
+Critical Hits with an Axe causes Injury Conditions,Kritische Treffer mit einer Axt verursachen Verletzungszustände
+Deep Cut,Tiefer Schnitt
+Your Critical Hits using Blades cause Bleeding on your target,Deine kritischen Treffer mit Klingen lassen dein Ziel bluten
+Red Arcs,Rote Bögen
+Scoring a Critical Hit with a Light Blade causes you to restore 1 Attack,Ein kritischer Treffer mit einer leichten Klinge stellt 1 Angriff wieder her
+Rapid Reload,Schnelles Nachladen
+"If you score a Critical Hit with a Bow, you immediately regain 1 attack","Erzielst du einen kritischen Treffer mit einem Bogen, erhältst du sofort 1 Angriff zurück"
+Kneecap,Kniescheibe
+Critical Hits with a Club causes The Injured Leg condition,Kritische Treffer mit einer Keule verursachen den Zustand Verletztes Bein
+Weaving Blade,Wirbelnde Klinge
+Dodging a Melee Attack whilst armed causes you to deal a small amont of Slashing Damage to your attacker,"Weichst du bewaffnet einem Nahkampfangriff aus, fügst du dem Angreifer etwas Hiebschaden zu"
+Felling Strike,Fällender Hieb
+Weakly Infections,Schwach ansteckend
+Your unarmed attack may cause disease in the target,Dein unbewaffneter Angriff kann beim Ziel eine Krankheit auslösen
+Decapitation,Enthauptung
+The gruesomeness of your Axe-Kill causes the Fear condition in all opponents who can see it,"Die Grausamkeit deines Axt-Todesstosses löst bei allen Gegnern, die ihn sehen, den Zustand Furcht aus"
+Cleave,Spalten
+Killing an opponent using a Heavy Melee Weapon restores 1 Attack,Das Töten eines Gegners mit einer schweren Nahkampfwaffe stellt 1 Angriff wieder her
+Inspiring Kill,Inspirierender Todesstoss
+"When killing an Opponent in Armed or Unarmed Melee combat, all Allies who witness the kill get the Inspired Condition for 1 Turn","Tötest du einen Gegner im bewaffneten oder unbewaffneten Nahkampf, erhalten alle Verbündeten, die es sehen, für 1 Zug den Zustand Inspiriert"
+Replenishing Takedown,Erfrischender Niederschlag
+"Killing a Marked Target, heals the party a small amount",Das Töten eines markierten Ziels heilt die Gruppe ein wenig
+Magnificent Takedown,Glorreicher Niederschlag
+"When killing a Marked target, all Allies who witness the kill get the Inspired Condition for 1 Turn","Tötest du ein markiertes Ziel, erhalten alle Verbündeten, die es sehen, für 1 Zug den Zustand Inspiriert"
+Bleeding Strike,Blutender Hieb
+Greater Bleeding Strike,Grosser blutender Hieb
+Lesser Bleeding Strike,Geringer blutender Hieb
+Acid Burst,Säurestoss
+Sommon Abomination,Scheusal beschwören
+Lesser Poison Attack,Schwacher Giftangriff
+Moderate Poison Attack,Mittlerer Giftangriff
+Strong Poison Attack,Starker Giftangriff
+Stunning Strike,Betäubender Schlag
+Steal Life,Leben stehlen
+Shield Slam,Schildschlag
+"Whilst wielding a shield, dodging a melee attack causes you to deal 1-4 Blunt damage to your attacker","Weichst du mit einem Schild einem Nahkampfangriff aus, fügst du dem Angreifer 1-4 Wuchtschaden zu"
+Smashing Charge,Zerschmetternder Sturmangriff
+Your Charges cause 1-3 additional Blunt Damage,Deine Sturmangriffe verursachen 1-3 zusätzlichen Wuchtschaden
+Hidden Deployment,Verdeckter Aufmarsch
+You start combat Hidden,Du beginnst den Kampf versteckt
+Smoke Bomb,Rauchbombe
+"The first time you're Wounded each combat, you automatically hide","Wenn du zum ersten Mal in einem Kampf verwundet wirst, versteckst du dich automatisch"
+Not Today!,Nicht heute!
+"The first time you take Wound Hit point Damage each combat, you automatically regain 12-18 Vitality Hit Points","Wenn du zum ersten Mal in einem Kampf Schaden an deinen Wunden-Lebenspunkten erleidest, erhältst du automatisch 12-18 Vitalitäts-Lebenspunkte zurück"

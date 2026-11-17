@@ -1,0 +1,318 @@
+Original,Translation
+Core 1.0.7e,Core 1.0.7e
+Continue Game,Spiel fortsetzen
+New Game,Neues Spiel
+Load,Laden
+Save,Speichern
+Start Module,Modul starten
+Settings,Einstellungen
+Credits,Mitwirkende
+Quit,Beenden
+Exit,Verlassen
+Reset,Zurücksetzen
+Gameplay,Spielablauf
+Difficulty,Schwierigkeit
+Display,Anzeige
+Audio,Audio
+Controls,Steuerung
+Fonts,Schriftarten
+Enter Map Auto Save,Autospeichern bei Kartenwechsel
+Rest Auto Save,Autospeichern beim Rasten
+Tactical Icons Always On,Taktische Symbole immer an
+Tactical Grid,Taktisches Raster
+Show Stealth Info,Heimlichkeitsinfo zeigen
+Combat Pop-Up Length,Kampf-Popup-Dauer
+Tutorials,Tutorials
+Controller Sensitivity,Controller-Empfindlichkeit
+Language,Sprache
+Enabled,Aktiviert
+Disabled,Deaktiviert
+DISABLED,DEAKTIVIERT
+ENABLED,AKTIVIERT
+Normal,Normal
+Extensive,Ausführlich
+DELUXE,DELUXE
+Nostalgia Mode,Nostalgiemodus
+Dice Animation,Würfelanimation
+White - Pips,Weiss - Augen
+Russian,Russisch
+Gameplay Settings,Spieleinstellungen
+ENTER MAP AUTO SAVE,AUTOSPEICHERN BEI KARTENWECHSEL
+The game will auto save whenever you enter a new map,"Das Spiel speichert automatisch, sobald du eine neue Karte betrittst"
+REST AUTO SAVE,AUTOSPEICHERN BEIM RASTEN
+The game will auto save whenever you make camp,"Das Spiel speichert automatisch, sobald du ein Lager aufschlägst"
+TACTICAL ICONS ALWAYS ON,TAKTISCHE SYMBOLE IMMER AN
+The degree to which the game shows tactical symbols and a grid during combat,Wie stark das Spiel im Kampf taktische Symbole und ein Raster anzeigt
+"If set to true, the game will automatically show tactical icons during the planning state","Wenn aktiviert, zeigt das Spiel in der Planungsphase automatisch taktische Symbole an"
+"If set to false, the tactical icons will only show when holding down SHIFT","Wenn deaktiviert, werden die taktischen Symbole nur angezeigt, solange SHIFT gedrückt wird"
+TACTICAL GRID,TAKTISCHES RASTER
+Whether or not the game shows a grid along with the tactical icons when activated during combat,Ob das Spiel im Kampf zusammen mit den taktischen Symbolen ein Raster anzeigt
+SHOW STEALTH INFO,HEIMLICHKEITSINFO ZEIGEN
+Setting this to Enabled will show a tooltip box containing info on light levels and stealth modifiers for tiles when you right click them,"Wenn aktiviert, erscheint beim Rechtsklick auf ein Feld ein Infofenster mit Lichtstufe und Heimlichkeitsmodifikatoren"
+COMBAT POP-UP LENGTH,KAMPF-POPUP-DAUER
+This adjusts how long the on-screen combat pop-up text lingers,"Legt fest, wie lange die Kampf-Popup-Texte auf dem Bildschirm bleiben"
+"Note that a turn does not progress until all the character�s pop-up text is gone, so adjusting this number will also adjust how quickly combat turns pass","Beachte, dass ein Zug erst weitergeht, wenn alle Popup-Texte der Figur verschwunden sind. Dieser Wert bestimmt also auch, wie schnell Kampfrunden vergehen"
+TUTORIALS,TUTORIALS
+The degree to which you want the game to offer gameplay tutorials during play,Wie sehr das Spiel dir während des Spielens Tutorials anbieten soll
+CONTROLLER SENSITIVITY,CONTROLLER-EMPFINDLICHKEIT
+The sensitivity of the joystick used for moving the cursor when using a controller,"Die Empfindlichkeit des Joysticks, mit dem du bei Controller-Steuerung den Cursor bewegst"
+LANGUAGE,SPRACHE
+Select the display language for the game,Wähle die Anzeigesprache des Spiels
+English,Englisch
+None,Keine
+Some,Etwas
+Slow,Verlangsamen
+Very Slow,Sehr langsam
+Fast,Schnell
+Attribute Rerolls,Attribut-Neuwürfe
+Player Rerolls,Spieler-Neuwürfe
+P. Dmg. Rerolls,S. Schad.-Neuwürfe
+Enemy Rerolls,Gegner-Neuwürfe
+E. Dmg. Rerolls,G. Schad.-Neuwürfe
+Miss Smoothening,Fehlwurf-Ausgleich
+Combat Heal,Kampfheilung
+No Encumb,Keine Belastung
+Cannot Die,Unsterblich
+XP For KO Char,EP für K.o.-Figur
+Easy,Leicht
+Difficulty Settings,Schwierigkeitseinstellungen
+DIFFICULTY,SCHWIERIGKEIT
+The current difficulty of the game,Die aktuelle Schwierigkeit des Spiels
+Easy mode is a great way for players who are new to this style of roleplaying game to experience Skald,"Der leichte Modus ist ideal für alle, die neu in dieser Art von Rollenspiel sind und Skald erleben möchten"
+Combat is forgiving and there should be little need to optimize character builds,"Kämpfe sind nachsichtig, und es sollte kaum nötig sein, Charaktere zu optimieren"
+Dice rolls are weighted in the player’s favor,Würfelwürfe fallen zugunsten des Spielers aus
+Normal mode is the game’s intended difficulty setting,Der normale Modus ist der vorgesehene Schwierigkeitsgrad des Spiels
+There is only very limited artificial smoothing of certain dice rolls,Bestimmte Würfelwürfe werden nur in sehr geringem Mass künstlich geglättet
+Dice rolls are slightly weighted in the opponent's favor making them more deadly,"Würfelwürfe fallen leicht zugunsten der Gegner aus, was sie tödlicher macht"
+CUSTOM,BENUTZERDEFINIERT
+Custom difficulty,Benutzerdefinierte Schwierigkeit
+Narrative,Erzählung
+Narrative mode is the difficulty for players who would like to experience the game’s story and setting with a minimum of focus on combat and grinding,"Der Erzählmodus ist der Schwierigkeitsgrad für alle, die Geschichte und Welt des Spiels erleben möchten, ohne sich gross auf Kämpfe und Grinden zu konzentrieren"
+ATTRIBUTE REROLLS,ATTRIBUT-NEUWÜRFE
+"If this number is greater than zero, the system will reroll any of the player's Attribute Check (Skill Checks for instance) dice rolls that many times and pick the most favorable one to the player","Ist dieser Wert grösser als null, würfelt das System jede Attributprobe des Spielers (etwa Fertigkeitsproben) entsprechend oft neu und wählt das für den Spieler günstigste Ergebnis"
+PLAYER REROLLS,SPIELER-NEUWÜRFE
+"If this number is greater than zero, the system will reroll any of the player's Combat dice rolls (such as Attack Rolls or Defence Rolls) that many times and pick the most favorable one to the player","Ist dieser Wert grösser als null, würfelt das System jeden Kampfwurf des Spielers (etwa Angriffs- oder Verteidigungswürfe) entsprechend oft neu und wählt das für den Spieler günstigste Ergebnis"
+P. DMG. REROLLS,S. SCHAD.-NEUWÜRFE
+"If this number is greater than zero, the system will reroll any of the player's damage dice rolls that many times and pick the most favorable one to the player","Ist dieser Wert grösser als null, würfelt das System jeden Schadenswurf des Spielers entsprechend oft neu und wählt das für den Spieler günstigste Ergebnis"
+ENEMY REROLLS,GEGNER-NEUWÜRFE
+"If this number is greater than zero, the system will reroll any of the enemy's Combat dice rolls (such as Attack Rolls or Defence Rolls) that many times and pick the most favorable one to the enemy","Ist dieser Wert grösser als null, würfelt das System jeden Kampfwurf des Gegners (etwa Angriffs- oder Verteidigungswürfe) entsprechend oft neu und wählt das für den Gegner günstigste Ergebnis"
+E. DMG. REROLLS,G. SCHAD.-NEUWÜRFE
+"If this number is greater than zero, the system will reroll any of the enemy's damage dice rolls that many times and pick the most favorable one to the enemy","Ist dieser Wert grösser als null, würfelt das System jeden Schadenswurf des Gegners entsprechend oft neu und wählt das für den Gegner günstigste Ergebnis"
+MISS SMOOTHENING,FEHLWURF-AUSGLEICH
+The degree to which the engine compensates player miss streaks by increasing To-Hit chances,Wie stark das Spiel Fehlschlagserien des Spielers durch höhere Trefferchancen ausgleicht
+Ignore Food,Essen ignorieren
+COMBAT HEAL,KAMPFHEILUNG
+"If Enabled, the party will heal fully after each combat","Wenn aktiviert, wird die Gruppe nach jedem Kampf vollständig geheilt"
+No Trash Mobs,Keine Kleingegner
+NO ENCUMB,KEINE BELASTUNG
+"If Enabled, the party has no limit to carrying capacity","Wenn aktiviert, hat die Gruppe keine Begrenzung der Tragkraft"
+CANNOT DIE,UNSTERBLICH
+"If Enabled, the main PC can never die in combat","Wenn aktiviert, kann die Hauptfigur im Kampf niemals sterben"
+XP FOR KO CHAR,EP FÜR K.O.-FIGUR
+"If Enabled, XP will also be given to downed characters after combat","Wenn aktiviert, erhalten nach dem Kampf auch kampfunfähige Figuren EP"
+IGNORE FOOD,ESSEN IGNORIEREN
+"If Enabled, the party does not need to consume food","Wenn aktiviert, muss die Gruppe keine Nahrung zu sich nehmen"
+NO TRASH MOBS,KEINE KLEINGEGNER
+"If Enabled, the party will not encounter 'trash mob' encounters on the overland map","Wenn aktiviert, trifft die Gruppe auf der Überlandkarte nicht auf Begegnungen mit 'Kleingegnern'"
+TO-HIT ROLL,TREFFERWURF
+Concept,Konzept
+The To-Hit roll is made by comparing the Attacker's Attack Roll to the Defender's Defence Roll,Beim Trefferwurf wird der Angriffswurf des Angreifers mit dem Verteidigungswurf des Verteidigers verglichen
+If the Attacker rolls equal to or higher than the Defence Roll the attack is a hit,"Würfelt der Angreifer gleich hoch oder höher als der Verteidigungswurf, ist der Angriff ein Treffer"
+ATTACK ROLL,ANGRIFFSWURF
+The Attack Roll is calulated in the following way,Der Angriffswurf wird folgendermassen berechnet
+2d6 + Melee To Hit / Ranged To Hit + Misc,2W6 + Nahkampf-Treffer / Fernkampf-Treffer + sonstige
+Bonuses + Accuracy Bonuses,Boni + Präzisionsboni
+2D6,2W6
+Simulates rolling and adding up two six-sided dice,Simuliert das Werfen und Zusammenzählen zweier sechsseitiger Würfel
+In other words a 2d6 roll generates a number between 2 and,Mit anderen Worten: Ein 2W6-Wurf ergibt eine Zahl zwischen 2 und
+DEFENCE ROLL,VERTEIDIGUNGSWURF
+The Defence Roll is,Der Verteidigungswurf ist
+2d6 + Misc Bonuses + Dodge,2W6 + sonstige Boni + Ausweichen
+Attribute - Defence,Attribut - Verteidigung
+The ability to avoid incoming attacks and other reflex-based dangers,"Die Fähigkeit, eingehenden Angriffen und anderen reflexbasierten Gefahren zu entgehen"
+"In other words, this determines how hard a character is to hit","Mit anderen Worten: Dies bestimmt, wie schwer ein Charakter zu treffen ist"
+MELEE TO HIT,NAHKAMPF-TREFFER
+Attribute - Combat,Attribut - Kampf
+The character's skill at attacking with melee weapons,Das Geschick des Charakters im Angriff mit Nahkampfwaffen
+Determines hit chance,Bestimmt die Trefferchance
+RANGED TO HIT,FERNKAMPF-TREFFER
+The characters skill at attacking with ranged weapons,Das Geschick des Charakters im Angriff mit Fernkampfwaffen
+ACCURACY,PRÄZISION
+Accuracy is added to an attacker's Attack Roll when trying to hit an opponent,"Präzision wird zum Angriffswurf eines Angreifers addiert, wenn er versucht, einen Gegner zu treffen"
+Accuracy is typically derived from a weapon's quality,Präzision ergibt sich in der Regel aus der Qualität einer Waffe
+CRT Filter,CRT-Filter
+Screen Mode,Bildschirmmodus
+Windowed Mode Scale,Fenstergrösse
+VSync,VSync
+Classic Console,Klassische Konsole
+Fancy Lighting,Edle Beleuchtung
+Weather Effects,Wettereffekte
+Screen Shaking,Bildschirmwackeln
+Full,Vollbild
+Off,Aus
+Display Settings,Anzeigeeinstellungen
+CRT FILTER,CRT-FILTER
+Activating this filter gives the game a fuzzy retro look,Dieser Filter verleiht dem Spiel einen unscharfen Retro-Look
+Soft,Weich
+Classic,Klassisch
+High-End,High-End
+Arcade,Arcade
+Kitchen TV,Küchenfernseher
+Mini CRT,Mini-CRT
+Old TV,Alter Fernseher
+Broken B/W,Kaputt S/W
+SCREEN MODE,BILDSCHIRMMODUS
+Allows the game to be played in full screen or windowed mode,Ermöglicht das Spielen im Vollbild- oder Fenstermodus
+WINDOWED MODE SCALE,FENSTERGRÖSSE
+The scale of the window when run in Window mode,Die Skalierung des Fensters im Fenstermodus
+VSYNC,VSYNC
+VSync prevents artifacts such as screen tearing,VSync verhindert Bildfehler wie Tearing
+CLASSIC CONSOLE,KLASSISCHE KONSOLE
+The console uses the classic C64 color theme,Die Konsole verwendet das klassische C64-Farbschema
+FANCY LIGHTING,EDLE BELEUCHTUNG
+If enabled it will use the game�s blended lighting system,"Wenn aktiviert, verwendet das Spiel sein überblendetes Beleuchtungssystem"
+This is the intended experience,So ist das Spiel gedacht
+This feature should only be disabled if you experience performance issues,"Diese Funktion sollte nur deaktiviert werden, wenn du Leistungsprobleme hast"
+WEATHER EFFECTS,WETTEREFFEKTE
+If enabled the game will render weather effects like fog and rain,"Wenn aktiviert, stellt das Spiel Wettereffekte wie Nebel und Regen dar"
+Disabling this option may increase performance,Das Deaktivieren dieser Option kann die Leistung verbessern
+SCREEN SHAKING,BILDSCHIRMWACKELN
+Whether or not to allow the screen-shake visual effect,Ob der Bildschirmwackel-Effekt erlaubt ist
+Windowed,Fenster
+Music Volume,Musiklautstärke
+Sound FX Volume,Effektlautstärke
+Audio Settings,Audioeinstellungen
+MUSIC VOLUME,MUSIKLAUTSTÄRKE
+The volume of the soundtrack,Die Lautstärke des Soundtracks
+SOUND FX VOLUME,EFFEKTLAUTSTÄRKE
+The volume of the sound effects,Die Lautstärke der Soundeffekte
+Re-Assign,Neu belegen
+Key Bindings,Tastenbelegung
+Spellbook,Zauberbuch
+SPELLBOOK,ZAUBERBUCH
+G,G
+This binding can be changed,Diese Belegung kann geändert werden
+Character Sheet,Charakterbogen
+C,C
+Console,Konsole
+Tab,Tab
+Feats,Talente
+F,F
+Feedback,Feedback
+F2,F2
+Hide,Verstecken
+LeftCont,LeftCont
+Highlight,Hervorheben
+LeftShif,LeftShif
+Inventory,Inventar
+E,E
+Level Up,Stufenaufstieg
+L,L
+Light Torch,Fackel anzünden
+T,T
+Move E,Nach Osten
+D,D
+RightArr,RightArr
+Move N,Nach Norden
+W,W
+UpArrow,UpArrow
+Move S,Nach Süden
+S,S
+DownArro,DownArro
+Move W,Nach Westen
+A,A
+LeftArro,LeftArro
+Next Character,Nächster Charakter
+Q,Q
+Quests,Aufträge
+J,J
+Quick Load,Schnellladen
+F9,F9
+Quick Save,Schnellspeichern
+F5,F5
+QUICK SAVE,SCHNELLSPEICHERN
+QUICK LOAD,SCHNELLLADEN
+QUESTS,AUFTRÄGE
+MOVE W,NACH WESTEN
+LEFTARRO,LEFTARRO
+NEXT CHARACTER,NÄCHSTER CHARAKTER
+MOVE S,NACH SÜDEN
+DOWNARRO,DOWNARRO
+MOVE N,NACH NORDEN
+UPARROW,UPARROW
+MOVE E,NACH OSTEN
+RIGHTARR,RIGHTARR
+LIGHT TORCH,FACKEL ANZÜNDEN
+LEVEL UP,STUFENAUFSTIEG
+INVENTORY,INVENTAR
+HIGHLIGHT,HERVORHEBEN
+LEFTSHIF,LEFTSHIF
+HIDE,VERBERGEN
+LEFTCONT,LEFTCONT
+FEEDBACK,FEEDBACK
+FEATS,TALENTE
+CONSOLE,KONSOLE
+TAB,TAB
+CHARACTER SHEET,CHARAKTERBOGEN
+Assigning key,Taste wird zugewiesen
+"Press ENTER or ""Re-Assign"" when done!","Drücke ENTER oder ""Neu zuweisen"", wenn du fertig bist!"
+Enter new key,Neue Taste drücken
+Components,Komponenten
+Description Font,Beschreibungsschrift
+Description Color,Beschreibungsfarbe
+Quote Color,Zitatfarbe
+Description Shadow,Beschreibungsschatten
+Draw Outline,Umriss zeichnen
+Text Background Color,Texthintergrundfarbe
+Font,Schrift
+Color,Farbe
+Font Settings,Schrifteinstellungen
+DESCRIPTION FONT,BESCHREIBUNGSSCHRIFT
+The font used for most descriptions,Die Schrift für die meisten Beschreibungen
+�This is what a quote looks like.�,"""So sieht ein Zitat aus."""
+DESCRIPTION COLOR,BESCHREIBUNGSFARBE
+The color of the main descriptive text,Die Farbe des Haupt-Beschreibungstexts
+QUOTE COLOR,ZITATFARBE
+The color of the main descriptive text that is displayed in quotation marks,"Die Farbe des Haupt-Beschreibungstexts, der in Anführungszeichen steht"
+DESCRIPTION SHADOW,BESCHREIBUNGSSCHATTEN
+The color of the main descriptive text's drop-down shadow,Die Farbe des Schlagschattens unter dem Haupt-Beschreibungstext
+DRAW OUTLINE,UMRISS ZEICHNEN
+Draws an outline around the letters instead of a drop-down shadow,Zeichnet einen Umriss um die Buchstaben statt eines Schlagschattens
+TEXT BACKGROUND COLOR,TEXTHINTERGRUNDFARBE
+The color of certain UI-elements behind text,Die Farbe bestimmter UI-Elemente hinter Text
+Adjust this to increase the contrast between text and background,"Passe dies an, um den Kontrast zwischen Text und Hintergrund zu erhöhen"
+Dark,Dunkel
+Black,Schwarz
+Launch,Starten
+Get More Content,Weitere Inhalte
+Back,Zurück
+empty,leer
+Load Module,Modul laden
+LOAD,LADEN
+Copy,Kopieren
+Rename,Umbenennen
+Delete,Löschen
+Load Game,Spiel laden
+AUTO_SAVE,AUTO_SAVE
+Save Date,Speicherdatum
+Save Time,Speicherzeit
+Main Char,Hauptfigur
+Rigurt,Rigurt
+Level,Stufe
+Map,Karte
+Game Date,Spieldatum
+Day,Tag
+Version,Version
+Module,Modul
+Against the Black Priory,Against the Black Priory
+Do you really want to quit the game?,Willst du das Spiel wirklich beenden?
+Unsaved progress will be lost,Nicht gespeicherter Fortschritt geht verloren
+Choose a visual style,Wähle einen visuellen Stil
+DEFAULT is recommended,STANDARD wird empfohlen
+This can also be customized in the SETTINGS menu,Dies lässt sich auch im Menü EINSTELLUNGEN anpassen
+Default,Standard
+To-Hit,Trefferwert
+"Note that a turn does not progress until all the characters pop-up text is gone, so adjusting this number will also adjust how quickly combat turns pass","Beachte, dass eine Runde erst weitergeht, wenn alle Einblendtexte der Charaktere verschwunden sind. Diese Zahl bestimmt also auch, wie schnell Kampfrunden vergehen"
+"This feature should only be disabled if you experience performance issues. Editors note: As of patch 1.0.7, hovering over this option results in a temporary slow-down that may persist until you exist this options window. Try pressing the 1 or Esc key to quit quickly! ","Diese Funktion sollte nur deaktiviert werden, wenn es Leistungsprobleme gibt. Anmerkung des Herausgebers: Seit Patch 1.0.7 führt das Bewegen der Maus über diese Option zu einer vorübergehenden Verlangsamung, die anhalten kann, bis du dieses Optionsfenster verlässt. Drücke 1 oder Esc, um es schnell zu schliessen! "
+If enabled it will use the games blended lighting system,"Wenn aktiviert, wird das überblendete Beleuchtungssystem des Spiels verwendet"
+This is what a quote looks like.,So sieht ein Zitat aus.

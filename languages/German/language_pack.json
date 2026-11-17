@@ -1,0 +1,22 @@
+{
+  "languageCode": "de",
+  "name": "German",
+  "description": "Deutsches Sprachpaket (übersetzt aus dem englischen Original)",
+  "version": "1.0.5",
+  "fontFilesPath": "fonts",
+  "translationFilesPath": "translations",
+  "characterChart": {
+    "ä": 90,
+    "ö": 91,
+    "ü": 92,
+    "Ä": 93,
+    "Ö": 94,
+    "Ü": 95,
+    "-": 69,
+    "—": 69,
+    "[": 79,
+    "]": 80,
+    "(": 74,
+    ")": 75
+  }
+}

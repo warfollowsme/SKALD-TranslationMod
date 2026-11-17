@@ -1,0 +1,325 @@
+Original,Translation
+#Beds,#Beds
+Bed,Bett
+Bedroll,Schlafsack
+#Containers,#Containers
+Armor Stand,Rüstungsständer
+Armor Stands,Rüstungsständer
+Backpack,Rucksack
+Arrows,Pfeile
+A Barrel,Ein Fass
+"A barrel of standard Imperial measurements, used to carry cargo on Guild ships","Ein Fass nach kaiserlichem Standardmass, mit dem auf Gildenschiffen Fracht befördert wird"
+Barrels,Fässer
+Bookshelf,Bücherregal
+Box,Kiste
+A solid box,Eine solide Kiste
+Brandy Crates,Branntweinkisten
+Cabinet,Schrank
+A Chest,Eine Truhe
+A sturdy wooden chest,Eine stabile Holztruhe
+A shoddy wooden chest,Eine schäbige Holztruhe
+Cocoon,Kokon
+The Butcher,Der Schlächter
+Corpse,Leiche
+Sailor's Corpse,Leiche eines Seemanns
+Kala,Kala
+Oleg,Oleg
+Mauled Corpses,Zerfleischte Leichen
+A Crate,Eine Kiste
+A well made wooden crate that carries the brand of the Nautical Guild,Eine gut gefertigte Holzkiste mit dem Brandzeichen der Seefahrergilde
+Crates,Kisten
+Small wooden crates,Kleine Holzkisten
+Alcove,Nische
+Shelves,Regale
+Desk,Schreibtisch
+Apothecary's Desk,Schreibtisch des Apothekers
+Flower,Blume
+Secret Compartment,Geheimfach
+Your Luggage,Dein Gepäck
+A very sturdy wooden chest,Eine sehr stabile Holztruhe
+A sturdy chest,Eine stabile Truhe
+Table of Notes,Tisch mit Notizen
+Sacks,Säcke
+Sarcophagus,Sarkophag
+Reagent Shelf,Reagenzienregal
+Smuggler's Corpse,Leiche eines Schmugglers
+Table,Tisch
+Surgical Tools,Chirurgische Werkzeuge
+#Decoratives,#Decoratives
+Cave-In,Einsturz
+Aquarium,Aquarium
+Cauldron,Kessel
+An empty cauldron,Ein leerer Kessel
+Eyes,Augen
+Fountain,Brunnen
+Glowstaff,Leuchtstab
+Reefs,Riffe
+Empty Grave,Leeres Grab
+Pile of Straw,Strohhaufen
+Infestation,Befall
+Ancient Pottery,Uralte Töpferwaren
+"Ancient clay pottery covered in strange, ornate circular patterns","Uralte Tonwaren, bedeckt mit seltsamen, verschnörkelten Kreismustern"
+Hole,Loch
+Scarecrow,Vogelscheuche
+#Doors,#Doors
+Barred Gate,Vergittertes Tor
+Door,Tür
+Gate,Tor
+A Door,Eine Tür
+A double wooden door,Eine hölzerne Doppeltür
+A simple wooden door,Eine schlichte Holztür
+A flimsy wooden door,Eine morsche Holztür
+A Hidden Door,Eine verborgene Tür
+Stone Slab,Steinplatte
+"A massive, reinforced door","Eine massive, verstärkte Tür"
+This door appears to be barricaded from the other side,Diese Tür scheint von der anderen Seite verbarrikadiert zu sein
+It cannot be opened from this side,Von dieser Seite lässt sie sich nicht öffnen
+Barred Door,Verriegelte Tür
+Inn Door,Gasthaustür
+Portal,Portal
+Web,Netz
+The web of some giant arachnid,Das Netz eines riesigen Spinnentiers
+#Inspectables,#Inspectables
+The piece of paper seems to contain a work order,Das Blatt Papier scheint einen Arbeitsauftrag zu enthalten
+"and as can clearly be observed, the tunnel’s support pillar is close to giving in","und wie deutlich zu sehen ist, steht der Stützpfeiler des Tunnels kurz vor dem Nachgeben"
+"If this last piece of support was to be removed, it is highly likely that the tunnel would collapse completely","Würde diese letzte Stütze entfernt, würde der Tunnel höchstwahrscheinlich vollständig einstürzen"
+continue the previous day’s work of expanding the tunnel eastwards,setzt die Arbeit des Vortags fort und erweitert den Tunnel nach Osten
+I believe you should be very close to breaking through,"Ich glaube, ihr solltet kurz vor dem Durchbruch stehen"
+Doing so will allow us to create a short-cut to the mine’s entrance and I don’t need to tell you how much this would improve logistics,"Damit könnten wir eine Abkürzung zum Mineneingang schaffen, und ich muss euch wohl nicht sagen, wie sehr das die Logistik verbessern würde"
+Barricade,Barrikade
+A barricade constructed from debris blocks this path,Eine Barrikade aus Trümmern versperrt diesen Weg
+It is too large to dismantle before retaking the city and for now you must find some way around it,"Sie ist zu gross, um sie vor der Rückeroberung der Stadt abzubauen. Vorerst musst du einen Weg darum herum finden"
+Cave In,Einsturz
+A portion of the cave has collapsed behind you,Ein Teil der Höhle ist hinter dir eingestürzt
+There is no going back this way,Auf diesem Weg gibt es kein Zurück
+Spider Corpse,Spinnenkadaver
+The mauled corpse of a giant spider,Der zerfleischte Kadaver einer Riesenspinne
+Grave,Grab
+A fresh grave with a simple marker made of sticks,Ein frisches Grab mit einem schlichten Zeichen aus Stöcken
+No name can be found upon it,Kein Name ist darauf zu finden
+The corpse belongs to a graying old man,Die Leiche gehört einem ergrauten alten Mann
+His face is serene and there is nothing to indicate he did not die of natural causes,"Sein Gesicht ist friedlich, und nichts deutet darauf hin, dass er keines natürlichen Todes gestorben ist"
+"Leaning over the body however, you spot thin strands of some bizarre purplish fungal growth protruding from the man's mouth and nose","Als du dich jedoch über den Körper beugst, entdeckst du dünne Fäden eines bizarren, purpurnen Pilzgeflechts, die dem Mann aus Mund und Nase ragen"
+"Strange vines of some unknown, purplish growth bursts forth from the masonry","Seltsame Ranken eines unbekannten, purpurnen Gewächses brechen aus dem Mauerwerk hervor"
+"As you lean in, fine strands reach greedily towards you","Als du dich näher heranbeugst, greifen feine Fäden gierig nach dir"
+You recoil in disgust and decide it’s best to not touch the growths,"Angewidert weichst du zurück und beschliesst, die Gewächse lieber nicht zu berühren"
+Dead Body,Leichnam
+A body lies broken upon the ground,Ein zerschmetterter Körper liegt am Boden
+"Though it has been gnawed by hounds, it seems clear that this person fell or jumped from the cliffs above","Auch wenn Hunde daran genagt haben, ist klar, dass diese Person von den Klippen oben gestürzt oder gesprungen ist"
+Old Crates,Alte Kisten
+Old and ruined shipping crates litter this part of the cave,"Alte, verrottete Frachtkisten liegen in diesem Teil der Höhle verstreut"
+Only smugglers would use a place like this to store their goods,"Nur Schmuggler würden einen Ort wie diesen nutzen, um ihre Waren zu lagern"
+"Perhaps there are other, similar caches to be found on the Outer Isles?",Vielleicht gibt es auf den Äusseren Inseln noch weitere solcher Verstecke?
+A Note,Eine Notiz
+A note is scrawled in crude letters,Eine Notiz in krakeliger Schrift
+Kook!,Kohch!
+I cannot stand another meal of Salted Fish!,Ich halt keine einzije Mahlzeit Salzfisch mehr aus!
+"There is a limet to how long a man can live on salt, potatoes and perklin","Es gibt 'ne Grenze, wie lang ein Mann von Salz, Kartoffeln und Perklin lehben kann"
+"Take head, or git a dagger in the eye ye cheap basterd","Pass bloss auf, sonst krichst du 'nen Dolch ins Auge, du geiziger Bastart"
+Strange Jar,Seltsames Gefäss
+An oddly shaped container of some unknown design,Ein merkwürdig geformter Behälter von unbekannter Bauart
+"The surface is smooth and metallic, but not of a material you recognize","Die Oberfläche ist glatt und metallisch, doch aus keinem Material, das du kennst"
+"Though the artifact is without a scratch, it still somehow conveys impossible age","Obwohl das Artefakt keinen einzigen Kratzer aufweist, strahlt es irgendwie ein unmögliches Alter aus"
+Librarian’s Journal,Tagebuch des Bibliothekars
+A book lies open on the librarian’s desk,Auf dem Schreibtisch des Bibliothekars liegt ein aufgeschlagenes Buch
+"Brother Auran has once again made off with the key to the forbidden section, claiming it is ‘much more convenient for both me and him’ that he keeps it for the duration of his studies","Bruder Auran hat sich wieder einmal mit dem Schlüssel zur verbotenen Abteilung davongemacht und behauptet, es sei 'für uns beide viel bequemer', wenn er ihn für die Dauer seiner Studien behält"
+He’s assured me it’s well hidden in his study in the eastern tower whilst not in use,"Er hat mir versichert, dass er gut versteckt in seiner Studierstube im Ostturm liegt, wenn er ihn nicht benutzt"
+Bloody fool,Verdammter Narr
+I’ll need to send lay-brother Theo to recover it next time Auran is sleeping,"Ich muss Laienbruder Theo schicken, um ihn zurückzuholen, wenn Auran das nächste Mal schläft"
+Sea-Caves,Meereshöhlen
+The sea-caves lie abandoned and closed off,Die Meereshöhlen liegen verlassen und abgesperrt da
+Scribbled in a shaky hand on ancient parchment is the following verse,Mit zittriger Hand ist folgender Vers auf uraltes Pergament gekritzelt
+Walk the path in humble fate Contemplate the hidden gate,Wandle den Pfad in Demut hin Bedenke das verborgne Tor darin
+Let the watchers show the way Like time flows ‘round the wheel of day,Die Wächter weisen dir den Pfad Wie Zeit umläuft des Tages Rad
+To heed the silent sleepers call And enter into the Dreaming Hall,"Folg der stillen Schläfer Ruf Zur Träumenden Halle, die man einst schuf"
+Ink and Paper,Tinte und Papier
+Ink and paper that appears to have been abandoned mid-use,"Tinte und Papier, die offenbar mitten in der Benutzung liegen gelassen wurden"
+It seems someone was copying the mosaic on the floor,Anscheinend hat jemand das Mosaik auf dem Boden abgezeichnet
+Grotesque Relief,Groteskes Relief
+The sarcophagus has the following description,Der Sarkophag trägt folgende Inschrift
+Carroleth the Manyfaced - First Grandmaster of the Order of the Crystal Eye,Carroleth der Vielgesichtige - Erster Grossmeister des Ordens des Kristallauges
+Rothrax the Gray - Second Grandmaster of the Order of the Crystal Eye,Rothrax der Graue - Zweiter Grossmeister des Ordens des Kristallauges
+Kalamar the Wise - Third Grandmaster of the Order of the Crystal Eye,Kalamar der Weise - Dritter Grossmeister des Ordens des Kristallauges
+Secret Passage,Geheimgang
+The relief of this altarpiece seems to shift and squirm in the dancing light,Das Relief dieses Altarbilds scheint sich im tanzenden Licht zu verschieben und zu winden
+"What’s more, there appears to be a hidden passage behind it","Mehr noch, dahinter scheint ein verborgener Gang zu liegen"
+No way of opening it can be seen nearby,"In der Nähe ist keine Möglichkeit zu erkennen, ihn zu öffnen"
+Pile of Ash,Aschehaufen
+This cave opens up into the sheer cliff wall beneath the tower,Diese Höhle öffnet sich zur steilen Klippenwand unterhalb des Turms
+Piled on the ledge is a great heap of ash that the wind occasionally carries away in great wisps,"Auf dem Felsvorsprung türmt sich ein grosser Haufen Asche, den der Wind gelegentlich in langen Schwaden davonträgt"
+Carefully you prod the pile only to find a small handful of scorched human bones and teeth,Vorsichtig stocherst du in dem Haufen und findest nur eine kleine Handvoll verkohlter menschlicher Knochen und Zähne
+"Looking around, you see a great in the ceiling above from which the ash appears to have been dumped","Als du dich umsiehst, entdeckst du über dir eine grosse Öffnung in der Decke, aus der die Asche offenbar herabgekippt wurde"
+"A large square slab with small holes carved in it appears to be placed over some sort of shaft, sealing it shut",Eine grosse quadratische Steinplatte mit kleinen eingemeisselten Löchern scheint über einer Art Schacht zu liegen und ihn zu versiegeln
+You attempt to look through one of the holes but are knocked back by an unbearable stench emitting from below,"Du versuchst, durch eines der Löcher zu spähen, doch ein unerträglicher Gestank von unten lässt dich zurücktaumeln"
+But wait?,Aber halt?
+Was there something else?,War da noch etwas?
+Movement?,Eine Bewegung?
+The slab seems too heavy to lift and just as well,"Die Platte scheint zu schwer zum Anheben, und das ist auch gut so"
+You have an overwhelming feeling that what is trapped in the shaft below was not meant for mortal eyes to see and is best left in the dark,"Dich überkommt das überwältigende Gefühl, dass das, was dort unten im Schacht gefangen ist, nicht für sterbliche Augen bestimmt ist und besser im Dunkeln bleibt"
+A Desk,Ein Schreibtisch
+A desk with a maritime navigation map,Ein Schreibtisch mit einer Seekarte
+The map is labled 'The Outer Isles' and a course is drawn towards an island named 'Idra',"Die Karte trägt die Aufschrift 'Die Äusseren Inseln', und ein Kurs ist zu einer Insel namens 'Idra' eingezeichnet"
+A Grisly Scene,Ein grausiger Anblick
+You recognize the corpse of one of the crew-mates,Du erkennst die Leiche eines der Besatzungsmitglieder
+A young man of barely 16 years called Sullum,Ein junger Mann von kaum 16 Jahren namens Sullum
+The youth has been mauled to death by what you assume are the grotesquely altered rats you encounterd just minutes ago,"Der Junge wurde zu Tode zerfleischt, vermutlich von den grotesk veränderten Ratten, denen du vor wenigen Minuten begegnet bist"
+The corpse is still warm,Die Leiche ist noch warm
+#Interactables,#Interactables
+A Cat,Eine Katze
+A cat watches you intently,Eine Katze beobachtet dich aufmerksam
+Chain,Kette
+Beehive,Bienenstock
+Benches,Bänke
+Drinks,Getränke
+Food,Nahrung
+A King in Yellow,Ein König in Gelb
+Stage,Bühne
+Stairways,Treppen
+Mine Entrance,Mineneingang
+Grindstone,Schleifstein
+A grindstone used for sharpening weapons,Ein Schleifstein zum Schärfen von Waffen
+Entrance to Tunnels,Eingang zu den Tunneln
+The Fishermen's Gate,Das Fischertor
+A Prisoner,Ein Gefangener
+Dead Horse,Totes Pferd
+Scraps of Meat,Fleischreste
+Jakub and Ella,Jakub und Ella
+The Ganglion,Das Ganglion
+A Well,Ein Brunnen
+Dessicated Corpse,Vertrocknete Leiche
+Ladder,Leiter
+Telescope,Fernrohr
+Cato's Study,Catos Arbeitszimmer
+Prisoner,Gefangener
+A Map,Eine Karte
+Faulty Support,Morsche Stütze
+Weakened Wall,Brüchige Wand
+Mole Burrow,Maulwurfsbau
+A Monolith,Ein Monolith
+Portcullis,Fallgitter
+Ancient Monolith,Uralter Monolith
+Golden Tomb,Goldene Gruft
+Gong,Gong
+A Statue,Eine Statue
+Rope,Seil
+A Painting,Ein Gemälde
+Helm,Steuerrad
+Shrine of Agility,Schrein des Geschicks
+Shrine of Fortitude,Schrein der Konstitution
+Shrine of Intellect,Schrein des Intellekts
+Shrine of Presence,Schrein der Ausstrahlung
+Shrine of Strength,Schrein der Stärke
+Driina,Driina
+Pool,Becken
+A Stange Statue,Eine seltsame Statue
+Console,Konsole
+Strange Basins,Seltsame Becken
+Vomit Cap cluster,Brechkappen-Büschel
+Waterfall,Wasserfall
+Winch,Winde
+Drainage,Abfluss
+Elevator,Aufzug
+A Strange Machine,Eine seltsame Maschine
+Protoplasmic Catalyzer,Protoplasmischer Katalysator
+Book,Buch
+Reflecting Pool,Spiegelbecken
+#LightSources,#LightSources
+Bees,Bienen
+Brazier,Kohlenbecken
+Camp Fire,Lagerfeuer
+Candles,Kerzen
+Candle,Kerze
+Flies,Fliegen
+Fire,Feuer
+Fireflies,Glühwürmchen
+Glow Globe,Leuchtkugel
+Model,Modell
+Lightcaster,Lichtwerfer
+Stake,Pfahl
+Torch,Fackel
+A torch hangs on the wall,An der Wand hängt eine Fackel
+Light,Licht
+#Pickups,#Pickups
+Carrots,Karotten
+Cheese Wheel,Käselaib
+Fish,Fisch
+Gullyfern,Schluchtfarn
+Legionnaire’s Rest,Legionärsruh
+Sorrow-Eater,Kummerfresser
+Starspawn,Sternenbrut
+Sunmouth,Sonnenmaul
+Apples,Äpfel
+Pears,Birnen
+Eggs,Eier
+Cured Hams,Gepökelte Schinken
+Lantern,Laterne
+Leeks,Lauch
+Patch of Cavechild,Höhlenkind-Flecken
+Patch of Glowmen,Glühmännchen-Flecken
+Fellbell,Unheilsglocke
+Laughtercap,Lachkappe
+Morel,Morchel
+Punny Bun,Witzbrötchen
+Wyrdloaf,Wyrdlaib
+Bird's Nest,Vogelnest
+Onions,Zwiebeln
+Pick-Axe,Spitzhacke
+Potatos,Kartoffeln
+Ripe Pumpkin,Reifer Kürbis
+Recipe,Rezept
+Rotten Log,Morscher Baumstamm
+A Badge,Ein Abzeichen
+Shovel,Schaufel
+Vessels,Gefässe
+Lotus Pool,Lotusteich
+#TestProps,#TestProps
+Broken Bridge,Eingestürzte Brücke
+The bridge ahead is broken,Die Brücke vor dir ist eingestürzt
+Perhaps you can jump the gap?,Vielleicht kannst du über die Lücke springen?
+Climbing Holds,Kletterhalt
+You can climb down this wall,Du kannst an dieser Wand hinunterklettern
+You can climb the wall ahead,Du kannst die Wand vor dir hinaufklettern
+"Using the rope, you can descend the wall",Mit dem Seil kannst du die Wand hinabsteigen
+Stack of Boxes,Kistenstapel
+Using the stack of boxes you can reach the rope and try to climb the wall,"Über den Kistenstapel erreichst du das Seil und kannst versuchen, die Wand hinaufzuklettern"
+#Triggers,#Triggers
+{notHasJournalEntry|JOU_CrabCaveEntrance},{notHasJournalEntry|JOU_CrabCaveEntrance}
+A Survivor,Ein Überlebender
+#Warps,#Warps
+Entrance,Eingang
+Stairs,Treppe
+A set of stairs leading to the deck above,"Eine Treppe, die zum oberen Deck führt"
+Stairs Up,Treppe hinauf
+Cave Entrance,Höhleneingang
+Exit,Verlassen
+A set of stairs leading to the deck below,"Eine Treppe, die zum unteren Deck führt"
+Stairs Down,Treppe hinab
+Trapdoor,Falltür
+Castle Entrance,Burgeingang
+Castle Exit,Burgausgang
+Catacomb Entrance,Eingang zu den Katakomben
+Exit to Temple,Ausgang zum Tempel
+Grate,Gitter
+Secret Door,Geheimtür
+Firgol,Firgol
+Adler's Helm,Adlers Helm
+Horryn,Horryn
+A Hidden Glen,Ein verborgenes Tal
+Abandoned Farm,Verlassener Hof
+A Refugee Camp,Ein Flüchtlingslager
+A Forest Glade,Eine Waldlichtung
+The Wreck of the Zephyr,Das Wrack der Zephyr
+A Lighthouse,Ein Leuchtturm
+The Black Priory,Das Schwarze Priorat
+Sea Caves,Meereshöhlen
+A Tower,Ein Turm
+Rope and Bucket,Seil und Eimer
+Ladders,Leitern
+#WorkBenches,#WorkBenches
+Alchemist's Tools,Alchemistenwerkzeug
+A cauldron for cooking,Ein Kessel zum Kochen
+Pot,Topf
+An pot that can be used for cooking,"Ein Topf, in dem man kochen kann"
+Oven,Ofen
+An oven that can be used for cooking,"Ein Ofen, in dem man kochen kann"
+Armour stands,Rüstungsständer
