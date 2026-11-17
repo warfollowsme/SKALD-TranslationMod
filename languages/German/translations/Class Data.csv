@@ -1,0 +1,61 @@
+Original,Translation
+#Archetype Classes,#Archetype Classes
+Cleric,Kleriker
+The Cleric offers close-range support to their party through close ranged buffs and restorative spells,Der Kleriker unterstützt seine Gruppe aus nächster Nähe mit Stärkungs- und Heilzaubern
+Magos,Magos
+"The Magos is a ranged strikers that can cast powerful, and often destructive, spells","Der Magos greift aus der Ferne an und kann mächtige, oft zerstörerische Zauber wirken"
+Rogue,Schurke
+The Rogue combines important non-combat skills with a large damage output against single targets,Der Schurke verbindet wichtige Fertigkeiten ausserhalb des Kampfes mit hohem Schaden gegen einzelne Ziele
+Wanderer,Wanderer
+Warrior,Krieger
+A Warrior is a front-line fighter who can take and deal large amounts of damage,Ein Krieger kämpft an vorderster Front und kann viel Schaden austeilen und einstecken
+#Classes,#Classes
+Armsmaster,Waffenmeister
+The Armsmaster is a Warrior that does not have a specialized Feat Tree,Der Waffenmeister ist ein Krieger ohne spezialisierten Talentbaum
+Instead the Armsmaster has access to all the combat-centered Feat Trees and they start with extra Development Points to represent their martial expertise,"Stattdessen hat der Waffenmeister Zugriff auf alle kampfbezogenen Talentbäume und beginnt mit zusätzlichen Entwicklungspunkten, die seine Kampferfahrung widerspiegeln"
+Bard,Barde
+The Bard mixes the Rogue’s decent combat skills and high maneuverability with the use of arcane magic,Der Barde verbindet die soliden Kampffertigkeiten und hohe Beweglichkeit des Schurken mit arkaner Magie
+Battlemagos,Kampfmagos
+The Battlemagos is a Magos specializing in the destructive spells of the Fire Magic School,"Der Kampfmagos ist ein Magos, der sich auf die zerstörerischen Zauber der Feuermagieschule spezialisiert hat"
+"Unlike other Magi, they also get access to a few basic combat-related Feats and may wear light armor",Anders als andere Magi erhält er auch Zugang zu einigen grundlegenden Kampftalenten und darf leichte Rüstung tragen
+Berserker,Berserker
+Champion,Champion
+The Champion is a Cleric who excels in the use of blades and armor whilst still having limited divine spell-casting abilities,"Der Champion ist ein Kleriker, der sich im Umgang mit Klingen und Rüstungen auszeichnet und dennoch über begrenzte göttliche Zauberkräfte verfügt"
+Duelist,Duellant
+Guild-Magos,Gildenmagos
+A Guild-Magos is a spellcaster who can develop all the different Arcane Spell Schools fully,"Ein Gildenmagos ist ein Zauberwirker, der alle arkanen Zauberschulen vollständig entwickeln kann"
+This comes at the cost of having absolutely no combat related Feats,Dafür verzichtet er vollständig auf kampfbezogene Talente
+Hierophant,Hierophant
+A Hierophant is a Cleric who can develop all the different Divine Spell Schools fully,"Ein Hierophant ist ein Kleriker, der alle göttlichen Zauberschulen vollständig entwickeln kann"
+Hospitaller,Hospitaliter
+The Hospitaller is a Cleric who serves as a front line healer,"Der Hospitaliter ist ein Kleriker, der als Heiler an vorderster Front dient"
+"Well armed and armored, they can stand their ground against overwhelming foes whilst also getting access to the highest tiers of the Body Magic School",Gut bewaffnet und gerüstet kann er sich gegen übermächtige Feinde behaupten und erhält zudem Zugang zu den höchsten Rängen der Körpermagieschule
+Inquisitor,Inquisitor
+Officer,Offizier
+The Officer is a skilled warrior who serves as a force multiplier through their tactical skills,"Der Offizier ist ein fähiger Krieger, der durch sein taktisches Geschick die Schlagkraft der Gruppe vervielfacht"
+"Issuing orders across the battlefield, they vastly improve the performance of their fellow party-members",Mit Befehlen quer über das Schlachtfeld verbessert er die Leistung seiner Gefährten erheblich
+Ranger,Waldläufer
+The Ranger is a Warrior specializing in ranged combat and with access to limited nature magic,"Der Waldläufer ist ein Krieger, der auf den Fernkampf spezialisiert ist und begrenzten Zugang zur Naturmagie hat"
+Skald,Skalde
+Sorcerer,Hexer
+Thief,Dieb
+The Thief is a Rogue who uses Stealth to set up devestating Backstab attacks,"Der Dieb ist ein Schurke, der Heimlichkeit nutzt, um verheerende Meuchelangriffe vorzubereiten"
+#NPC Classes,#NPC Classes
+Archer,Bogenschütze
+Beast,Bestie
+Agile Beast,Flinke Bestie
+Savage Beast,Wilde Bestie
+Common Beast,Gewöhnliche Bestie
+Lesser Vermin,Geringes Ungeziefer
+Tough Beast,Zähe Bestie
+Vermin,Ungeziefer
+Resolute Beast,Standhafte Bestie
+Bravo,Raufbold
+Brute,Rohling
+"Magi are ranged strikers that can cast powerful, destructive ranged spells","Magi greifen aus der Ferne an und können mächtige, zerstörerische Fernzauber wirken"
+Commoner,Bürgerlicher
+Laborer,Tagelöhner
+Noble,Adliger
+Tough Warrior,Zäher Krieger
+Fighter,Kämpfer
+Wretch,Elender

@@ -1,0 +1,97 @@
+Original,Translation
+#Blessing Effects,#Blessing Effects
+Greater Restore Attunement,Starke Einstimmung wiederherstellen
+Minor Restore Attunement,Geringe Einstimmung wiederherstellen
+Moderate Restore Attunement,Mittlere Einstimmung wiederherstellen
+Sublime Restore Attunement,Erhabene Einstimmung wiederherstellen
+Barkskin,Borkenhaut
+Bear's Strength,Bärenstärke
+Bless,Segnen
+Blur,Verschwimmen
+Clarity of Mind,Geistesklarheit
+Cure Blindness,Blindheit heilen
+Cure Charm,Bezauberung heilen
+Cure Deafness,Taubheit heilen
+Cure Moderate Disease,Mittlere Krankheit heilen
+Cure Severe Disease,Schwere Krankheit heilen
+Cure Weak Disease,Leichte Krankheit heilen
+Removes the Diseased Condition from the target,Entfernt den Zustand Erkrankt vom Ziel
+Cure Insanity,Wahnsinn heilen
+Cure Paralysis,Lähmung heilen
+Cure Moderate Poison,Mittlere Vergiftung heilen
+Cure Strong Poison,Starkes Gift heilen
+Cure Weak Poison,Schwaches Gift heilen
+Cure Silenced,Stille heilen
+Defend,Verteidigen
+Diamond Form,Diamantgestalt
+Fortify Awareness,Wahrnehmung stärken
+Fortify Initiative,Initiative stärken
+Fortify Will,Willen stärken
+Frenzy,Raserei
+Greater Haste,Starke Eile
+Lesser Haste,Leichte Eile
+Greater Healing,Starke Heilung
+Minor Healing,Geringe Heilung
+Minute Healing,Winzige Heilung
+Moderate Healing,Mittlere Heilung
+Sublime Healing,Erhabene Heilung
+Heroism,Heldenmut
+Hide,Verstecken
+Illuminate,Erleuchten
+Acid Immunity,Säureimmunität
+Electric Immunity,Elektrizitätsimmunität
+Fire Immunity,Feuerimmunität
+Panic Immunity,Panikimmunität
+Inspire,Inspirieren
+Invisibility Lesser,"Unsichtbarkeit, gering"
+Recover,Erholen
+Greater Regeneration,Grosse Regeneration
+Lesser Regeneration,Geringe Regeneration
+Remove Fear,Furcht entfernen
+Acid Resistance,Säureresistenz
+Electric Resistance,Elektrizitätsresistenz
+Fire Resistance,Feuerresistenz
+Serpent's Grace,Anmut der Schlange
+Stoneskin,Steinhaut
+Thornclad,Dornenkleid
+#Curse Effects,#Curse Effects
+Cause Confusion,Verwirrung verursachen
+Deafness,Taubheit
+Cause Fear,Furcht verursachen
+Condemn,Verdammen
+Disrupt,Stören
+Immobilize,Festsetzen
+Infect,Infizieren
+Greater Infect,Starke Infektion
+Lesser Infect,Leichte Infektion
+Infects the target with a disease,Infiziert das Ziel mit einer Krankheit
+Mark Target,Ziel markieren
+Paralyze,Lähmen
+Moderate Poisoning,Mittlere Vergiftung
+Strong Poisoning,Starke Vergiftung
+Weak Poisoning,Schwache Vergiftung
+Purge Invisibility,Unsichtbarkeit tilgen
+Silence,Stille
+Slow,Verlangsamen
+Stun,Betäuben
+Weaken,Schwächen
+#Damage Effects,#Damage Effects
+Cause Bleeding,Blutung verursachen
+Cause Injury,Verletzung verursachen
+Kneecap,Kniescheibe
+Minor Acid Splash,Leichter Säurespritzer
+Massive Kinetic Damage,Massiver kinetischer Schaden
+Medium Kinetic Damage,Mittlerer kinetischer Schaden
+Minor Magical Damage,Leichter magischer Schaden
+Minor Sublime Damage,Leichter erhabener Schaden
+Fire Flash,Feuerblitz
+Hamstring,Sehnenschnitt
+Minor Psychic Blast,Leichter Psychostoss
+Minor Slam,Leichter Hieb
+Medium Slash,Mittlerer Schnitt
+Minor Slash,Leichter Schnitt
+#General Effects,#General Effects
+Clear Magical Conditions,Magische Zustände aufheben
+Dispel Magic,Magie bannen
+Get Drunk,Betrinken
+Push Target,Ziel stossen

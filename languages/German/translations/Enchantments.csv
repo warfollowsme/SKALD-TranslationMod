@@ -1,0 +1,66 @@
+Original,Translation
+#General Enchantments,#General Enchantments
+Agility,Geschick
+Adds +1 to Agility,Gibt +1 auf Geschick
+Fortitude,Konstitution
+Adds +1 to Fortitude,Gibt +1 auf Konstitution
+Intellect,Intellekt
+Adds +1 to Intellect,Gibt +1 auf Intellekt
+Presence,Ausstrahlung
+Adds +1 to Presence,Gibt +1 auf Ausstrahlung
+Strength,Stärke
+Adds +1 to Strength,Gibt +1 auf Stärke
+Initiative,Initiative
+Adds +2 to Initiative,Gibt +2 auf Initiative
+Speed,Tempo
+Adds +1 to Movement Speed,Gibt +1 auf Bewegungstempo
+Heroic,Heldenhaft
+Adds +1 to all five Primary Attributes,Gibt +1 auf alle fünf Primärattribute
+Protection,Schutz
+"adds +1 to Will, Toughness and Dodge","gibt +1 auf Willenskraft, Zähigkeit und Ausweichen"
+Defence,Abwehr
+Adds +1 to Dodge,Gibt +1 auf Ausweichen
+Toughness,Zähigkeit
+Adds +1 to Toughness,Gibt +1 auf Zähigkeit
+Willpower,Willenskraft
+Adds +1 to Willpower,Gibt +1 auf Willenskraft
+Athletics,Athletik
+Adds +1 to Athletics,Gibt +1 auf Athletik
+Awareness,Wahrnehmung
+Adds +1 to Awareness,Gibt +1 auf Wahrnehmung
+Crafting,Handwerk
+Adds +1 to Crafting,Gibt +1 auf Handwerk
+Diplomacy,Diplomatie
+Adds +1 to Diplomacy,Gibt +1 auf Diplomatie
+Healing,Heilkunde
+Adds +1 to Healing,Gibt +1 auf Heilkunde
+Lore,Wissen
+Adds +1 to Lore,Gibt +1 auf Wissen
+Stealth,Heimlichkeit
+Adds +1 to Stealth,Gibt +1 auf Heimlichkeit
+Survival,Überleben
+Adds +1 to Survival,Gibt +1 auf Überleben
+Thievery,Diebeskunst
+Adds +1 to Thievery,Gibt +1 auf Diebeskunst
+#Weapon Enchantments,#Weapon Enchantments
+Accuracy,Präzision
+This Weapon has +2 To Hit,Diese Waffe hat +2 Trefferwert
+Accuracy and Damage,Präzision und Schaden
+This Weapon does +1 base damage and has +2 To Hit,Diese Waffe verursacht +1 Grundschaden und hat +2 Trefferwert
+Greater Accuracy and Damage,Starke Präzision und Schaden
+This Weapon does +3 base damage and has +3 To Hit,Diese Waffe verursacht +3 Grundschaden und hat +3 Trefferwert
+Accuracy - Greater,Präzision - Stark
+This Weapon has +3 To Hit,Diese Waffe hat +3 Trefferwert
+Acid Attack,Säureangriff
+A small amount of extra acid-damage is caused on a hit,Ein Treffer verursacht etwas zusätzlichen Säureschaden
+Frost Attack,Frostangriff
+A small amount of extra cold-damage is caused on a hit,Ein Treffer verursacht etwas zusätzlichen Kälteschaden
+Keen,Scharf
+This Weapon does +1 base damage,Diese Waffe verursacht +1 Grundschaden
+Keen - Greater,Scharf - Stark
+This Weapon does +3 base damage,Diese Waffe verursacht +3 Grundschaden
+Lightning Attack,Blitzangriff
+A small amount of extra lightning-damage is caused on a hit,Ein Treffer verursacht etwas zusätzlichen Blitzschaden
+Fire Attack,Feuerangriff
+A small amount of extra fire-damage is caused on a hit,Ein Treffer verursacht etwas zusätzlichen Feuerschaden
+Increases the Dodge of the wielder by +1,Erhöht das Ausweichen des Trägers um +1

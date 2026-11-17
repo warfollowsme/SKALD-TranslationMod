@@ -1,0 +1,77 @@
+Original,Translation
+#Magical Conditions,#Magical Conditions
+Barkskinned,Borkenhaut
+Fortified Strength,Gestärkte Stärke
+Blessed,Gesegnet
+Blurred,Verschwommen
+Clarity of Mind,Geistesklarheit
+Condemned,Verdammt
+Diamondskinned,Diamanthaut
+Fell Light,Unheilvolles Licht
+The target emits a sinister glow,Das Ziel strahlt ein finsteres Leuchten aus
+Fortified Awareness,Gestärkte Wahrnehmung
+Fortify Initiative,Initiative stärken
+Fortified Will,Gestärkter Wille
+Heroic Inspiration,Heldenhafte Inspiration
+Illuminated,Erleuchtet
+"The target glows softly, emitting lighting",Das Ziel leuchtet sanft und spendet Licht
+Immunity,Immunität
+Acid,Säure
+Electricity,Elektrizität
+Fire,Feuer
+Panic,Panik
+Lesser Invisibility,Geringe Unsichtbarkeit
+Invisible,Unsichtbar
+Regeneration - Greater,Regeneration - Stark
+Regeneration - Lesser,Regeneration - Schwach
+Acid Resistance,Säureresistenz
+Electric Resistance,Elektrizitätsresistenz
+Fire Resistance,Feuerresistenz
+Fortified Agility,Gestärktes Geschick
+Slowed,Verlangsamt
+Stoneskinned,Steinhaut
+Thornclad,Dornenkleid
+Weakened,Geschwächt
+#Natural Conditions,#Natural Conditions
+Negative Condition,Negativer Zustand
+The conditions that currently affects this character,"Die Zustände, die diesen Charakter derzeit betreffen"
+Fearful,Verängstigt
+Sleeping,Schlafend
+Bleeding,Blutend
+Bleeding causes the character to lose 10% of their max Vitality at the start of each turn,Blutungen lassen den Charakter zu Beginn jeder Runde 10% seiner max. Vitalität verlieren
+Lesser Blindness,Leichte Blindheit
+Enthralled,Gebannt
+Confused,Verwirrt
+Deafened,Taub
+Moderately Diseased,Mässig erkrankt
+Severly Diseased,Schwer erkrankt
+Weakly Diseased,Leicht erkrankt
+Disrupted,Gestört
+Exhausted,Erschöpft
+Immobilized,Bewegungsunfähig
+Injured Arm,Verletzter Arm
+Injured Head,Verletzter Kopf
+Injured Leg,Verletztes Bein
+Injured Torso,Verletzter Rumpf
+Insane,Wahnsinnig
+Intoxicated,Berauscht
+Nauseous,Übel
+Panicked,In Panik
+Paralyzed,Gelähmt
+Moderate Poison,Mittleres Gift
+Strong Poison,Starkes Gift
+Poison causes the character to lose 10% of their max Vitality at the start of each turn,Gift lässt den Charakter zu Beginn jeder Runde 10% seiner max. Vitalität verlieren
+Weak Poison,Schwaches Gift
+Mute,Stumm
+Stunned,Betäubt
+#Tactical Conditions,#Tactical Conditions
+Defending,Verteidigt
+Greater Frenzy,Starke Raserei
+Lesser Frenzy,Leichte Raserei
+Hamstrung,Gelähmte Sehnen
+Greater Haste,Starke Eile
+Lesser Haste,Leichte Eile
+Inspired,Inspiriert
+Marked,Markiert
+Motivated,Motiviert
+Removes Conditions with Tag,Entfernt Zustände mit Tag
